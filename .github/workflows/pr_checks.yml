@@ -1,6 +1,6 @@
 name: Check PR
 
-on: [push, pull_request]
+on: [pull_request]
 
 jobs:
     build:
@@ -18,5 +18,8 @@ jobs:
                 if [ $count_opening -ne $count_closing ]; then
                     echo "Braces are not balanced"
                     exit 1
+                else 
+                    echo "Braces are balanced"
+                    exit 0
                 fi
             done
