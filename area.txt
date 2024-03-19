@@ -57,7 +57,7 @@ western_indian_ocean_area = {
 south_indian_ocean_area = { 
 	1417 1418 1419 1632 1631 1633 1634 1636 1637 1638
 	1639 1640 1643 1645 1646 1647 
-
+}
 great_australian_bight_area = { 
 	1413 1415 1414 1416 1422 1635 
 }
