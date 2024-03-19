@@ -1,0 +1,22 @@
+name: Check PR
+
+on: [push, pull_request]
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+        - uses: actions/checkout@v2
+
+        - name: Check file braces
+          run: |
+            shopt -s globstar
+            for file in **/*.txt; do
+                count_opening=$(grep -o '{' "$file" | wc -l)
+                count_closing=$(grep -o '}' "$file" | wc -l)
+
+                if [ $count_opening -ne $count_closing ]; then
+                    echo "Braces are not balanced"
+                    exit 1
+                fi
+            done
