@@ -16,7 +16,7 @@ jobs:
                 count_closing=$(grep -o '}' "$file" | wc -l)
 
                 if [ $count_opening -ne $count_closing ]; then
-                    echo "Braces are not balanced"
+                    echo "Braces are not balanced in file $file"
                     exit 1
                 else 
                     echo "Braces are balanced"
