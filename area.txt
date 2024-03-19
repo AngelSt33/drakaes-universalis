@@ -3359,7 +3359,8 @@ nibury_area = {
 frozen_shores = { 
 	61 63 55 62 60 
 }
-bj�rgsvin_area = { 
+
+bjřrgsvin_area = { 
 	71 67 73 78 79 
 }
 valspent_area = { 
