@@ -8,6 +8,12 @@ jobs:
         steps:
         - uses: actions/checkout@v2
 
+        - name: Install dependencies
+          run: |
+            wget https://github.com/Clever/csvlint/releases/download/v0.3.0/csvlint-v0.3.0-linux-amd64.tar.gz
+            tar -xvf csvlint-v0.3.0-linux-amd64.tar.gz
+            sudo mv csvlint-v0.3.0-linux-amd64/csvlint /usr/local/bin
+
         - name: Check file braces
           run: |
             shopt -s globstar
@@ -22,4 +28,10 @@ jobs:
                     echo "Braces are balanced"
                     exit 0
                 fi
+            done
+        - name: Check CSV files
+          run: |
+            shopt -s globstar
+            for file in **/*.csv; do
+                csvlint "$file"
             done
