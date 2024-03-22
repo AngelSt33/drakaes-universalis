@@ -1,0 +1,21 @@
+#341 - Tunis
+
+owner = KRT
+controller = KRT 
+culture = rhomaioi
+religion = orthodox
+capital = "Karchedon"
+trade_goods = cloth
+hre = no
+base_tax = 6 
+base_production = 6
+base_manpower = 2
+is_city = yes
+add_core = KRT
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+extra_cost = 11
+center_of_trade = 2
+

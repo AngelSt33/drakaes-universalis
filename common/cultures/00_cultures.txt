@@ -1,0 +1,372 @@
+# This is where I'm putting all the cultures cuz why not
+# PDX warnings:
+
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or cultures, make sure they are unique.
+#
+# Union tags do not suffer from the 'same_culture_group' tax penalty.
+# Primary tags are the first choice for rebel factions seeking cultural independence.
+#
+# graphical_culture = westerngfx
+# second_graphical_culture = muslimgfx (fallback if the first does not exist)
+
+Drakaen {
+	graphical_culture = westerngfx
+	
+	# Made and switched to when forming Catania
+	Katanien {
+		male_names = {
+			Vaelralis
+		}
+		
+		female_names ={
+			Maria
+		}
+		
+		dynasty_names = {
+			"Almirion" "Reach" "Kystain"
+		}
+	}
+	
+	Nujharian {
+		male_names = {
+			Joe
+		}
+		
+		female_names ={
+			Maria
+		}
+		
+		dynasty_names = {
+			"Biden"
+		}
+	}
+	
+	Neuhavn {
+		male_names = {
+			Joe
+		}
+		
+		female_names ={
+			Maria
+		}
+		
+		dynasty_names = {
+			"Biden"
+		}
+	}
+	
+	Nidarosean {
+		male_names = {
+			Helianthus
+		}
+		
+		female_names ={
+			Tiffany
+		}
+		
+		dynasty_names = {
+			"Aulian" "Canalopin"
+		}
+	}
+	
+	# Made and switched to when forming Valreach
+	Valrean {
+		males_names = {
+			Joe
+		}
+		
+		female_names = {
+			Maria
+		}
+		
+		dynasty_names = {
+			"Biden"
+		}
+	}
+	
+	Aurican {
+		male_names = {
+			Ilnur
+		}
+		
+		female_names = {
+			Maria
+		}
+		
+		dynasty_names = {
+			"Almirion" "Fairfax" "Smegsit"
+		}
+	}
+	
+	Taerni {
+		male_names = {
+			Nodin Estlor Husto Emeritus Lawliet
+		}
+		
+		female_names = {
+			Nethhala Kash
+		}
+		
+		dynasty_names = {
+			"Rosthorn" "Dawn"
+		}
+	}
+	
+	Arthholdic {
+		male_names = {
+			Joe
+		}
+		
+		female_names = {
+			Maria
+		}
+		
+		dynasty_names = {
+			"Biden"
+		}
+	}
+	
+	Smegan {
+		male_names = {
+			Joe
+		}
+		
+		female_names = {
+			Maria
+		}
+		
+		dynasty_names = {
+			"Biden"
+		}
+	}
+	
+	New-Yoaken {
+		male_names = {
+			Joe
+		}
+		
+		female_names = {
+			Maria
+		}
+		
+		dynasty_names = {
+			"Biden"
+		}
+	}
+}
+
+Valdic {
+	
+	Norvald {
+		male_names = {
+			Acon Higion Ruralwolf Gustavus Pipo Grassel Loggy Aboh
+		}
+		
+		female_names ={
+			Maria
+		}
+		
+		dynasty_names = {
+			"Kolbeck" "Villhorn" "Alfuna" "Havardr"
+		}
+	}
+	
+	Jorv {
+		male_names = {
+			Acki Bedaer Kendal 
+			Halvard Bergs
+			Alwynn Lawior Abed
+			Bergljot
+		}
+		
+		female_names ={
+			Katherine
+		}
+		
+		dynasty_names = {
+			"Biden"
+		}
+	}
+	
+	Rodinfyrstr {
+		male_names = {
+			Joe
+		}
+		
+		female_names {
+			Maria
+		}
+		
+		dynasty_names = {
+			"Biden"
+		}
+	}
+	
+	Skjolden {
+		male_names = {
+			Joe
+		}
+		
+		female_names = {
+			Maria
+		}
+		
+		dynasty_names = {
+			"Biden"
+		}
+	}
+}
+
+Vlondsi {
+	graphical_culture = muslimgfx
+	
+	Andlirian {
+		male_names = {
+			Joe
+		}
+		
+		female_names = {
+			Maria
+		}
+		
+		dynasty_names = {
+			"Biden"
+		}
+	}
+}
+
+Aristii {
+	graphical_culture = easterngfx
+	
+	Castellum {
+		male_names = {
+			Joe
+		}
+		
+		female_names = {
+			Maria
+		}
+		
+		dynasty_names = {
+			"Biden"
+		}
+	}
+	
+	Ostillia {
+		male_names = {
+			Joe
+		}
+		
+		female_names = {
+			Maria
+		}
+		
+		dynasty_names = {
+			"Biden"
+		}
+	}
+	
+	Ameria {
+		male_names = {
+			Joe
+		}
+		
+		female_names = {
+			Maria
+		}
+		
+		dynasty_names = {
+			"Biden"
+		}
+	}
+	
+	Nuostryan {
+		male_names = {
+			Joe
+		}
+		
+		female_names = {
+			Maria
+		}
+		
+		dynasty_names = {
+			"Biden"
+		}
+	}
+	
+	Sanctus {
+		male_names = {
+			Joe
+		}
+		
+		female_names = {
+			Maria
+		}
+		
+		dynasty_names = {
+			"Biden"
+		}
+	}
+	
+	Bel-Ismer {
+		male_names = {
+			Joe
+		}
+		
+		female_names = {
+			Maria
+		}
+		
+		dynasty_names = {
+			"Biden"
+		}
+	}
+	
+	Olmero {
+		male_names = {
+			Joe
+		}
+		
+		female_names = {
+			Maria
+		}
+		
+		dynasty_names = {
+			"Biden"
+		}
+	}
+}
+
+Mugen {
+	graphical_culture = muslimgfx
+	
+	Mugen {
+	
+		males_names = {
+			Arugo Shib Jacob Duke Will
+		}
+		
+		female_names = {
+			Shib
+		}
+		
+		dynasty_names = {
+			"Modirov" "Azurov" "Azael"
+		}
+	}
+	
+	Treelordian {
+		males_names = {
+			Garri Kazat
+		}
+		
+		female_names = {
+			Ari
+		}
+		
+		dynasty_names = {
+			"Grimmith" "Zarmir"
+		}
+	}
+}

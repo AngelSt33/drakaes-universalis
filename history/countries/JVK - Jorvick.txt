@@ -1,0 +1,23 @@
+government = monarchy
+government_rank = 2
+add_government_reform = feudalism_reform
+primary_culture = Jorv
+technology_group = western
+religion = hussite
+capital = 1
+mercantilism = 12
+
+1444.1.1 = {
+	monarch = {
+		name = "Bedaer"
+		birth_date = 1427
+		adm = 1
+		dip = 2
+		mil = 5
+		dynasty = "Bedaer"
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = conqueror
+	add_ruler_personality = careful
+	
+}
