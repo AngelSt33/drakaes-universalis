@@ -1,0 +1,24 @@
+#Ragnarvick
+
+add_core = JVK
+owner = JVK
+controller = JVK
+culture = Jorv
+religion = hussite
+hre = no
+base_tax = 7
+base_production = 7
+trade_goods = fish #will change trade goods at a later date -dan
+base_manpower = 6
+capital = "Ragnarvick"
+is_city = yes
+#add_permanent_province_modifier = {
+#	name = skanemarket
+#	duration = -1
+#} 
+#fort_15th = yes 
+# I don't know how to do multiline comments in pdx -dan
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

@@ -1,0 +1,18 @@
+#Ulridge
+
+add_core = JVK
+owner = JVK
+controller = JVK
+culture = Jorv			#I am assuming -dan
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fur
+base_manpower = 1
+capital = "Ulridge"
+add_local_autonomy = 25
+is_city = yes
+
+discovered_by = eastern
+discovered_by = western

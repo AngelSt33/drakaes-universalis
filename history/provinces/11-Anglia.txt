@@ -1,0 +1,17 @@
+#Anglia
+
+owner = JVK
+controller = JVK
+add_core = JVK
+culture = Jorv
+religion = hussite
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fur
+base_manpower = 1
+capital = "Anglia"
+is_city = yes
+
+discovered_by = eastern
+discovered_by = western
