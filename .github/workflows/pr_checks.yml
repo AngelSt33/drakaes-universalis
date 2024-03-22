@@ -1,0 +1,37 @@
+name: Check PR
+
+on: [push, pull_request]
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+        - uses: actions/checkout@v2
+
+        - name: Install dependencies
+          run: |
+            wget https://github.com/Clever/csvlint/releases/download/v0.3.0/csvlint-v0.3.0-linux-amd64.tar.gz
+            tar -xvf csvlint-v0.3.0-linux-amd64.tar.gz
+            sudo mv csvlint-v0.3.0-linux-amd64/csvlint /usr/local/bin
+
+        - name: Check file braces
+          run: |
+            shopt -s globstar
+            for file in **/*.txt; do
+                count_opening=$(grep -o '{' "$file" | wc -l)
+                count_closing=$(grep -o '}' "$file" | wc -l)
+
+                if [ $count_opening -ne $count_closing ]; then
+                    echo "Braces are not balanced in file $file"
+                    exit 1
+                else 
+                    echo "Braces are balanced"
+                    exit 0
+                fi
+            done
+        - name: Check CSV files
+          run: |
+            shopt -s globstar
+            for file in **/*.csv; do
+                csvlint "$file"
+            done
