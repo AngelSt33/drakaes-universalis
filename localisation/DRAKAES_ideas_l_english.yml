@@ -3,23 +3,23 @@
  JVK_ideas_start:0 "Jorvick Tradition"
  JVK_ideas_bonus:0 "Jorvick Ambitions"
  
- jvk_rejuvenate_carthage:0 ""
- jvk_rejuvenate_carthage_desc:0 ""
+ jvk_blood_god:0 ""
+ jvk_blood_god_desc:0 ""
  
- jvk_mediterranean_navy:0 ""
- jvk_mediterranean_navy_desc:0 ""
+ jvk_mountains:0 ""
+ jvk_mountains_desc:0 ""
  
- jvk_reintroduce_phoederati:0 ""
- jvk_reintroduce_phoederati_desc:0 ""
+ jvk_war:0 ""
+ jvk_war_desc:0 ""
  
- jvk_trade_heritage:0 ""
- jvk_trade_heritage_desc:0 ""
+ jvk_council:0 ""
+ jvk_council_desc:0 ""
  
- jvk_legacy_of_rome:0 ""
- jvk_legacy_of_rome_desc:0 ""
+ jvk_comradery:0 ""
+ jvk_comradery_desc:0 "joe"
  
- jvk_joe:0 ""
- jvk_joe_desc:0 "joe"
- 
- jvk_roman_artisans:0 ""
- jvk_roman_artisans_desc:0 ""
+ jvk_bedaer_rabbits:0 ""
+ jvk_bedaer_rabbits_desc:0 ""
+
+ jvk_underground:0 ""
+ jvk_underground_desc:0 ""
