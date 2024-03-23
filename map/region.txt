@@ -78,7 +78,7 @@ south_simulami_region = {
 }
 konigsburg_region = { 
 	areas = { 
-		motu_area east_saafir_area west_saafir_area zurcote_area ciosa_area vinovia_area 
+		motu_area east_saafir_area west_saafir_area zurcote_area ciosa_area vinovia_area aeto_archipelago 
 	}
 }
 aciester_region = { 
@@ -92,12 +92,12 @@ aciester_region = {
 ########################################
 drakonia_region = { 
 	areas = { 
-		transdanubia_area alfold_area slovakia_area transylvania_area southern_transylvania_area wallachia_area moldavia_area 
+		transdanubia_area alfold_area slovakia_area transylvania_area southern_transylvania_area wallachia_area moldavia_area trayaguard_area 
 	}
 }
 druk_yul_region = { 
 	areas = { 
-		lower_nubia_area cyrenaica_area gulf_of_arabia_area al_wahat_area delta_area bahari_area vostani_area said_area 
+		lower_nubia_area pävenduß_area gulf_of_arabia_area al_wahat_area delta_area bahari_area vostani_area said_area 
 	}
 }
 farencia_region = { 
@@ -312,7 +312,7 @@ irulan_region = {
 ellysia_region = { 
 	areas = { 
 		guangdong_area west_guangdong_area fujian_area jiangxi_area huguang_area zhejiang_area south_anhui_area taiwan_area south_jiangsu_area hunan_area
-		guangxi_area 
+		guangxi_area zospua_area sustralia_area argellis_area prydyn_area majulah_area xingdu_area 
 	}
 	monsoon = { 
 		00.05.01
@@ -321,12 +321,13 @@ ellysia_region = {
 }
 gennisi_region = { 
 	areas = { 
+		grentin_area bellaria_area yandikin_area nootka_area wulata_area balaluen_area gennisi_point_area 
 	}
 }
 rhineland_region = { 
 	areas = { 
 		hebei_area south_hebei_area shandong_area henan_area shanxi_area gansu_area shaanxi_area north_henan_area west_gansu_area jiangsu_area
-		anhui_area 
+		anhui_area nevermore_area uzhon_area gerak_area abenlug_area foreigner_area eisensill_area 
 	}
 }
 rodinnbrok_region = { 
@@ -407,25 +408,29 @@ nova_zemja_region = {
 }
 osria_region = { 
 	areas = { 
-		upper_acadia_area lower_acadia_area newfoundland_area labrador_area cote_nord_area notre_dame_mountains_area lower_canada_area upper_canada_area laurentian_area huronia_area
-		upper_ontario_area st_john_valley_area trois_rivieres_area ottawa_valley_area 
+		upper_acadia_area lower_acadia_area newfoundland_area cote_nord_area notre_dame_mountains_area lower_canada_area upper_canada_area laurentian_area huronia_area upper_ontario_area
+		st_john_valley_area trois_rivieres_area ottawa_valley_area ecrin_area kish_area osriana_area nantgarw_area makareth_area blackoak_area berrywood_area
+		huthwaite_area 
 	}
 }
 urak_region = { 
 	areas = { 
-		ohio_country_area illinois_country_area michigan_area miami_river_area lake_superior_area wisconsin_area southern_illinois_area 
+		ohio_country_area illinois_country_area michigan_area miami_river_area lake_superior_area wisconsin_area southern_illinois_area urak_area alania_area arkostinyye_area
+		phantalia_area kusanovia_area guaraka_area kush_area zanith_area basit_area 
 	}
 }
 barbossa_region = { 
 	areas = { 
 		great_woods_area massachusetts_bay_area connecticut_valley_area hudson_valley_area delaware_valley_area iroquoisia_area south_iroquoisia_area susquehanna_area maine_area maryland_area
-		eastern_maine_area new_york_area westsylvania_area 
+		eastern_maine_area new_york_area westsylvania_area silver_isles_area varina_area trident_area palomara_area mitton_area rum_runners_area parrotieus_area
+		orange_area istaso_area cras_area atlas_area 
 	}
 }
 titania_region = { 
 	areas = { 
 		chesapeake_area great_valley_area piedmont_north_america_area american_georgia_area florida_area carolinas_area south_appalachia_area south_carolina_area upper_american_georgia_area north_florida_area
-		south_carolina_piedmont_area 
+		south_carolina_piedmont_area lamagra_area pergamos_area titans_landing_area apollis_area stoneguard_area stoneport_area peleos_area andaia_area roost_area
+		injah_area 
 	}
 	monsoon = { 
 		00.06.01
@@ -434,8 +439,8 @@ titania_region = {
 }
 stormgova_region = { 
 	areas = { 
-		lower_louisiana_area west_florida_area upper_louisiana_area alabama_area kentucky_area mississippi_area appalachia_area choctaw_area mississippi_plain_area western_kentucky_area
-		ozarks_area 
+		west_florida_area upper_louisiana_area kentucky_area appalachia_area choctaw_area western_kentucky_area rietrelis_archipelago_area amagoria_area maksalum_area mushroomica_area
+		stormgova_area new_jellhem_area maldville_area vellodel_area simniai_area 
 	}
 	monsoon = { 
 		00.06.01
@@ -543,5 +548,10 @@ vetr_sea_region = {
 erdina_sea_region = { 
 	areas = { 
 		south_atlantic_area skeleton_coast_area cape_of_storms_area 
+	}
+}
+arthholds_region = { 
+	areas = { 
+		galeonn_area åndesprit_area grautş_area onumozaki_area banshelia_area revenance_area irrlin_area 
 	}
 }

@@ -1,21 +1,17 @@
 #Western Treelords
-
 owner = JVK
 controller = JVK
-add_core = JVK
 culture = treelordian
 religion = catholic
-hre = no
 base_tax = 3
 base_production = 3
 trade_goods = fish
 base_manpower = 2
 capital = "Western Treelords"
 is_city = yes
-
 discovered_by = eastern
 discovered_by = western
-
-fort_15th = yes
 extra_cost = 8
 center_of_trade = 1
+add_core = TRE
+fort_15th = yes
