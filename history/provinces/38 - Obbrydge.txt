@@ -1,0 +1,22 @@
+#Obbrydge
+
+owner = JVK
+controller = JVK
+add_core = JVK
+culture = jorv
+religion = catholic
+hre = no
+base_tax = 5 
+base_production = 5
+trade_goods = naval_supplies
+base_manpower = 1
+capital = "Obbrydge"
+is_city = yes
+fort_15th = yes
+extra_cost = 18
+center_of_trade = 1
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

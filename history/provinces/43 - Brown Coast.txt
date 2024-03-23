@@ -1,0 +1,19 @@
+#Brown Coast
+
+owner = JVK
+controller = JVK
+add_core = JVK
+capital = "Brown Coast"
+culture = new-yoaken
+religion = catholic
+trade_goods = fish
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 2
+is_city = yes
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

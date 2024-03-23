@@ -1,23 +1,20 @@
 government = monarchy
 government_rank = 2
 add_government_reform = feudalism_reform
-primary_culture = jorv
+primary_culture = treelordian
 technology_group = western
-religion = hussite
-capital = 1
+religion = catholic		#placeholder for Elboism
+capital = 13
 mercantilism = 12
 
 1444.1.1 = {
 	monarch = {
-		name = "Bedaer"
-		birth_date = 1427
+		name = "Joe"
+		birth_date = 1410
 		adm = 1
-		dip = 2
-		mil = 5
-		dynasty = "Bedaer"
+		dip = 1
+		mil = 1
+		dynasty = "Biden"
 	}
 	clear_scripted_personalities = yes
-	add_ruler_personality = conqueror
-	add_ruler_personality = careful
-	
 }
