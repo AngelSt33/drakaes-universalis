@@ -2,68 +2,57 @@
 eastern_drakesland = { 
 	catania_region nidaros_region new_yoake_region konigsburg_region smegsland_region arthholds_region 
 }
-western_drakesland = {
-	andliria_region seeberg_region aciester_region bel_ismer region taernsbia_region
+western_drakesland = { 
+	andliria_region seeberg_region aciester_region taernsbia_region 
 }
-skjold = {
-	chevkri_region skjoldbrodir_region limuria_region
+skjold = { 
+	chevkri_region skjoldbrodir_region limuria_region 
 }
 simulami = { 
-	south_simulami_region north_simulami_region
+	south_simulami_region north_simulami_region 
 }
-
 ##North Astios
-aristios = {
+aristios = { 
 	almeria_region sanctus_region sethris_region 
 }
-
-varn_torum = {
-	varn_torum_region ostra_novum_region iremith_region kaer_hrafin_region
+varn_torum = { 
+	varn_torum_region ostra_novum_region iremith_region kaer_hrafin_region 
 }
-
-yaszuma = {
-	yaszuma_region applernia_region sethris_region
+yaszuma = { 
+	yaszuma_region applernia_region sethris_region 
 }
-
 ##South Astios
-south_astios = {
-	castellum_region florandia_region astillia_region lugnica_region
+south_astios = { 
+	castellum_region florandia_region astillia_region lugnica_region 
 }
-
 ##Katsura
-katsura = {
-	tetra_region valore_region nova_regna_region
+katsura = { 
+	tetra_region valore_region nova_regna_region 
 }
-
 ##Onthukan
-anglunia = {
+anglunia = { 
 	anglunia_region andor_region lutum_region madman_region 
 }
-
-irulan = {
-	irulan_region terrather_region
+irulan = { 
+	irulan_region terrather_region 
 }
-
 ##Phormyrr
-titania = {
-	titania_region canaan_region osria_region
+titania = { 
+	titania_region canaan_region osria_region 
 }
-
-ellysia = {
-	ellysia_region rhineland_region gennisi_region soumenia_region
+ellysia = { 
+	ellysia_region rhineland_region gennisi_region soumenia_region 
 }
-
-leviathan's_realm = {
-	barbossa_region stormgova_region urak_region
+leviathan's_realm = { 
+	barbossa_region stormgova_region urak_region 
 }
-rodinnbrok = {
-	rodinnbrok_region mercury_region soumenia_region bernardland_region tortuga_region
+rodinnbrok = { 
+	rodinnbrok_region mercury_region soumenia_region bernardland_region tortuga_region 
 }
-
 ##Elaresh
-grand_farencia = {
+grand_farencia = { 
 	helsia_region garxijos_region farencia_region 
 }
-drak_yamar = {
-	illystra_region druk_yul_region drakonia_region euclidea_region 
+drak_yamar = { 
+	illystra_region drakonia_region euclidea_region 
 }
