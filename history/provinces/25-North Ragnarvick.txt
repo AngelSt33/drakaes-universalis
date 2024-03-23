@@ -1,0 +1,23 @@
+#North Ragnarvick
+
+owner = JVK 
+controller = JVK
+add_core = JVK
+culture = swedish
+religion = catholic
+hre = no
+base_tax = 4 
+base_production = 4
+trade_goods = wool
+base_manpower = 2
+capital = "North Ragnarvick"
+is_city = yes
+fort_15th = yes
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+extra_cost = 8
+center_of_trade = 1
