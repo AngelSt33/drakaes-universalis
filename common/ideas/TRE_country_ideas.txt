@@ -1,0 +1,51 @@
+# Treelords ideas - TRE
+treelords_ideas = {
+	start = {
+		ae_impact = 0.2
+		fabricate_claims_cost = -0.05
+	}
+	
+	bonus = {
+		infantry_power = 0.1
+	}
+	
+	trigger = {
+		tag = TRE
+	}
+	
+	free = yes
+	
+	tre_trees = {
+		local_missionary_strength = 0.1
+		local_religious_unity_contribution = 0.1
+	}
+	
+	tre_mountains = {
+		build_cost = -0.1
+		build_time = -0.1
+	}
+		
+	
+	tre_war = {
+		land_morale_constant = 0.1
+		recover_army_morale_speed = 0.10
+	}
+	
+	tre_council = {
+		advisor_cost = -0.20
+		yearly_absolutism = 0.1
+	}
+	
+	tre_comradery = {
+		global_manpower_modifier = 0.10
+	}
+	
+	tre_ships = {
+		global_trade_goods_size_modifier = 0.05
+	}
+	
+	tre_idfk = {
+		global_spy_defence = 0.1
+		hostile_attrition = 1
+	}
+}
