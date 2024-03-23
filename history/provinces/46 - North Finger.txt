@@ -1,18 +1,19 @@
-#50 - Arugo's Finger
+#North Finger, stupid af name
 
 owner = JVK
 controller = JVK
 add_core = JVK
-culture = saxon
+culture = new-yoaken
 religion = catholic
 hre = yes
-base_tax = 4
+base_tax = 4 
 base_production = 4
-trade_goods = cloth
-base_manpower = 4
-fort_15th = yes
-capital = "Arugo's Finger"		#AGAIN, WHAT'S WITH THE FUCKING NAMES??
+trade_goods = naval_supplies
+base_manpower = 2
+capital = "North Finger"
 is_city = yes
+
+
 
 discovered_by = eastern
 discovered_by = western

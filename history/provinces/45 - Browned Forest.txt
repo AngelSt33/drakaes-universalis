@@ -1,17 +1,17 @@
-#50 - Arugo's Finger
+#Browned Forest
 
 owner = JVK
 controller = JVK
 add_core = JVK
-culture = saxon
+culture = new-yoaken
 religion = catholic
 hre = yes
-base_tax = 4
-base_production = 4
-trade_goods = cloth
-base_manpower = 4
+base_tax = 7
+base_production = 7
+trade_goods = naval_supplies
+base_manpower = 3
 fort_15th = yes
-capital = "Arugo's Finger"		#AGAIN, WHAT'S WITH THE FUCKING NAMES??
+capital = "Browned Forest"
 is_city = yes
 
 discovered_by = eastern

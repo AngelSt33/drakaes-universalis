@@ -1,0 +1,18 @@
+#Valencoast
+
+owner = JVK
+controller = JVK
+add_core = JVK
+culture = jorv
+religion = hussite
+hre = no
+base_tax = 2 
+base_production = 2
+trade_goods = fur
+base_manpower = 1
+capital = "Valencoast"
+is_city = yes
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = nomad_group
