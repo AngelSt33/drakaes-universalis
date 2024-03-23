@@ -172,7 +172,7 @@ Valdic {
 		}
 	}
 	
-	jorv {
+	Jorv {
 		male_names = {
 			Acki Bedaer Kendal 
 			Halvard Bergs
