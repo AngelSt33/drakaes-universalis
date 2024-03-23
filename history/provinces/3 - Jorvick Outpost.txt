@@ -1,0 +1,19 @@
+#Jorvick Outpostm, idk where this is tbh -dan
+
+add_core = JVK
+owner = JVK
+controller = JVK
+culture = Jorv
+religion = hussite
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = naval_supplies
+base_manpower = 1
+capital = "Jorvick Outpost"
+is_city = yes
+fort_15th = yes # Kalmar Slott
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

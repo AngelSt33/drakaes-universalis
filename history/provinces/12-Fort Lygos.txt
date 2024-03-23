@@ -1,0 +1,28 @@
+#Fort Lygos
+
+add_core = JVK
+owner = JVK
+controller = JVK
+culture = Jorv
+religion = hussite
+hre = no
+base_tax = 8
+base_production = 8
+trade_goods = fish
+base_manpower = 4
+capital = "Fort Lygos"
+is_city = yes
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+#fort_15th = yes
+#extra_cost = 20
+center_of_trade = 2
+
+#add_permanent_province_modifier = {
+#	name = sound_toll
+#	duration = -1
+#}

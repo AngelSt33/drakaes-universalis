@@ -1,0 +1,16 @@
+#Goldhaven
+
+add_core = JVK
+owner = JVK
+controller = JVK
+culture = Jorv
+religion = hussite
+hre = no
+base_tax = 2 
+base_production = 2
+trade_goods = gold		#because it's fucking called GOLDhaven -dan
+base_manpower = 1
+capital = "Goldhaven"
+is_city = yes
+discovered_by = eastern
+discovered_by = western

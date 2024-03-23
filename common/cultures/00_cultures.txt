@@ -14,7 +14,7 @@ Drakaen {
 	graphical_culture = westerngfx
 	
 	# Made and switched to when forming Catania
-	Katanien {
+	katanien {
 		male_names = {
 			Vaelralis
 		}
@@ -28,7 +28,7 @@ Drakaen {
 		}
 	}
 	
-	Nujharian {
+	nujharian {
 		male_names = {
 			Joe
 		}
@@ -42,7 +42,7 @@ Drakaen {
 		}
 	}
 	
-	Neuhavn {
+	neuhavn {
 		male_names = {
 			Joe
 		}
@@ -56,7 +56,7 @@ Drakaen {
 		}
 	}
 	
-	Nidarosean {
+	nidarosean {
 		male_names = {
 			Helianthus
 		}
@@ -71,7 +71,7 @@ Drakaen {
 	}
 	
 	# Made and switched to when forming Valreach
-	Valrean {
+	valrean {
 		males_names = {
 			Joe
 		}
@@ -85,7 +85,7 @@ Drakaen {
 		}
 	}
 	
-	Aurican {
+	aurican {
 		male_names = {
 			Ilnur
 		}
@@ -99,7 +99,7 @@ Drakaen {
 		}
 	}
 	
-	Taerni {
+	taerni {
 		male_names = {
 			Nodin Estlor Husto Emeritus Lawliet
 		}
@@ -113,7 +113,7 @@ Drakaen {
 		}
 	}
 	
-	Arthholdic {
+	arthholdic {
 		male_names = {
 			Joe
 		}
@@ -127,7 +127,7 @@ Drakaen {
 		}
 	}
 	
-	Smegan {
+	smegan {
 		male_names = {
 			Joe
 		}
@@ -141,7 +141,7 @@ Drakaen {
 		}
 	}
 	
-	New-Yoaken {
+	new-yoaken {
 		male_names = {
 			Joe
 		}
@@ -158,7 +158,7 @@ Drakaen {
 
 Valdic {
 	
-	Norvald {
+	norvald {
 		male_names = {
 			Acon Higion Ruralwolf Gustavus Pipo Grassel Loggy Aboh
 		}
@@ -172,7 +172,7 @@ Valdic {
 		}
 	}
 	
-	Jorv {
+	jorv {
 		male_names = {
 			Acki Bedaer Kendal 
 			Halvard Bergs
@@ -189,7 +189,7 @@ Valdic {
 		}
 	}
 	
-	Rodinfyrstr {
+	rodinfyrstr {
 		male_names = {
 			Joe
 		}
@@ -203,7 +203,7 @@ Valdic {
 		}
 	}
 	
-	Skjolden {
+	skjolden {
 		male_names = {
 			Joe
 		}
@@ -221,7 +221,7 @@ Valdic {
 Vlondsi {
 	graphical_culture = muslimgfx
 	
-	Andlirian {
+	andlirian {
 		male_names = {
 			Joe
 		}
@@ -239,7 +239,7 @@ Vlondsi {
 Aristii {
 	graphical_culture = easterngfx
 	
-	Castellum {
+	castellum {
 		male_names = {
 			Joe
 		}
@@ -253,7 +253,7 @@ Aristii {
 		}
 	}
 	
-	Ostillia {
+	ostillia {
 		male_names = {
 			Joe
 		}
@@ -267,7 +267,7 @@ Aristii {
 		}
 	}
 	
-	Ameria {
+	ameria {
 		male_names = {
 			Joe
 		}
@@ -281,7 +281,7 @@ Aristii {
 		}
 	}
 	
-	Nuostryan {
+	nuostryan {
 		male_names = {
 			Joe
 		}
@@ -295,7 +295,7 @@ Aristii {
 		}
 	}
 	
-	Sanctus {
+	sanctus {
 		male_names = {
 			Joe
 		}
@@ -309,7 +309,7 @@ Aristii {
 		}
 	}
 	
-	Bel-Ismer {
+	bel-ismer {
 		male_names = {
 			Joe
 		}
@@ -323,7 +323,7 @@ Aristii {
 		}
 	}
 	
-	Olmero {
+	olmero {
 		male_names = {
 			Joe
 		}
@@ -341,7 +341,7 @@ Aristii {
 Mugen {
 	graphical_culture = muslimgfx
 	
-	Mugen {
+	mugen {
 	
 		males_names = {
 			Arugo Shib Jacob Duke Will
@@ -356,7 +356,7 @@ Mugen {
 		}
 	}
 	
-	Treelordian {
+	treelordian {
 		males_names = {
 			Garri Kazat
 		}
