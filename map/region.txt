@@ -9,6 +9,8 @@ random_new_world_region = {
 ########################################
 andliria_region = { 
 	areas = { 
+		puerto_amarillo_area red_hill_area etruia_area ruscoviask_area northern_tip_area ragdon_area alefpamohadi_area verdesburg_area romantello_area amaris_area
+		pizczek_area bar_area lhytt_area 
 	}
 }
 nidaros_region = { 
@@ -154,7 +156,8 @@ yaszuma_region = {
 }
 kaer_hrafin_region = { 
 	areas = { 
-		benin_area cap_verde_area guinea_coast_area gulf_of_guinea_area futa_jallon_area west_africa_coast_area jolof_area sao_tome_area 
+		benin_area cap_verde_area guinea_coast_area gulf_of_guinea_area futa_jallon_area west_africa_coast_area jolof_area sao_tome_area las_regas_area rattican_area
+		kaer_area xa'kes_area bearie_area katsuria_area mituka_area ratterdale_area 
 	}
 	monsoon = { 
 		00.06.01
@@ -164,6 +167,7 @@ kaer_hrafin_region = {
 iremith_region = { 
 	areas = { 
 		darfur_central_sahara_area kanem_area bornu_area azbin_area kurdufan_area western_sahara_area dendi_area baghena_area niger_bend_area east_azbin_area
+		daura_area leorn_area mossen_vale_area ashridge_area milos_area tenere_area asoland_area 
 	}
 	monsoon = { 
 		00.06.01
@@ -173,21 +177,8 @@ iremith_region = {
 varn_torum_region = { 
 	areas = { 
 		ajuuran_area southern_ethiopia_area central_ethiopia_area ifat_area tigray_area somaliland_area ogaden_area majarteen_area mogadishu_area red_sea_coast_area
-		upper_nubia_area sennar_area dongola_area hadiya_area damot_area aussa_area shewa_area 
-	}
-}
-ostra_novum_region = { 
-	areas = { 
-		northern_swahili_coast_area central_swahili_coast_area mozambique_area lower_zambezi_area upper_zambezi_area ruvuma_area ngonde_area mascarenes_area madagascar_highlands_area betsimasaraka_area
-		sakalava_area southern_madagascar uticulo_makuana_area jubba_area shire_area mombasa_area 
-	}
-	monsoon = { 
-		00.11.01
-		00.12.30
-	}
-	monsoon = { 
-		00.01.01
-		00.04.30
+		upper_nubia_area sennar_area dongola_area hadiya_area damot_area aussa_area shewa_area aeldan_area menrum_area koozos_area
+		silvaria_area saphirdorf_area kergrim_area gunjou_islands_area varn_torum_area termes_area tagant_area 
 	}
 }
 almeria_region = { 
@@ -213,23 +204,31 @@ sanctus_region = {
 		00.04.30
 	}
 }
+astrya_novum_region = { 
+	areas = { 
+		haila_area isothonikos_area lyndwyrm_area karavas_area culfair_area ord_area balmoral_area 
+	}
+	monsoon = { 
+		00.02.01
+		00.04.30
+	}
+}
 ########################################
 # South Astios                         #
 ########################################
 castellum_region = { 
 	areas = { 
-	}
-}
-astillia_region = { 
-	areas = { 
+		favre_area pompaelo_area sardonia_area batavia_area corinthia_area oxxo_area ryukostead_area lakial_area 
 	}
 }
 florandia_region = { 
 	areas = { 
+		florandia_area statenland_area argentum_area pearl_castre_area 
 	}
 }
 lugnica_region = { 
 	areas = { 
+		lome_area tuhrifel_area earrach_area lugnica_area atlas_nakara_area derufolyo_area avalon_area oreclad_area mananforff_area vifortis_area
 	}
 }
 ########################################
@@ -237,18 +236,20 @@ lugnica_region = {
 ########################################
 tetra_region = { 
 	areas = { 
-		yakutia_area sakha_area okhotsk_area kamchatka_area buryatia_area kolyma_area 
+		yakutia_area sakha_area okhotsk_area kamchatka_area buryatia_area kolyma_area qadakh_area yaravlim_area boulder_area colevlir_area
 	}
 }
 valore_region = { 
 	areas = { 
 		outer_mongolia_area inner_mongolia_area ordos_area zungaria_area north_zungaria altai_sayan_area eastern_mongolia central_mongolia_area uliastai_area turpan_kumul_area
-		tannu_uriankhai_area xilin_gol_area chahar_area cicigar_area 
+		tannu_uriankhai_area xilin_gol_area chahar_area cicigar_area tempesta_area elgaia_area solhom_area blackwater_area ookpik_area albora_area
+		auxe_area dmannisi_area wyskost_area 
 	}
 }
 nova_regna_region = { 
 	areas = { 
 		heilongjiang_area east_heilongjiang_area jilin_area central_jilin_area ilan_hala_area liaoning_area ningguta_area central_heilongjiang_area sakhalin_area furdan_area
+		stolas_area hussarias_area urtya_area ropool_area 
 	}
 }
 ########################################
@@ -553,5 +554,15 @@ erdina_sea_region = {
 arthholds_region = { 
 	areas = { 
 		galeonn_area åndesprit_area grautş_area onumozaki_area banshelia_area revenance_area irrlin_area 
+	}
+}
+ostra_novum_region = { 
+	areas = { 
+		northern_swahili_coast_area central_swahili_coast_area mozambique_area lower_zambezi_area upper_zambezi_area ruvuma_area ngonde_area mascarenes_area madagascar_highlands_area betsimasaraka_area
+		sakalava_area southern_madagascar uticulo_makuana_area jubba_area shire_area mombasa_area 
+	}
+}
+astillia_region = { 
+	areas = { 
 	}
 }

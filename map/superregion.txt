@@ -1,9 +1,9 @@
 ##Drakaesh
 eastern_drakesland = { 
-	catania_region nidaros_region new_yoake_region konigsburg_region smegsland_region arthholds_region 
+	catania_region nidaros_region new_yoake_region konigsburg_region smegsland_region 
 }
 western_drakesland = { 
-	andliria_region seeberg_region aciester_region taernsbia_region 
+	andliria_region seeberg_region aciester_region taernsbia_region arthholds_region 
 }
 skjold = { 
 	chevkri_region skjoldbrodir_region limuria_region 
@@ -19,7 +19,7 @@ varn_torum = {
 	varn_torum_region ostra_novum_region iremith_region kaer_hrafin_region 
 }
 yaszuma = { 
-	yaszuma_region applernia_region sethris_region 
+	yaszuma_region applernia_region 
 }
 ##South Astios
 south_astios = { 
@@ -41,13 +41,13 @@ titania = {
 	titania_region canaan_region osria_region 
 }
 ellysia = { 
-	ellysia_region rhineland_region gennisi_region soumenia_region 
+	ellysia_region rhineland_region gennisi_region soumenia_region
 }
 leviathan's_realm = { 
 	barbossa_region stormgova_region urak_region 
 }
 rodinnbrok = { 
-	rodinnbrok_region mercury_region soumenia_region bernardland_region tortuga_region 
+	rodinnbrok_region mercury_region bernardland_region tortuga_region nova_zemja_region
 }
 ##Elaresh
 grand_farencia = { 
