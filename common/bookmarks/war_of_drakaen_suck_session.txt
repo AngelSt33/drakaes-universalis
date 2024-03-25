@@ -1,0 +1,8 @@
+bookmark =
+{
+	name = "SUCK_NAME"
+	desc = "SUCK_DESC"
+	date = 1444.11.11
+	
+	country = JVK
+}
