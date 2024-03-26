@@ -14,6 +14,7 @@ andliria_region = {
 	}
 }
 nidaros_region = { 
+	color = { 0 40 190 }
 	areas = { 
 		eradios_area bears_keep_area nujharia_area edenheim_area nidaros_area frostport_area nibury_area frozen_shores miklagard_area lion's_yard_area
 		valspent_area bjørgsvin_area 
@@ -51,16 +52,19 @@ seeberg_region = {
 limuria_region = { 
 	areas = { 
 		moscow_area suzdal_area novgorod_area pskov_area beloozero_area pomor_area ryazan_area tambov_area tver_area yaroslavl_area
-		vladimir_area oka_area arkhangelsk_area vologda_area 
+		vladimir_area oka_area arkhangelsk_area vologda_area ábergard_area salacut_area åleverg_area egerbu_area ruddersdam_area fosstad_area
+		samife_area uracil_area grigkiai_area rakgeva_area baviadam_area rakli_area gullozi_area trombu_area beachmarch_area 
 	}
 }
 skjoldbrodir_region = { 
 	areas = { 
-		ural_area perm_area kazan_area galich_area saratov_area kama_area bashkiria_area samara_area volga_area 
+		ural_area perm_area kazan_area galich_area saratov_area kama_area bashkiria_area samara_area volga_area velerin_area
+		rotspring_area fjordvik_area hefnaheim_area steinborg_area vanaheim_area varcheg_area seljasund_area 
 	}
 }
 chevkri_region = { 
 	areas = { 
+		draco_area fei_loong_area regalia_area monkeville_area mian_xiang_area 
 	}
 }
 bel_ismer_region = { 
@@ -83,7 +87,7 @@ south_simulami_region = {
 }
 konigsburg_region = { 
 	areas = { 
-		motu_area east_saafir_area west_saafir_area zurcote_area ciosa_area vinovia_area aeto_archipelago 
+		motu_area east_saafir_area west_saafir_area zurcote_area ciosa_area vinovia_area aeto_archipelago aeto_isles_area 
 	}
 }
 aciester_region = { 
@@ -126,7 +130,7 @@ garxijos_region = {
 illystra_region = { 
 	areas = { 
 		luristan_area farsistan_area iraq_e_ajam_area tabarestan_area azerbaijan_area isfahan_area kerman_area persian_gulf_coast tabriz_area khuzestan_area
-		shahrizor_area mogostan_area 
+		shahrizor_area mogostan_area sanctuary_area 
 	}
 }
 euclidea_region = { 
@@ -261,7 +265,7 @@ nova_regna_region = {
 ########################################
 anglunia_region = { 
 	areas = { 
-		pyongan_area hamgyeong_area western_korea_area eastern_korea_area south_korea_area 
+		pyongan_area hamgyeong_area western_korea_area eastern_korea_area south_korea_area onding_area north_anglunia_area the_between_area myrtle_area 
 	}
 	monsoon = { 
 		00.06.01
@@ -270,13 +274,15 @@ anglunia_region = {
 }
 andor_region = { 
 	areas = { 
-		utsang_area tsang_area amdo_area kham_area bhutan_area ngari_area 
+		utsang_area tsang_area amdo_area kham_area bhutan_area ngari_area mapetra_archipelago_area andor_area fellmore_area saint_area
+		calamdor_area rezuraia_area renpaard_area old_south_area mondsalvat_area 
 	}
 }
 lutum_region = { 
 	areas = { 
 		bihar_area oudh_area purvanchal_area nepal_area himalayan_hills_area lower_doab_area upper_doab_area sirhind_area lahore_area multan_area
-		kashmir_area mithila_area baghelkhand_area gird_area katehar_area baisi_rajya_area bundelkhand_area sind_sagar_area 
+		kashmir_area mithila_area baghelkhand_area gird_area katehar_area baisi_rajya_area bundelkhand_area sind_sagar_area lumpshire_area pecan_area
+		lonlem_area novashire_area odrakshire_area aflosa_area 
 	}
 	monsoon = { 
 		00.07.01
@@ -286,7 +292,7 @@ lutum_region = {
 madman_region = { 
 	areas = { 
 		gaur_area west_bengal_area north_bengal_area east_bengal_area naga_hills_area jharkhand_area orissa_area garjat_area assam_area upper_mahanadi_area
-		tripura_area 
+		tripura_area everchill_area shoyton_area klasford_area luxenstein_area khivale_area 
 	}
 	monsoon = { 
 		00.07.01
@@ -295,7 +301,8 @@ madman_region = {
 }
 terrather_region = { 
 	areas = { 
-		andhra_area madura_area lanka_area south_lanka_area tanjore_area kongu_area south_carnatic_area north_carnatic_area 
+		andhra_area madura_area lanka_area south_lanka_area tanjore_area kongu_area south_carnatic_area north_carnatic_area itakshiir_area azsomai_area
+		commercia_area onamond_area 
 	}
 	monsoon = { 
 		00.06.01
@@ -304,7 +311,8 @@ terrather_region = {
 }
 irulan_region = { 
 	areas = { 
-		kachin_area upper_burma_area lower_burma_area shan_hill_area karenni_area arakan_area central_burma_area chindwin_area 
+		kachin_area upper_burma_area lower_burma_area shan_hill_area karenni_area arakan_area central_burma_area chindwin_area porphyropolis_archipelago_area cascade_area
+		irulan_area lockstum_area tokkotentosti_area 
 	}
 	monsoon = { 
 		00.06.01
