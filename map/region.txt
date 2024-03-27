@@ -14,6 +14,7 @@ andliria_region = {
 	}
 }
 nidaros_region = { 
+	color = { 0 40 190 }
 	areas = { 
 		eradios_area bears_keep_area nujharia_area edenheim_area nidaros_area frostport_area nibury_area frozen_shores miklagard_area lion's_yard_area
 		valspent_area bjørgsvin_area 
@@ -38,34 +39,40 @@ taernsbia_region = {
 	areas = { 
 		erzgebirge_area south_saxony_area northern_saxony_area thuringia_area neumark_area mittelmark_area vorpommern_area bohemia_area moravia_area hinter_pommern_area
 		north_rhine_area lower_rhineland_area westphalia_area north_westphalia_area hesse_area lower_saxony_area weser_area holstein_area mecklenburg_area braunschweig_area
-		lusatia_area 
+		lusatia_area al_benjir_area guangos_area pokitaru_area velenu_area doksaya_area solisia_area logrelonia_area kront_area seragos_area
 	}
 }
 seeberg_region = { 
 	areas = { 
 		tirol_area austria_proper_area inner_austria_area carinthia_area switzerland_area lower_bavaria_area upper_bavaria_area east_bavaria_area franconia_area upper_franconia_area
-		lower_swabia_area upper_swabia_area upper_rhineland_area romandie_area palatinate_area alsace_area 
+		lower_swabia_area upper_swabia_area upper_rhineland_area romandie_area palatinate_area alsace_area mondragon_area crystal_keep_area rennith_area mikanie_area
+		margalla_area braccan_area xozac_area ember_area seeburg_area 
 	}
 }
 limuria_region = { 
 	areas = { 
 		moscow_area suzdal_area novgorod_area pskov_area beloozero_area pomor_area ryazan_area tambov_area tver_area yaroslavl_area
-		vladimir_area oka_area arkhangelsk_area vologda_area 
+		vladimir_area oka_area arkhangelsk_area vologda_area ábergard_area salacut_area åleverg_area egerbu_area ruddersdam_area fosstad_area
+		samife_area uracil_area grigkiai_area rakgeva_area baviadam_area rakli_area gullozi_area trombu_area beachmarch_area 
 	}
 }
 skjoldbrodir_region = { 
 	areas = { 
-		ural_area perm_area kazan_area galich_area saratov_area kama_area bashkiria_area samara_area volga_area 
+		ural_area perm_area kazan_area galich_area saratov_area kama_area bashkiria_area samara_area volga_area velerin_area
+		rotspring_area fjordvik_area hefnaheim_area steinborg_area vanaheim_area varcheg_area seljasund_area 
 	}
 }
 chevkri_region = { 
 	areas = { 
+		draco_area fei_loong_area regalia_area monkeville_area mian_xiang_area 
 	}
 }
 bel_ismer_region = { 
 	areas = { 
 		east_midlands_area west_midlands_area yorkshire_area scottish_marches_area wessex_area home_counties_area east_anglia_area wales_area lowlands_area highlands_area
-		kingdom_of_the_isles_area munster_area connacht_area leinster_area ulster_area 
+		kingdom_of_the_isles_area munster_area connacht_area leinster_area ulster_area kallontum_area tomosia_area kamylos_area cythae_area acio_area
+		arrowfell_area norstaeyya_area three_fingers_area velesta_area auxilius_area geleia_area literia_area tarxien_area naiamo_area mereola_area
+		lugio_area tibur_area gerasa_area 
 	}
 }
 north_simulami_region = { 
@@ -80,13 +87,14 @@ south_simulami_region = {
 }
 konigsburg_region = { 
 	areas = { 
-		motu_area east_saafir_area west_saafir_area zurcote_area ciosa_area vinovia_area aeto_archipelago 
+		motu_area east_saafir_area west_saafir_area zurcote_area ciosa_area vinovia_area aeto_archipelago aeto_isles_area 
 	}
 }
 aciester_region = { 
 	areas = { 
 		croatia_area east_adriatic_coast_area bosnia_area serbia_area rascia_area bulgaria_area macedonia_area northern_greece_area morea_area thrace_area
-		albania_area silistria_area slavonia_area 
+		albania_area silistria_area slavonia_area varanasi_area falsor_area cosapolis_area furdan_area okdol_area okhull_area odivemar_area
+		apolis_area vanni_area 
 	}
 }
 ########################################
@@ -99,7 +107,7 @@ drakonia_region = {
 }
 druk_yul_region = { 
 	areas = { 
-		lower_nubia_area pävenduß_area gulf_of_arabia_area al_wahat_area delta_area bahari_area vostani_area said_area 
+		lower_nubia_area gulf_of_arabia_area al_wahat_area delta_area bahari_area vostani_area said_area 
 	}
 }
 farencia_region = { 
@@ -122,7 +130,7 @@ garxijos_region = {
 illystra_region = { 
 	areas = { 
 		luristan_area farsistan_area iraq_e_ajam_area tabarestan_area azerbaijan_area isfahan_area kerman_area persian_gulf_coast tabriz_area khuzestan_area
-		shahrizor_area mogostan_area 
+		shahrizor_area mogostan_area sanctuary_area 
 	}
 }
 euclidea_region = { 
@@ -197,7 +205,7 @@ almeria_region = {
 }
 sanctus_region = { 
 	areas = { 
-		coastal_kongo kongo_area angola_namibia_area matamba_area lower_kasai kasai_area 
+		coastal_kongo kongo_area angola_namibia_area matamba_area lower_kasai kasai_area phaedrae_area coweta_isle_area 
 	}
 	monsoon = { 
 		00.02.01
@@ -248,8 +256,8 @@ valore_region = {
 }
 nova_regna_region = { 
 	areas = { 
-		heilongjiang_area east_heilongjiang_area jilin_area central_jilin_area ilan_hala_area liaoning_area ningguta_area central_heilongjiang_area sakhalin_area furdan_area
-		stolas_area hussarias_area urtya_area ropool_area 
+		heilongjiang_area east_heilongjiang_area jilin_area central_jilin_area ilan_hala_area liaoning_area ningguta_area central_heilongjiang_area sakhalin_area stolas_area
+		hussarias_area urtya_area ropool_area 
 	}
 }
 ########################################
@@ -257,7 +265,7 @@ nova_regna_region = {
 ########################################
 anglunia_region = { 
 	areas = { 
-		pyongan_area hamgyeong_area western_korea_area eastern_korea_area south_korea_area 
+		pyongan_area hamgyeong_area western_korea_area eastern_korea_area south_korea_area onding_area north_anglunia_area the_between_area myrtle_area 
 	}
 	monsoon = { 
 		00.06.01
@@ -266,13 +274,15 @@ anglunia_region = {
 }
 andor_region = { 
 	areas = { 
-		utsang_area tsang_area amdo_area kham_area bhutan_area ngari_area 
+		utsang_area tsang_area amdo_area kham_area bhutan_area ngari_area mapetra_archipelago_area andor_area fellmore_area saint_area
+		calamdor_area rezuraia_area renpaard_area old_south_area mondsalvat_area 
 	}
 }
 lutum_region = { 
 	areas = { 
 		bihar_area oudh_area purvanchal_area nepal_area himalayan_hills_area lower_doab_area upper_doab_area sirhind_area lahore_area multan_area
-		kashmir_area mithila_area baghelkhand_area gird_area katehar_area baisi_rajya_area bundelkhand_area sind_sagar_area 
+		kashmir_area mithila_area baghelkhand_area gird_area katehar_area baisi_rajya_area bundelkhand_area sind_sagar_area lumpshire_area pecan_area
+		lonlem_area novashire_area odrakshire_area aflosa_area 
 	}
 	monsoon = { 
 		00.07.01
@@ -282,7 +292,7 @@ lutum_region = {
 madman_region = { 
 	areas = { 
 		gaur_area west_bengal_area north_bengal_area east_bengal_area naga_hills_area jharkhand_area orissa_area garjat_area assam_area upper_mahanadi_area
-		tripura_area 
+		tripura_area everchill_area shoyton_area klasford_area luxenstein_area khivale_area 
 	}
 	monsoon = { 
 		00.07.01
@@ -291,7 +301,8 @@ madman_region = {
 }
 terrather_region = { 
 	areas = { 
-		andhra_area madura_area lanka_area south_lanka_area tanjore_area kongu_area south_carnatic_area north_carnatic_area 
+		andhra_area madura_area lanka_area south_lanka_area tanjore_area kongu_area south_carnatic_area north_carnatic_area itakshiir_area azsomai_area
+		commercia_area onamond_area 
 	}
 	monsoon = { 
 		00.06.01
@@ -300,7 +311,8 @@ terrather_region = {
 }
 irulan_region = { 
 	areas = { 
-		kachin_area upper_burma_area lower_burma_area shan_hill_area karenni_area arakan_area central_burma_area chindwin_area 
+		kachin_area upper_burma_area lower_burma_area shan_hill_area karenni_area arakan_area central_burma_area chindwin_area porphyropolis_archipelago_area cascade_area
+		irulan_area lockstum_area tokkotentosti_area 
 	}
 	monsoon = { 
 		00.06.01
@@ -553,7 +565,7 @@ erdina_sea_region = {
 }
 arthholds_region = { 
 	areas = { 
-		galeonn_area åndesprit_area grautş_area onumozaki_area banshelia_area revenance_area irrlin_area 
+		galeonn_area åndesprit_area grautş_area onumozaki_area banshelia_area revenance_area irrlin_area pävenduß_area 
 	}
 }
 ostra_novum_region = { 
