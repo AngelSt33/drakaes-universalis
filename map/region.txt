@@ -79,13 +79,13 @@ north_simulami_region = {
 	areas = { 
 		lithuania_area livonia_area estonia_ingria_area curonia_area west_prussia_area east_prussia_area samogitia_area myrkira_area kistana_area sloboga_area
 		elvanor_area jellhem_area motec_area petrilonta_area bilospil_area cantelia_area vivan_area sentakeo_area ravaske_area durpol_area
-		jelele_area lavidol_area fetediu_area seigi_area 
+		jelele_area lavidol_area fetediu_area 
 	}
 }
 south_simulami_region = { 
 	areas = { 
 		wielkopolska_area malopolska_area red_ruthenia_area mazovia_area silesia_area central_poland_area sandomierz_area kuyavia_area bahrain_area bywater_area
-		avaria_area loran_area strofryka_area carthus_area utva_area morgöd_area domari_area song_la_area cràdh_area 
+		avaria_area loran_area strofryka_area carthus_area utva_area morgöd_area domari_area song_la_area cràdh_area seigi_area
 	}
 }
 konigsburg_region = { 
@@ -105,19 +105,22 @@ aciester_region = {
 ########################################
 drakonia_region = { 
 	areas = { 
-		transdanubia_area alfold_area slovakia_area transylvania_area southern_transylvania_area wallachia_area moldavia_area trayaguard_area 
+		transdanubia_area alfold_area slovakia_area transylvania_area southern_transylvania_area wallachia_area moldavia_area trayaguard_area staribor_area locet_area
+		krone_von_draakhagan_area gehenna_area boejarsker_area frosthaven_area hloouvik_area gnupa_area kaldaross_area drakonia_area riverside_area eonavia_area
+		dritsker_area brudmir_area northern_locet_area 
 	}
 }
 druk_yul_region = { 
 	areas = { 
-		lower_nubia_area gulf_of_arabia_area al_wahat_area delta_area bahari_area vostani_area said_area 
+		lower_nubia_area gulf_of_arabia_area al_wahat_area delta_area bahari_area vostani_area said_area thumgaon_area condrog_area kithokha_area
+		rorreos_area indragiri_area aimai_area cherryvale_area nicoya_area lair_of_the_dragon_area gallano_area ritang_area frydais_area mortifer_area
 	}
 }
 farencia_region = { 
 	areas = { 
 		fezzan_area tunisia_area djerba_area kabylia_area algiers_area hautes_plaines_area north_saharan_area tafilalt_area sus_area marrekesh_area
 		ouled_nail_area northern_morocco_area southern_morocco_area western_morocco_area tripolitania_area barbary_coast_area north_islands_area zar_farencia_area acaros_area arcaan_area
-		dragons_spine_area scylla_area gallano_area hippinca_area 
+		dragons_spine_area scylla_area hippinca_area 
 	}
 }
 helsia_region = { 
@@ -143,6 +146,8 @@ illystra_region = {
 euclidea_region = { 
 	areas = { 
 		merv_area balkh_area kabulistan_area ghor_area sistan_area makran_area kalat_area birjand_area herat_area mashhad_area
+		winlandia_area takavgrad_area mogrosk_area guilded_shore_area new_mondragon_area shchyoluk_area deya_area puyev_area surom_area kiridny_area
+		irkurbash_area 
 	}
 }
 ########################################
