@@ -432,7 +432,8 @@ canaan_region = {
 nova_zemja_region = { 
 	areas = { 
 		vietnam_area north_laos_area central_thai_area northern_thai_area cambodia_area mekong_area angkor_area champa_area khorat_area tay_nguyen_area
-		red_river_delta_area sukhothai_area champasak_area vientiane_area terrainia_area mahitsk_area czesblag_area queensland_area 
+		red_river_delta_area sukhothai_area champasak_area vientiane_area terrainia_area mahitsk_area czesblag_area queensland_area fisker_area bunets_area
+		zalea_area vitsyelya_area tharholm_area safe_area nisposhti_area bufdia_area 
 	}
 	monsoon = { 
 		00.05.01

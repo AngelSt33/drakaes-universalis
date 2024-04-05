@@ -1018,7 +1018,7 @@ vostani_area = {  #3 #Middle Egypt
 }
 said_area = {  #5 #Upper Egypt
 
-	1231 4319 4320 
+	4319 4320 
 }
 tripolitania_area = {  #4
 
@@ -1093,7 +1093,7 @@ betsimasaraka_area = {  #3
 }
 sakalava_area = {  #5
 
-	1193 1194 4022 4031 4032 
+	4022 4031 4032 
 }
 southern_madagascar = {  #4
 
@@ -1103,7 +1103,6 @@ southern_madagascar = {  #4
 lower_zambezi_area = {  #3
 
 	color = { 213 127 69 }
-	1187 1190 1191 
 }
 upper_zambezi_area = {  #3
 
@@ -1115,11 +1114,10 @@ shire_area = {  #3
 }
 butua_area = {  #3
 
-	1185 1189 
 }
 zimbabwe_area = {  #4
 
-	1184 2950 2951 2952 
+	2950 2951 2952 
 }
 ruvuma_area = {  #4
 
@@ -1131,7 +1129,7 @@ ngonde_area = {  #3
 }
 mozambique_area = {  #4
 
-	1195 4049 4020 
+	4049 4020 
 }
 uticulo_makuana_area = {  #3
 
@@ -1139,15 +1137,13 @@ uticulo_makuana_area = {  #3
 }
 quelimane_area = {  #3
 
-	1183 1186 1192 
 }
 limpopo_area = {  #4
 
-	1181 1800 
+	1800 
 }
 central_swahili_coast_area = {  #5
 
-	1196 1197 1198 1199 
 }
 northern_swahili_coast_area = {  #3
 
@@ -1223,12 +1219,12 @@ ogaden_area = {  #5
 }
 darfur_central_sahara_area = {  #5
 
-	1219 2801 2802 2932 
+	2801 2802 2932 
 }
 kurdufan_area = {  #3
 
 	color = { 97 110 203 }
-	1216 1221 2800 
+	2800 
 }
 lower_nubia_area = {  #3
 
@@ -1236,27 +1232,26 @@ lower_nubia_area = {  #3
 }
 dongola_area = {  #3
 
-	1220 1228 1229 
 }
 upper_nubia_area = {  #5
 
-	1222 1226 1225 2797 2798 
+	2797 2798 
 }
 sennar_area = {  #3
 
-	1217 2799 4033 
+	2799 4033 
 }
 red_sea_coast_area = {  #4
 
-	1230 1232 2787 
+	1232 2787 
 }
 tigray_area = {  #4
 
-	1227 2767 2771 
+	2767 2771 
 }
 ifat_area = {  #4
 
-	1212 2773 2793 
+	2773 2793 
 }
 somaliland_area = {  #5
 
@@ -1268,11 +1263,10 @@ southern_ethiopia_area = {  #4
 }
 hadiya_area = {  #3
 
-	1218 
 }
 central_ethiopia_area = {  #5
 
-	1214 1223 1224 2769 2772 
+	2769 2772 
 }
 damot_area = {  #3
 
@@ -1280,11 +1274,11 @@ damot_area = {  #3
 }
 aussa_area = {  #4
 
-	1215 2768 
+	2768 
 }
 shewa_area = {  #3
 
-	1213 2791 
+	2791 
 }
 mogadishu_area = {  #5
 
@@ -4524,4 +4518,28 @@ czesblag_area = {
 }
 queensland_area = { 
 	1182 1205 1204 1211 
+}
+fisker_area = { 
+	1195 1193 1223 1222 1184 
+}
+bunets_area = { 
+	1230 1227 1226 1228 1229 
+}
+zalea_area = { 
+	1191 1231 1192 1224 1225 
+}
+vitsyelya_area = { 
+	1218 1183 1194 1219 1220 
+}
+tharholm_area = { 
+	1181 1212 1217 1216 1214 
+}
+safe_area = { 
+	1186 1189 1187 1185 
+}
+nisposhti_area = { 
+	1198 1197 1199 1213 
+}
+bufdia_area = { 
+	1196 1215 1221 1190 
 }
