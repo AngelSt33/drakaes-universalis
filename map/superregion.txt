@@ -16,7 +16,7 @@ aristios = {
 	almeria_region sanctus_region sethris_region 
 }
 varn_torum = { 
-	varn_torum_region ostra_novum_region iremith_region kaer_hrafin_region 
+	varn_torum_region ostra_novum_region iremith_region kaer_hrafin_region astrya_novum_region 
 }
 yaszuma = { 
 	yaszuma_region applernia_region 
@@ -41,18 +41,18 @@ titania = {
 	titania_region canaan_region osria_region 
 }
 ellysia = { 
-	ellysia_region rhineland_region gennisi_region soumenia_region
+	ellysia_region rhineland_region gennisi_region soumenia_region 
 }
 leviathan's_realm = { 
 	barbossa_region stormgova_region urak_region 
 }
 rodinnbrok = { 
-	rodinnbrok_region mercury_region bernardland_region tortuga_region nova_zemja_region
+	rodinnbrok_region mercury_region bernardland_region tortuga_region nova_zemja_region 
 }
 ##Elaresh
 grand_farencia = { 
 	helsia_region garxijos_region farencia_region 
 }
 drak_yamar = { 
-	illystra_region drakonia_region euclidea_region 
+	illystra_region drakonia_region euclidea_region druk_yul_region 
 }
