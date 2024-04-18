@@ -381,7 +381,7 @@ soumenia_region = {
 mercury_region = { 
 	areas = { 
 		north_sumatra_area central_sumatra_area south_sumatra_area jambi_area tenasserim_area malaya_area johor_area north_malaya_area north_tenasserim_area malacca_area
-		batak_area minangkabau_area indian_ocean_islands_area 
+		batak_area minangkabau_area indian_ocean_islands_area abubutor_area ninait_area idelia_area geliwen_area neutravia_area evrovris_area 
 	}
 	monsoon = { 
 		00.10.01
@@ -395,7 +395,8 @@ mercury_region = {
 tortuga_region = { 
 	areas = { 
 		molluca_area sulawesi_area luzon_area southern_luzon_area mindanao_area west_mindanao_area visayas_area palawan_area papua_area vogelkop_area
-		timor_area south_sulawesi_area makassar_area spice_islands_area 
+		timor_area south_sulawesi_area makassar_area spice_islands_area marcianople_area prota_area sodalis_area laga_area hafenstadt_area alicante_area
+		lyndell_area esaria_area 
 	}
 	monsoon = { 
 		00.10.01
@@ -409,7 +410,7 @@ tortuga_region = {
 bernardland_region = { 
 	areas = { 
 		kutai_area brunei_area kalimantan_area banjar_area sabah_area east_java_area central_java_area west_java_area lesser_sunda_islands_area indonesian_islands_area
-		surabaya_area banten_area 
+		surabaya_area banten_area lyshus_area båthalsen_area porsham_area honninghalsen_area stoknes_area kiviora_area talbina_area 
 	}
 	monsoon = { 
 		00.11.01
@@ -423,6 +424,7 @@ bernardland_region = {
 canaan_region = { 
 	areas = { 
 		polynesia_area micronesia_area west_micronesia_area melanesia_area fiji_area te_ika_a_maui_hauauru_area te_ika_a_maui_waho_area te_waipounamu_area northern_polynesia_area eastern_polynesia_area
+		titan's_demise_area anorlondo_area direhelm_area trinia_area catieras_area farreach_area borsier_area levanne_area boulderbury_area myerson_area
 	}
 	monsoon = { 
 		00.07.01
@@ -432,7 +434,8 @@ canaan_region = {
 nova_zemja_region = { 
 	areas = { 
 		vietnam_area north_laos_area central_thai_area northern_thai_area cambodia_area mekong_area angkor_area champa_area khorat_area tay_nguyen_area
-		red_river_delta_area sukhothai_area champasak_area vientiane_area terrainia_area mahitsk_area czesblag_area queensland_area 
+		red_river_delta_area sukhothai_area champasak_area vientiane_area terrainia_area mahitsk_area czesblag_area queensland_area fisker_area bunets_area
+		zalea_area vitsyelya_area tharholm_area safe_area nisposhti_area bufdia_area 
 	}
 	monsoon = { 
 		00.05.01
