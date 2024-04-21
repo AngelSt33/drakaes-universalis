@@ -1,3 +1,0 @@
-# Jorvick
-JVK = "countries/Jorvick.txt"
-TRE = "countries/Treelords.txt"

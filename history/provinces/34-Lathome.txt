@@ -1,18 +1,15 @@
 #Lathome
-
-owner = JVK
-controller = JVK
-add_core = JVK
+owner = YOA
+controller = YOA
 culture = jorv
 religion = hussite
-hre = no
-base_tax = 3 
+base_tax = 3
 base_production = 3
 trade_goods = fur
 base_manpower = 1
 capital = "Lathome"
 is_city = yes
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = nomad_group
+add_core = YOA

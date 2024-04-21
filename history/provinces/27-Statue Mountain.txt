@@ -1,18 +1,15 @@
 #Statue Mountain
-
-owner = JVK
-controller = JVK
-add_core = JVK
+owner = SAR
+controller = SAR
 culture = jorv
 religion = catholic
-hre = no
-base_tax = 3 
+base_tax = 3
 base_production = 3
 trade_goods = grain
 base_manpower = 2
 capital = "Statue Mountain"
 is_city = yes
-fort_15th = yes
-
 discovered_by = western
 discovered_by = eastern
+add_core = SAR
+fort_15th = yes

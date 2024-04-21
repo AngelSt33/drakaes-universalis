@@ -1,6 +1,6 @@
 #Southern Treelords
-owner = JVK
-controller = JVK
+owner = TRE
+controller = TRE
 culture = treelordian
 religion = catholic
 base_tax = 1

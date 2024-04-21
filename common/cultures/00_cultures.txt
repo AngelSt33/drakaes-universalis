@@ -218,7 +218,7 @@ Valdic {
 	}
 }
 
-Vlondsi {
+Vlonsi {
 	graphical_culture = muslimgfx
 	
 	andlirian {
@@ -267,7 +267,7 @@ Aristii {
 		}
 	}
 	
-	ameria {
+	almeria {
 		male_names = {
 			Joe
 		}

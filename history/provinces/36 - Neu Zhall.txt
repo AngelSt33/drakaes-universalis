@@ -1,17 +1,14 @@
 #Neu Zhall
-
-owner = JVK
-controller = JVK
-add_core = JVK
+owner = YOA
+controller = YOA
 culture = jorv
 religion = hussite
-hre = no
 base_tax = 4
 base_production = 4
 trade_goods = grain
 base_manpower = 2
 capital = "Neu Zhall"
 is_city = yes
-
 discovered_by = western
 discovered_by = eastern
+add_core = YOA

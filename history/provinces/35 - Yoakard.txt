@@ -1,17 +1,14 @@
 #Yoakard
-
-owner = JVK
-controller = JVK
-add_core = JVK
+owner = YOA
+controller = YOA
 culture = jorv
 religion = hussite
-hre = no
-base_tax = 1 
+base_tax = 1
 base_production = 1
 trade_goods = grain
 base_manpower = 1
 capital = "Yoakard"
 is_city = yes
-
 discovered_by = western
 discovered_by = eastern
+add_core = YOA

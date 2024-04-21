@@ -1,7 +1,7 @@
 # Jorvick
 graphical_culture = westerngfx
 
-color = {      }
+color = { 119 170 219 }
 revolutionary_colors = {    }
 
 historical_idea_groups = {

@@ -1,19 +1,16 @@
 #Ciosa
-
-owner = JVK
-controller = JVK
-add_core = JVK
+owner = MUG
+controller = MUG
 culture = jorv
 religion = hussite
-hre = no
 base_tax = 3
 base_production = 3
 trade_goods = fish
 base_manpower = 2
 capital = "Ciosa"
 is_city = yes
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+add_core = MUG
