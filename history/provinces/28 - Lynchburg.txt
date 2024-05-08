@@ -1,17 +1,14 @@
 #Lynchburg
-
-owner = JVK
-controller = JVK
-add_core = JVK
+owner = SAR
+controller = SAR
 culture = jorv
 religion = hussite
-hre = no
-base_tax = 2 
+base_tax = 2
 base_production = 2
 trade_goods = naval_supplies
 base_manpower = 2
 capital = "Lynchburg"
 is_city = yes
-
 discovered_by = western
 discovered_by = eastern
+add_core = SAR
