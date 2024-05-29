@@ -1,0 +1,35 @@
+
+# DRAKONIA
+graphical_culture = westerngfx
+
+color = {      }
+revolutionary_colors = {    }
+
+historical_idea_groups = {
+offensive_ideas
+defensive_ideas
+trade_ideas
+administrative_ideas
+spy_ideas
+economic_ideas
+innovativeness_ideas
+diplomatic_ideas
+quality_ideas
+religious_ideas
+maritime_ideas
+}
+
+army_names = {
+}
+
+fleet_names = {
+}
+
+leader_names = {
+}
+
+monarch_names = {
+}
+
+ship_names = {
+}
