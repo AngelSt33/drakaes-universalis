@@ -1,7 +1,7 @@
 #48 - Flortopia
 owner = MUG
 controller = MUG
-culture = jorv#idfk man
+culture = new-yoaken#idfk man
 religion = catholic
 hre = yes
 base_tax = 2

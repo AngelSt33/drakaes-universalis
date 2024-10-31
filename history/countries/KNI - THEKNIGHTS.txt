@@ -1,0 +1,5 @@
+capital = 49
+technology_group = 
+government = theocracy
+add_government_reform = monastic_order_reform
+government_rank = 1

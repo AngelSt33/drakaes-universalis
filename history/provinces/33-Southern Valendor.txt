@@ -13,3 +13,4 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = nomad_group
 add_core = MUG
+culture = treelordian

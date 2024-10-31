@@ -7,7 +7,6 @@ NID = "countries/Nidaros.txt"
 YOA = "countries/NewYoake.txt"
 SAR = "countries/SarorHaven.txt"
 SME = "countries/Smegsville.txt"
-
 #Western Drakaes
 ABA = "countries/Abadyyenau.txt"
 ACI = "countries/Aciester.txt"
@@ -20,16 +19,11 @@ MUG = "countries/Mugen.txt"
 KON = "countries/Konigsburg.txt"
 SEB = "countries/Seeburg.txt"
 TAE = "countries/Taernsbia.txt"
-
-
 #Rest of Drakaesh
 ACO = "countries/Acolytes.txt"
 ADO = "countries/Andorn.txt"
-
 #Katsura
-
 #South Astios
-
 #North Astios
 ABN = "countries/Abaddon.txt"
 AKI = "countries/Akirashalam.txt"
@@ -37,26 +31,17 @@ ALA = "countries/Alavan.txt"
 ALI = "countries/Alitheia.txt"
 APP = "countries/Applernia.txt"
 ARC = "countries/AristiosCommonwealth.txt"
-
-
 #Elaresh
 AIO = "countries/Aionios.txt"
-
 #West Phormyrr
 BAR = "countries/Barbossa.txt"
 UKA = "countries/Uraka.txt"
-
-
 #East Phormyrr
 ADR = "countries/Andor.txt"
 AKA = "countries/Akarechi.txt"
-
-
 #Onthukkan
 ANG = "countries/Anglunia.txt"
-
 #unordered
-
 ALS = "countries/Alshire.txt"
 AMA = "countries/Amagoria.txt"
 APO = "countries/Apolis.txt"

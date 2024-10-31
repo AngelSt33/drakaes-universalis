@@ -1,7 +1,7 @@
 #Receba
 owner = AND
 controller = AND
-culture = jorv
+culture = andlirian
 religion = hussite
 base_tax = 5
 base_production = 5

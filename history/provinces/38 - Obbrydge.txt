@@ -1,7 +1,7 @@
 #Obbrydge
 owner = YOA
 controller = YOA
-culture = jorv
+culture = new-yoaken
 religion = catholic
 base_tax = 5
 base_production = 5

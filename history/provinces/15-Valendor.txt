@@ -1,7 +1,7 @@
 #15 - Valendor
 owner = MUG
 controller = MUG
-culture = jorv
+culture = treelordian
 religion = hussite
 base_tax = 2
 base_production = 2

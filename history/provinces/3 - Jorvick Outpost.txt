@@ -1,7 +1,7 @@
 #Jorvick Outpostm, idk where this is tbh -dan
 owner = MUG
 controller = MUG
-culture = jorv
+culture = nidarosean
 religion = hussite
 base_tax = 2
 base_production = 2

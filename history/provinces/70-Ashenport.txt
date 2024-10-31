@@ -1,7 +1,7 @@
 #Ashenport
 owner = AVA
 controller = AVA
-culture = jorv
+culture = nujharian
 religion = hussite
 base_tax = 5
 base_production = 5

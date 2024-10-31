@@ -1,0 +1,3 @@
+capital = 1056
+technology_group = 
+government_rank = 1
