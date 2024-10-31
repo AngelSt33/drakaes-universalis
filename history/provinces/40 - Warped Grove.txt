@@ -1,7 +1,7 @@
 #Warped Grove
 owner = YOA
 controller = YOA
-culture = jorv
+culture = new-yoaken
 religion = catholic
 capital = "Warped Grove"
 trade_goods = livestock

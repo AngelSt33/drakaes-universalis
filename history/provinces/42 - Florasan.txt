@@ -2,7 +2,7 @@
 owner = YOA
 controller = YOA
 capital = "Florasan"
-culture = jorv
+culture = new-yoaken
 religion = catholic
 trade_goods = naval_supplies
 base_tax = 3

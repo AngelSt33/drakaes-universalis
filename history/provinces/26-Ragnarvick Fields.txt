@@ -1,7 +1,7 @@
 #Ragnarvick Fields
 owner = SAR
 controller = SAR
-culture = jorv
+culture = neuhavn
 religion = hussite
 base_tax = 3
 base_production = 3

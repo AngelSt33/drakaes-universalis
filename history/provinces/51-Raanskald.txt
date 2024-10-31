@@ -1,7 +1,7 @@
 #Raanskald
 owner = KON
 controller = KON
-culture = jorv
+culture = new-yoaken
 religion = hussite
 base_tax = 5
 base_production = 5

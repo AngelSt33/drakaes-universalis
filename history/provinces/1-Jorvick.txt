@@ -1,12 +1,9 @@
 #Old Jorvick
-
-add_core = JVK
 owner = JVK
 controller = JVK
 culture = Jorv
-religion = hussite			#I am using hussite as a placeholder until we have the custom religions done
-hre = no
-base_tax = 5 
+religion = hussite#I am using hussite as a placeholder until we have the custom religions done
+base_tax = 5
 base_production = 5
 trade_goods = grain
 base_manpower = 3

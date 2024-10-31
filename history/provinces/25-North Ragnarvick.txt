@@ -16,3 +16,4 @@ extra_cost = 8
 center_of_trade = 1
 add_core = SAR
 fort_15th = yes
+culture = neuhavn

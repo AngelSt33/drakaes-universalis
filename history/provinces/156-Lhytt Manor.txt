@@ -1,7 +1,7 @@
 #Lhytt Manor
 owner = AMP
 controller = AMP
-culture = jorv
+culture = andlirian
 religion = hussite
 base_tax = 5
 base_production = 5

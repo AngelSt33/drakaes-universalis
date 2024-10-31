@@ -1,7 +1,7 @@
 #Northern Tip
 owner = AND
 controller = AND
-culture = jorv
+culture = andlirian
 religion = hussite
 base_tax = 1
 base_production = 1

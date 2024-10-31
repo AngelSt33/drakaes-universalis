@@ -1,7 +1,7 @@
 #Verdesburg Forest
 owner = AND
 controller = AND
-culture = jorv
+culture = andlirian
 religion = hussite
 base_tax = 2
 base_production = 3

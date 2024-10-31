@@ -1,7 +1,7 @@
 #Sora
 owner = SAR
 controller = SAR
-culture = jorv
+culture = neuhavn
 religion = hussite
 base_tax = 2
 base_production = 2

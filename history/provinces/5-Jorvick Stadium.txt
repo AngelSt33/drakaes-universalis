@@ -1,7 +1,7 @@
 #Jorvick Stadium, once again got no clue where tf this is
 owner = MUG
 controller = MUG
-culture = jorv
+culture = nidarosean
 religion = hussite
 base_tax = 1
 base_production = 1

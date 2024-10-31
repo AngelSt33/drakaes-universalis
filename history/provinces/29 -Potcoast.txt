@@ -1,7 +1,7 @@
 #Potcoast
 owner = SAR
 controller = SAR
-culture = jorv
+culture = neuhavn
 religion = catholic
 base_tax = 1
 base_production = 1
