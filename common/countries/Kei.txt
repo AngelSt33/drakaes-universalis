@@ -1,6 +1,6 @@
-# Abaddon
+# Kei
 graphical_culture = westerngfx
-color = { }
+color = {214 102 152}
 revolutionary_colors = { }
 historical_idea_groups = { 
 	offensive_ideas
