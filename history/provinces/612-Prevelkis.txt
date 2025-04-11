@@ -1,6 +1,6 @@
 #Prevelkis
-owner = JVK
-controller = JVK
+owner = TAE
+controller = TAE
 culture = Jorv
 religion = hussite
 base_tax = 5
@@ -13,3 +13,4 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+add_core = TAE

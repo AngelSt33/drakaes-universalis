@@ -1,4 +1,4 @@
-# Treelords
+# Aciester
 graphical_culture = westerngfx
 color = { }
 revolutionary_colors = { }

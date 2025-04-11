@@ -1,4 +1,4 @@
-# Abaddon
+# AURICA after Shogunate
 graphical_culture = westerngfx
 color = { }
 revolutionary_colors = { }
