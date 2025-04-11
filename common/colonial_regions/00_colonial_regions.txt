@@ -1,0 +1,120 @@
+# Katsura
+colonial_katsura = {
+	color = { 225 225 225 }
+
+	# Random New World
+	tax_income = 0
+	native_size = 8
+	native_ferocity = 1
+	native_hostileness = 4
+
+	trade_goods = {
+		fur = 10
+		fish = 3
+		naval_supplies = 2
+		gold = 2
+	}
+
+	culture = {
+		inuit = 10
+		aleutian = 8
+	}
+
+	religion = {
+		shamanism = 10
+	}
+
+provinces = {
+	725 726 727 728 729 730 731 732 733 734 735 736 737 738 739 740 741 742 743 744
+	745 746 747 748 749 750 751 752 753 754 755 756 757 758 759 760 761 762 763 764
+	765 766 767 768 769 770 771 772 773 774 775 776 777 778 779 780 781 782 783 902
+	903 904 905 906 907 908 909 910 911 912 913 914 915 916 917 918 919 920
+}
+
+
+
+# Used for RNW
+colonial_placeholder_1 = {
+	color = { 211 108 45 }
+}
+
+colonial_placeholder_2 = {
+	color = { 152 148 183 }
+}
+
+colonial_placeholder_3 = {
+	color = { 247 158 146 }
+}
+
+colonial_placeholder_4 = {
+	color = { 20 107 142 }
+}
+
+colonial_placeholder_5 = {
+	color = { 228 168 201 }
+}
+
+colonial_placeholder_6 = {
+	color = { 13 81 174 }
+}
+
+colonial_placeholder_7 = {
+	color = { 64 54 203 }
+}
+
+colonial_placeholder_8 = {
+	color = { 171 41 160 }
+}
+
+colonial_placeholder_9 = {
+	color = { 113 23 68 }
+}
+
+colonial_placeholder_10 = {
+	color = { 95 125 183 }
+}
+
+# Used for RNW, added to support bigger tiles
+colonial_placeholder_11 = {
+	color = { 50 150 45 }
+}
+
+colonial_placeholder_12 = {
+	color = { 200 190 20 }
+}
+
+colonial_placeholder_13 = {
+	color = { 20 220 90 }
+}
+
+colonial_placeholder_14 = {
+	color = { 100 50 50 }
+}
+
+colonial_placeholder_15 = {
+	color = { 200 50 50 }
+}
+
+colonial_placeholder_16 = {
+	color = { 30 30 60 }
+}
+
+colonial_placeholder_17 = {
+	color = { 90 70 100 }
+}
+
+colonial_placeholder_18 = {
+	color = { 90 140 30 }
+}
+
+colonial_placeholder_19 = {
+	color = { 140 60 30 }
+}
+
+colonial_placeholder_20 = {
+	color = { 140 30 70 }
+}
+
+colonial_placeholder_21 = {
+	color = { 140 130 70 }
+}
