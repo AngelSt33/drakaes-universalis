@@ -1,6 +1,6 @@
 width = 4736
 height = 2432
-max_provinces = 4348
+max_provinces = 4941
 
 sea_starts = { }
 only_used_for_random = { }
