@@ -23,8 +23,53 @@ leader_names = {
 	"Oswyn Frilleck"
 	"Sabine Crugge"
 	"Brian Wynstryngham"
+	"Sabine Lucy"
+	"Clementia Sigericdottir"
+	"Toka Vredeveld"
+	"Alviva Panzinger"
+	"Cynesige Klugman"
+	"Livitha Flower"
+	"Anthony Rogge"
+	"Augustin Dale"
+	"Janneke Hanfstaengl"
+	"Dorothy Herz"
 }
-monarch_names = { 
+monarch_names = {
+	"Oswyn" = +1
+	"Borstig" = +1
+	"Tobias" = +1
+	"Gunteric" = +1
+	"Bartholomew" = +1
+	"Sampson" = +1
+	"Mert" = +1
+	"Stannard" = +1
+	"Fritz" = +1
+	"Pascoe" = +1
+	"Barbara" = -1
+	"Glismoda" = -1
+	"Helen" = -1
+	"Megan-Laureen" = -1
+	"Sien" = -1
+	"Milda" = -1
+	"Sibilla" = -1
+	"Elske" = -1
+	"Teja" = -1
+	"Loveday" = -1
 }
-ship_names = { 
+ship_names = {
+	"Gone Too Far West Son"
+	"Wave Zephyr Misadventure"
+	"Dimsey's Light Runemarked Sorrow"
+	"Reflective Spider Ortenzia"
+	"Broken Sigil Song of Cedar Mere"
+	"Patience Slayer's Terror"
+	"Mason's Folly Earthdon's Heart"
+	"True Witch Rune Gull"
+	"Earthdon's Heart Chaoticfish"
+	"Aquilon Wind Seeker"
+	"Titan's Bard Dordrecht"
+	"Six of the Sky Keen of Torcradle"
+	"Chained Tempest Darvin's Cry"
+	"Hallowed Gale Sharp Swan of Torhof"
+	"Runner's Despair Dead God"
 }

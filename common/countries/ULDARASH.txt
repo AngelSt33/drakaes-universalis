@@ -23,8 +23,53 @@ leader_names = {
 	"Jurrien Dietten"
 	"Gilot Pennebrygg"
 	"Bartholomew Lodyngton"
+	"Ambrose Clopton"
+	"Philippa Gudlaugdottir"
+	"Janucho Boer"
+	"Henkie Fakereach"
+	"Marlene Kohnstamm"
+	"Feenja Rampston"
+	"Seda Kinnie"
+	"Helmina Hobart"
+	"Willemein Weingaertner"
+	"Avagisa Copinger"
 }
-monarch_names = { 
+monarch_names = {
+	"Wicing" = +1
+	"Hrapp" = +1
+	"Warin" = +1
+	"Thomas" = +1
+	"Orgumleidi" = +1
+	"Luuk" = +1
+	"Fravitta" = +1
+	"Jon" = +1
+	"Guy" = +1
+	"Arne" = +1
+	"Muriel" = -1
+	"Ellen" = -1
+	"Loveday" = -1
+	"Theda" = -1
+	"Laura" = -1
+	"Werthiva" = -1
+	"Joyce" = -1
+	"Dineke" = -1
+	"Helewis" = -1
+	"Malasintha" = -1
 }
-ship_names = { 
+ship_names = {
+	"Watcher Mad Wyvern"
+	"Crimson Singer Mistress of the Waves"
+	"Slayer's Terror Dimsey's Light"
+	"Bold Venture Escape"
+	"Outlander Burning Vulture"
+	"Runemarked Sorrow Osprey's Pride"
+	"Fluke Snowblind Wake"
+	"Thorn-Gilded Curse Bird of Cousin's Eye"
+	"Wish of Carlusk Dordrecht"
+	"Hearty Twice Sunk"
+	"Wailing Wyrm Carrier"
+	"The Long Cold Earthdon's Heart"
+	"Gilded Shade Omen"
+	"Side Quest Eight of the Waves"
+	"Cabin Fever Arunta"
 }

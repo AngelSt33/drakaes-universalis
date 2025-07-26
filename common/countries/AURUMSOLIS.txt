@@ -23,8 +23,53 @@ leader_names = {
 	"Rayko Harig"
 	"Cynesige the Goofy"
 	"Aelric Parsons"
+	"Amelina Stoughton"
+	"Eliza Fodde"
+	"Bart Vredeveld"
+	"Ava Stier"
+	"Tiecia Clopton"
+	"Tobias Kats"
+	"Maurits Dietten"
+	"Christiane Schulte"
+	"Ad Frilleck"
+	"Millicent Fraunces"
 }
-monarch_names = { 
+monarch_names = {
+	"Edric" = +1
+	"Eelco" = +1
+	"Ulfketel" = +1
+	"Hjarrandi" = +1
+	"Warin" = +1
+	"Nigel" = +1
+	"Nicholas" = +1
+	"Kaetilmund" = +1
+	"Mert" = +1
+	"Isaac" = +1
+	"Maria" = -1
+	"Susanna" = -1
+	"Bergljot" = -1
+	"Enota" = -1
+	"Hrodny" = -1
+	"Feenja" = -1
+	"Asgerd" = -1
+	"Rosamund" = -1
+	"Amalfrida" = -1
+	"Melle" = -1
 }
-ship_names = { 
+ship_names = {
+	"Sea Golem Watcher"
+	"Great Expense Serpent"
+	"Ashen Grin Omen"
+	"Hot Flush Glace Bay"
+	"Hull Camel Pale Hammer"
+	"Celerity Hearty"
+	"Iron Devil Melody"
+	"Mad Wyvern Discreet Secret"
+	"Greedy Dragon Wailing Wyrm"
+	"Oathbound Drift Outlander"
+	"Abingdon Deathwind"
+	"Whisper Wind Song"
+	"Cruel Dagger Pathfinder"
+	"Silverfang Gale Saltheart"
+	"Haunted Gambit Ironhowl Maiden"
 }

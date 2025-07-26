@@ -23,8 +23,53 @@ leader_names = {
 	"Harm Duchateau"
 	"Pier Luppe"
 	"Clarissa Ryall"
+	"Monia Addicock"
+	"Eystein Auldyngton"
+	"Joycelin Luchtenberg"
+	"Liene Carsjes"
+	"Nufro Foliot"
+	"Magdelena Hogewind"
+	"Alicia Reimink"
+	"Samuel Geirsteinsson"
+	"Stephen Wynter"
+	"Toos Thorgeirsson"
 }
-monarch_names = { 
+monarch_names = {
+	"Ambrose" = +1
+	"Jacob" = +1
+	"Gawain" = +1
+	"Matthew" = +1
+	"Skorri" = +1
+	"Joscelin" = +1
+	"Diggory" = +1
+	"Huibert" = +1
+	"Pascoe" = +1
+	"Thurston" = +1
+	"Sigrith" = -1
+	"Mary" = -1
+	"Avagisa" = -1
+	"Glismoda" = -1
+	"Mathilda" = -1
+	"Asgerd" = -1
+	"Anna" = -1
+	"Werthiva" = -1
+	"Melle" = -1
+	"Theda" = -1
 }
-ship_names = { 
+ship_names = {
+	"Dakins Fate"
+	"Outlander Sky Wizard"
+	"WyrmeEyed Wanderer Gull's Shadow"
+	"Crimson Singer The Hollow Wolf"
+	"Princess's Shadow Anne"
+	"Cursed Raven The Last Meadfire"
+	"Spirit Compass"
+	"Success Wolf-Touched Mist"
+	"Ashen Grin Pillager"
+	"Pillager Wyrm-Wind Seeker"
+	"The Gilded Fen Celerity"
+	"Barrowbound Flame Patience"
+	"Tentacle Reflective Spider"
+	"Burning Fjord Thornborough"
+	"Howling Spear Hatherleigh"
 }

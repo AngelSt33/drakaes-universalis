@@ -23,8 +23,53 @@ leader_names = {
 	"Merewin Cleffort"
 	"Cornelius Seger"
 	"Odo Cantilupe"
+	"Livitha Harig"
+	"Fulgencio Burgh"
+	"Katrien Mylner"
+	"Karlijn Stappenbeld"
+	"Bergljot Wegman"
+	"Ontanon Ryall"
+	"Alviva Smalbroek"
+	"Lorelei Sternberg"
+	"Ute Balam"
+	"Jochum Hadresham"
 }
-monarch_names = { 
+monarch_names = {
+	"Leon" = +1
+	"Henry" = +1
+	"Thorkel" = +1
+	"Bruni" = +1
+	"Aithanarid" = +1
+	"Gilbert" = +1
+	"Pascoe" = +1
+	"Gawain" = +1
+	"Eustace" = +1
+	"Athelstan" = +1
+	"Euphemia" = -1
+	"Glismoda" = -1
+	"Earngith" = -1
+	"Godlefe" = -1
+	"Thjodhild" = -1
+	"Bergljot" = -1
+	"Gudeliva" = -1
+	"Leofe" = -1
+	"Isabel" = -1
+	"Gilot" = -1
 }
-ship_names = { 
+ship_names = {
+	"Serpent Hearthless Flight"
+	"Slayer's Terror Lalmourn"
+	"Crimson Barrow Kraken"
+	"Oathwither Song Luminous Runner"
+	"Fallow Vengeance Dimsey's Light"
+	"Thornborough Misadventure"
+	"Loyalty Thorn-Gilded Curse"
+	"Discreet Secret Hallowed Gale"
+	"Six of the Sky Crimson Barrow"
+	"Devil's Roar Melody"
+	"Dragon's Wail Swanless Wake"
+	"Hunter Sunless Mare"
+	"Horror Wish Surprise"
+	"Sky Wizard West Son"
+	"Burning Fjord Fluke"
 }

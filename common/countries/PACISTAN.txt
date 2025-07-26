@@ -23,8 +23,53 @@ leader_names = {
 	"Jacoliene aan Mullekes"
 	"Brian Wynstryngham"
 	"Kobus Veer"
+	"Sunigilda Femer"
+	"Alviva Fodde"
+	"Michaela Cranford"
+	"Elgar Robertson"
+	"Ljot Schans"
+	"Mechiel Schumer"
+	"Ruby Wrenne"
+	"Tori Wynston"
+	"Reggy Marten"
+	"Elyas Bain"
 }
-monarch_names = { 
+monarch_names = {
+	"Conan" = +1
+	"Alan" = +1
+	"Gerard" = +1
+	"Roger" = +1
+	"Lewin" = +1
+	"Patrick" = +1
+	"Stijn" = +1
+	"Adrian" = +1
+	"Torkel" = +1
+	"Edward" = +1
+	"Hild" = -1
+	"Alice" = -1
+	"Asgerd" = -1
+	"Regina" = -1
+	"Eve" = -1
+	"Goditha" = -1
+	"Acelina" = -1
+	"Ingrid" = -1
+	"Avagisa" = -1
+	"Wilamin" = -1
 }
-ship_names = { 
+ship_names = {
+	"Rune Gull Osprey's Pride"
+	"Nevermore Burning Vulture"
+	"Bird of Cousin's Eye Whisper"
+	"WyrmeEyed Wanderer Side Quest"
+	"Waking Dream Thorn-Gilded Curse"
+	"The Wolf's Regret Thornborough"
+	"Chaoticfish Melody"
+	"Clove Tree Windsunder Moon"
+	"Whisper Demon"
+	"Six of the Sky Mason's Folly"
+	"The Gilded Fen Kempenfelt"
+	"Zhuirentel Fate"
+	"Burning Fjord Victory"
+	"Wem Windsunder Moon"
+	"Kraken Mason's Folly"
 }

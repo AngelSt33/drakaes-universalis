@@ -23,8 +23,53 @@ leader_names = {
 	"Bricteva Kyllyngworth"
 	"Beatrice Schachtschneider"
 	"Tim Steinhaeusser"
+	"Aethilheard Kass"
+	"Joycelin Molyns"
+	"Fulgencio Bewforest"
+	"Gawain Badby"
+	"Helewis Whowood"
+	"Lucon Omvlee"
+	"Harald Ehrlinger"
+	"Henk-Jan Berger"
+	"Saegifu Damsell"
+	"Janneke Holthusen"
 }
-monarch_names = { 
+monarch_names = {
+	"Isaak" = +1
+	"Thurston" = +1
+	"Solomon" = +1
+	"Borstig" = +1
+	"Hanno" = +1
+	"Michael" = +1
+	"Totila" = +1
+	"Maurice" = +1
+	"Reginald" = +1
+	"Louw" = +1
+	"Gunnora" = -1
+	"Matasuntha" = -1
+	"Jorunn" = -1
+	"Goditha" = -1
+	"Gudrun" = -1
+	"Alfleta" = -1
+	"Helen" = -1
+	"Alice" = -1
+	"Amalfrida" = -1
+	"Melle" = -1
 }
-ship_names = { 
+ship_names = {
+	"Blade True Witch"
+	"Killowen Path Salamander of Griffinsway"
+	"Beehive Silverfang Gale"
+	"Carrier Burning Inn"
+	"Falling Star Unlikely Breaker"
+	"Devil's Contract Red-Eyed Stag"
+	"Horror Wish Kraken"
+	"Lavendar Demon Earth Hippogriff of Maresmeet"
+	"Fallow Vengeance Jasper"
+	"Osprey's Pride Seeker"
+	"Whiskey Chaser Kraken"
+	"Enterprise Ashen Grin"
+	"The Hollow Wolf Kraken"
+	"Path Salamander of Griffinsway Dordrecht"
+	"Buccaneer Blood-Grey Wave"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Alex Abend"
 	"Giles Bosby"
 	"Emeline Elmebrigge"
+	"Friederike Abery"
+	"Thordis Hilbers"
+	"Simon Marten"
+	"Merina Bradshawe"
+	"Arias Willardsey"
+	"Kobus Hache"
+	"Emeline Vetter"
+	"Parnell Elmebrigge"
+	"Avagisa Kooiman"
+	"Amala Brayles"
 }
-monarch_names = { 
+monarch_names = {
+	"Wulsi" = +1
+	"Godwin" = +1
+	"Sindila" = +1
+	"Martin" = +1
+	"Heiko" = +1
+	"Ulric" = +1
+	"Elric" = +1
+	"Odo" = +1
+	"Maik" = +1
+	"Matteo" = +1
+	"Ingaret" = -1
+	"Sedehana" = -1
+	"Nicola" = -1
+	"Mathilda" = -1
+	"Catherine" = -1
+	"Sigrunn" = -1
+	"Amalfrida" = -1
+	"Livitha" = -1
+	"Megan-Laureen" = -1
+	"Matasuntha" = -1
 }
-ship_names = { 
+ship_names = {
+	"Burning Fjord Hull Camel"
+	"Gordia's Light Stone Gnoll"
+	"Wind Seeker Nymphen"
+	"Sunless Mare Seeker"
+	"Possessedfish Beehive"
+	"Death Rattle Kempenfelt"
+	"Twice Sunk Fallow Vengeance"
+	"Glace Bay Sorrow Warlock's Harpy"
+	"Compass Beggar of Beastsshield"
+	"Wyrm-Wind Seeker Fell Wight"
+	"Wolf-Touched Mist Raglan"
+	"Kempenfelt Bitterwake Cry"
+	"Windsunder Moon Devil's Contract"
+	"Shatterhelm Shriek Wave Zephyr"
+	"Beehive Shadow-Girded Lash"
 }

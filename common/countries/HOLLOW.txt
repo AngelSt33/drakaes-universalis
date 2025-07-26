@@ -23,8 +23,53 @@ leader_names = {
 	"Cecily Chancey"
 	"Fulke Key"
 	"Vivien Holthusen"
+	"Nigel Nafnidottir"
+	"Alrik Hartstein"
+	"David Harwood"
+	"Sabine Luppe"
+	"Michaela Cranford"
+	"Mieke Bain"
+	"Richard Weingaertner"
+	"Gaut Montacute"
+	"Rob Ragisson"
+	"Alfleta Ingolfdottir"
 }
-monarch_names = { 
+monarch_names = {
+	"Seman" = +1
+	"Uraias" = +1
+	"Humphrey" = +1
+	"Godric" = +1
+	"Solomon" = +1
+	"Guy" = +1
+	"Diggory" = +1
+	"Philips" = +1
+	"Drogo" = +1
+	"Tedric" = +1
+	"Emilia" = -1
+	"Aldreda" = -1
+	"Mathilde" = -1
+	"Agnes" = -1
+	"Isabel" = -1
+	"Dorothy" = -1
+	"Heidi" = -1
+	"Millicent" = -1
+	"Gudeliva" = -1
+	"Earngith" = -1
 }
-ship_names = { 
+ship_names = {
+	"Fate Earthdon's Heart"
+	"Carrier Whisper's Hope"
+	"Bold Venture Carrier"
+	"Red-Eyed Stag Stone Gnoll"
+	"Clove Tree Princess's Shadow"
+	"Valhalla Horror Wish"
+	"Twilight Reaver Nevermore"
+	"Compass Earthdon's Heart"
+	"Sorcerer's Nymph Surprise"
+	"Pale Hammer Side Quest"
+	"Rime-Touched Valor Cruel Hunter"
+	"Sunburn Discreet Secret"
+	"Valhalla Frostbitten Rook"
+	"The Withering Hunt Earth Hippogriff of Maresmeet"
+	"Gordia's Light Thornborough"
 }

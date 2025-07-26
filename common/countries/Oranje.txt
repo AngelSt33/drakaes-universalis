@@ -23,8 +23,53 @@ leader_names = {
 	"Ludovic Cranford"
 	"Gamel Town"
 	"Stannard Ashenhurst"
+	"Sunigilda Stier"
+	"Heidrun-Gabriela Copinger"
+	"Livitha Bohan"
+	"Sunigilda Wohler"
+	"Ursula Arentsen"
+	"Marmaduke Huessen"
+	"Mœid Wohler"
+	"Elma Coulthurst"
+	"Vivien Biorsson"
+	"Ludovic Leifdottir"
 }
-monarch_names = { 
+monarch_names = {
+	"Henry" = +1
+	"Stans" = +1
+	"Wicing" = +1
+	"Kadal" = +1
+	"Simon" = +1
+	"Stijn" = +1
+	"Nigel" = +1
+	"Fritz" = +1
+	"Humphrey" = +1
+	"Samuel" = +1
+	"Aldreda" = -1
+	"Tiana" = -1
+	"Alice" = -1
+	"Emilia" = -1
+	"Dorothy" = -1
+	"Joy" = -1
+	"Gudrun" = -1
+	"Rimilde" = -1
+	"Asleif" = -1
+	"Wilamin" = -1
 }
-ship_names = { 
+ship_names = {
+	"Kempenfelt Blood-Grey Wave"
+	"Sorcerer's Nymph Saltheart"
+	"Swanless Wake Dragon's Wail"
+	"Wish of Carlusk Loyalty"
+	"Victory Ashen Grin"
+	"Burning Vulture Aquilon"
+	"Fluke Frostbitten Rook"
+	"Cruel Dagger Victory"
+	"Storm-Bitten Grudge Osprey's Pride"
+	"God of the Ocean Gilded Shade"
+	"Howling Spear Wellerman"
+	"Sable-Touched Omen Cuttle"
+	"Bird of Cousin's Eye Frostbitten Rook"
+	"Titan's Bard Gull's Shadow"
+	"Snowblind Wake Queen of Yorvick"
 }

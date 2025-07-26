@@ -23,8 +23,53 @@ leader_names = {
 	"Phillip Weingaertner"
 	"Nicolas Flower"
 	"Amy Bohan"
+	"Pavia Wynter"
+	"Conan Wynston"
+	"Aethilheard Staple"
+	"Torgard Luthi"
+	"Elizabeth Rosenzweig"
+	"Jurrien Coulthurst"
+	"Cornelius Outlawe"
+	"Magnus Vreeburg"
+	"Elisabeth Bodmer"
+	"Nicholas Hogewind"
 }
-monarch_names = { 
+monarch_names = {
+	"Alexander" = +1
+	"Gamel" = +1
+	"Nigel" = +1
+	"Aithanarid" = +1
+	"Jordan" = +1
+	"Cornelius" = +1
+	"Mart-jan" = +1
+	"Saewulf" = +1
+	"Bertram" = +1
+	"Warin" = +1
+	"Rachel" = -1
+	"Aldreda" = -1
+	"Alice" = -1
+	"Marjorie" = -1
+	"Sibilla" = -1
+	"Hrodny" = -1
+	"Agatha" = -1
+	"Wenthelen" = -1
+	"Enota" = -1
+	"Heidi" = -1
 }
-ship_names = { 
+ship_names = {
+	"Devil's Roar Windsong"
+	"Stone Gnoll Frostbitten Rook"
+	"Hull Camel Lavendar Demon"
+	"Whisper Devil's Contract"
+	"Silverfang Gale Aquilon"
+	"Fate Haunted Gambit"
+	"Saltheart Shatterhelm Shriek"
+	"Nymphen Obsidian Nymph"
+	"Snowblind Wake Earthdon's Heart"
+	"Celerity Path Salamander of Griffinsway"
+	"Blade The Silent Fjell"
+	"Osprey's Pride Howling Spear"
+	"Shell Voyager Greedy Dragon"
+	"Sunburn Wellerman"
+	"Ten Ruby Falcon"
 }

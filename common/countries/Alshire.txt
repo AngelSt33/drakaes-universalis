@@ -23,8 +23,53 @@ leader_names = {
 	"Samuel Ashenhurst"
 	"Jurrien Dietten"
 	"Margaret Sandes"
+	"Reginald Rondel"
+	"Hallgerd Underhill"
+	"Gijsbert Copinger"
+	"Gerard Vinter"
+	"Lowie Schachtschneider"
+	"Tristan Theobauld"
+	"Elise Kortman"
+	"Youri Norwood"
+	"Marlene Whowood"
+	"Clementia Benthey"
 }
-monarch_names = { 
+monarch_names = {
+	"Fulke" = +1
+	"Farthegn" = +1
+	"Osgood" = +1
+	"Albert" = +1
+	"Cyrila" = +1
+	"Thomas" = +1
+	"Denis" = +1
+	"Levi" = +1
+	"Beucad" = +1
+	"Sigisvult" = +1
+	"Isabel" = -1
+	"Bridget" = -1
+	"Isolde" = -1
+	"Sedehana" = -1
+	"Matasuntha" = -1
+	"Tiecia" = -1
+	"Gilot" = -1
+	"Iva" = -1
+	"Earngith" = -1
+	"Feenja" = -1
 }
-ship_names = { 
+ship_names = {
+	"Ghost Ghoul Shadow-Girded Lash"
+	"Rime-Touched Valor Spirit"
+	"Side Quest Courtesan's Sprite"
+	"Whalebane Echo Son of Colfoundry"
+	"Mason's Folly Sea Champion's Dolphin"
+	"Rider's Luck Storm-Bitten Grudge"
+	"Barrowbound Flame Raglan"
+	"Serpent Runner's Despair"
+	"Ortenzia Sorrow Warlock's Harpy"
+	"Burning Inn Surprise"
+	"Zhuirentel Void Servant of Hadiya's Spire"
+	"Wellerman Ashen Grin"
+	"Son of Colfoundry The Silent Fjell"
+	"Demon Pale Hammer"
+	"Immeral's Kiss Lavendar Demon"
 }

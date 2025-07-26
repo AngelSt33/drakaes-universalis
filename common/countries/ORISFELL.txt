@@ -23,8 +23,53 @@ leader_names = {
 	"Ivette Cooke"
 	"Protasia Addicock"
 	"Solomon Hampden"
+	"Iwan Vinter"
+	"Aethilheard Kophoff"
+	"Ava Quattlebaum"
+	"Mathies Barnes"
+	"Stijn Wegman"
+	"Sabine Koch"
+	"Asketel Horton"
+	"Friederike Penhallick"
+	"Bregje Sehlmann"
+	"Denis Hyde"
 }
-monarch_names = { 
+monarch_names = {
+	"Thorismud" = +1
+	"Julian" = +1
+	"Mert" = +1
+	"Fulke" = +1
+	"Beucad" = +1
+	"Heiko" = +1
+	"Leon" = +1
+	"Geitirgest" = +1
+	"Osbert" = +1
+	"Skorri" = +1
+	"Philippa" = -1
+	"Pavia" = -1
+	"Runa" = -1
+	"Godusa" = -1
+	"Estrid" = -1
+	"Cwenhild" = -1
+	"Acelina" = -1
+	"Clementia" = -1
+	"Amalaswinth" = -1
+	"Preciosa" = -1
 }
-ship_names = { 
+ship_names = {
+	"Waking Dream Wailing Wyrm"
+	"Hatherleigh Sunless Mare"
+	"Falling Star Fate"
+	"Haunted Gambit Shatterhelm Shriek"
+	"Dragon's Wail Runemarked Sorrow"
+	"Slayer's Terror Soldier of Fiendshelm"
+	"Keen of Torcradle Devil's Contract"
+	"Hunter Duskwake Drifter"
+	"Chained Tempest Dakins"
+	"Burning Vulture God of the Ocean"
+	"Hallowed Gale Murlusk's Thunder"
+	"Cursed Raven Red-Eyed Stag"
+	"Sorcerer's Nymph Carrier"
+	"Thorn-Gilded Curse Six of the Sky"
+	"Cuttle Gordia's Light"
 }

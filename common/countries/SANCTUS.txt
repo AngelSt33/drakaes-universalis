@@ -23,8 +23,53 @@ leader_names = {
 	"Ludovic Cranford"
 	"Sigor Brinckhurst"
 	"Ambrose Bernard"
+	"Toos Hamstra"
+	"Carlijne Leynham"
+	"Jolina Bernal"
+	"Isaac Ogmundottir"
+	"Rosamund Nidaros"
+	"Bergljot Bosby"
+	"Amalfrieda Reimink"
+	"Emeline Kalenkamp"
+	"Tiffany Borgardottir"
+	"Bartholomew Maudit"
 }
-monarch_names = { 
+monarch_names = {
+	"Bruni" = +1
+	"Oswyn" = +1
+	"Abraham" = +1
+	"Swain" = +1
+	"Andrew" = +1
+	"Humphrey" = +1
+	"Hrapp" = +1
+	"Simon" = +1
+	"Gamel" = +1
+	"Farthegn" = +1
+	"Earngith" = -1
+	"Frances" = -1
+	"Wakerilda" = -1
+	"Iva" = -1
+	"Isgerd" = -1
+	"Amalfrida" = -1
+	"Thomasin" = -1
+	"Amalfriede" = -1
+	"Asleif" = -1
+	"Ursula" = -1
 }
-ship_names = { 
+ship_names = {
+	"Kilcurrig Pale Hammer"
+	"Sky Wizard Gull's Shadow"
+	"Spirit The Withering Hunt"
+	"Sorcerer's Nymph Saltheart"
+	"Wailing Wyrm Quicksilver"
+	"Ash-Clad Swan Murlusk's Thunder"
+	"Gull's Shadow Pale Hammer"
+	"Ruby Ranger Nunney Castle"
+	"Lavendar Demon Rider's Luck"
+	"Moon Blade Thorn-Gilded Curse"
+	"Rider's Luck Side Quest"
+	"Iron Devil Killowen"
+	"Hangman's Hate Rime-Touched Valor"
+	"Enterprise WyrmeEyed Wanderer"
+	"Wolf-Touched Mist Dragon's Wail"
 }

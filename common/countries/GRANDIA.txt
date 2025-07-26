@@ -23,8 +23,53 @@ leader_names = {
 	"Saewulf Bardolf"
 	"Tiffany Bigley"
 	"Drogo Rede"
+	"Kaatje Haddock"
+	"Selina Lusseveld"
+	"Angrebod Carsjes"
+	"Amalafrida Cavell"
+	"Ragnhild Bradshawe"
+	"Victoria Luppe"
+	"Ambrose Harris"
+	"Vivien Barber"
+	"Mieke Heitz"
+	"Liene Geirsteinsson"
 }
-monarch_names = { 
+monarch_names = {
+	"Sampson" = +1
+	"Uraias" = +1
+	"Huibert" = +1
+	"Heiko" = +1
+	"Mert" = +1
+	"Adrian" = +1
+	"Maik" = +1
+	"Humphrey" = +1
+	"Totila" = +1
+	"Leomer" = +1
+	"Saegifu" = -1
+	"Chlodoswintha" = -1
+	"Protasia" = -1
+	"Ingaret" = -1
+	"Matasuntha" = -1
+	"Amalaswinth" = -1
+	"Pavia" = -1
+	"Loveday" = -1
+	"Rosamund" = -1
+	"Isolde" = -1
 }
-ship_names = { 
+ship_names = {
+	"Deathwind Dimsey's Light"
+	"Hunter The Sunken Boast"
+	"Whisper's Hope Dead God"
+	"Whalebane Echo Nymphen"
+	"Princess's Shadow Sharp Swan of Torhof"
+	"Osprey's Pride Loss Spirit"
+	"The Hollow Boar Ghost Ghoul"
+	"Fate Discreet Secret"
+	"Aquilon Chaoticfish"
+	"Dedaigneuse Whalebane Echo"
+	"Path Salamander of Griffinsway Surprise"
+	"Watcher Runner's Despair"
+	"Runemarked Sorrow Enterprise"
+	"Bold Venture Pathfinder"
+	"Hot Flush Tentacle"
 }

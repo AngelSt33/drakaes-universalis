@@ -23,8 +23,53 @@ leader_names = {
 	"Jacob Kohnstamm"
 	"Ludovic Brownflet"
 	"Aelric Godfrey"
+	"Ulfi Ingjaldottir"
+	"Paulus Clopton"
+	"Maaike Gustloff"
+	"Leonard Godfrey"
+	"Sabine de Valmeseda"
+	"Marthijn Staple"
+	"Henk Bigley"
+	"Ursula Barber"
+	"Kathrin Romano"
+	"Felicia Horsting"
 }
-monarch_names = { 
+monarch_names = {
+	"Aelnod" = +1
+	"Leon" = +1
+	"Koen" = +1
+	"Sayer" = +1
+	"Cornelius" = +1
+	"Fravitta" = +1
+	"Stannard" = +1
+	"Francis" = +1
+	"Gorm" = +1
+	"Aslac" = +1
+	"Nicola" = -1
+	"Dineke" = -1
+	"Rosamund" = -1
+	"Milda" = -1
+	"Tiana" = -1
+	"Iva" = -1
+	"Yvette" = -1
+	"Godusa" = -1
+	"Susanna" = -1
+	"Wilamin" = -1
 }
-ship_names = { 
+ship_names = {
+	"Possessedfish Buccaneer"
+	"Spirit Steadfast"
+	"Swanless Wake Kempenfelt"
+	"Unlikely Breaker Hangman's Hate"
+	"Dimsey's Light Burning Fjord"
+	"Runner's Despair Immeral's Kiss"
+	"Duskwake Drifter Pillager"
+	"The Long Cold Murlusk's Thunder"
+	"Nevermore Whiskey Chaser"
+	"Blood-Grey Wave Anne"
+	"Devil's Contract Osprey's Pride"
+	"The Long Cold Abingdon"
+	"Steadfast Hatherleigh"
+	"Fluke Mad Wyvern"
+	"Keen of Torcradle Watcher"
 }

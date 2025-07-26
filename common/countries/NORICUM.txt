@@ -23,8 +23,53 @@ leader_names = {
 	"Janet Stokes"
 	"Jacob Gorste"
 	"Arnold Brayles"
+	"Alrik Veldon"
+	"Ulfi Lacy"
+	"Helewis Duivencate"
+	"Laurin Hobart"
+	"Ludovic Poll"
+	"Leofing Steinhaeusser"
+	"Thorberg Ryall"
+	"Simon Burgh"
+	"Karlijn Marsman"
+	"Augustin Herleston"
 }
-monarch_names = { 
+monarch_names = {
+	"Kadal" = +1
+	"Walahmar" = +1
+	"Tumi" = +1
+	"Matthew" = +1
+	"Guy" = +1
+	"Gawaine" = +1
+	"Francis" = +1
+	"Allen" = +1
+	"Fritz" = +1
+	"Frideric" = +1
+	"Frances" = -1
+	"Winifred" = -1
+	"Leonie" = -1
+	"Gudeliva" = -1
+	"Ellen" = -1
+	"Cassandra" = -1
+	"Joyce" = -1
+	"Mabel" = -1
+	"Werthiva" = -1
+	"Mathilda" = -1
 }
-ship_names = { 
+ship_names = {
+	"Twice Sunk The Hollow Boar"
+	"Sorrow Warlock's Harpy Cursed Raven"
+	"Wind Seeker Moon Blade"
+	"Loyalty Wailing Wyrm"
+	"Titan's Bard Celerity"
+	"Unlikely Breaker Arunta"
+	"Osprey's Pride Luminous Runner"
+	"Cabin Fever Windsong"
+	"Melody Hot Flush"
+	"Cuttle Obsidian Nymph"
+	"Melody Shadow-Girded Lash"
+	"Vain Gravedigger Wellerman"
+	"Thorn-Gilded Curse Celerity"
+	"Windsunder Moon Kraken"
+	"Broken Sigil Fluke"
 }

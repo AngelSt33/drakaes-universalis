@@ -23,8 +23,53 @@ leader_names = {
 	"Engelise Veldon"
 	"Semer Windham"
 	"Joeri de Boer"
+	"Florentijn Rothmann"
+	"Ute Overbeek"
+	"Gilot Hopton"
+	"Alice Cary"
+	"Hubert Whitewood"
+	"Florentijn Heiden"
+	"Catalina Bernbaum"
+	"Brand Cole"
+	"Francisco Ashenhurst"
+	"Tobias Sadler"
 }
-monarch_names = { 
+monarch_names = {
+	"Isaak" = +1
+	"Thurstan" = +1
+	"Stijn" = +1
+	"Bergfinn" = +1
+	"Valentine" = +1
+	"Lewin" = +1
+	"Til" = +1
+	"Mart-jan" = +1
+	"Augustin" = +1
+	"Nigel" = +1
+	"Teja" = -1
+	"Iva" = -1
+	"Alfleta" = -1
+	"Philippa" = -1
+	"Milda" = -1
+	"Muriel" = -1
+	"WillemijnLovechild" = -1
+	"Osk" = -1
+	"Mary" = -1
+	"Chlodoswintha" = -1
 }
-ship_names = { 
+ship_names = {
+	"The Last Meadfire Hull Camel"
+	"Celerity Whisper's Hope"
+	"Wellerman Shadow-Girded Lash"
+	"Dordrecht Runemarked Sorrow"
+	"Patience Ashen Grin"
+	"Earth Octopus of the West Mason's Folly"
+	"Titan's Bard Song of Cedar Mere"
+	"Sunless Mare Hangman's Hate"
+	"Compass Melody"
+	"Sunlesswind Loyalty"
+	"Path Salamander of Griffinsway Kraken"
+	"Ruby Falcon Cursed Raven"
+	"Swanless Wake Serpent"
+	"Runemarked Sorrow Twice Sunk"
+	"For Play Dimsey's Light"
 }

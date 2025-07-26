@@ -23,8 +23,53 @@ leader_names = {
 	"Elise Grebel"
 	"Lowie Omvlee"
 	"Nard van Overbeek"
+	"Reggy Rijnders"
+	"Zarina Oude"
+	"Tiffany Ehrenberg"
+	"Felizitas Echyngham"
+	"Janucho Mullekes"
+	"Marlene Geirsteinsson"
+	"Areagne Leynham"
+	"Tatiana Argentein"
+	"Petra Molyns"
+	"Tori Hussey"
 }
-monarch_names = { 
+monarch_names = {
+	"Magnus" = +1
+	"Gawain" = +1
+	"Toka" = +1
+	"Leonard" = +1
+	"Fulke" = +1
+	"Arthur" = +1
+	"Christopher" = +1
+	"Herebert" = +1
+	"Hermen" = +1
+	"Elric" = +1
+	"Runa" = -1
+	"Helewis" = -1
+	"Heidi" = -1
+	"WillemijnLovechild" = -1
+	"Livitha" = -1
+	"Brunihild" = -1
+	"Amalasuntha" = -1
+	"Gilot" = -1
+	"Isgerd" = -1
+	"Amalfriede" = -1
 }
-ship_names = { 
+ship_names = {
+	"Earth Hippogriff of Maresmeet Blood-Grey Wave"
+	"Sunless Mare Dordrecht"
+	"Watcher For Play"
+	"Wyrm-Wind Seeker Black Swan"
+	"The Hollow Wolf Earthdon's Heart"
+	"Watcher Side Quest"
+	"Cabin Fever Lalmourn"
+	"Osprey's Pride Wish of Carlusk"
+	"Greedy Dragon Blood-Grey Wave"
+	"Oathwither Song Beggar of Beastsshield"
+	"Pathfinder The Hollow Wolf"
+	"Kempenfelt Reflective Spider"
+	"Dimsey's Light Cabin Fever"
+	"Beehive Gordia's Light"
+	"The Gilded Fen Rider's Luck"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Tine Kass"
 	"Willem Dikken"
 	"Mathies Schierholt"
+	"Jan-Bart Achterveld"
+	"Riet Metze"
+	"Mawa Teeselink"
+	"Mieke Ehrenberg"
+	"Rosamund Brent"
+	"Reggy Gaytan"
+	"Pier Hindriks"
+	"Jochem Biorsson"
+	"Elyas Penhallick"
+	"Niko Vaart"
 }
-monarch_names = { 
+monarch_names = {
+	"Magnus" = +1
+	"Jasper" = +1
+	"Hjarrandi" = +1
+	"Edward" = +1
+	"Laurenz" = +1
+	"Julian" = +1
+	"Henry" = +1
+	"Leofing" = +1
+	"George" = +1
+	"Albert" = +1
+	"Barbara" = -1
+	"Mathilde" = -1
+	"Clementia" = -1
+	"Agnes" = -1
+	"Maria" = -1
+	"Avina" = -1
+	"Teja" = -1
+	"Amalasuntha" = -1
+	"Mathilda" = -1
+	"Madia" = -1
 }
-ship_names = { 
+ship_names = {
+	"Sorrow Warlock's Harpy Nymphen"
+	"Greedy Dragon Howling Spear"
+	"Whisper's Hope Osprey's Pride"
+	"Anne The Wolf's Regret"
+	"Sorcerer's Nymph Orca"
+	"The Sunken Boast Abingdon"
+	"Copper King of Hare's Hill Hearthless Flight"
+	"WyrmeEyed Wanderer Misery"
+	"Ash-Clad Swan Twice Sunk"
+	"Murlusk's Thunder Bitterwake Cry"
+	"God of the Ocean Whisper"
+	"Beehive Oathbound Drift"
+	"Oathwither Song Cuttle"
+	"Mistress of the Waves Dordrecht"
+	"Howling Spear Nymphen"
 }

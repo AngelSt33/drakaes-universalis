@@ -23,8 +23,53 @@ leader_names = {
 	"Anika Heiden"
 	"Willem Dikken"
 	"Kathrin Sperl"
+	"Magdalene Valreach"
+	"Sabine Niekisch"
+	"Sigric Velt"
+	"Rolf Coulthurst"
+	"Catalina Borgardottir"
+	"Bricteva Corbett"
+	"Riet Bryan"
+	"Reynold Weston"
+	"Frances Hopton"
+	"Monia Cranford"
 }
-monarch_names = { 
+monarch_names = {
+	"Osbert" = +1
+	"Francis" = +1
+	"Jasper" = +1
+	"Sisebut" = +1
+	"Wicing" = +1
+	"Benedict" = +1
+	"Elric" = +1
+	"Antonin" = +1
+	"Tumi" = +1
+	"Beucad" = +1
+	"Ailith" = -1
+	"Isolde" = -1
+	"Sien" = -1
+	"Agnes" = -1
+	"Maria" = -1
+	"Goditha" = -1
+	"Sigrunn" = -1
+	"Oda" = -1
+	"Garsendis" = -1
+	"Runa" = -1
 }
-ship_names = { 
+ship_names = {
+	"Lavendar Demon Pillager"
+	"Gertraud's Doom Shatterhelm Shriek"
+	"Nunney Castle Windsunder Moon"
+	"Sunless Mare Blade"
+	"Hunter WyrmeEyed Wanderer"
+	"Shell Voyager Blade"
+	"Burning Vulture Nunney Castle"
+	"Queen of Yorvick Burning Vulture"
+	"Keen of Torcradle Pathfinder"
+	"The Sunken Boast Gull's Shadow"
+	"Ghost Ghoul Path Salamander of Griffinsway"
+	"Buccaneer Death Rattle"
+	"Sorrow Warlock's Harpy Murlusk's Thunder"
+	"Steadfast Crimson Singer"
+	"Side Quest Dimsey's Light"
 }

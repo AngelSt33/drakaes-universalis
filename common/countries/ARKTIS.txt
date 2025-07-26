@@ -23,8 +23,53 @@ leader_names = {
 	"Beatrice Schachtschneider"
 	"Anthony Leverer"
 	"Waldo Maydestone"
+	"Farnobius Bardolf"
+	"Herebert Badby"
+	"Thalia Strachleigh"
+	"Giles Bekman"
+	"Julian Tolasson"
+	"Sander Goodryke"
+	"Gunnora Weterink"
+	"Eliza Bernbaum"
+	"Gadaric Panshawe"
+	"Phillip Fraunces"
 }
-monarch_names = { 
+monarch_names = {
+	"Gris" = +1
+	"Mark" = +1
+	"Eldert" = +1
+	"Solomon" = +1
+	"Elgar" = +1
+	"Torkel" = +1
+	"Philips" = +1
+	"Levi" = +1
+	"Sisebut" = +1
+	"Bruni" = +1
+	"Mildred" = -1
+	"Asleif" = -1
+	"Alfleta" = -1
+	"Hrodny" = -1
+	"Isolde" = -1
+	"Oda" = -1
+	"Loveday" = -1
+	"Matasuntha" = -1
+	"Millicent" = -1
+	"Anna" = -1
 }
-ship_names = { 
+ship_names = {
+	"Ironhowl Maiden Murlusk's Thunder"
+	"Omen Sorcerer's Nymph"
+	"Ironhowl Maiden Fell Wight"
+	"Compass Kilcurrig"
+	"Soldier of Fiendshelm Shadow-Girded Lash"
+	"Abingdon Wish of Carlusk"
+	"Earth Dragon Beehive"
+	"Unlikely Breaker Falling Star"
+	"Keen of Torcradle Luminous Runner"
+	"Chaoticfish Rune Gull"
+	"Mistress of the Waves Dead God"
+	"Ghost Ghoul Duskwake Drifter"
+	"Pale Hammer Windsong"
+	"Seeker Side Quest"
+	"WyrmeEyed Wanderer Six of the Sky"
 }

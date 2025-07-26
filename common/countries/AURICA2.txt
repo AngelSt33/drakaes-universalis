@@ -23,8 +23,53 @@ leader_names = {
 	"Golde Hyll"
 	"Godric Leynham"
 	"Lindert Carsjes"
+	"Solomon Mulders"
+	"Augustin Balam"
+	"Florentijn Cod"
+	"Mechiel Launceleyn"
+	"Clementia Lusseveld"
+	"Elise Boes"
+	"Cacilia Paarhuis"
+	"Winifred Webb"
+	"Daniel Härig"
+	"Almeyque Chauncey"
 }
-monarch_names = { 
+monarch_names = {
+	"Gunteric" = +1
+	"Gris" = +1
+	"Farthegn" = +1
+	"Babai" = +1
+	"Jon" = +1
+	"Theudis" = +1
+	"Eldert" = +1
+	"Torkel" = +1
+	"Ailwin" = +1
+	"Levi" = +1
+	"Amalfriede" = -1
+	"Anna" = -1
+	"Maria" = -1
+	"Preciosa" = -1
+	"Winifred" = -1
+	"Alwina" = -1
+	"Aldreda" = -1
+	"Malasintha" = -1
+	"Richenda" = -1
+	"Isabel" = -1
 }
-ship_names = { 
+ship_names = {
+	"The Hollow Wolf Nymphen"
+	"Titan's Bard Aquilon"
+	"Clove Tree Hallowed Gale"
+	"Oathbound Drift Beggar of Beastsshield"
+	"For Play Waking Dream"
+	"Hatherleigh Crimson Barrow"
+	"Titan's Bard Earthdon's Heart"
+	"Soldier of Fiendshelm Ash-Clad Swan"
+	"Copper King of Hare's Hill Osprey's Pride"
+	"Shell Voyager Immeral's Kiss"
+	"Buccaneer Runner's Despair"
+	"Wave Zephyr The Hollow Boar"
+	"Lalmourn Hot Flush"
+	"Immeral's Kiss Whalebane Echo"
+	"God of the Ocean Possessedfish"
 }

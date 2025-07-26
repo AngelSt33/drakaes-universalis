@@ -23,8 +23,53 @@ leader_names = {
 	"Sabine Crugge"
 	"Gerda Weingaertner"
 	"David Sanner"
+	"Felicia Poelakker"
+	"Beorhthere Fakereach"
+	"Angrebod Fowler"
+	"Crystobell Maydestone"
+	"Saegifu Rogge"
+	"Giles Heffelfinger"
+	"Leonard Forentin"
+	"Ute Pijpenbroek"
+	"Nota Wymer"
+	"Jan-Pieter Rondel"
 }
-monarch_names = { 
+monarch_names = {
+	"Denis" = +1
+	"Leon" = +1
+	"Herebert" = +1
+	"Roger" = +1
+	"Thori" = +1
+	"Sayer" = +1
+	"Albert" = +1
+	"Leofric" = +1
+	"Fastida" = +1
+	"Machiel" = +1
+	"Acelina" = -1
+	"Aldis" = -1
+	"Cassandra" = -1
+	"Teja" = -1
+	"Ulfheid" = -1
+	"Hild" = -1
+	"Garsendis" = -1
+	"Leofe" = -1
+	"Loveday" = -1
+	"Goditha" = -1
 }
-ship_names = { 
+ship_names = {
+	"Misery The Sunken Boast"
+	"The Hollow Boar Abingdon"
+	"Melody Burning Vulture"
+	"Crimson Barrow Arunta"
+	"Osprey's Pride Obsidian Nymph"
+	"Possessedfish Waking Dream"
+	"Sunlesswind Clove Tree"
+	"Victory The Silent Fjell"
+	"Earthdon's Heart For Play"
+	"Nevermore Vain Gravedigger"
+	"Hallowed Gale Courtesan's Sprite"
+	"Fluke The Shivering Hoard"
+	"Aquilon Snarling Zephyr of Blackbrook"
+	"Burning Fjord Ortenzia"
+	"Twice Sunk Hallowed Gale"
 }

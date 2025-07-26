@@ -23,8 +23,53 @@ leader_names = {
 	"Bas Overweg"
 	"Fritz Honigberg"
 	"Pascoe Helme"
+	"Rudie Key"
+	"Pascoe Hvitserksson"
+	"Bjor Nemetz"
+	"Janneke Symilor"
+	"Gorm Heiden"
+	"Gregor Snelling"
+	"Leonard Romano"
+	"Ulfi Rampston"
+	"Amalfrieda Erlbaum"
+	"Gerard Fleming"
 }
-monarch_names = { 
+monarch_names = {
+	"Athelstan" = +1
+	"Sewel" = +1
+	"Robert" = +1
+	"Pascoe" = +1
+	"Rolf" = +1
+	"Toka" = +1
+	"Fulk" = +1
+	"Ildebad" = +1
+	"Aithanarid" = +1
+	"Sigisvult" = +1
+	"Helewis" = -1
+	"Winifred" = -1
+	"Laura" = -1
+	"Agnes" = -1
+	"Sedehana" = -1
+	"Alwina" = -1
+	"Wilamin" = -1
+	"Gilot" = -1
+	"Beatrice" = -1
+	"Enota" = -1
 }
-ship_names = { 
+ship_names = {
+	"Sunburn Rider's Luck"
+	"Snowblind Wake Cruel Hunter"
+	"Reflective Spider Pillager"
+	"Quicksilver Hot Flush"
+	"Gertraud's Doom Wish of Carlusk"
+	"Watcher Duskwake Drifter"
+	"Compass Beggar of Beastsshield"
+	"Keen of Torcradle Courtesan's Sprite"
+	"Osprey's Pride Darvin's Cry"
+	"The Hollow Wolf Enterprise"
+	"Wind Seeker Sundew"
+	"Twice Sunk Snarling Zephyr of Blackbrook"
+	"Deathwind Demon"
+	"Misery Sky Wizard"
+	"Loss Spirit Raglan"
 }

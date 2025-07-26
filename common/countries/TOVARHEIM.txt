@@ -23,8 +23,53 @@ leader_names = {
 	"Clarissa Ryall"
 	"Waldo Barber"
 	"Daniel Boote"
+	"Wulfstan Fowler"
+	"Rik Veldon"
+	"Maria Kalenkamp"
+	"Jolina Corbett"
+	"Crystobell Robynson"
+	"Alrik Sadler"
+	"Gregor Wynter"
+	"Vivien Schans"
+	"Thorve Badby"
+	"Goisvintha Sandes"
 }
-monarch_names = { 
+monarch_names = {
+	"Nicholas" = +1
+	"Sigemær" = +1
+	"Theudis" = +1
+	"Jordan" = +1
+	"Philip" = +1
+	"Gorm" = +1
+	"Stephen" = +1
+	"Fravitta" = +1
+	"Skorri" = +1
+	"Andrew" = +1
+	"Feenja" = -1
+	"Richenda" = -1
+	"Agatha" = -1
+	"Heidi" = -1
+	"Alwina" = -1
+	"Albreda" = -1
+	"Tiecia" = -1
+	"Clementia" = -1
+	"Asleif" = -1
+	"Sibilla" = -1
 }
-ship_names = { 
+ship_names = {
+	"Runner's Despair Raglan"
+	"Reflective Spider Iron Dragon's Doom"
+	"Burning Vulture Bird of Cousin's Eye"
+	"Titan's Bard Hull Camel"
+	"Reflective Spider Rider's Luck"
+	"Ash-Clad Swan Serpent"
+	"Anne Whalebane Echo"
+	"Burning Vulture Fell Wight"
+	"Six of the Sky Path Salamander of Griffinsway"
+	"Courtesan's Sprite Mad Wyvern"
+	"Sorrow Warlock's Harpy Fell Wight"
+	"Thorn-Gilded Curse Omen"
+	"Death Rattle Iron Dragon's Doom"
+	"Jasper Grim Breaker"
+	"Arunta Cabin Fever"
 }

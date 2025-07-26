@@ -23,8 +23,53 @@ leader_names = {
 	"Elyas Byfield"
 	"Paulus Bodmer"
 	"Janet Stokes"
+	"Gaut Hampden"
+	"Olivia Cassy"
+	"Maurice Smalbroek"
+	"Julian Bouwhuis"
+	"Marion Schuerer"
+	"Gawain Heerius"
+	"Saewulf Cole"
+	"George Flederis"
+	"Margaret Cooke"
+	"Svea Maneschijns"
 }
-monarch_names = { 
+monarch_names = {
+	"Tedric" = +1
+	"Abraham" = +1
+	"Maik" = +1
+	"Eelco" = +1
+	"Jorn" = +1
+	"Thurstan" = +1
+	"Bartholomew" = +1
+	"Beinir" = +1
+	"Lambert" = +1
+	"Denis" = +1
+	"Elske" = -1
+	"Cassandra" = -1
+	"Malasintha" = -1
+	"Enni" = -1
+	"Helen" = -1
+	"Basilia" = -1
+	"Winifred" = -1
+	"Sigrid" = -1
+	"Roosje" = -1
+	"Albreda" = -1
 }
-ship_names = { 
+ship_names = {
+	"Wish of Carlusk Dakins"
+	"Wish of Carlusk Rider's Luck"
+	"Cabin Fever Nunney Castle"
+	"Wellerman For Play"
+	"Possessedfish Omen"
+	"Windsunder Moon Dakins"
+	"Wish of Carlusk Twice Sunk"
+	"Devil's Roar Iron Dragon's Doom"
+	"Fate Pillager"
+	"Fluke Compass"
+	"Misadventure Patience"
+	"Seeker Wish of Carlusk"
+	"Bold Venture Courtesan's Sprite"
+	"Carrier Void Servant of Hadiya's Spire"
+	"Death Rattle Watcher"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Anthony Leverer"
 	"Maurits-jan Winkelink"
 	"Protasia Addicock"
+	"Ragenhild Ioketilldottir"
+	"Asdis Gustloff"
+	"Amalfriede Zell"
+	"Amelie Bownell"
+	"Lydia Biorsson"
+	"Amelie Barg"
+	"Piet Harwood"
+	"Ton Ehrler"
+	"Rudie Schwann"
+	"Kasper Pijpenbroek"
 }
-monarch_names = { 
+monarch_names = {
+	"Louw" = +1
+	"Allen" = +1
+	"Martin" = +1
+	"Saewulf" = +1
+	"Hrapp" = +1
+	"Ambrose" = +1
+	"Nigel" = +1
+	"Patrick" = +1
+	"Jon" = +1
+	"Julian" = +1
+	"Rachel" = -1
+	"Saegifu" = -1
+	"Sigrith" = -1
+	"Sibilla" = -1
+	"Julian" = -1
+	"Protasia" = -1
+	"Basilia" = -1
+	"Bergljot" = -1
+	"Dorothy" = -1
+	"Malasintha" = -1
 }
-ship_names = { 
+ship_names = {
+	"Clove Tree Sorcerer's Nymph"
+	"Omen For Play"
+	"Ash-Clad Swan Sundew"
+	"Ortenzia Shell Voyager"
+	"Wish of Carlusk Blade"
+	"Blood-Grey Wave Clove Tree"
+	"Vain Gravedigger Copper King of Hare's Hill"
+	"Hull Camel Devil's Roar"
+	"Earth Dragon Celerity"
+	"Falling Star The Hollow Boar"
+	"Steadfast Nunney Castle"
+	"Compass Falling Star"
+	"Compass Hull Camel"
+	"Gone Too Far Kraken"
+	"Rime-Touched Valor Courtesan's Sprite"
 }

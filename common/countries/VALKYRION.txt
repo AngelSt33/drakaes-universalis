@@ -23,8 +23,53 @@ leader_names = {
 	"Cwenhild Briggs"
 	"Leofing Cantilupe"
 	"Reggy ten Hemmel"
+	"Malasintha Ryall"
+	"Beatrice Duchateau"
+	"Tiffany Plessner"
+	"Mareike Argentein"
+	"Mildred Metze"
+	"Odoin de Mora"
+	"Thurston Schantz"
+	"Juna Fodde"
+	"Millicent Marsche"
+	"Tobias Flower"
 }
-monarch_names = { 
+monarch_names = {
+	"Silvester" = +1
+	"Mert" = +1
+	"Sewel" = +1
+	"Youri" = +1
+	"Osgood" = +1
+	"Beinir" = +1
+	"Geitirgest" = +1
+	"Lambert" = +1
+	"Bergfinn" = +1
+	"Osbert" = +1
+	"Goditha" = -1
+	"Iva" = -1
+	"Preciosa" = -1
+	"Marjorie" = -1
+	"Ursula" = -1
+	"Pavia" = -1
+	"Basilia" = -1
+	"Melle" = -1
+	"Margaret" = -1
+	"Mabel" = -1
 }
-ship_names = { 
+ship_names = {
+	"Crimson Barrow Dakins"
+	"Osprey's Pride Keen of Torcradle"
+	"Bird of Cousin's Eye Shadow-Girded Lash"
+	"The Hollow Wolf Bird of Cousin's Eye"
+	"Dragon's Wail For Play"
+	"Storm-Bitten Grudge Cursed Raven"
+	"Wem Silverfang Gale"
+	"Ashen Grin Enterprise"
+	"Silverfang Gale Moon Blade"
+	"Grim Breaker Earthdon's Heart"
+	"Kilcurrig Grim Breaker"
+	"Discreet Secret Fate"
+	"Spitfire Crimson Barrow"
+	"Burning Vulture Nevermore"
+	"Devil's Roar Victory"
 }

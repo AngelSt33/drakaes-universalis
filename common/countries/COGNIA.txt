@@ -23,8 +23,53 @@ leader_names = {
 	"Fortune Goodryke"
 	"Gerda Weingaertner"
 	"Alice Downer"
+	"Ulfilas Kætilmundottir"
+	"Rik Daundelyon"
+	"Arngunn Rientjes"
+	"Liene Bokhove"
+	"Sarah Seger"
+	"Eystein Godfrey"
+	"Gorm Frilleck"
+	"Friederike Nemetz"
+	"Catherine Montacute"
+	"Hubrecht Ogmundottir"
 }
-monarch_names = { 
+monarch_names = {
+	"Gerard" = +1
+	"Reginald" = +1
+	"Ulf" = +1
+	"Turbert" = +1
+	"Pascoe" = +1
+	"Griffin" = +1
+	"Thurstan" = +1
+	"Akeman" = +1
+	"Alexander" = +1
+	"Leomer" = +1
+	"Yvette" = -1
+	"Matasuntha" = -1
+	"Teja" = -1
+	"Tiana" = -1
+	"Helen" = -1
+	"Barbara" = -1
+	"Sien" = -1
+	"Griselda" = -1
+	"Avina" = -1
+	"Sedehana" = -1
 }
-ship_names = { 
+ship_names = {
+	"Ash-Clad Swan Nunney Castle"
+	"The Gilded Fen Dubford"
+	"Carrier Steadfast"
+	"Dedaigneuse WyrmeEyed Wanderer"
+	"Shatterhelm Shriek Serpent"
+	"Gordia's Light Setter"
+	"Horror Wish Courtesan's Sprite"
+	"Gilded Shade Buccaneer"
+	"Earth Dragon Haunted Gambit"
+	"The Shivering Hoard Anne"
+	"Mistress of the Waves Hatherleigh"
+	"Hull Camel Compass"
+	"Arunta Runemarked Sorrow"
+	"Watcher Mason's Folly"
+	"Shatterhelm Shriek Stone Gnoll"
 }

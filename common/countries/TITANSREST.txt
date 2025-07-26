@@ -23,8 +23,53 @@ leader_names = {
 	"Semer Windham"
 	"Nigel Snelling"
 	"Arjen Schans"
+	"Konstanze Sigvatdottir"
+	"Thalia Plessner"
+	"Sahra de Mata"
+	"Katrien Rondel"
+	"Huml Kats"
+	"Rikiar Mirones"
+	"Marlene Honigberg"
+	"Gabriel Molyns"
+	"Merina Stappenbeld"
+	"Asketel Norden"
 }
-monarch_names = { 
+monarch_names = {
+	"Farthegn" = +1
+	"Edward" = +1
+	"Kjallak" = +1
+	"Maurice" = +1
+	"Oliver" = +1
+	"Elgar" = +1
+	"Fulk" = +1
+	"Gawain" = +1
+	"Kaetilmund" = +1
+	"Wicing" = +1
+	"Basilia" = -1
+	"Osk" = -1
+	"Mathilda" = -1
+	"Joy" = -1
+	"Nicola" = -1
+	"Amalaswinth" = -1
+	"Mildred" = -1
+	"Anna" = -1
+	"Griselda" = -1
+	"Beatrice" = -1
 }
-ship_names = { 
+ship_names = {
+	"Possessedfish Ten"
+	"Aquilon The Last Meadfire"
+	"Abingdon Wyrm-Wind Seeker"
+	"Path Salamander of Griffinsway Watcher"
+	"Pillager The Withering Hunt"
+	"Reflective Spider Copper King of Hare's Hill"
+	"Fell Wight Burning Fjord"
+	"Darvin's Cry The Withering Hunt"
+	"Wem Great Expense"
+	"Lavendar Demon Copper King of Hare's Hill"
+	"Bold Venture Saltheart"
+	"Arunta The Hollow Boar"
+	"Sky Wizard Luminous Runner"
+	"Hearthless Flight Gertraud's Doom"
+	"For Play Discreet Secret"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Aelric Godfrey"
 	"Mareike Stangl"
 	"Henkjan Grimberg"
+	"Josi Kveldulfdottir"
+	"Lennert Kamerling"
+	"Willy Eldysley"
+	"Angelina Geist"
+	"Amalfrida Schulte"
+	"Dirk-Jan Waldeley"
+	"Elisabeth Harig"
+	"Goisvintha Westerhof"
+	"Leofing Sternberg"
+	"Aethilheard Balam"
 }
-monarch_names = { 
+monarch_names = {
+	"Leon" = +1
+	"Lambert" = +1
+	"Fulke" = +1
+	"Leofstan" = +1
+	"Mart-jan" = +1
+	"Luuk" = +1
+	"Fravitta" = +1
+	"Gunteric" = +1
+	"Edric" = +1
+	"Warin" = +1
+	"Preciosa" = -1
+	"Richenda" = -1
+	"Heidi" = -1
+	"Earngith" = -1
+	"Wenthelen" = -1
+	"Glismoda" = -1
+	"Idonea" = -1
+	"Livitha" = -1
+	"Ulfheid" = -1
+	"Jenefer" = -1
 }
-ship_names = { 
+ship_names = {
+	"Lavendar Demon Wave Zephyr"
+	"Jasper Osprey's Pride"
+	"Buccaneer Rime-Touched Valor"
+	"Swanless Wake Escape"
+	"For Play Haunted Gambit"
+	"Burning Fjord Murlusk's Thunder"
+	"Side Quest Iron Dragon's Doom"
+	"Six of the Sky Reflective Spider"
+	"Bitterwake Cry Outlander"
+	"Shadow-Girded Lash Killowen"
+	"Blood-Grey Wave Melody"
+	"The Last Meadfire Soldier of Fiendshelm"
+	"Gull's Shadow Snowblind Wake"
+	"Fate Quicksilver"
+	"Six of the Sky Sable-Touched Omen"
 }

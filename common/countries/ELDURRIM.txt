@@ -23,8 +23,53 @@ leader_names = {
 	"Alex Abend"
 	"Jan-Bart Hekkers"
 	"Odo Cantilupe"
+	"Christoph Erlbaum"
+	"Thurston Badby"
+	"Leonard Nidaros"
+	"Wulfwin Harris"
+	"Elinor Wanschers"
+	"Wulfgeat Leynham"
+	"Arthur Brayles"
+	"Rebecca Duivencate"
+	"Julian Schickendantz"
+	"Rayko Asplyn"
 }
-monarch_names = { 
+monarch_names = {
+	"Stannard" = +1
+	"Richard" = +1
+	"Sewel" = +1
+	"Lefwin" = +1
+	"Randall" = +1
+	"Leon" = +1
+	"Marcel" = +1
+	"Uraias" = +1
+	"Bartholomew" = +1
+	"Waldo" = +1
+	"Gudrun" = -1
+	"Jorunn" = -1
+	"Leonie" = -1
+	"Gilot" = -1
+	"Beatrice" = -1
+	"Asgerd" = -1
+	"Glismoda" = -1
+	"Roosje" = -1
+	"Hunila" = -1
+	"Sibilla" = -1
 }
-ship_names = { 
+ship_names = {
+	"Nymphen Ash-Clad Swan"
+	"Osprey's Pride Courtesan's Sprite"
+	"Waking Dream Keen of Torcradle"
+	"Melody Chaoticfish"
+	"Ruby Ranger Ortenzia"
+	"Burning Fjord Waking Dream"
+	"Cruel Dagger Cursed Raven"
+	"Falling Star The Withering Hunt"
+	"Sunlesswind Ten"
+	"Mistress of the Waves Kilcurrig"
+	"Seeker Grim Breaker"
+	"Duskwake Drifter Misery"
+	"Ash-Clad Swan Dedaigneuse"
+	"Saltheart Loss Spirit"
+	"Sorrow Warlock's Harpy Loyalty"
 }

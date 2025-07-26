@@ -23,8 +23,53 @@ leader_names = {
 	"Rogier Hiddink"
 	"Sarah Molyns"
 	"James Slyfield"
+	"Naud Thoraldrdottir"
+	"Jeremias Zarmir"
+	"Isabelle Lemann"
+	"Isolde Rondel"
+	"Reynold Lave"
+	"Hermangild Underhill"
+	"Nelke Schans"
+	"Bertram Schlechter"
+	"Steffen Bredham"
+	"Sarah Hopton"
 }
-monarch_names = { 
+monarch_names = {
+	"Thurstan" = +1
+	"Hamo" = +1
+	"Edward" = +1
+	"Gawaine" = +1
+	"Walter" = +1
+	"Allen" = +1
+	"Orgumleidi" = +1
+	"Wulfgar" = +1
+	"Fulke" = +1
+	"Matthew" = +1
+	"Emma" = -1
+	"Mathilda" = -1
+	"Susanna" = -1
+	"Ingrid" = -1
+	"Agatha" = -1
+	"Marjorie" = -1
+	"Melle" = -1
+	"Alwina" = -1
+	"Asgerd" = -1
+	"Helen" = -1
 }
-ship_names = { 
+ship_names = {
+	"Jasper Howling Spear"
+	"Titan's Bard Luminous Runner"
+	"Luminous Runner Barrowbound Flame"
+	"Vain Gravedigger Kilcurrig"
+	"Triad of the Waves Zhuirentel"
+	"Haunted Gambit Reflective Spider"
+	"Silverfang Gale Success"
+	"Windsong Hallowed Gale"
+	"Dubford Chaoticfish"
+	"Eight of the Waves Mad Wyvern"
+	"Thorn-Gilded Curse Dordrecht"
+	"Burning Fjord Hangman's Hate"
+	"Possessedfish Dordrecht"
+	"Dead God Deathwind"
+	"Cuttle Sea Golem"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Ute Lemann"
 	"Fritz Honigberg"
 	"Godric Leynham"
+	"Almeyque Burgh"
+	"Narin Asulfsson"
+	"Serafina Cantilupe"
+	"Carlijne Corbett"
+	"Guust Velt"
+	"Gorm Heerius"
+	"Lennert Bodmer"
+	"Bernard Gradl"
+	"Nathaniel Brinckhurst"
+	"Reynold Westera"
 }
-monarch_names = { 
+monarch_names = {
+	"Babai" = +1
+	"Gawaine" = +1
+	"Osbert" = +1
+	"Fastida" = +1
+	"Albert" = +1
+	"Stijn" = +1
+	"Maik" = +1
+	"Patrick" = +1
+	"Henry" = +1
+	"Aslac" = +1
+	"Hunila" = -1
+	"Ailith" = -1
+	"Rachel" = -1
+	"Griselda" = -1
+	"Yvette" = -1
+	"Sarra" = -1
+	"Hild" = -1
+	"Pavia" = -1
+	"Gudrun" = -1
+	"Isolde" = -1
 }
-ship_names = { 
+ship_names = {
+	"Arunta Titan's Bard"
+	"Runner's Despair Seeker"
+	"Twice Sunk Loss Spirit"
+	"Earth Dragon Black Swan"
+	"Queen of Yorvick Frostbitten Rook"
+	"Chaoticfish Dubford"
+	"Steadfast Six of the Sky"
+	"Silverfang Gale Victory"
+	"Wave Zephyr Ruby Falcon"
+	"Earth Dragon Windsong"
+	"Jasper Snowblind Wake"
+	"Eight of the Waves Hearthless Flight"
+	"Mistress of the Waves Fell Wight"
+	"Surprise Bitterwake Cry"
+	"Queen of Yorvick Bold Venture"
 }

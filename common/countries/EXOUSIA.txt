@@ -23,8 +23,53 @@ leader_names = {
 	"Wulfgeat Lave"
 	"Stijn Mulders"
 	"Iva Peucker"
+	"Mildred Lemann"
+	"Marlene Lucy"
+	"Samira Hondshorst"
+	"Helewis Rosenthal"
+	"Silvester Castletown"
+	"Sayer Hondshorst"
+	"Chris Krakouer"
+	"Maria Laken"
+	"Gerda Lievendag"
+	"Herebert Hopton"
 }
-monarch_names = { 
+monarch_names = {
+	"Diggory" = +1
+	"Lambert" = +1
+	"Avery" = +1
+	"Griffin" = +1
+	"Turbert" = +1
+	"Alan" = +1
+	"Gawain" = +1
+	"Isaak" = +1
+	"Laurens-Jan" = +1
+	"Swain" = +1
+	"Acelina" = -1
+	"Saeunn" = -1
+	"Feenja" = -1
+	"Cassandra" = -1
+	"Catherine" = -1
+	"Enota" = -1
+	"Livitha" = -1
+	"Clementia" = -1
+	"Winifred" = -1
+	"Sarra" = -1
 }
-ship_names = { 
+ship_names = {
+	"Hatherleigh Burning Inn"
+	"Ironhowl Maiden Lalmourn"
+	"Sorcerer's Nymph Earth Octopus of the West"
+	"Iron Dragon's Doom Storm-Bitten Grudge"
+	"Chained Tempest Tentacle"
+	"Broken Sigil Blade"
+	"Bold Venture Waking Dream"
+	"Dordrecht Princess's Shadow"
+	"Dragon's Wail True Witch"
+	"Mistress of the Waves Escape"
+	"Bitterwake Cry Killowen"
+	"Reflective Spider Sundew"
+	"Chained Tempest Beehive"
+	"Obsidian Nymph Buccaneer"
+	"Path Salamander of Griffinsway Melody"
 }

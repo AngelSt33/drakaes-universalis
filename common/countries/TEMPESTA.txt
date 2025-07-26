@@ -23,8 +23,53 @@ leader_names = {
 	"Winifred Sadler"
 	"Tiecia Shevington"
 	"Stephen Wardyworth"
+	"Philips Walsch"
+	"Wulfwin Heitz"
+	"Cecily Barg"
+	"Arias Unton"
+	"Anthony Lucy"
+	"Ad Fendler"
+	"Farnobius Norwood"
+	"Fanny Ogmundottir"
+	"Christiane de Catilo"
+	"David Gomersall"
 }
-monarch_names = { 
+monarch_names = {
+	"Solomon" = +1
+	"Reginald" = +1
+	"Algar" = +1
+	"Eelco" = +1
+	"Godric" = +1
+	"Skorri" = +1
+	"Cyrila" = +1
+	"Griffin" = +1
+	"Ulfketel" = +1
+	"Wulfgeat" = +1
+	"Sigrith" = -1
+	"Saegifu" = -1
+	"Feenja" = -1
+	"Ulfheid" = -1
+	"Hild" = -1
+	"Basilia" = -1
+	"Joyce" = -1
+	"Dineke" = -1
+	"Agnes" = -1
+	"Muriel" = -1
 }
-ship_names = { 
+ship_names = {
+	"Earth Dragon Carrier"
+	"Storm-Bitten Grudge Haunted Gambit"
+	"Windsong Fate"
+	"Burning Vulture Cursed Raven"
+	"West Son Burning Inn"
+	"Orca Thorn-Gilded Curse"
+	"Wolf-Touched Mist West Son"
+	"The Hollow Boar Valhalla"
+	"Chained Tempest Demon"
+	"WyrmeEyed Wanderer Serpent"
+	"Killowen Frostbitten Rook"
+	"Sorrow Warlock's Harpy Copper King of Hare's Hill"
+	"Orca Hot Flush"
+	"Side Quest Pool Pilgrim"
+	"Courtesan's Sprite Wish of Carlusk"
 }

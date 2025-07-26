@@ -23,8 +23,53 @@ leader_names = {
 	"Godwin Richeman"
 	"Susanna Switte"
 	"Gamel Town"
+	"Viktor Bouldre"
+	"Zarina Benthey"
+	"Lucon Hadresham"
+	"Merina Abend"
+	"Chris Holthusen"
+	"Harald Beel"
+	"Joseph Cassy"
+	"Amala Wrenne"
+	"Dalla Burgh"
+	"Millicent Schantz"
 }
-monarch_names = { 
+monarch_names = {
+	"Julian" = +1
+	"Roger" = +1
+	"Marcel" = +1
+	"Leonard" = +1
+	"Ulfketel" = +1
+	"Ailwin" = +1
+	"Thorkel" = +1
+	"Huibert" = +1
+	"Luke" = +1
+	"Hrapp" = +1
+	"Marjorie" = -1
+	"Sien" = -1
+	"Thomasin" = -1
+	"Hild" = -1
+	"Asleif" = -1
+	"Jenefer" = -1
+	"Marit" = -1
+	"Iva" = -1
+	"Alice" = -1
+	"Gunnora" = -1
 }
-ship_names = { 
+ship_names = {
+	"Death Rattle Abingdon"
+	"Serpent Gilded Shade"
+	"Ledbury Howling Spear"
+	"Kilcurrig Hearty"
+	"Silver Arrow Frostbitten Rook"
+	"For Play Celerity"
+	"Frostbitten Rook Bird of Cousin's Eye"
+	"Iron Devil Greedy Dragon"
+	"Barrowbound Flame Stone Gnoll"
+	"Earthdon's Heart Howling Spear"
+	"Death Rattle Spitfire"
+	"Rime-Touched Valor Melody"
+	"Burning Fjord Iron Dragon's Doom"
+	"Sundew Triad of the Waves"
+	"Shadow-Girded Lash Setter"
 }

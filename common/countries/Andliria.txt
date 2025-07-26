@@ -23,8 +23,53 @@ leader_names = {
 	"Daniel Boote"
 	"Frances Fraunces"
 	"Wulfgeat Lave"
+	"Clarissa de Mora"
+	"Ealdhelm Huessen"
+	"Asketel Bos"
+	"Ontanon Wynter"
+	"Areagne Walley"
+	"Elise Lacy"
+	"Jolina Kastner"
+	"Leofstan de Navete"
+	"Petra de Ysla"
+	"Eystein Glover"
 }
-monarch_names = { 
+monarch_names = {
+	"Claus" = +1
+	"Sayer" = +1
+	"Edward" = +1
+	"Fastida" = +1
+	"Walter" = +1
+	"Gris" = +1
+	"Ansketil" = +1
+	"Isaac" = +1
+	"Eelco" = +1
+	"Denis" = +1
+	"Amalasuntha" = -1
+	"Godusa" = -1
+	"Aldis" = -1
+	"Euphemia" = -1
+	"Emilia" = -1
+	"Joy" = -1
+	"Avina" = -1
+	"Helen" = -1
+	"Preciosa" = -1
+	"Alwina" = -1
 }
-ship_names = { 
+ship_names = {
+	"Shadow-Girded Lash Dubford"
+	"Shatterhelm Shriek Seeker"
+	"Sunlesswind Saltheart"
+	"Tentacle Ruby Ranger"
+	"Clove Tree Ruby Falcon"
+	"Princess's Shadow Greedy Dragon"
+	"Cabin Fever Dragon's Wail"
+	"Ironhowl Maiden Discreet Secret"
+	"Hangman's Hate Sunless Mare"
+	"Haunted Gambit Death Rattle"
+	"Nymphen Keen of Torcradle"
+	"Aquilon Obsidian Nymph"
+	"Burning Inn Crimson Singer"
+	"Rime-Touched Valor God of the Ocean"
+	"Rime-Touched Valor Ledbury"
 }

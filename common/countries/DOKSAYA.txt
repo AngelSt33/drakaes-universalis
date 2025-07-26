@@ -23,8 +23,53 @@ leader_names = {
 	"Edward Cary"
 	"Gijsbert Hindriks"
 	"Nota Chernocke"
+	"Richard Kinge"
+	"Godelieve Koch"
+	"Antoon Paarhuis"
+	"Amalasuintha Nafnidottir"
+	"Guust Vaart"
+	"Oonagh Spebynton"
+	"Sander Pfennig"
+	"Arnold Oosterkamp"
+	"Domingo Luchtenberg"
+	"Ute Tabares"
 }
-monarch_names = { 
+monarch_names = {
+	"Nigel" = +1
+	"Drogo" = +1
+	"Anthony" = +1
+	"Maurice" = +1
+	"Fravitta" = +1
+	"Warin" = +1
+	"Louw" = +1
+	"Leomer" = +1
+	"Laurens-Jan" = +1
+	"Seman" = +1
+	"Tiecia" = -1
+	"Saegifu" = -1
+	"Avina" = -1
+	"Enota" = -1
+	"Gunnora" = -1
+	"Cassandra" = -1
+	"Dorothy" = -1
+	"Amalasuntha" = -1
+	"Isabel" = -1
+	"Mary" = -1
 }
-ship_names = { 
+ship_names = {
+	"Abingdon Red-Eyed Stag"
+	"Hearty Loyalty"
+	"Side Quest Deathwind"
+	"Ironhowl Maiden Dubford"
+	"Gordia's Light Pathfinder"
+	"Cursed Raven The Gilded Fen"
+	"Runemarked Sorrow Lalmourn"
+	"Dordrecht Runner's Despair"
+	"Sable-Touched Omen Fell Wight"
+	"For Play Dragon's Wail"
+	"Ash-Clad Swan Dead God"
+	"Titan's Bard Gull's Shadow"
+	"Darvin's Cry Sorcerer's Nymph"
+	"Tentacle The Hollow Wolf"
+	"Patience Shell Voyager"
 }

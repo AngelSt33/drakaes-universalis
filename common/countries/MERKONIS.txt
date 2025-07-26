@@ -23,8 +23,53 @@ leader_names = {
 	"Guust Rijnders"
 	"Vivien Holthusen"
 	"Rosamund Molyns"
+	"Marcel Vinter"
+	"Antoon Kophoff"
+	"Seda Paarhuis"
+	"Tiecia Knody"
+	"Dik Stokes"
+	"Amy Panshawe"
+	"Oswyn Ragisson"
+	"Eliza Goodryke"
+	"Mawa Huessen"
+	"Arjen Richeman"
 }
-monarch_names = { 
+monarch_names = {
+	"Martin" = +1
+	"Thurstan" = +1
+	"Farthegn" = +1
+	"Christopher" = +1
+	"Heiko" = +1
+	"Constantin" = +1
+	"Aelnod" = +1
+	"Hamo" = +1
+	"Leofing" = +1
+	"Isaac" = +1
+	"Ormhild" = -1
+	"Marjorie" = -1
+	"Ailith" = -1
+	"Avagisa" = -1
+	"Joyce" = -1
+	"Philippa" = -1
+	"Wenthelen" = -1
+	"Catherine" = -1
+	"Thomasin" = -1
+	"Beatrice" = -1
 }
-ship_names = { 
+ship_names = {
+	"The Long Cold Quicksilver"
+	"Hallowed Gale Discreet Secret"
+	"Hearty Luminous Runner"
+	"Watcher Burning Inn"
+	"Path Salamander of Griffinsway Sea Champion's Dolphin"
+	"Windsunder Moon Glace Bay"
+	"Broken Sigil Sundew"
+	"Aquilon Ash-Clad Swan"
+	"Abingdon Hearty"
+	"Shatterhelm Shriek Anne"
+	"Whiskey Chaser Windsong"
+	"Misadventure Buccaneer"
+	"Princess's Shadow Surprise"
+	"The Last Meadfire Darvin's Cry"
+	"Hunter Mason's Folly"
 }

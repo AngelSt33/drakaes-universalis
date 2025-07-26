@@ -23,8 +23,53 @@ leader_names = {
 	"Konstanze Hersch"
 	"Helewis Bredham"
 	"Arthur Panshawe"
+	"Grace Ehrlinger"
+	"Petronille Benthey"
+	"Regina Sherbourne"
+	"Olivia Fendler"
+	"Amelie Weizenbaum"
+	"Petra Weingaertner"
+	"Alexandre Harig"
+	"Oswyn Brinckhurst"
+	"Fredegar Pownder"
+	"Hermangild Wegman"
 }
-monarch_names = { 
+monarch_names = {
+	"Asketil" = +1
+	"Aslac" = +1
+	"Saewulf" = +1
+	"Francis" = +1
+	"Henry" = +1
+	"Lefwin" = +1
+	"Louw" = +1
+	"Osbert" = +1
+	"Borstig" = +1
+	"Walahmar" = +1
+	"Ormhild" = -1
+	"Enota" = -1
+	"Iva" = -1
+	"Wenthelen" = -1
+	"Ingrid" = -1
+	"Sarah" = -1
+	"Susanna" = -1
+	"Malasintha" = -1
+	"Marjorie" = -1
+	"Dineke" = -1
 }
-ship_names = { 
+ship_names = {
+	"Celerity Sorrow Warlock's Harpy"
+	"Spitfire Whalebane Echo"
+	"Outlander Bold Venture"
+	"Twilight Reaver Immeral's Kiss"
+	"Success Whisper"
+	"Deathwind Silver Arrow"
+	"Burning Fjord Abingdon"
+	"Sorrow Warlock's Harpy Nunney Castle"
+	"Twice Sunk Obsidian Nymph"
+	"Hearthless Flight Watcher"
+	"Whalebane Echo Black Swan"
+	"Thorn-Gilded Curse Bird of Cousin's Eye"
+	"Possessedfish Haunted Gambit"
+	"Cruel Dagger Arunta"
+	"Seeker Side Quest"
 }

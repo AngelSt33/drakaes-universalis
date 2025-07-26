@@ -23,8 +23,53 @@ leader_names = {
 	"Sander Klijn"
 	"Floris Strokappe"
 	"Zarina Heitz"
+	"Odo Hiddink"
+	"Janneke Bouldre"
+	"Solomon Hyll"
+	"Gerda Willemzen"
+	"Janucho Bryan"
+	"Heiko Lave"
+	"Waldo Flederis"
+	"Thorstar Bouldre"
+	"Vivien Kortman"
+	"Amalindis Wrenne"
 }
-monarch_names = { 
+monarch_names = {
+	"Fritz" = +1
+	"Denis" = +1
+	"Leofing" = +1
+	"Herebert" = +1
+	"Rolf" = +1
+	"Jorn" = +1
+	"Lewin" = +1
+	"Mert" = +1
+	"Lambert" = +1
+	"Fravitta" = +1
+	"Godlefe" = -1
+	"Goditha" = -1
+	"Emilia" = -1
+	"Amalfriede" = -1
+	"Acelina" = -1
+	"Leofe" = -1
+	"Julian" = -1
+	"Bergljot" = -1
+	"Clementia" = -1
+	"Sedehana" = -1
 }
-ship_names = { 
+ship_names = {
+	"Mason's Folly Quicksilver"
+	"Blood-Grey Wave Carrier"
+	"Copper King of Hare's Hill Shadow-Girded Lash"
+	"Fluke Unlikely Breaker"
+	"Snarling Zephyr of Blackbrook Wem"
+	"Valhalla Vain Gravedigger"
+	"Fluke Rime-Touched Valor"
+	"Earth Hippogriff of Maresmeet Sea Golem"
+	"Watcher of Wickenlund Cuttle"
+	"Hallowed Gale Serpent"
+	"Black Swan Lavendar Demon"
+	"The Last Meadfire Seeker"
+	"Zhuirentel Deathwind"
+	"Grim Breaker Seeker"
+	"Snowblind Wake Serpent"
 }

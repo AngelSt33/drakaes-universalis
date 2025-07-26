@@ -23,8 +23,53 @@ leader_names = {
 	"Gunnilda Pettit"
 	"Philips Freer"
 	"Richard Gyll"
+	"Sayer Bryan"
+	"Gudo Cole"
+	"Jacob Laken"
+	"Reginald Veer"
+	"Merewin Bernard"
+	"Joycelin Bain"
+	"Hanno Rothmann"
+	"Mark Saravia"
+	"Ferrnando Forentin"
+	"Cathelijn Asplyn"
 }
-monarch_names = { 
+monarch_names = {
+	"Sigric" = +1
+	"Lambert" = +1
+	"Thurston" = +1
+	"Kaetilmund" = +1
+	"Laurens-Jan" = +1
+	"Hamo" = +1
+	"Athelstan" = +1
+	"Aelnod" = +1
+	"Pascoe" = +1
+	"Ansketil" = +1
+	"Tiana" = -1
+	"Cassandra" = -1
+	"Chlodoswintha" = -1
+	"Freygerd" = -1
+	"Alwina" = -1
+	"Mathilde" = -1
+	"Alice" = -1
+	"Godlefe" = -1
+	"Wilamin" = -1
+	"Amalfrida" = -1
 }
-ship_names = { 
+ship_names = {
+	"Gone Too Far Earth Octopus of the West"
+	"Shadow-Girded Lash Arunta"
+	"Cabin Fever Twice Sunk"
+	"Blood-Grey Wave Eight of the Waves"
+	"Devil's Roar Hunter"
+	"WyrmeEyed Wanderer Dordrecht"
+	"Mason's Folly Dead God"
+	"The Wolf's Regret Fluke"
+	"Silver Arrow Bold Venture"
+	"Wyrm-Wind Seeker Soldier of Fiendshelm"
+	"Jasper Reflective Spider"
+	"Burning Inn Demon"
+	"Snarling Zephyr of Blackbrook Hangman's Hate"
+	"Gone Too Far Greedy Dragon"
+	"Fell Wight Silverfang Gale"
 }

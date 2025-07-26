@@ -23,8 +23,53 @@ leader_names = {
 	"Gudo Geissler"
 	"Odo Sotton"
 	"Paulus Bodmer"
+	"Cornelius Whitewood"
+	"Ole Loveney"
+	"Sijbrand Hobart"
+	"Nicolas Bardolf"
+	"Grace Key"
+	"Odelina Hillebrand"
+	"Wilmot Bexley"
+	"Basten Hulst"
+	"Cynesige Heek"
+	"Rebecca Perryvalle"
 }
-monarch_names = { 
+monarch_names = {
+	"Osgood" = +1
+	"Godwin" = +1
+	"Kadal" = +1
+	"Tedric" = +1
+	"Edward" = +1
+	"Cyrila" = +1
+	"Falco" = +1
+	"Cornelius" = +1
+	"Guy" = +1
+	"Abraham" = +1
+	"Rimilde" = -1
+	"Helewis" = -1
+	"Milda" = -1
+	"Elske" = -1
+	"Ailith" = -1
+	"Earngith" = -1
+	"Tiana" = -1
+	"Idonea" = -1
+	"Wilamin" = -1
+	"Oda" = -1
 }
-ship_names = { 
+ship_names = {
+	"Death Rattle Earth Octopus of the West"
+	"Darvin's Cry Watcher of Wickenlund"
+	"Storm-Bitten Grudge Devil's Contract"
+	"Unlikely Breaker Hangman's Hate"
+	"Spitfire Devil's Roar"
+	"Immeral's Kiss Storm-Bitten Grudge"
+	"Luminous Runner Sunless Mare"
+	"Outlander Ashen Grin"
+	"Nymphen Fate"
+	"Runner's Despair Omen"
+	"The Withering Hunt Jasper"
+	"Compass Wem"
+	"Whisper's Hope Earth Hippogriff of Maresmeet"
+	"Path Salamander of Griffinsway Haunted Gambit"
+	"The Hollow Boar Outlander"
 }

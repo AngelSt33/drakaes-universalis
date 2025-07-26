@@ -23,8 +23,53 @@ leader_names = {
 	"Leonard Copinger"
 	"Tine Kass"
 	"Lowie Kinnie"
+	"Sander Schantz"
+	"Lennert Tolasson"
+	"Avina de Valmeseda"
+	"Gregor Flederis"
+	"Ljot Goofy"
+	"Augustin Kinnie"
+	"Angrebod Reimink"
+	"Yosi Barnes"
+	"Joycelin Stoughton"
+	"Ralph Kyllyngworth"
 }
-monarch_names = { 
+monarch_names = {
+	"Luke" = +1
+	"Sampson" = +1
+	"Skorri" = +1
+	"Humphrey" = +1
+	"Ambrose" = +1
+	"Osbert" = +1
+	"Louw" = +1
+	"Cornelius" = +1
+	"Laurens-Jan" = +1
+	"Eelco" = +1
+	"Rachel" = -1
+	"Ingaret" = -1
+	"Ingrid" = -1
+	"Chlodoswintha" = -1
+	"Leonie" = -1
+	"Muriel" = -1
+	"Sarah" = -1
+	"Godusa" = -1
+	"Hrodny" = -1
+	"Gudrun" = -1
 }
-ship_names = { 
+ship_names = {
+	"Wave Zephyr Bitterwake Cry"
+	"Sorcerer's Nymph Earth Octopus of the West"
+	"Beggar of Beastsshield WyrmeEyed Wanderer"
+	"Wellerman Hot Flush"
+	"Obsidian Nymph Osprey's Pride"
+	"Storm-Bitten Grudge Gertraud's Doom"
+	"Wind Song Broken Sigil"
+	"Nunney Castle Hearty"
+	"Ruby Ranger Beggar of Beastsshield"
+	"Ironhowl Maiden Falling Star"
+	"The Hollow Boar Demon"
+	"Whisper's Hope Hangman's Hate"
+	"Oathbound Drift Hatherleigh"
+	"Ortenzia Keen of Torcradle"
+	"Kempenfelt Keen of Torcradle"
 }

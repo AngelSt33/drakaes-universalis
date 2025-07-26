@@ -23,8 +23,53 @@ leader_names = {
 	"Guust Rijnders"
 	"Floris Strokappe"
 	"David Schumer"
+	"Thomasine Willardsey"
+	"Seda Sandes"
+	"Jan-Bart Dygenys"
+	"Hubrecht Lacy"
+	"Giles Helme"
+	"Domingo Jorundottir"
+	"Jan-Pieter Fendler"
+	"Petra Rothmann"
+	"Cecilia Sandes"
+	"David Vetter"
 }
-monarch_names = { 
+monarch_names = {
+	"Saewulf" = +1
+	"Sewel" = +1
+	"Tobias" = +1
+	"Adrian" = +1
+	"Oliver" = +1
+	"Tumi" = +1
+	"Philips" = +1
+	"Isaac" = +1
+	"Lefwin" = +1
+	"Stannard" = +1
+	"Magdalene" = -1
+	"Livitha" = -1
+	"Preciosa" = -1
+	"Mathilda" = -1
+	"Bridget" = -1
+	"Sigrid" = -1
+	"Cwenhild" = -1
+	"Saegifu" = -1
+	"Goditha" = -1
+	"Leofe" = -1
 }
-ship_names = { 
+ship_names = {
+	"Success Whisper's Hope"
+	"The Wolf's Regret Zhuirentel"
+	"Burning Fjord Copper King of Hare's Hill"
+	"Discreet Secret Vain Gravedigger"
+	"Dimsey's Light Bold Venture"
+	"Zhuirentel Sunburn"
+	"Glace Bay Gilded Shade"
+	"Hatherleigh Duskwake Drifter"
+	"Mason's Folly Spitfire"
+	"The Long Cold Anne"
+	"Seeker Whiskey Chaser"
+	"Great Expense Hull Camel"
+	"Seeker Sunlesswind"
+	"Crimson Barrow Pathfinder"
+	"Son of Colfoundry Sorcerer's Nymph"
 }

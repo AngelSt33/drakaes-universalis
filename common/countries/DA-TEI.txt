@@ -23,8 +23,53 @@ leader_names = {
 	"Henry Prowd"
 	"Tristan Pfennig"
 	"Cornelius Seger"
+	"Lefwin Lievendag"
+	"Heiko Kohnstamm"
+	"Thidrek Echyngham"
+	"Millicent Klijn"
+	"Marthijn Stelzner"
+	"Wil Platz"
+	"Petra Sternberg"
+	"Malasintha Bouldre"
+	"Gregor Hamstra"
+	"Lieke Launceleyn"
 }
-monarch_names = { 
+monarch_names = {
+	"Skorri" = +1
+	"Vivian" = +1
+	"Randall" = +1
+	"Vestgeir" = +1
+	"Warin" = +1
+	"Isaak" = +1
+	"Gorm" = +1
+	"Magnus" = +1
+	"Gudmund" = +1
+	"Conan" = +1
+	"Joy" = -1
+	"Isabel" = -1
+	"Magdalene" = -1
+	"Gunnora" = -1
+	"Mildred" = -1
+	"Leonie" = -1
+	"Sedehana" = -1
+	"Glismoda" = -1
+	"Eve" = -1
+	"Teja" = -1
 }
-ship_names = { 
+ship_names = {
+	"Deathwind West Son"
+	"Pathfinder Wolf-Touched Mist"
+	"The Last Meadfire Eight of the Waves"
+	"Snarling Zephyr of Blackbrook Gertraud's Doom"
+	"Stone Gnoll The Long Cold"
+	"Pathfinder Chained Tempest"
+	"Snowblind Wake Luminous Runner"
+	"Raglan Misadventure"
+	"Unlikely Breaker Hunter"
+	"Duskwake Drifter Black Swan"
+	"Arunta Sunlesswind"
+	"Wish of Carlusk Fluke"
+	"Side Quest Reflective Spider"
+	"Whisper's Hope Osprey's Pride"
+	"Earthdon's Heart The Silent Fjell"
 }

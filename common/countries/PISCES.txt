@@ -23,8 +23,53 @@ leader_names = {
 	"Yosi Erlbaum"
 	"Mila Ehrler"
 	"Lindert Carsjes"
+	"Nicola Corbett"
+	"Fernando Barg"
+	"Yosi Oosterkamp"
+	"Lorelei Holmfastsson"
+	"Attala Sotton"
+	"Elric Dygenys"
+	"Hallveig Gorste"
+	"Nicholas Gradl"
+	"Carlijne Herz"
+	"Wulsi Downer"
 }
-monarch_names = { 
+monarch_names = {
+	"Swain" = +1
+	"Gilbert" = +1
+	"Gunthigis" = +1
+	"Osbert" = +1
+	"Ailwin" = +1
+	"Bernard" = +1
+	"Skorri" = +1
+	"Josce" = +1
+	"Martin" = +1
+	"Gawaine" = +1
+	"Goditha" = -1
+	"Mabel" = -1
+	"Megan-Laureen" = -1
+	"Ysopa" = -1
+	"Gilot" = -1
+	"Melle" = -1
+	"Albreda" = -1
+	"Matasuntha" = -1
+	"Eve" = -1
+	"Enota" = -1
 }
-ship_names = { 
+ship_names = {
+	"The Wolf's Regret Celerity"
+	"Serpent Gilded Shade"
+	"Blade Ruby Falcon"
+	"Cruel Dagger Loyalty"
+	"The Hollow Wolf Earthdon's Heart"
+	"Snowblind Wake Aquilon"
+	"Void Servant of Hadiya's Spire Nunney Castle"
+	"Triad of the Waves Surprise"
+	"Soldier of Fiendshelm Lavendar Demon"
+	"Hull Camel Great Expense"
+	"Slayer's Terror Crimson Singer"
+	"Kempenfelt Oathbound Drift"
+	"Wellerman Deathwind"
+	"Shatterhelm Shriek Hangman's Hate"
+	"Ruby Falcon Iron Dragon's Doom"
 }

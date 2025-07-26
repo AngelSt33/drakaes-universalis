@@ -20,11 +20,56 @@ army_names = {
 fleet_names = { 
 }
 leader_names = {
-	"Cäcilia Fischinger"
+	"Cacilia Fischinger"
 	"Andrew Williams"
 	"Bas Kamerling"
+	"Fritz Haddock"
+	"Meike Jentzsch"
+	"Bergljot Sotton"
+	"John de Mora"
+	"Hanne Luchtenberg"
+	"Reginald Robertson"
+	"Dirk-Jan Pennebrygg"
+	"Elgar Brent"
+	"Pier Staple"
+	"Brian Overweg"
 }
-monarch_names = { 
+monarch_names = {
+	"Hermen" = +1
+	"Aslac" = +1
+	"Magnus" = +1
+	"Guy" = +1
+	"Asketil" = +1
+	"Ulric" = +1
+	"Harald" = +1
+	"Josce" = +1
+	"Kaetilmund" = +1
+	"John" = +1
+	"Isabel" = -1
+	"Matasuntha" = -1
+	"Megan-Laureen" = -1
+	"Cassandra" = -1
+	"Goditha" = -1
+	"Alice" = -1
+	"Protasia" = -1
+	"Bergljot" = -1
+	"Marjorie" = -1
+	"Livitha" = -1
 }
-ship_names = { 
+ship_names = {
+	"The Sunken Boast Gertraud's Doom"
+	"Grim Breaker Dakins"
+	"Setter Unlikely Breaker"
+	"Steadfast Buccaneer"
+	"Hangman's Hate Reflective Spider"
+	"Sorcerer's Nymph Hunter"
+	"Courtesan's Sprite Shell Voyager"
+	"Fate Anne"
+	"Murlusk's Thunder Sorcerer's Nymph"
+	"Queen of Yorvick The Hollow Boar"
+	"Thorn-Gilded Curse Tentacle"
+	"Wish of Carlusk Escape"
+	"Gilded Shade Carrier"
+	"Glace Bay Watcher of Wickenlund"
+	"Seeker Side Quest"
 }

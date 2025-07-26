@@ -23,8 +23,53 @@ leader_names = {
 	"Angrebod Windham"
 	"Drogo Rede"
 	"Bedear the Berserker"
+	"Alviva Guthrumsson"
+	"Beuca Whitewood"
+	"Jurrien Hyll"
+	"Alfsige Slyfield"
+	"Godelieve Dyneley"
+	"Marmaduke Cole"
+	"Olivia Gradl"
+	"Giso Faylare"
+	"Dirk-Jan Hopton"
+	"Antoon Hogewind"
 }
-monarch_names = { 
+monarch_names = {
+	"Marmaduke" = +1
+	"Gilbert" = +1
+	"Warin" = +1
+	"Rolf" = +1
+	"Laurenz" = +1
+	"Huibert" = +1
+	"Til" = +1
+	"Tedric" = +1
+	"Richard" = +1
+	"Gris" = +1
+	"Ailith" = -1
+	"Teja" = -1
+	"Isgerd" = -1
+	"Ingrid" = -1
+	"Enota" = -1
+	"Agnes" = -1
+	"Maria" = -1
+	"Protasia" = -1
+	"Cwenhild" = -1
+	"Eulalia" = -1
 }
-ship_names = { 
+ship_names = {
+	"Gull's Shadow Great Expense"
+	"Anne Red-Eyed Stag"
+	"The Silent Fjell Six of the Sky"
+	"Clove Tree The Silent Fjell"
+	"Clove Tree Titan's Bard"
+	"Success The Shivering Hoard"
+	"Oathbound Drift Lalmourn"
+	"Sunless Mare Son of Colfoundry"
+	"Dakins Grim Breaker"
+	"Chaoticfish Hangman's Hate"
+	"Wailing Wyrm Crimson Singer"
+	"Pillager For Play"
+	"Spirit Side Quest"
+	"Dead God Ash-Clad Swan"
+	"Jasper Ironhowl Maiden"
 }

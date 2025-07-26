@@ -23,8 +23,53 @@ leader_names = {
 	"Iva Peucker"
 	"Gilot Pennebrygg"
 	"Svenja Platz"
+	"Emeline Copinger"
+	"Richard Elsbroek"
+	"Leonard Fitzralph"
+	"Ulfilas Bain"
+	"Tine Herz"
+	"Ontanon Vinter"
+	"Conan Town"
+	"Hermangild Leverer"
+	"Nicola Kamerling"
+	"Attala Banis"
 }
-monarch_names = { 
+monarch_names = {
+	"Stans" = +1
+	"Edward" = +1
+	"Bartholomew" = +1
+	"Ildebad" = +1
+	"Mark" = +1
+	"Brictric" = +1
+	"Avery" = +1
+	"Godric" = +1
+	"Rowland" = +1
+	"Nicholas" = +1
+	"Goditha" = -1
+	"Joyce" = -1
+	"Leofe" = -1
+	"Sedehana" = -1
+	"Heidi" = -1
+	"Ingrid" = -1
+	"Bergljot" = -1
+	"Matasuntha" = -1
+	"Loveday" = -1
+	"Saegifu" = -1
 }
-ship_names = { 
+ship_names = {
+	"Ortenzia Blood-Grey Wave"
+	"Bird of Cousin's Eye The Shivering Hoard"
+	"Serpent Thorn-Gilded Curse"
+	"Dakins Horror Wish"
+	"The Sunken Boast Wind Song"
+	"Bold Venture Side Quest"
+	"Chaoticfish Demon"
+	"Gordia's Light Ortenzia"
+	"Wolf-Touched Mist Saltheart"
+	"Kilcurrig Wish of Carlusk"
+	"Nymphen The Withering Hunt"
+	"The Silent Fjell Beggar of Beastsshield"
+	"Bitterwake Cry Jasper"
+	"Sunless Mare Orca"
+	"Cruel Dagger West Son"
 }

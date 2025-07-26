@@ -23,8 +23,53 @@ leader_names = {
 	"Harm Duchateau"
 	"Christiane Schlechter"
 	"Lindert Pijpenbroek"
+	"Silvester Damsell"
+	"Huib Downer"
+	"Olivia Janzen"
+	"Katrien Heitz"
+	"Mathijs Curteys"
+	"Jamie Leifdottir"
+	"Bilimer Daundelyon"
+	"Solomon Lemann"
+	"Gerda Curteys"
+	"Almeyque Hosteler"
 }
-monarch_names = { 
+monarch_names = {
+	"Fritz" = +1
+	"Wulfgeat" = +1
+	"Reynold" = +1
+	"Kaetilmund" = +1
+	"Aithanarid" = +1
+	"Sigemær" = +1
+	"Vivian" = +1
+	"Ulric" = +1
+	"Sigric" = +1
+	"Diggory" = +1
+	"Gudeliva" = -1
+	"Mathilda" = -1
+	"Asgerd" = -1
+	"Gudrun" = -1
+	"Ulfheid" = -1
+	"Eve" = -1
+	"Basilia" = -1
+	"Cwenhild" = -1
+	"Winifred" = -1
+	"Theda" = -1
 }
-ship_names = { 
+ship_names = {
+	"Unlikely Breaker Beggar of Beastsshield"
+	"Dead God Hearthless Flight"
+	"Misadventure Tentacle"
+	"Black Swan Iron Devil"
+	"Tentacle Bitterwake Cry"
+	"Broken Sigil Serpent"
+	"Ironhowl Maiden Stone Gnoll"
+	"West Son Chained Tempest"
+	"Wem Wolf-Touched Mist"
+	"Ash-Clad Swan Windsong"
+	"Patience Sea Golem"
+	"Barrowbound Flame Spirit"
+	"Killowen Hearthless Flight"
+	"Triad of the Waves Dubford"
+	"God of the Ocean Broken Sigil"
 }

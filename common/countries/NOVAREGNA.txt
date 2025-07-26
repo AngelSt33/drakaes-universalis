@@ -23,8 +23,53 @@ leader_names = {
 	"Reggy ten Hemmel"
 	"Piet Gevelear"
 	"Svenja Platz"
+	"Elionor Stier"
+	"Hygbald Beel"
+	"Garsendis Guthrumsson"
+	"Wil de Luque"
+	"Fulke Vredeveld"
+	"Sigor Jorvick"
+	"Mechiel Peucker"
+	"Steinunn Duchateau"
+	"Kasper Damsell"
+	"Millicent Penhallick"
 }
-monarch_names = { 
+monarch_names = {
+	"Herebert" = +1
+	"Roger" = +1
+	"Thurston" = +1
+	"Kjallak" = +1
+	"Geitirgest" = +1
+	"Fulk" = +1
+	"Oliver" = +1
+	"Akeman" = +1
+	"Augustin" = +1
+	"Fulke" = +1
+	"Hunila" = -1
+	"Enni" = -1
+	"Marjorie" = -1
+	"Joy" = -1
+	"Hallgerd" = -1
+	"Malasintha" = -1
+	"Euphemia" = -1
+	"Susanna" = -1
+	"Isolde" = -1
+	"Glismoda" = -1
 }
-ship_names = { 
+ship_names = {
+	"Snowblind Wake Iron Dragon's Doom"
+	"Howling Spear Sharp Swan of Torhof"
+	"Sunlesswind Dedaigneuse"
+	"Gull's Shadow Gone Too Far"
+	"Twice Sunk Thorn-Gilded Curse"
+	"Devil's Roar Falling Star"
+	"Wish of Carlusk Saltheart"
+	"Keen of Torcradle Osprey's Pride"
+	"Waking Dream Princess's Shadow"
+	"Earth Dragon Windsong"
+	"Tentacle Horror Wish"
+	"Sky Wizard Melody"
+	"Pillager Frostbitten Rook"
+	"Crimson Singer Devil's Roar"
+	"Princess's Shadow Osprey's Pride"
 }

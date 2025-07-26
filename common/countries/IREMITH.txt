@@ -23,8 +23,53 @@ leader_names = {
 	"Godwin Richeman"
 	"Brictric Byngham"
 	"Alfsige Halley"
+	"Bergljot Hartstein"
+	"Stannard Stoughton"
+	"Riet Auldyngton"
+	"Cuthbert Auldyngton"
+	"Domingo Rothmann"
+	"Arngunn Hiddink"
+	"Mabel Cavell"
+	"Torgard Arderne"
+	"Samira Peereboom"
+	"Gijsbert Molyns"
 }
-monarch_names = { 
+monarch_names = {
+	"Maximillian" = +1
+	"John" = +1
+	"Julian" = +1
+	"William" = +1
+	"Gunteric" = +1
+	"Tobias" = +1
+	"Bartholomew" = +1
+	"Machiel" = +1
+	"Martin" = +1
+	"Reginald" = +1
+	"Isabel" = -1
+	"Aldreda" = -1
+	"Gudeliva" = -1
+	"Sien" = -1
+	"Rosamund" = -1
+	"Barbara" = -1
+	"Cassandra" = -1
+	"Protasia" = -1
+	"Mary" = -1
+	"Amalasuntha" = -1
 }
-ship_names = { 
+ship_names = {
+	"The Shivering Hoard Pool Pilgrim"
+	"Hearty Killowen"
+	"Bold Venture Spitfire"
+	"Sunburn Six of the Sky"
+	"The Hollow Boar Courtesan's Sprite"
+	"Spirit Fallow Vengeance"
+	"Ten Iron Devil"
+	"Mad Wyvern Ortenzia"
+	"Saltheart Burning Fjord"
+	"Ortenzia Void Servant of Hadiya's Spire"
+	"Sea Champion's Dolphin Hearthless Flight"
+	"Saltheart Steadfast"
+	"Waking Dream Pale Hammer"
+	"Son of Colfoundry Crimson Barrow"
+	"Kilcurrig Earth Dragon"
 }

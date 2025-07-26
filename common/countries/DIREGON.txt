@@ -23,8 +23,53 @@ leader_names = {
 	"Herebert Stoughton"
 	"Pascoe Helme"
 	"Arjen Wanschers"
+	"Luisa Metze"
+	"Erik Abend"
+	"Verle Valreach"
+	"Stephen Balam"
+	"Pier Kats"
+	"Lucas Tolasson"
+	"Maurits Wardyworth"
+	"Henkie Dietten"
+	"Liene Stangl"
+	"Simon Badby"
 }
-monarch_names = { 
+monarch_names = {
+	"George" = +1
+	"Kadal" = +1
+	"Gawaine" = +1
+	"Augustin" = +1
+	"Thurstan" = +1
+	"Arthur" = +1
+	"Aelric" = +1
+	"Isaak" = +1
+	"Huibert" = +1
+	"Kaetilmund" = +1
+	"Loveday" = -1
+	"Winifred" = -1
+	"Saegifu" = -1
+	"Glismoda" = -1
+	"Marit" = -1
+	"Agatha" = -1
+	"Aldreda" = -1
+	"Griselda" = -1
+	"Muriel" = -1
+	"Rachel" = -1
 }
-ship_names = { 
+ship_names = {
+	"Princess's Shadow Patience"
+	"Serpent Wish of Carlusk"
+	"Serpent Duskwake Drifter"
+	"Gilded Shade Blade"
+	"Escape Compass"
+	"Unlikely Breaker Wave Zephyr"
+	"Sky Wizard Kempenfelt"
+	"Windsunder Moon Ortenzia"
+	"For Play Gertraud's Doom"
+	"Whalebane Echo Courtesan's Sprite"
+	"Crimson Singer Sunlesswind"
+	"Whiskey Chaser Kempenfelt"
+	"Windsunder Moon Jasper"
+	"Shell Voyager Zhuirentel"
+	"Spitfire Wailing Wyrm"
 }

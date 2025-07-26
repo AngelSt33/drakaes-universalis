@@ -23,8 +23,53 @@ leader_names = {
 	"Godwin Richeman"
 	"Eustace Chauncey"
 	"Sarah Molyns"
+	"Fulke Maneschijns"
+	"Maurice Rampston"
+	"Patza Sigericdottir"
+	"Cassandra Eyston"
+	"Rikiar Arentsen"
+	"Constantin Wohler"
+	"Nanko Schantz"
+	"Wulfwin de Mora"
+	"Sigor Bekman"
+	"Isaac Sotton"
 }
-monarch_names = { 
+monarch_names = {
+	"Babai" = +1
+	"Reginald" = +1
+	"Heiko" = +1
+	"Maximillian" = +1
+	"Geitirgest" = +1
+	"Thori" = +1
+	"Huibert" = +1
+	"Abraham" = +1
+	"Tumi" = +1
+	"Leofstan" = +1
+	"Freygerd" = -1
+	"Ursula" = -1
+	"Ulfheid" = -1
+	"Winifred" = -1
+	"Gudrun" = -1
+	"WillemijnLovechild" = -1
+	"Jenefer" = -1
+	"Gunnora" = -1
+	"Amalfrida" = -1
+	"Anna" = -1
 }
-ship_names = { 
+ship_names = {
+	"Eight of the Waves Wailing Wyrm"
+	"Melody Obsidian Nymph"
+	"Twilight Reaver Loyalty"
+	"Chained Tempest Wellerman"
+	"Quicksilver Watcher of Wickenlund"
+	"Kilcurrig Sunless Mare"
+	"The Hollow Wolf Lalmourn"
+	"Misadventure Setter"
+	"Ghost Ghoul Burning Inn"
+	"Pathfinder Great Expense"
+	"Sunlesswind Tentacle"
+	"Pale Hammer Cruel Hunter"
+	"Mason's Folly Cursed Raven"
+	"Falling Star True Witch"
+	"Spirit Rime-Touched Valor"
 }

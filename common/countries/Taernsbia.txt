@@ -23,8 +23,53 @@ leader_names = {
 	"Ludovic Cranford"
 	"Kobus Kalenkamp"
 	"Helmina Wessely"
+	"Dalla Schantz"
+	"Asketel Cod"
+	"Oswyn Robredo"
+	"Lavinia Homrighausen"
+	"Fortune Williams"
+	"Beorhthere Clopton"
+	"Feenja Lacy"
+	"Richildis Mugge"
+	"Galla Ende"
+	"Julian Vreeburg"
 }
-monarch_names = { 
+monarch_names = {
+	"Oswyn" = +1
+	"Nigel" = +1
+	"Josce" = +1
+	"Hanno" = +1
+	"Reginald" = +1
+	"Leofric" = +1
+	"Mert" = +1
+	"Ivo" = +1
+	"Rolf" = +1
+	"Bartjan" = +1
+	"Ailith" = -1
+	"Mathilda" = -1
+	"Susanna" = -1
+	"Emilia" = -1
+	"Eulalia" = -1
+	"Winifred" = -1
+	"Ysopa" = -1
+	"Feenja" = -1
+	"Millicent" = -1
+	"Mildred" = -1
 }
-ship_names = { 
+ship_names = {
+	"Saltheart Whiskey Chaser"
+	"Steadfast Serpent"
+	"Bird of Cousin's Eye Mad Wyvern"
+	"Gull's Shadow Osprey's Pride"
+	"Success Sunburn"
+	"Pathfinder Whisper"
+	"Oathbound Drift Serpent"
+	"The Silent Fjell Watcher"
+	"Ghost Ghoul Hot Flush"
+	"Ironhowl Maiden Setter"
+	"Earth Dragon Loyalty"
+	"Darvin's Cry Compass"
+	"Mad Wyvern Hunter"
+	"Bitterwake Cry Victory"
+	"Silver Arrow Barrowbound Flame"
 }

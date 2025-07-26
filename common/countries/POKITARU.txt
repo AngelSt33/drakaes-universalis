@@ -23,8 +23,53 @@ leader_names = {
 	"Naud Paarhuis"
 	"Kobus Veer"
 	"Livitha Cole"
+	"Leendert Wolrond"
+	"Nicolas Praas"
+	"Bricteva Rede"
+	"Geirhild Copinger"
+	"Richard Elmebrigge"
+	"Iva Chamburleyn"
+	"Graviel Waldeley"
+	"Sayer Janzen"
+	"Fritz Bernal"
+	"Avagisa Nibury"
 }
-monarch_names = { 
+monarch_names = {
+	"Mark" = +1
+	"Ulf" = +1
+	"Diggory" = +1
+	"Martin" = +1
+	"Allen" = +1
+	"Beucad" = +1
+	"Oliver" = +1
+	"Bertram" = +1
+	"Reginald" = +1
+	"Joscelin" = +1
+	"Ursula" = -1
+	"Rosamund" = -1
+	"Sarah" = -1
+	"Acelina" = -1
+	"Amalaswinth" = -1
+	"Veerle" = -1
+	"Malasintha" = -1
+	"Griselda" = -1
+	"Aldis" = -1
+	"Melle" = -1
 }
-ship_names = { 
+ship_names = {
+	"Iron Devil Haunted Gambit"
+	"Howling Spear Cursed Raven"
+	"Loss Spirit Discreet Secret"
+	"The Hollow Boar Discreet Secret"
+	"Osprey's Pride Courtesan's Sprite"
+	"Gull's Shadow Iron Devil"
+	"Osprey's Pride Melody"
+	"Raglan Side Quest"
+	"Soldier of Fiendshelm Princess's Shadow"
+	"Abingdon Bitterwake Cry"
+	"Bitterwake Cry Thornborough"
+	"Success Mad Wyvern"
+	"Wyrm-Wind Seeker Wave Zephyr"
+	"Barrowbound Flame Soldier of Fiendshelm"
+	"Snarling Zephyr of Blackbrook Ortenzia"
 }

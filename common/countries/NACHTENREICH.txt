@@ -23,8 +23,53 @@ leader_names = {
 	"Godelieve Teunissen Marsman"
 	"Urian Loveney"
 	"Gilot Pennebrygg"
+	"Louis Ingjaldottir"
+	"Rolf Holmfastsson"
+	"Fulke Bradshawe"
+	"Semer Montacute"
+	"Whyburgh Haddock"
+	"Henk Hyll"
+	"Pier Engeham"
+	"Cynesige Wynston"
+	"Godwin Fraunces"
+	"Asketel Richeman"
 }
-monarch_names = { 
+monarch_names = {
+	"Robert" = +1
+	"Levi" = +1
+	"Fulk" = +1
+	"Elric" = +1
+	"Leomer" = +1
+	"Eldert" = +1
+	"Abraham" = +1
+	"Cyrila" = +1
+	"Richard" = +1
+	"Youri" = +1
+	"Philippa" = -1
+	"Sigrid" = -1
+	"Leonie" = -1
+	"Winifred" = -1
+	"Gilot" = -1
+	"Alwina" = -1
+	"Avagisa" = -1
+	"Rosamund" = -1
+	"Gunnora" = -1
+	"Preciosa" = -1
 }
-ship_names = { 
+ship_names = {
+	"Son of Colfoundry The Hollow Wolf"
+	"Crimson Barrow Jasper"
+	"Watcher Wailing Wyrm"
+	"Oathwither Song Anne"
+	"Wish of Carlusk Enterprise"
+	"Loyalty Sunless Mare"
+	"The Gilded Fen Killowen"
+	"Dimsey's Light Fate"
+	"Swanless Wake Discreet Secret"
+	"Earth Octopus of the West Path Salamander of Griffinsway"
+	"Nunney Castle Gone Too Far"
+	"Shell Voyager Cruel Hunter"
+	"Valhalla Possessedfish"
+	"Watcher Sunless Mare"
+	"Shatterhelm Shriek Side Quest"
 }

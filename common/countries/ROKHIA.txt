@@ -23,8 +23,53 @@ leader_names = {
 	"Sigor Argentein"
 	"Merewin Cleffort"
 	"Arjen Wanschers"
+	"Alex Long"
+	"Maria Heimsoth"
+	"Stephen Nafnidottir"
+	"Ferrnando Kastner"
+	"Hygbald Bosby"
+	"Humphrey Daubernoun"
+	"Grace Nibury"
+	"Tristan Omvlee"
+	"Hermangild Bownell"
+	"Henkjan Long"
 }
-monarch_names = { 
+monarch_names = {
+	"Sindila" = +1
+	"Aelnod" = +1
+	"Bergfinn" = +1
+	"Gawain" = +1
+	"Ailwin" = +1
+	"Ansketil" = +1
+	"Thorismud" = +1
+	"Borstig" = +1
+	"Osgood" = +1
+	"Theudis" = +1
+	"Isgerd" = -1
+	"Avagisa" = -1
+	"Avina" = -1
+	"Amice" = -1
+	"Rachel" = -1
+	"Teja" = -1
+	"Gunnora" = -1
+	"Heidi" = -1
+	"Elske" = -1
+	"Tiana" = -1
 }
-ship_names = { 
+ship_names = {
+	"Cuttle Swanless Wake"
+	"Melody Watcher of Wickenlund"
+	"Mistress of the Waves Song of Cedar Mere"
+	"Wailing Wyrm Melody"
+	"Black Swan Gordia's Light"
+	"Devil's Roar Dimsey's Light"
+	"Reflective Spider Dead God"
+	"Rune Gull Ruby Falcon"
+	"Runner's Despair Carrier"
+	"Thorn-Gilded Curse Ortenzia"
+	"Iron Dragon's Doom Ash-Clad Swan"
+	"Sunless Mare Sundew"
+	"Silver Arrow Snarling Zephyr of Blackbrook"
+	"Orca Rime-Touched Valor"
+	"Queen of Yorvick True Witch"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Avery Balam"
 	"Merewin Cleffort"
 	"Cäcilia Fischinger"
+	"Arthur Slyfield"
+	"Hallveig Grebel"
+	"Geert-Jan Coulthurst"
+	"Ko Homrighausen"
+	"Ragnhild Pijpenbroek"
+	"Oswyn Wynter"
+	"Arthur Fodde"
+	"Heidrun-Gabriela Reimink"
+	"Mechiel Veldon"
+	"Rogier Hyde"
 }
-monarch_names = { 
+monarch_names = {
+	"Falco" = +1
+	"Beucad" = +1
+	"Fritz" = +1
+	"Marcel" = +1
+	"Bruni" = +1
+	"Humphrey" = +1
+	"Totila" = +1
+	"Cyrila" = +1
+	"Oswyn" = +1
+	"Vestgeir" = +1
+	"Margaret" = -1
+	"Amalaswinth" = -1
+	"Albreda" = -1
+	"Winifred" = -1
+	"Helewis" = -1
+	"Saeunn" = -1
+	"Barbara" = -1
+	"Goditha" = -1
+	"Alfleta" = -1
+	"Acelina" = -1
 }
-ship_names = { 
+ship_names = {
+	"Hunter Runemarked Sorrow"
+	"Steadfast Serpent"
+	"Serpent True Witch"
+	"Raglan True Witch"
+	"Copper King of Hare's Hill Sea Golem"
+	"The Long Cold Serpent"
+	"Ten Compass"
+	"Burning Fjord Gertraud's Doom"
+	"Courtesan's Sprite Grim Breaker"
+	"The Gilded Fen Valhalla"
+	"Duskwake Drifter Discreet Secret"
+	"Murlusk's Thunder Whiskey Chaser"
+	"Howling Spear Waking Dream"
+	"Mad Wyvern Killowen"
+	"Broken Sigil Tentacle"
 }

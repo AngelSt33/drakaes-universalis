@@ -23,8 +23,53 @@ leader_names = {
 	"Pier van Norel"
 	"Gamel Leverer"
 	"Livitha Cole"
+	"Bricteva Valreach"
+	"Mark Sigericdottir"
+	"Lieke Vaart"
+	"Godelieve Strunk"
+	"Joycelin Bouwhuis"
+	"Arngunn Kats"
+	"Sunilda Curteys"
+	"Olivia Jentzsch"
+	"Christiane Borgardottir"
+	"Giso Koestra"
 }
-monarch_names = { 
+monarch_names = {
+	"Uraias" = +1
+	"Stijn" = +1
+	"Leonard" = +1
+	"Thomas" = +1
+	"Avery" = +1
+	"Julian" = +1
+	"Claus" = +1
+	"Odo" = +1
+	"Herebert" = +1
+	"Andrew" = +1
+	"Idonea" = -1
+	"Nicola" = -1
+	"Joyce" = -1
+	"Hrodny" = -1
+	"Isolde" = -1
+	"Acelina" = -1
+	"Alfleta" = -1
+	"Asgerd" = -1
+	"Preciosa" = -1
+	"Aldis" = -1
 }
-ship_names = { 
+ship_names = {
+	"Frostbitten Rook Clove Tree"
+	"Red-Eyed Stag Gertraud's Doom"
+	"The Sunken Boast Windsong"
+	"Reflective Spider Courtesan's Sprite"
+	"Ash-Clad Swan Eight of the Waves"
+	"Enterprise Steadfast"
+	"Courtesan's Sprite Ashen Grin"
+	"Immeral's Kiss Shadow-Girded Lash"
+	"Sundered Moon Osprey's Pride"
+	"Snowblind Wake Kilcurrig"
+	"Copper King of Hare's Hill Twilight Reaver"
+	"Sunless Mare Greedy Dragon"
+	"Silverfang Gale Carrier"
+	"Chaoticfish Dordrecht"
+	"Steadfast Greedy Dragon"
 }

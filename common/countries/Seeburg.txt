@@ -23,8 +23,53 @@ leader_names = {
 	"Semer Windham"
 	"Jamie Schantz"
 	"Saegifu Hache"
+	"Jochum Hemmel"
+	"Patza Hvitserksson"
+	"Brictric Stahl"
+	"Osbert Eyston"
+	"Hanne Ginter"
+	"Elgar Schickendantz"
+	"Ko Leifdottir"
+	"Lydia Chauncey"
+	"Eystein Perryvalle"
+	"Arngunn Chancey"
 }
-monarch_names = { 
+monarch_names = {
+	"Adrian" = +1
+	"Jacob" = +1
+	"Algar" = +1
+	"Ulfketel" = +1
+	"Gamel" = +1
+	"Bergfinn" = +1
+	"Richard" = +1
+	"Godwin" = +1
+	"Laurenz" = +1
+	"Drogo" = +1
+	"Jenefer" = -1
+	"Sarah" = -1
+	"Ysopa" = -1
+	"Sibilla" = -1
+	"Ormhild" = -1
+	"Winifred" = -1
+	"Wilamin" = -1
+	"Gudeliva" = -1
+	"Susanna" = -1
+	"Idonea" = -1
 }
-ship_names = { 
+ship_names = {
+	"Twilight Reaver Loyalty"
+	"Windsong Sea Golem"
+	"Mason's Folly Haunted Gambit"
+	"Blood-Grey Wave Clove Tree"
+	"Serpent Wolf-Touched Mist"
+	"Melody Deathwind"
+	"Obsidian Nymph Wave Zephyr"
+	"Eight of the Waves Hot Flush"
+	"Misadventure Valhalla"
+	"Deathwind Stone Gnoll"
+	"Compass Wind Song"
+	"Windsong Loss Spirit"
+	"Melody Storm-Bitten Grudge"
+	"Aquilon Swanless Wake"
+	"Sorcerer's Nymph Dakins"
 }

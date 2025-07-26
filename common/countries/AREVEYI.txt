@@ -23,8 +23,53 @@ leader_names = {
 	"Rudie Boekholt"
 	"Nota Chernocke"
 	"Tatiana Hilbers"
+	"Nufro Reimink"
+	"Silvester Ginter"
+	"Godwin Klijn"
+	"Marit Heerius"
+	"Marmaduke Thorgeirsson"
+	"Luisa Windham"
+	"Thomas Koch"
+	"Michaela Burgh"
+	"Alfsige Arentsen"
+	"Hanne Scheurling"
 }
-monarch_names = { 
+monarch_names = {
+	"Rowland" = +1
+	"Attwell" = +1
+	"Christopher" = +1
+	"Maurice" = +1
+	"Ricimer" = +1
+	"Benedict" = +1
+	"Bernard" = +1
+	"Nicholas" = +1
+	"Asketil" = +1
+	"Ildebad" = +1
+	"Matasuntha" = -1
+	"Hrodny" = -1
+	"Madia" = -1
+	"Asleif" = -1
+	"Emma" = -1
+	"Iva" = -1
+	"Amalasuntha" = -1
+	"Helen" = -1
+	"Winifred" = -1
+	"Cassandra" = -1
 }
-ship_names = { 
+ship_names = {
+	"Sorcerer's Nymph Crimson Singer"
+	"Triad of the Waves Demon"
+	"Titan's Bard Carrier"
+	"Iron Dragon's Doom The Wolf's Regret"
+	"The Hollow Wolf Devil's Contract"
+	"Osprey's Pride Misadventure"
+	"The Sunken Boast Wave Zephyr"
+	"Ruby Falcon Dakins"
+	"Buccaneer Great Expense"
+	"Shadow-Girded Lash Hunter"
+	"Dubford Ash-Clad Swan"
+	"Sunless Mare Kraken"
+	"Victory Burning Inn"
+	"Burning Fjord Blade"
+	"Sunlesswind Dead God"
 }

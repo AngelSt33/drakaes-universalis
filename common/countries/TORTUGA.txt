@@ -23,8 +23,53 @@ leader_names = {
 	"Marcel Teeselink"
 	"Fulke Key"
 	"Wicing Fleming"
+	"Hubrecht Brayles"
+	"Leofric Arderne"
+	"Maaike Vaart"
+	"Mawa Ryall"
+	"Stefan Freer"
+	"Peet Dygenys"
+	"Arngunn Schuerer"
+	"Youri Wynston"
+	"Laurin Daundelyon"
+	"Bilimer Williams"
 }
-monarch_names = { 
+monarch_names = {
+	"Uraias" = +1
+	"Kadal" = +1
+	"Louw" = +1
+	"Jon" = +1
+	"Bartjan" = +1
+	"Attwell" = +1
+	"Constantin" = +1
+	"Aelric" = +1
+	"Anagastes" = +1
+	"Stans" = +1
+	"Wenthelen" = -1
+	"Theda" = -1
+	"Ulfheid" = -1
+	"Alfleta" = -1
+	"Sigrunn" = -1
+	"Gunnora" = -1
+	"Ysopa" = -1
+	"Osk" = -1
+	"Loveday" = -1
+	"Bergljot" = -1
 }
-ship_names = { 
+ship_names = {
+	"Abingdon Ironhowl Maiden"
+	"Wind Song Red-Eyed Stag"
+	"Whiskey Chaser Earthdon's Heart"
+	"Dordrecht Ash-Clad Swan"
+	"Iron Dragon's Doom Reflective Spider"
+	"Mad Wyvern West Son"
+	"Ash-Clad Swan Wem"
+	"Unlikely Breaker Twice Sunk"
+	"Melody Deathwind"
+	"Broken Sigil Surprise"
+	"Hearthless Flight Ledbury"
+	"Jasper For Play"
+	"Pathfinder Sorcerer's Nymph"
+	"Gone Too Far Tentacle"
+	"Eight of the Waves Burning Inn"
 }

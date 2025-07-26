@@ -30,12 +30,55 @@ leader_names = {
 	"Giles Foliot"
 	"Henkjan Grimberg"
 	"Mathies Schierholt"
+	"Iva Brownflet"
+	"Tonna Maydestone"
+	"Richildis Sehlmann"
+	"Gudo Luthi"
+	"Frances Sternberg"
+	"Drogo Pownder"
+	"Mencia de Catilo"
+	"Paulus Hogewind"
+	"Pavia Norel"
+	"Stijn Isleifdottir"
 }
 
 monarch_names = {
-	
+	"Osgood" = +1
+	"Warin" = +1
+	"Algar" = +1
+	"Drogo" = +1
+	"Turbert" = +1
+	"Patrick" = +1
+	"Avery" = +1
+	"Hjarrandi" = +1
+	"Oswyn" = +1
+	"Ivo" = +1
+	"Livitha" = -1
+	"Amalaswinth" = -1
+	"Mabel" = -1
+	"Sien" = -1
+	"Milda" = -1
+	"Sigrunn" = -1
+	"Feenja" = -1
+	"Albreda" = -1
+	"Millicent" = -1
+	"Cassandra" = -1
 }
 
 ship_names = {
-	
+	"Osprey's Pride Gull's Shadow"
+	"Howling Spear Cursed Raven"
+	"Snarling Zephyr of Blackbrook Thornborough"
+	"Pathfinder WyrmeEyed Wanderer"
+	"Ortenzia Cruel Dagger"
+	"Crimson Barrow Hunter"
+	"Blade The Withering Hunt"
+	"Howling Spear Osprey's Pride"
+	"Earth Octopus of the West Ruby Ranger"
+	"Nunney Castle Loss Spirit"
+	"Hallowed Gale Silver Arrow"
+	"Demon Ash-Clad Swan"
+	"Crimson Barrow Earth Hippogriff of Maresmeet"
+	"Howling Spear Ortenzia"
+	"Nymphen Vain Gravedigger"
 }

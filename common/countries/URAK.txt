@@ -23,8 +23,53 @@ leader_names = {
 	"Drogo Norden"
 	"Lydia Hoehmann"
 	"Mechiel Oosterloo"
+	"Rebecca Lusseveld"
+	"Stephen Hussey"
+	"Reggy Hiddink"
+	"Cwenhild Engeham"
+	"Clarissa Foliot"
+	"Amice Sherbourne"
+	"Marmaduke Tabard"
+	"Bas Kleiber"
+	"Pien Thoraldrdottir"
+	"Diggory Gustloff"
 }
-monarch_names = { 
+monarch_names = {
+	"Sayer" = +1
+	"Gunteric" = +1
+	"Sisebut" = +1
+	"Roger" = +1
+	"Lefwin" = +1
+	"Kadal" = +1
+	"Youri" = +1
+	"Albert" = +1
+	"Thorkel" = +1
+	"Alan" = +1
+	"Helen" = -1
+	"Julian" = -1
+	"Oda" = -1
+	"Glismoda" = -1
+	"Millicent" = -1
+	"Frances" = -1
+	"Bergljot" = -1
+	"Dineke" = -1
+	"Saeunn" = -1
+	"Helewis" = -1
 }
-ship_names = { 
+ship_names = {
+	"Whalebane Echo Rider's Luck"
+	"Murlusk's Thunder Snarling Zephyr of Blackbrook"
+	"Hatherleigh Slayer's Terror"
+	"Eight of the Waves Earth Dragon"
+	"The Wolf's Regret Sundew"
+	"Escape Reflective Spider"
+	"Sundered Moon Triad of the Waves"
+	"Unlikely Breaker Earthdon's Heart"
+	"Raglan Sorrow Warlock's Harpy"
+	"Twilight Reaver Quicksilver"
+	"Triad of the Waves Wem"
+	"Ruby Falcon Escape"
+	"Chained Tempest Watcher"
+	"Killowen Fate"
+	"Shell Voyager Hangman's Hate"
 }

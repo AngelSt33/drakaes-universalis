@@ -23,8 +23,53 @@ leader_names = {
 	"Godwin Gifford"
 	"Gabriel Leman"
 	"Noud Edelman"
+	"Amalfrieda Westera"
+	"Elia Abend"
+	"Ambrose Stahl"
+	"Lorena Neceham"
+	"Sarah Robynson"
+	"Huib Lucy"
+	"Lowie Mirones"
+	"Henry Schlechter"
+	"Marlene Cary"
+	"Osk Bischoptree"
 }
-monarch_names = { 
+monarch_names = {
+	"Matteo" = +1
+	"Maximillian" = +1
+	"Henry" = +1
+	"Magnus" = +1
+	"Walahmar" = +1
+	"Roger" = +1
+	"Babai" = +1
+	"Godwin" = +1
+	"Thorkel" = +1
+	"Gamel" = +1
+	"Veerle" = -1
+	"Clementia" = -1
+	"Winifred" = -1
+	"Eulalia" = -1
+	"Maria" = -1
+	"Gudrun" = -1
+	"Thjodhild" = -1
+	"Magdalene" = -1
+	"Basilia" = -1
+	"Hunila" = -1
 }
-ship_names = { 
+ship_names = {
+	"Cabin Fever Enterprise"
+	"Sundew Wish of Carlusk"
+	"Bitterwake Cry Pathfinder"
+	"Osprey's Pride Thornborough"
+	"Escape Swanless Wake"
+	"Wailing Wyrm Quicksilver"
+	"Shatterhelm Shriek Loyalty"
+	"Bold Venture Dead God"
+	"Hallowed Gale Lalmourn"
+	"Six of the Sky Fallow Vengeance"
+	"The Hollow Wolf Courtesan's Sprite"
+	"Possessedfish Nevermore"
+	"Ruby Falcon Nymphen"
+	"Earth Hippogriff of Maresmeet Oathwither Song"
+	"Twilight Reaver Pillager"
 }

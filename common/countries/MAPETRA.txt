@@ -23,8 +23,53 @@ leader_names = {
 	"Wulsi Greenway"
 	"Bricteva Kyllyngworth"
 	"Nicholas Switte"
+	"Ava Vos"
+	"Reggy Hache"
+	"Skœdir Schuerer"
+	"Leonhard Switte"
+	"Gunnora Robynson"
+	"Leonard de Aranda"
+	"Alfred Janzen"
+	"Rik Hilbers"
+	"Featris Gradl"
+	"Muriel Molyns"
 }
-monarch_names = { 
+monarch_names = {
+	"Randall" = +1
+	"Walahmar" = +1
+	"Nicolas" = +1
+	"Vivian" = +1
+	"Thurstan" = +1
+	"Gerard" = +1
+	"Reginald" = +1
+	"Falco" = +1
+	"Ansketil" = +1
+	"Pascoe" = +1
+	"Thomasin" = -1
+	"Maria" = -1
+	"Loveday" = -1
+	"Werthiva" = -1
+	"Avagisa" = -1
+	"Emilia" = -1
+	"Anna" = -1
+	"Yvette" = -1
+	"Sigrith" = -1
+	"Ailith" = -1
 }
-ship_names = { 
+ship_names = {
+	"Snarling Zephyr of Blackbrook Twice Sunk"
+	"Loss Spirit Kilcurrig"
+	"Red-Eyed Stag Saltheart"
+	"Reflective Spider Watcher"
+	"Dead God Princess's Shadow"
+	"Watcher The Gilded Fen"
+	"Gordia's Light Cursed Raven"
+	"Nunney Castle The Withering Hunt"
+	"Ten Duskwake Drifter"
+	"Ashen Grin Misery"
+	"Wyrm-Wind Seeker Lalmourn"
+	"Mason's Folly Pillager"
+	"Wave Zephyr Side Quest"
+	"The Sunken Boast Beehive"
+	"Lalmourn Cruel Dagger"
 }

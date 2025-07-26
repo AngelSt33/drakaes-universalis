@@ -23,8 +23,53 @@ leader_names = {
 	"Zarina Heitz"
 	"Engelise Veldon"
 	"Ealdhelm of Nibury"
+	"Amalina Wohler"
+	"Niko Plessner"
+	"Olvir Slyfield"
+	"Elja Cunt"
+	"Hallgerd Ehrenberg"
+	"Mark Flederis"
+	"Beuca Lond"
+	"Stefan Bos"
+	"Ferrnando Wrenne"
+	"Catherine Bokhove"
 }
-monarch_names = { 
+monarch_names = {
+	"James" = +1
+	"Lambert" = +1
+	"Ulric" = +1
+	"Thurston" = +1
+	"Akeman" = +1
+	"Albert" = +1
+	"Turbert" = +1
+	"Bernard" = +1
+	"Julian" = +1
+	"Sampson" = +1
+	"Agnes" = -1
+	"Sedehana" = -1
+	"Godusa" = -1
+	"Veerle" = -1
+	"Jenefer" = -1
+	"Glismoda" = -1
+	"Brunihild" = -1
+	"Dorothy" = -1
+	"Maria" = -1
+	"Magdalene" = -1
 }
-ship_names = { 
+ship_names = {
+	"Snowblind Wake Escape"
+	"Dubford Mistress of the Waves"
+	"Deathwind Clove Tree"
+	"Mad Wyvern Beehive"
+	"Demon Red-Eyed Stag"
+	"Earth Dragon Discreet Secret"
+	"Sorrow Warlock's Harpy Melody"
+	"Fallow Vengeance Aquilon"
+	"Side Quest Red-Eyed Stag"
+	"Pale Hammer Carrier"
+	"Bold Venture Enterprise"
+	"Son of Colfoundry The Sunken Boast"
+	"Steadfast Dakins"
+	"Chaoticfish Celerity"
+	"Rime-Touched Valor Ledbury"
 }

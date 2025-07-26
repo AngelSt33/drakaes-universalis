@@ -23,8 +23,53 @@ leader_names = {
 	"Merewin Cleffort"
 	"Christiane Schlechter"
 	"Silvester Cod"
+	"Patrick Norel"
+	"Selina Edelman"
+	"Osk Mullekes"
+	"Fredegar Sternberg"
+	"Dalla Westerhof"
+	"Isabelle Laken"
+	"Ismay Balam"
+	"Arjen Rosenthal"
+	"Rebecca Damsell"
+	"Herebert Metze"
 }
-monarch_names = { 
+monarch_names = {
+	"Fulke" = +1
+	"Lewin" = +1
+	"Swain" = +1
+	"Solomon" = +1
+	"Godfrey" = +1
+	"Falco" = +1
+	"Jordan" = +1
+	"Denis" = +1
+	"Jon" = +1
+	"Hjarrandi" = +1
+	"Ailith" = -1
+	"Leonie" = -1
+	"Teja" = -1
+	"Sigrunn" = -1
+	"Enota" = -1
+	"Malasintha" = -1
+	"Margaret" = -1
+	"Marjorie" = -1
+	"Barbara" = -1
+	"Tiana" = -1
 }
-ship_names = { 
+ship_names = {
+	"The Last Meadfire Beehive"
+	"Chained Tempest Courtesan's Sprite"
+	"Dedaigneuse Great Expense"
+	"Burning Inn Kraken"
+	"Watcher The Hollow Wolf"
+	"Mason's Folly Murlusk's Thunder"
+	"Titan's Bard Success"
+	"Chained Tempest Nevermore"
+	"Runemarked Sorrow Pathfinder"
+	"Misery The Gilded Fen"
+	"Dedaigneuse Earth Dragon"
+	"The Hollow Boar Setter"
+	"Dragon's Wail Broken Sigil"
+	"Fell Wight Gilded Shade"
+	"Sunless Mare Osprey's Pride"
 }

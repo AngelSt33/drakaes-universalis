@@ -23,8 +23,53 @@ leader_names = {
 	"Paulus Wohler"
 	"Ralph Bexley"
 	"Elstan of Nidaros"
+	"Ad Dyneley"
+	"Akeman Fenton"
+	"Amelina Hiddink"
+	"Alexandre Janzen"
+	"Hanne Wildiek"
+	"Samira Schierholt"
+	"Nicola Sperl"
+	"Lucas Schierholt"
+	"Ido Kohnstamm"
+	"Arjen Hindriks"
 }
-monarch_names = { 
+monarch_names = {
+	"Tobias" = +1
+	"Godwin" = +1
+	"Koen" = +1
+	"Oswyn" = +1
+	"Gorm" = +1
+	"Lewin" = +1
+	"Solomon" = +1
+	"Roger" = +1
+	"Bergfinn" = +1
+	"Youri" = +1
+	"Bergljot" = -1
+	"Griselda" = -1
+	"Agatha" = -1
+	"Beatrice" = -1
+	"Helewis" = -1
+	"Alwina" = -1
+	"Ysopa" = -1
+	"Mary" = -1
+	"Ursula" = -1
+	"Melle" = -1
 }
-ship_names = { 
+ship_names = {
+	"Oathwither Song Serpent"
+	"Serpent Storm-Bitten Grudge"
+	"Fate Spitfire"
+	"Rime-Touched Valor Gull's Shadow"
+	"Osprey's Pride Spirit"
+	"Dubford Swanless Wake"
+	"The Last Meadfire Osprey's Pride"
+	"Wish of Carlusk Saltheart"
+	"Mason's Folly Valhalla"
+	"Buccaneer Hot Flush"
+	"The Hollow Wolf Wem"
+	"Melody Fallow Vengeance"
+	"Princess's Shadow Copper King of Hare's Hill"
+	"Keen of Torcradle Loyalty"
+	"Howling Spear Success"
 }

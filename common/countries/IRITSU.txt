@@ -23,8 +23,53 @@ leader_names = {
 	"Felicia Scarclyf"
 	"Eustace Spebynton"
 	"Stannard Ashenhurst"
+	"Henry Bischoptree"
+	"Luuk Argentein"
+	"Thalia Gustloff"
+	"Floris Ingolfdottir"
+	"Thomasine Daubernoun"
+	"Nard Peereboom"
+	"Arnold Grove"
+	"Guthhere Boes"
+	"Amalasuntha Dygenys"
+	"Godwin Huessen"
 }
-monarch_names = { 
+monarch_names = {
+	"Matteo" = +1
+	"Aelnod" = +1
+	"Jordan" = +1
+	"Drogo" = +1
+	"Torkel" = +1
+	"Alexander" = +1
+	"Leofing" = +1
+	"Oliver" = +1
+	"Luke" = +1
+	"Hamo" = +1
+	"Gilot" = -1
+	"Rimilde" = -1
+	"Runa" = -1
+	"Saeunn" = -1
+	"Glismoda" = -1
+	"Amalaswinth" = -1
+	"Sigrunn" = -1
+	"Thomasin" = -1
+	"Cassandra" = -1
+	"Dineke" = -1
 }
-ship_names = { 
+ship_names = {
+	"Reflective Spider Spitfire"
+	"Silverfang Gale Fell Wight"
+	"Ten Mad Wyvern"
+	"Shadow-Girded Lash Dedaigneuse"
+	"Gordia's Light Seeker"
+	"Windsong Cruel Dagger"
+	"The Sunken Boast Wind Song"
+	"Discreet Secret Oathwither Song"
+	"Void Servant of Hadiya's Spire Iron Dragon's Doom"
+	"The Gilded Fen Anne"
+	"Immeral's Kiss Ironhowl Maiden"
+	"Sea Golem Greedy Dragon"
+	"Wellerman Whalebane Echo"
+	"Swanless Wake Melody"
+	"The Hollow Boar Cruel Hunter"
 }

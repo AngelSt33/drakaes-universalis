@@ -23,8 +23,53 @@ leader_names = {
 	"Lindert Carsjes"
 	"Florentijn van de Weterink"
 	"Floris Strokappe"
+	"Pavia Nibury"
+	"Gamel Ashenhurst"
+	"Piet Kamerling"
+	"Hallveig Schildknecht"
+	"Ad Kinge"
+	"Noud Ardes"
+	"Luca Richeman"
+	"Amelie Parsons"
+	"Cwenhild Echyngham"
+	"Ediva Heffelfinger"
 }
-monarch_names = { 
+monarch_names = {
+	"Tobias" = +1
+	"David" = +1
+	"Godwin" = +1
+	"Randall" = +1
+	"Warin" = +1
+	"Aelfward" = +1
+	"Sisebut" = +1
+	"Frideric" = +1
+	"Abraham" = +1
+	"Fulk" = +1
+	"Gudeliva" = -1
+	"Sarra" = -1
+	"Malasintha" = -1
+	"Asleif" = -1
+	"Jenefer" = -1
+	"Gunnora" = -1
+	"Matasuntha" = -1
+	"Agnes" = -1
+	"Bridget" = -1
+	"Alice" = -1
 }
-ship_names = { 
+ship_names = {
+	"Raglan Storm-Bitten Grudge"
+	"Beehive Burning Vulture"
+	"Rime-Touched Valor Gull's Shadow"
+	"Osprey's Pride Haunted Gambit"
+	"Nunney Castle Thorn-Gilded Curse"
+	"Cruel Dagger Devil's Contract"
+	"The Silent Fjell Wind Song"
+	"Slayer's Terror Dakins"
+	"Hatherleigh Obsidian Nymph"
+	"Twice Sunk Sunlesswind"
+	"Side Quest Immeral's Kiss"
+	"Beehive Compass"
+	"Wolf-Touched Mist Stone Gnoll"
+	"Cabin Fever Hangman's Hate"
+	"Surprise Sorcerer's Nymph"
 }

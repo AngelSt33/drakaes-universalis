@@ -23,8 +23,53 @@ leader_names = {
 	"Lindert Carsjes"
 	"Maurice Dale"
 	"Jeremias Schreck"
+	"Elric Wyddowsoun"
+	"Gerda Gradl"
+	"Cathelijn Ende"
+	"Melisanda Gradl"
+	"Vithimiris Baker"
+	"Fortune Gudlaugdottir"
+	"Bridget Tabares"
+	"Ismay Daundelyon"
+	"Gerard Rientjes"
+	"Tonna Grove"
 }
-monarch_names = { 
+monarch_names = {
+	"Hanno" = +1
+	"Bertram" = +1
+	"Walahmar" = +1
+	"Bartholomew" = +1
+	"Josce" = +1
+	"Harald" = +1
+	"Fastida" = +1
+	"Fulke" = +1
+	"Jasper" = +1
+	"Richard" = +1
+	"Werthiva" = -1
+	"Roosje" = -1
+	"Emma" = -1
+	"Bridget" = -1
+	"Saeunn" = -1
+	"Chlodoswintha" = -1
+	"Ulfheid" = -1
+	"Sigrid" = -1
+	"Dineke" = -1
+	"Godlefe" = -1
 }
-ship_names = { 
+ship_names = {
+	"Spitfire Whalebane Echo"
+	"Dedaigneuse Slayer's Terror"
+	"Waking Dream Compass"
+	"Kilcurrig The Withering Hunt"
+	"Titan's Bard Sea Champion's Dolphin"
+	"Hunter Horror Wish"
+	"The Shivering Hoard Son of Colfoundry"
+	"Burning Inn Luminous Runner"
+	"Patience Mad Wyvern"
+	"Compass Wellerman"
+	"Fate Enterprise"
+	"Jasper Gone Too Far"
+	"The Withering Hunt Dakins"
+	"Blood-Grey Wave Kraken"
+	"Osprey's Pride The Silent Fjell"
 }

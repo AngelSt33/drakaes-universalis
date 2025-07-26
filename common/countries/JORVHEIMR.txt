@@ -23,8 +23,53 @@ leader_names = {
 	"Alice Downer"
 	"Matthew Bryan"
 	"Millicent Brewster"
+	"Carlijne Vos"
+	"Alicia Romano"
+	"Sijbrand Mahler"
+	"Tine Sulzberger"
+	"Maurits-jan Duchateau"
+	"Ursula Nibury"
+	"Elja Flederis"
+	"Amalasuintha Tas"
+	"Gutirre Rientjes"
+	"Cornelia Berger"
 }
-monarch_names = { 
+monarch_names = {
+	"Oliver" = +1
+	"Bartholomew" = +1
+	"Vivian" = +1
+	"Gudmund" = +1
+	"Osbert" = +1
+	"Gilbert" = +1
+	"Thurston" = +1
+	"Louw" = +1
+	"Elric" = +1
+	"William" = +1
+	"Nicola" = -1
+	"Eve" = -1
+	"Asleif" = -1
+	"Heidi" = -1
+	"Ingrid" = -1
+	"Freygerd" = -1
+	"Eulalia" = -1
+	"Winifred" = -1
+	"Sigrith" = -1
+	"Preciosa" = -1
 }
-ship_names = { 
+ship_names = {
+	"Dakins The Wolf's Regret"
+	"Kraken Oathwither Song"
+	"Bird of Cousin's Eye Snarling Zephyr of Blackbrook"
+	"Hot Flush Side Quest"
+	"Thorn-Gilded Curse Wellerman"
+	"Great Expense Beggar of Beastsshield"
+	"Sea Golem Six of the Sky"
+	"Luminous Runner Bitterwake Cry"
+	"Osprey's Pride Dubford"
+	"Pale Hammer Cruel Hunter"
+	"Sharp Swan of Torhof Steadfast"
+	"Wellerman Sea Golem"
+	"Runner's Despair Watcher"
+	"Wolf-Touched Mist Rune Gull"
+	"Earth Dragon Dimsey's Light"
 }

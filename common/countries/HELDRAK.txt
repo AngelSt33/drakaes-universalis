@@ -23,8 +23,53 @@ leader_names = {
 	"Jodoc Castletown"
 	"Mathijs Westera"
 	"Elinor Lacy"
+	"Wilmot Panzinger"
+	"Gaut Puerto"
+	"Jan-Willem Panzinger"
+	"Stijn Boekholt"
+	"Theoderid Hrokdottir"
+	"Guthhere Grove"
+	"Arnold Clopton"
+	"Iva Hache"
+	"Thorve Hemmel"
+	"Kasper Kophoff"
 }
-monarch_names = { 
+monarch_names = {
+	"Arthur" = +1
+	"Theudis" = +1
+	"Youri" = +1
+	"Saewulf" = +1
+	"Simon" = +1
+	"Isaak" = +1
+	"Fastida" = +1
+	"Matteo" = +1
+	"William" = +1
+	"Roger" = +1
+	"Mabel" = -1
+	"Elske" = -1
+	"Ingrid" = -1
+	"Malasintha" = -1
+	"Joyce" = -1
+	"Madia" = -1
+	"Estrid" = -1
+	"Maria" = -1
+	"Isgerd" = -1
+	"Hunila" = -1
 }
-ship_names = { 
+ship_names = {
+	"Steadfast Patience"
+	"Rune Gull Iron Devil"
+	"Queen of Yorvick Unlikely Breaker"
+	"Burning Inn Orca"
+	"Setter Crimson Barrow"
+	"Melody Hot Flush"
+	"Falling Star Sunless Mare"
+	"Victory Gilded Shade"
+	"Runemarked Sorrow Wem"
+	"The Silent Fjell Jasper"
+	"Success Oathwither Song"
+	"Serpent Snowblind Wake"
+	"Possessedfish Wem"
+	"Zhuirentel Red-Eyed Stag"
+	"Hearty Darvin's Cry"
 }

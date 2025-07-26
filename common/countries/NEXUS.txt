@@ -23,8 +23,53 @@ leader_names = {
 	"Giles Bosby"
 	"Conan Rampston"
 	"Bas Kamerling"
+	"Akeman Sigericdottir"
+	"Rob Neceham"
+	"Thomas Kortman"
+	"Gerard Buryngton"
+	"Ulfi Foliot"
+	"Wicing Bos"
+	"Alicia Weingaertner"
+	"Theoderid Sigvatdottir"
+	"Livitha Brocksby"
+	"James Quattlebaum"
 }
-monarch_names = { 
+monarch_names = {
+	"Sayer" = +1
+	"Anagastes" = +1
+	"Leomer" = +1
+	"Simon" = +1
+	"Avery" = +1
+	"Maurice" = +1
+	"Youri" = +1
+	"Lewin" = +1
+	"Sewel" = +1
+	"Aelric" = +1
+	"Ingrid" = -1
+	"Agatha" = -1
+	"Preciosa" = -1
+	"Cassandra" = -1
+	"Joyce" = -1
+	"Milda" = -1
+	"Malasintha" = -1
+	"Dorothy" = -1
+	"Ursula" = -1
+	"Nicola" = -1
 }
-ship_names = { 
+ship_names = {
+	"Zhuirentel The Long Cold"
+	"Fate Tentacle"
+	"Sundew Slayer's Terror"
+	"Mad Wyvern Falling Star"
+	"Wailing Wyrm Melody"
+	"Vain Gravedigger Aquilon"
+	"Gull's Shadow Runemarked Sorrow"
+	"Keen of Torcradle Clove Tree"
+	"Titan's Bard Kraken"
+	"Darvin's Cry The Last Meadfire"
+	"Greedy Dragon Iron Devil"
+	"Ash-Clad Swan Earthdon's Heart"
+	"Aquilon Snowblind Wake"
+	"Obsidian Nymph Buccaneer"
+	"Earth Octopus of the West Osprey's Pride"
 }

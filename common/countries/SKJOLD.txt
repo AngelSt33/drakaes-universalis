@@ -23,8 +23,53 @@ leader_names = {
 	"Jan-Pieter in 't Velt"
 	"Mannes de Ruiter"
 	"Arthur Spebynton"
+	"Maurice Sanner"
+	"Hubert Waldeley"
+	"Acelina Hülsen"
+	"Jeremias Kortman"
+	"Rolf Weterink"
+	"Dirk-Jan Herz"
+	"Kobus Hampden"
+	"Stannard Heek"
+	"David Heffelfinger"
+	"Thomasine Freer"
 }
-monarch_names = { 
+monarch_names = {
+	"Gilbert" = +1
+	"Patrick" = +1
+	"Tedric" = +1
+	"Leofstan" = +1
+	"Saewulf" = +1
+	"Swain" = +1
+	"Kjallak" = +1
+	"Walahmar" = +1
+	"Maximillian" = +1
+	"Athelstan" = +1
+	"Milda" = -1
+	"Amalfrida" = -1
+	"Ormhild" = -1
+	"Estrid" = -1
+	"Asleif" = -1
+	"Megan-Laureen" = -1
+	"Joyce" = -1
+	"Sarah" = -1
+	"Wakerilda" = -1
+	"Regina" = -1
 }
-ship_names = { 
+ship_names = {
+	"Vain Gravedigger Soldier of Fiendshelm"
+	"Oathwither Song Wind Song"
+	"Vain Gravedigger Sea Champion's Dolphin"
+	"The Last Meadfire Darvin's Cry"
+	"WyrmeEyed Wanderer Hangman's Hate"
+	"Cabin Fever Sea Champion's Dolphin"
+	"Spirit Gordia's Light"
+	"Storm-Bitten Grudge Ghost Ghoul"
+	"Fate Dragon's Wail"
+	"Melody Shadow-Girded Lash"
+	"Silverfang Gale Fluke"
+	"Darvin's Cry Oathbound Drift"
+	"Nymphen Oathwither Song"
+	"Gordia's Light Sea Champion's Dolphin"
+	"Slayer's Terror Loyalty"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Arjen van Rooij"
 	"Wulsi Greenway"
 	"Konstanze Hersch"
+	"Mawa Smalbroek"
+	"Geirhild Bernal"
+	"Amalaswinth Guthrumsson"
+	"Tonna Fein"
+	"Joeri Smalbroek"
+	"Yosi Harris"
+	"Dorothy Salford"
+	"Eystein Tas"
+	"Ton Biorsson"
+	"Semer Slyfield"
 }
-monarch_names = { 
+monarch_names = {
+	"Aelric" = +1
+	"Sampson" = +1
+	"Vestgeir" = +1
+	"Hrapp" = +1
+	"Edward" = +1
+	"Gunteric" = +1
+	"Odo" = +1
+	"Samuel" = +1
+	"Ulfketel" = +1
+	"Arthur" = +1
+	"Goditha" = -1
+	"Freygerd" = -1
+	"Earngith" = -1
+	"Aldreda" = -1
+	"Matasuntha" = -1
+	"Amalfrida" = -1
+	"Sedehana" = -1
+	"Amalaswinth" = -1
+	"Saeunn" = -1
+	"Megan-Laureen" = -1
 }
-ship_names = { 
+ship_names = {
+	"Storm-Bitten Grudge Sea Champion's Dolphin"
+	"Reflective Spider Moon Blade"
+	"Ortenzia Burning Inn"
+	"Deathwind Watcher"
+	"The Hollow Boar Anne"
+	"Bitterwake Cry Rune Gull"
+	"Shatterhelm Shriek Anne"
+	"Side Quest Pale Hammer"
+	"Oathwither Song Seeker"
+	"Wem Crimson Barrow"
+	"Osprey's Pride Shatterhelm Shriek"
+	"Runner's Despair Sea Champion's Dolphin"
+	"God of the Ocean Hearthless Flight"
+	"Cruel Dagger Beehive"
+	"Keen of Torcradle Sea Champion's Dolphin"
 }

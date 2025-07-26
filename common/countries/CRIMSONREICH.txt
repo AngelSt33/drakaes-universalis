@@ -23,8 +23,53 @@ leader_names = {
 	"Iwan Elsbroek"
 	"Bernard Herleston"
 	"Florentijn van de Weterink"
+	"Louis Launceleyn"
+	"Godric Saravia"
+	"Mannes Bardolf"
+	"Jolien Winkelink"
+	"Ton Wilmink"
+	"Ole Lucy"
+	"George Homrighausen"
+	"Eustace Schumer"
+	"Naud Strachleigh"
+	"Juna Rede"
 }
-monarch_names = { 
+monarch_names = {
+	"Gerard" = +1
+	"Leofing" = +1
+	"Thorkel" = +1
+	"Jordan" = +1
+	"Nigel" = +1
+	"Patrick" = +1
+	"Bartjan" = +1
+	"Turbert" = +1
+	"Luuk" = +1
+	"Valentine" = +1
+	"Ingaret" = -1
+	"Susanna" = -1
+	"Aldreda" = -1
+	"Agatha" = -1
+	"Rachel" = -1
+	"Winifred" = -1
+	"Werthiva" = -1
+	"Helewis" = -1
+	"Isabel" = -1
+	"Gudrun" = -1
 }
-ship_names = { 
+ship_names = {
+	"Queen of Yorvick The Hollow Wolf"
+	"Path Salamander of Griffinsway Darvin's Cry"
+	"Bird of Cousin's Eye Crimson Barrow"
+	"Osprey's Pride Whisper's Hope"
+	"The Withering Hunt Melody"
+	"Barrowbound Flame Glace Bay"
+	"Serpent Runner's Despair"
+	"Pillager Howling Spear"
+	"Slayer's Terror Loyalty"
+	"Thorn-Gilded Curse Sea Champion's Dolphin"
+	"Blade Swanless Wake"
+	"Quicksilver Burning Vulture"
+	"Whalebane Echo Raglan"
+	"Dimsey's Light Oathbound Drift"
+	"The Gilded Fen Wave Zephyr"
 }

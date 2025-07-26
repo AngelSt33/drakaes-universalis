@@ -23,8 +23,53 @@ leader_names = {
 	"Felicia Scarclyf"
 	"Isabelle Schuerer"
 	"Nanko van 't Bouwhuis"
+	"Svea Hampden"
+	"Harald Wildiek"
+	"Bjor Vredeveld"
+	"Luisa Willemzen"
+	"Petra Flower"
+	"Alfred Zell"
+	"Garsendis Steinhaeusser"
+	"Jan-Willem Baker"
+	"Floris Buryngton"
+	"Alex Pijnappel"
 }
-monarch_names = { 
+monarch_names = {
+	"Cyrila" = +1
+	"Ulfketel" = +1
+	"Gris" = +1
+	"Vivian" = +1
+	"Stephen" = +1
+	"Kaetilmund" = +1
+	"Gawain" = +1
+	"Marmaduke" = +1
+	"Walter" = +1
+	"Gamel" = +1
+	"Saeunn" = -1
+	"Chlodoswintha" = -1
+	"Euphemia" = -1
+	"Thjodhild" = -1
+	"Milda" = -1
+	"Alwina" = -1
+	"Bridget" = -1
+	"Laura" = -1
+	"Thomasin" = -1
+	"Roosje" = -1
 }
-ship_names = { 
+ship_names = {
+	"For Play Watcher"
+	"Beggar of Beastsshield Void Servant of Hadiya's Spire"
+	"Shell Voyager Enterprise"
+	"Rime-Touched Valor Kilcurrig"
+	"Kempenfelt Sky Wizard"
+	"Compass Dragon's Wail"
+	"Wailing Wyrm Moon Blade"
+	"Valhalla Barrowbound Flame"
+	"Bold Venture Success"
+	"Chaoticfish Cuttle"
+	"Eight of the Waves Unlikely Breaker"
+	"Patience Compass"
+	"Rime-Touched Valor Six of the Sky"
+	"Side Quest Lalmourn"
+	"Great Expense Abingdon"
 }

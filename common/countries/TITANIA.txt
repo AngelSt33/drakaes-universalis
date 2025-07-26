@@ -23,8 +23,53 @@ leader_names = {
 	"Barbara Fitzralph"
 	"George Arderne"
 	"Bartholomew Stokes"
+	"Gerard Stier"
+	"Rosamund Sanner"
+	"Millicent Stinky"
+	"Pien Robredo"
+	"Osk Tetzlaff"
+	"Susanna Prowd"
+	"Aethilheard Herz"
+	"Susanna Marten"
+	"Regina Kastner"
+	"Pavia Holmfastsson"
 }
-monarch_names = { 
+monarch_names = {
+	"Odo" = +1
+	"Leofing" = +1
+	"Lambert" = +1
+	"Randall" = +1
+	"Griffin" = +1
+	"Matteo" = +1
+	"Gunteric" = +1
+	"Magnus" = +1
+	"Luuk" = +1
+	"Wulfgeat" = +1
+	"Hallgerd" = -1
+	"Melle" = -1
+	"Ormhild" = -1
+	"Teja" = -1
+	"Earngith" = -1
+	"Dineke" = -1
+	"Asleif" = -1
+	"Cassandra" = -1
+	"Mary" = -1
+	"Mathilde" = -1
 }
-ship_names = { 
+ship_names = {
+	"The Silent Fjell Bird of Cousin's Eye"
+	"Waking Dream Keen of Torcradle"
+	"Oathwither Song Rune Gull"
+	"Ironhowl Maiden Surprise"
+	"Swanless Wake Omen"
+	"Melody Frostbitten Rook"
+	"Devil's Contract Sorrow Warlock's Harpy"
+	"Success Gone Too Far"
+	"Sable-Touched Omen Cuttle"
+	"Twilight Reaver Crimson Singer"
+	"Iron Devil Eight of the Waves"
+	"Thornborough Ruby Falcon"
+	"Nymphen Vain Gravedigger"
+	"Kilcurrig Wind Seeker"
+	"WyrmeEyed Wanderer Six of the Sky"
 }

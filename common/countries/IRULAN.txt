@@ -23,8 +23,53 @@ leader_names = {
 	"Cuthbert Purlles"
 	"Wulfstan Ginter"
 	"Lowie Kinnie"
+	"Victoria Brent"
+	"Nota Geist"
+	"Silvester Wohler"
+	"Fritz Ryall"
+	"Aelric Honigberg"
+	"Elma Byngham"
+	"Feenja Norel"
+	"Bertram Ginter"
+	"Jan-Bart Prowd"
+	"Marion Gifford"
 }
-monarch_names = { 
+monarch_names = {
+	"Leomer" = +1
+	"Aelnod" = +1
+	"Luuk" = +1
+	"Mart-jan" = +1
+	"Jon" = +1
+	"Uraias" = +1
+	"Geert-Jan" = +1
+	"Tobias" = +1
+	"Philip" = +1
+	"Leonard" = +1
+	"Joyce" = -1
+	"Regina" = -1
+	"Frances" = -1
+	"Enota" = -1
+	"Malasintha" = -1
+	"Emma" = -1
+	"Idonea" = -1
+	"Clementia" = -1
+	"Agatha" = -1
+	"Godlefe" = -1
 }
-ship_names = { 
+ship_names = {
+	"Fell Wight Runemarked Sorrow"
+	"Buccaneer Sunburn"
+	"Grim Breaker Earth Hippogriff of Maresmeet"
+	"True Witch Cuttle"
+	"Cruel Hunter Watcher of Wickenlund"
+	"Shatterhelm Shriek Serpent"
+	"Victory Vain Gravedigger"
+	"Thorn-Gilded Curse Nevermore"
+	"Clove Tree Whalebane Echo"
+	"Pathfinder Titan's Bard"
+	"Luminous Runner Steadfast"
+	"Wind Seeker Buccaneer"
+	"Compass Hatherleigh"
+	"Possessedfish Six of the Sky"
+	"Watcher of Wickenlund Black Swan"
 }

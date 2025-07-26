@@ -23,8 +23,53 @@ leader_names = {
 	"Conan Rampston"
 	"Elizabeth Barnes"
 	"Stephen Wardyworth"
+	"Fortune Krüger"
+	"Jochum Lacy"
+	"Leonard Jentzsch"
+	"Maurits Ginter"
+	"Lucas Leynham"
+	"Silvester Pettit"
+	"Reggy Penhallick"
+	"Isaac Maudit"
+	"Livitha Killigrew"
+	"Jurrien Wynstryngham"
 }
-monarch_names = { 
+monarch_names = {
+	"Laurenz" = +1
+	"Gorm" = +1
+	"Sewel" = +1
+	"Gerard" = +1
+	"Lewin" = +1
+	"Cornelius" = +1
+	"Ulric" = +1
+	"Sigemær" = +1
+	"Asketil" = +1
+	"Aithanarid" = +1
+	"Willy" = -1
+	"Teja" = -1
+	"Joy" = -1
+	"Wakerilda" = -1
+	"Protasia" = -1
+	"Jenefer" = -1
+	"Muriel" = -1
+	"Julian" = -1
+	"Freygerd" = -1
+	"Laura" = -1
 }
-ship_names = { 
+ship_names = {
+	"Son of Colfoundry Runner's Despair"
+	"Sorrow Warlock's Harpy Hull Camel"
+	"Ortenzia Fate"
+	"Hearty Outlander"
+	"Rune Gull Ironhowl Maiden"
+	"Earth Octopus of the West Sable-Touched Omen"
+	"Wind Seeker Demon"
+	"Loss Spirit Serpent"
+	"Escape Deathwind"
+	"Queen of Yorvick Osprey's Pride"
+	"Kilcurrig Path Salamander of Griffinsway"
+	"Misadventure Zhuirentel"
+	"Whalebane Echo Thornborough"
+	"Reflective Spider Melody"
+	"Grim Breaker Windsong"
 }

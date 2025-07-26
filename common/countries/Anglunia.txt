@@ -23,8 +23,53 @@ leader_names = {
 	"Willem Dikken"
 	"Nota Chernocke"
 	"Ediva Bewforest"
+	"Thorve Ioketilldottir"
+	"Solomon Winkelink"
+	"Mannes Stappenbeld"
+	"Margery Kinnie"
+	"Vithimiris Whowood"
+	"Thorstar Rosenthal"
+	"Gustav Clopton"
+	"Reginald Holten"
+	"Ragenhild de Luque"
+	"Arngunn Schenk"
 }
-monarch_names = { 
+monarch_names = {
+	"Julian" = +1
+	"Eelco" = +1
+	"Gilbert" = +1
+	"Aelric" = +1
+	"Thorismud" = +1
+	"Leofric" = +1
+	"Reynold" = +1
+	"Asketil" = +1
+	"Frideric" = +1
+	"Luke" = +1
+	"Wenthelen" = -1
+	"Leofe" = -1
+	"Mabel" = -1
+	"Sibilla" = -1
+	"Eulalia" = -1
+	"Leonie" = -1
+	"Sarra" = -1
+	"WillemijnLovechild" = -1
+	"Amalasuntha" = -1
+	"Magdalene" = -1
 }
-ship_names = { 
+ship_names = {
+	"Void Servant of Hadiya's Spire Song of Cedar Mere"
+	"Whalebane Echo Greedy Dragon"
+	"Twilight Reaver Discreet Secret"
+	"Whisper's Hope Saltheart"
+	"Buccaneer Wind Seeker"
+	"The Gilded Fen Anne"
+	"Unlikely Breaker Dubford"
+	"Shadow-Girded Lash Haunted Gambit"
+	"Fell Wight Bold Venture"
+	"Death Rattle Aquilon"
+	"Death Rattle Seeker"
+	"Hunter Great Expense"
+	"Kempenfelt Devil's Roar"
+	"Arunta Runemarked Sorrow"
+	"Whisper Falling Star"
 }

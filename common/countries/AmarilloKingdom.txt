@@ -23,8 +23,53 @@ leader_names = {
 	"Jan-Willem Duivencate"
 	"Richard Waldeley"
 	"Ralph Bexley"
+	"Mannes Richeman"
+	"Julian de Catilo"
+	"Fanny Scheurling"
+	"Elyas de Vire"
+	"Maria Haddock"
+	"Iwan Luthi"
+	"Nicholas Bernard"
+	"Jan-Willem Honigberg"
+	"Osbert Lubach"
+	"Recitach Klugman"
 }
-monarch_names = { 
+monarch_names = {
+	"Maximillian" = +1
+	"Heiko" = +1
+	"Cyrila" = +1
+	"Brictric" = +1
+	"Theudis" = +1
+	"Guy" = +1
+	"Godwin" = +1
+	"Christopher" = +1
+	"Luke" = +1
+	"Huibert" = +1
+	"Veerle" = -1
+	"Ellen" = -1
+	"Regina" = -1
+	"Dineke" = -1
+	"Muriel" = -1
+	"Tiana" = -1
+	"Millicent" = -1
+	"Wenthelen" = -1
+	"Bergljot" = -1
+	"Sigrunn" = -1
 }
-ship_names = { 
+ship_names = {
+	"Beggar of Beastsshield Howling Spear"
+	"Duskwake Drifter Windsong"
+	"Titan's Bard Black Swan"
+	"Sorrow Warlock's Harpy Six of the Sky"
+	"Immeral's Kiss Ruby Ranger"
+	"Sorrow Warlock's Harpy Quicksilver"
+	"Devil's Roar Song of Cedar Mere"
+	"Haunted Gambit Steadfast"
+	"Void Servant of Hadiya's Spire Anne"
+	"Barrowbound Flame Nymphen"
+	"Bold Venture Song of Cedar Mere"
+	"Fallow Vengeance Side Quest"
+	"Dubford Ironhowl Maiden"
+	"Keen of Torcradle Dedaigneuse"
+	"Patience Burning Inn"
 }

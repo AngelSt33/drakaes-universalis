@@ -23,8 +23,53 @@ leader_names = {
 	"Gamel Dygenys"
 	"Richard Waldeley"
 	"Guthhere the Cunt"
+	"Aelric Hyll"
+	"Giles Wrenne"
+	"Leofric Biorsson"
+	"Joycelin Brayles"
+	"Steinunn Norwood"
+	"Stanilde Scarclyf"
+	"Valdamerca Oosterloo"
+	"Mareike Fraunces"
+	"Adam Crugge"
+	"Monia Willemzen"
 }
-monarch_names = { 
+monarch_names = {
+	"Adrian" = +1
+	"Turbert" = +1
+	"Rowland" = +1
+	"Philips" = +1
+	"Aithanarid" = +1
+	"Henry" = +1
+	"Reynold" = +1
+	"Rollo" = +1
+	"Thurstan" = +1
+	"Josce" = +1
+	"Thjodhild" = -1
+	"Thomasin" = -1
+	"Sigrid" = -1
+	"Aldreda" = -1
+	"Julian" = -1
+	"Enota" = -1
+	"Avina" = -1
+	"Ormhild" = -1
+	"Roosje" = -1
+	"Catherine" = -1
 }
-ship_names = { 
+ship_names = {
+	"Pool Pilgrim Burning Fjord"
+	"Buccaneer Gilded Shade"
+	"Obsidian Nymph Bird of Cousin's Eye"
+	"Earth Dragon Pool Pilgrim"
+	"Snarling Zephyr of Blackbrook Success"
+	"Storm-Bitten Grudge Quicksilver"
+	"Black Swan Ruby Ranger"
+	"Hull Camel Whisper's Hope"
+	"Windsunder Moon Raglan"
+	"Spitfire The Hollow Boar"
+	"Death Rattle Enterprise"
+	"Rider's Luck Bold Venture"
+	"Queen of Yorvick Keen of Torcradle"
+	"Keen of Torcradle Moon Blade"
+	"Carrier Void Servant of Hadiya's Spire"
 }

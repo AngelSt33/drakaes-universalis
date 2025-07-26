@@ -23,8 +23,53 @@ leader_names = {
 	"Lowie Omvlee"
 	"Jurren ten Bos"
 	"Elisabeth Staple"
+	"Elyas Rondel"
+	"Avagisa Horton"
+	"Inga Knody"
+	"Sabine Davers"
+	"Bergljot Shevington"
+	"Roger Hampden"
+	"Jolien Cunt"
+	"Nigel Lacy"
+	"Basten Rede"
+	"Yosi Ende"
 }
-monarch_names = { 
+monarch_names = {
+	"Simon" = +1
+	"Joseph" = +1
+	"Adrian" = +1
+	"Thorkel" = +1
+	"Sindila" = +1
+	"Percival" = +1
+	"Gawaine" = +1
+	"Waldo" = +1
+	"Magnus" = +1
+	"Godwin" = +1
+	"Joyce" = -1
+	"Helewis" = -1
+	"Sedehana" = -1
+	"Avagisa" = -1
+	"Ingrid" = -1
+	"Magdalene" = -1
+	"Cwenhild" = -1
+	"Gilot" = -1
+	"Regina" = -1
+	"Sarra" = -1
 }
-ship_names = { 
+ship_names = {
+	"Orca Possessedfish"
+	"Wave Zephyr Shadow-Girded Lash"
+	"Courtesan's Sprite Sunburn"
+	"Wailing Wyrm Osprey's Pride"
+	"Dedaigneuse Princess's Shadow"
+	"Queen of Yorvick Shadow-Girded Lash"
+	"Cabin Fever Sundered Moon"
+	"Whiskey Chaser Queen of Yorvick"
+	"Oathwither Song Kraken"
+	"Wave Zephyr Shatterhelm Shriek"
+	"Melody Gone Too Far"
+	"Sorrow Warlock's Harpy Fluke"
+	"Victory Oathwither Song"
+	"Misadventure Melody"
+	"Seeker Whisper's Hope"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Maurits-jan Winkelink"
 	"Fortune Goodryke"
 	"Helewis Bredham"
+	"Gustav Walsch"
+	"Cathelijn Quattlebaum"
+	"Godric Sever"
+	"Whyburgh Flower"
+	"Marthijn Hilbers"
+	"Toos Veldon"
+	"Mark Fitzralph"
+	"Tine Bosby"
+	"Osbert Vaart"
+	"Muriel Horton"
 }
-monarch_names = { 
+monarch_names = {
+	"Wicing" = +1
+	"Jordan" = +1
+	"Vestgeir" = +1
+	"Theudis" = +1
+	"Tumi" = +1
+	"Julian" = +1
+	"Bartjan" = +1
+	"Oliver" = +1
+	"Reginald" = +1
+	"Thurstan" = +1
+	"Amalasuntha" = -1
+	"Theda" = -1
+	"Wilamin" = -1
+	"Amalaswinth" = -1
+	"Mathilde" = -1
+	"Nicola" = -1
+	"Leofe" = -1
+	"Pavia" = -1
+	"Bridget" = -1
+	"Muriel" = -1
 }
-ship_names = { 
+ship_names = {
+	"Deathwind Outlander"
+	"Horror Wish Escape"
+	"Unlikely Breaker Hangman's Hate"
+	"Earthdon's Heart Osprey's Pride"
+	"Burning Vulture Ten"
+	"Loss Spirit Tentacle"
+	"Cuttle The Hollow Wolf"
+	"Gordia's Light Blade"
+	"Wave Zephyr Burning Fjord"
+	"The Sunken Boast Nymphen"
+	"Red-Eyed Stag Glace Bay"
+	"Outlander Crimson Barrow"
+	"Runemarked Sorrow Celerity"
+	"Blood-Grey Wave Omen"
+	"Sky Wizard Watcher"
 }

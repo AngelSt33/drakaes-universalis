@@ -23,8 +23,53 @@ leader_names = {
 	"Thomasine Crugge"
 	"Floris Strokappe"
 	"Avery Balam"
+	"Isolde Homrighausen"
+	"Monia Pijpenbroek"
+	"Chris Elmebrigge"
+	"Aelric Ogmundottir"
+	"Angrebod Bewley"
+	"Zarina Sigvatdottir"
+	"Francisco Pijnappel"
+	"Ute Wardyworth"
+	"Sigor Nafnidottir"
+	"Avagisa Luchtenberg"
 }
-monarch_names = { 
+monarch_names = {
+	"Avery" = +1
+	"Leomer" = +1
+	"Edric" = +1
+	"Harald" = +1
+	"Simon" = +1
+	"Philip" = +1
+	"Aelric" = +1
+	"Ildebad" = +1
+	"Gunteric" = +1
+	"Jordan" = +1
+	"Euphemia" = -1
+	"Sigrunn" = -1
+	"Amalfrida" = -1
+	"Clementia" = -1
+	"Basilia" = -1
+	"Sien" = -1
+	"Ormhild" = -1
+	"Susanna" = -1
+	"Veerle" = -1
+	"Tiana" = -1
 }
-ship_names = { 
+ship_names = {
+	"Side Quest Twice Sunk"
+	"Burning Fjord Copper King of Hare's Hill"
+	"Unlikely Breaker Jasper"
+	"Nymphen Red-Eyed Stag"
+	"Cruel Hunter Compass"
+	"Burning Fjord Spirit"
+	"Pool Pilgrim Snarling Zephyr of Blackbrook"
+	"Watcher Burning Vulture"
+	"Saltheart Ashen Grin"
+	"The Hollow Boar Ledbury"
+	"Sunless Mare Outlander"
+	"Nevermore Chaoticfish"
+	"Blood-Grey Wave Moon Blade"
+	"Sky Wizard Greedy Dragon"
+	"Fallow Vengeance Quicksilver"
 }

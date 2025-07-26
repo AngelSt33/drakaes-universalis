@@ -23,8 +23,53 @@ leader_names = {
 	"Ole Kaplan"
 	"Pier van Norel"
 	"Godric Leynham"
+	"Theoderid Sigvatdottir"
+	"Leonard Tolasson"
+	"Lieke Chauncey"
+	"Merewin Heimsoth"
+	"Fritz Davers"
+	"Acelina Platz"
+	"Crystobell Cassy"
+	"Fernando Lexis"
+	"Henkjan Jorundottir"
+	"Alviva Kohnstamm"
 }
-monarch_names = { 
+monarch_names = {
+	"Matthew" = +1
+	"Giles" = +1
+	"Swain" = +1
+	"Warin" = +1
+	"Stephen" = +1
+	"Bartjan" = +1
+	"Fulke" = +1
+	"Luke" = +1
+	"Lambert" = +1
+	"Magnus" = +1
+	"Cassandra" = -1
+	"Mildred" = -1
+	"Godusa" = -1
+	"Agnes" = -1
+	"Aldis" = -1
+	"Mathilda" = -1
+	"Asgerd" = -1
+	"Millicent" = -1
+	"Acelina" = -1
+	"Elske" = -1
 }
-ship_names = { 
+ship_names = {
+	"Fate Darvin's Cry"
+	"Twilight Reaver Glace Bay"
+	"True Witch Wind Song"
+	"Burning Inn Serpent"
+	"Snarling Zephyr of Blackbrook Queen of Yorvick"
+	"Hallowed Gale Blade"
+	"Compass Victory"
+	"Fallow Vengeance Stone Gnoll"
+	"Lavendar Demon Watcher"
+	"Sorcerer's Nymph Ten"
+	"Broken Sigil Seeker"
+	"Void Servant of Hadiya's Spire Watcher"
+	"Wind Seeker Aquilon"
+	"Kilcurrig The Sunken Boast"
+	"Beehive Death Rattle"
 }

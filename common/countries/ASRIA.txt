@@ -23,8 +23,53 @@ leader_names = {
 	"Elstan of Nidaros"
 	"Elgar Fowler"
 	"Luuk Vredeveld"
+	"Sunilda Stelzner"
+	"Amalafrida Ioketilldottir"
+	"Gerda Arderne"
+	"Philips Isleifdottir"
+	"Graviel Perryvalle"
+	"Elionor Bain"
+	"Leofing Nasidottir"
+	"Adam Asulfsson"
+	"Mœid Hülsen"
+	"Paulus Hilbers"
 }
-monarch_names = { 
+monarch_names = {
+	"Laurenz" = +1
+	"Oliver" = +1
+	"Tedric" = +1
+	"Bernard" = +1
+	"Ailwin" = +1
+	"Geert-Jan" = +1
+	"Josce" = +1
+	"Huibert" = +1
+	"Anagastes" = +1
+	"Samuel" = +1
+	"Aldreda" = -1
+	"Nicola" = -1
+	"Roosje" = -1
+	"Garsendis" = -1
+	"Magdalene" = -1
+	"Wakerilda" = -1
+	"Goditha" = -1
+	"Iva" = -1
+	"Feenja" = -1
+	"Thjodhild" = -1
 }
-ship_names = { 
+ship_names = {
+	"Gull's Shadow Chained Tempest"
+	"Ruby Ranger Dubford"
+	"Dakins Sunlesswind"
+	"West Son Sunlesswind"
+	"Side Quest Possessedfish"
+	"Whisper's Hope Waking Dream"
+	"Celerity Sunlesswind"
+	"Luminous Runner Rime-Touched Valor"
+	"The Sunken Boast Serpent"
+	"Orca Sorcerer's Nymph"
+	"Ironhowl Maiden Wem"
+	"Sorrow Warlock's Harpy Stone Gnoll"
+	"Hull Camel Titan's Bard"
+	"Obsidian Nymph Melody"
+	"Nymphen Hot Flush"
 }

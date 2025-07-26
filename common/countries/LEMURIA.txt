@@ -23,8 +23,53 @@ leader_names = {
 	"Jochem Buit"
 	"Sayer Brayles"
 	"Hubert Wilmink"
+	"Thorstar Hale"
+	"Elisabeth Boes"
+	"Hubert Rijnders"
+	"Lorelei Bernal"
+	"Farnobius Strokappe"
+	"Amelina Tabard"
+	"Ulfi Hache"
+	"Beorhthere Omvlee"
+	"Inga Byfield"
+	"Antoon Lond"
 }
-monarch_names = { 
+monarch_names = {
+	"Robert" = +1
+	"Simon" = +1
+	"Elgar" = +1
+	"Sindila" = +1
+	"Totila" = +1
+	"Tobias" = +1
+	"Thurstan" = +1
+	"Nathaniel" = +1
+	"Aelnod" = +1
+	"Falco" = +1
+	"Heidi" = -1
+	"Matasuntha" = -1
+	"Ulfheid" = -1
+	"Teja" = -1
+	"Marit" = -1
+	"Avina" = -1
+	"Agatha" = -1
+	"Rachel" = -1
+	"Willy" = -1
+	"Hrodny" = -1
 }
-ship_names = { 
+ship_names = {
+	"The Withering Hunt Ortenzia"
+	"Keen of Torcradle Copper King of Hare's Hill"
+	"Titan's Bard Aquilon"
+	"Success Cruel Dagger"
+	"Red-Eyed Stag Nymphen"
+	"Carrier Osprey's Pride"
+	"Omen Crimson Barrow"
+	"Ash-Clad Swan Melody"
+	"Melody Howling Spear"
+	"Demon WyrmeEyed Wanderer"
+	"Hearthless Flight Immeral's Kiss"
+	"Murlusk's Thunder Fate"
+	"Horror Wish Aquilon"
+	"For Play Blade"
+	"Gertraud's Doom The Withering Hunt"
 }

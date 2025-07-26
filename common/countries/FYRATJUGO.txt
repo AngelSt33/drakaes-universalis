@@ -23,8 +23,53 @@ leader_names = {
 	"Aelric Godfrey"
 	"Godwin Richeman"
 	"Christopher Kinge"
+	"Ivette Oosterloo"
+	"Seda Hemmel"
+	"Cassandra Holmfastsson"
+	"Emelia Härig"
+	"Amalasuintha Leifdottir"
+	"Arnold Ehrlinger"
+	"Sunilda Chernocke"
+	"Aelric de Catilo"
+	"Bas Neceham"
+	"Bjor Lowthe"
 }
-monarch_names = { 
+monarch_names = {
+	"Luuk" = +1
+	"Jukel" = +1
+	"Marcel" = +1
+	"Wicing" = +1
+	"Bernard" = +1
+	"Valentine" = +1
+	"Samuel" = +1
+	"Vestgeir" = +1
+	"Allen" = +1
+	"Denis" = +1
+	"Amice" = -1
+	"Nicola" = -1
+	"Gunnora" = -1
+	"Frances" = -1
+	"Ingrid" = -1
+	"Teja" = -1
+	"Godusa" = -1
+	"Emilia" = -1
+	"Ellen" = -1
+	"Clementia" = -1
 }
-ship_names = { 
+ship_names = {
+	"Sorrow Warlock's Harpy Victory"
+	"Seeker Snowblind Wake"
+	"Osprey's Pride Sea Champion's Dolphin"
+	"Howling Spear Aquilon"
+	"Wish of Carlusk Sundew"
+	"Clove Tree Whiskey Chaser"
+	"The Shivering Hoard Enterprise"
+	"Keen of Torcradle Misery"
+	"Dubford True Witch"
+	"Gertraud's Doom For Play"
+	"Misery Shadow-Girded Lash"
+	"Rider's Luck Wyrm-Wind Seeker"
+	"Ledbury Bitterwake Cry"
+	"Burning Vulture Outlander"
+	"Discreet Secret Sky Wizard"
 }

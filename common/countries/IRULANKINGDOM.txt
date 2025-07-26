@@ -23,8 +23,53 @@ leader_names = {
 	"Jochem Buit"
 	"Giles Bosby"
 	"Julian op Duivencate"
+	"Throst Kohnstamm"
+	"Cecilia Chauncey"
+	"Lindert Hyll"
+	"Kaatje Coulthurst"
+	"Tim Schwann"
+	"Helewis Lacy"
+	"Godwin Mohring"
+	"Luisa Kooiman"
+	"Featris Gyll"
+	"Karlijn Briggs"
 }
-monarch_names = { 
+monarch_names = {
+	"Mark" = +1
+	"Til" = +1
+	"Henry" = +1
+	"Kjallak" = +1
+	"Eldert" = +1
+	"Sindila" = +1
+	"Jacob" = +1
+	"Wulfgar" = +1
+	"Magnus" = +1
+	"Wicing" = +1
+	"Enni" = -1
+	"Rimilde" = -1
+	"Amalasuntha" = -1
+	"Marjorie" = -1
+	"Albreda" = -1
+	"Rosamund" = -1
+	"Feenja" = -1
+	"Jenefer" = -1
+	"Godusa" = -1
+	"Werthiva" = -1
 }
-ship_names = { 
+ship_names = {
+	"Patience Grim Breaker"
+	"Cruel Dagger Buccaneer"
+	"Mistress of the Waves Hangman's Hate"
+	"Snarling Zephyr of Blackbrook Haunted Gambit"
+	"Sea Golem Silver Arrow"
+	"Gull's Shadow Wish of Carlusk"
+	"Sunlesswind Hatherleigh"
+	"Falling Star Wyrm-Wind Seeker"
+	"Victory Crimson Barrow"
+	"Celerity Cabin Fever"
+	"Serpent Sorrow Warlock's Harpy"
+	"Cabin Fever Setter"
+	"Windsunder Moon Cuttle"
+	"Wave Zephyr Compass"
+	"Windsong Runemarked Sorrow"
 }

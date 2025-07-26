@@ -23,8 +23,53 @@ leader_names = {
 	"Sahra Koch"
 	"Tine Kass"
 	"Jolina Ehrlinger"
+	"Meike Kalenkamp"
+	"Olvir Woodeward"
+	"Nufro Kaplan"
+	"Elma Romano"
+	"Tristan Marsman"
+	"Stefan Martini"
+	"Mila Arderne"
+	"Magnus Tyndall"
+	"Galla Alikok"
+	"Megan-Laureen Fenton"
 }
-monarch_names = { 
+monarch_names = {
+	"Maximillian" = +1
+	"Elric" = +1
+	"Conan" = +1
+	"Anthony" = +1
+	"Tobias" = +1
+	"Laurenz" = +1
+	"Rolf" = +1
+	"Totila" = +1
+	"Wulsi" = +1
+	"Reginald" = +1
+	"Garsendis" = -1
+	"Nicola" = -1
+	"Laura" = -1
+	"Beatrice" = -1
+	"Godlefe" = -1
+	"Tiecia" = -1
+	"Rimilde" = -1
+	"Muriel" = -1
+	"Barbara" = -1
+	"Brunihild" = -1
 }
-ship_names = { 
+ship_names = {
+	"Blood-Grey Wave Silver Arrow"
+	"Snowblind Wake Rider's Luck"
+	"Mason's Folly Courtesan's Sprite"
+	"Gordia's Light Hatherleigh"
+	"Son of Colfoundry Gordia's Light"
+	"Burning Inn Nunney Castle"
+	"Ledbury Snarling Zephyr of Blackbrook"
+	"Chained Tempest Beggar of Beastsshield"
+	"Hull Camel Cruel Dagger"
+	"Blade Sea Golem"
+	"Demon Crimson Barrow"
+	"Immeral's Kiss Whisper's Hope"
+	"Osprey's Pride Pale Hammer"
+	"Gone Too Far Wind Song"
+	"Crimson Barrow Cuttle"
 }

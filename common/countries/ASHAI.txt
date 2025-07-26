@@ -23,8 +23,53 @@ leader_names = {
 	"Eustace Chauncey"
 	"Phillip Weingaertner"
 	"Jeremias Schreck"
+	"Arnold Staple"
+	"Guust Norden"
+	"Galla Herleston"
+	"Paulus Hanfstaengl"
+	"Elmar Schachtschneider"
+	"Elise Hvitserksson"
+	"Marthijn Wylde"
+	"Wulsi Jay"
+	"Cornelius Hrokdottir"
+	"Fulgencio Gyll"
 }
-monarch_names = { 
+monarch_names = {
+	"Alfsige" = +1
+	"Conan" = +1
+	"Marcel" = +1
+	"Gunthigis" = +1
+	"Herebert" = +1
+	"Toka" = +1
+	"Beinir" = +1
+	"Giles" = +1
+	"Reginald" = +1
+	"Patrick" = +1
+	"Cwenhild" = -1
+	"Ingrid" = -1
+	"Aldis" = -1
+	"Jenefer" = -1
+	"Acelina" = -1
+	"Runa" = -1
+	"Basilia" = -1
+	"Joy" = -1
+	"Thjodhild" = -1
+	"Ormhild" = -1
 }
-ship_names = { 
+ship_names = {
+	"Gordia's Light Victory"
+	"Twilight Reaver Omen"
+	"Titan's Bard Hunter"
+	"Burning Vulture Haunted Gambit"
+	"Windsunder Moon Demon"
+	"Spirit Fallow Vengeance"
+	"Spitfire The Sunken Boast"
+	"Great Expense Arunta"
+	"Hallowed Gale Sundew"
+	"Burning Inn Ortenzia"
+	"Whisper's Hope Murlusk's Thunder"
+	"Runner's Despair Setter"
+	"Whisper God of the Ocean"
+	"Duskwake Drifter Lalmourn"
+	"Demon Runner's Despair"
 }

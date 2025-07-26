@@ -23,8 +23,53 @@ leader_names = {
 	"Janet Strachleigh"
 	"Odo Cantilupe"
 	"Reginald Eldysley"
+	"Josi Hamstra"
+	"Amala Westerlaan"
+	"Narin Ogmundottir"
+	"Conan Mirones"
+	"Gerda Hosteler"
+	"Steinunn Argentein"
+	"Verle Goodryke"
+	"Angrebod Hassink"
+	"Francisco Fowler"
+	"Leomer Cantilupe"
 }
-monarch_names = { 
+monarch_names = {
+	"Swain" = +1
+	"Solomon" = +1
+	"Rolf" = +1
+	"Nicolas" = +1
+	"Leon" = +1
+	"George" = +1
+	"Maurice" = +1
+	"Marcel" = +1
+	"Lewin" = +1
+	"Waldo" = +1
+	"Amice" = -1
+	"Margaret" = -1
+	"Mabel" = -1
+	"Winifred" = -1
+	"Magdalene" = -1
+	"Eulalia" = -1
+	"Emilia" = -1
+	"Jorunn" = -1
+	"Garsendis" = -1
+	"Goditha" = -1
 }
-ship_names = { 
+ship_names = {
+	"Hearthless Flight Serpent"
+	"Thorn-Gilded Curse Cuttle"
+	"Demon Path Salamander of Griffinsway"
+	"Wind Seeker Ledbury"
+	"West Son Sunburn"
+	"Wailing Wyrm Kempenfelt"
+	"Shell Voyager Anne"
+	"Dordrecht Sky Wizard"
+	"Path Salamander of Griffinsway Blade"
+	"Tentacle Sea Golem"
+	"Hull Camel Red-Eyed Stag"
+	"Burning Vulture Windsong"
+	"Song of Cedar Mere Compass"
+	"Unlikely Breaker Greedy Dragon"
+	"Hatherleigh Whisper's Hope"
 }

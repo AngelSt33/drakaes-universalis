@@ -23,8 +23,53 @@ leader_names = {
 	"Dorothy Harris"
 	"Willy Bekman"
 	"Pascoe Helme"
+	"Olvir Weterink"
+	"Bernard Smalbroek"
+	"Arjan Hindriks"
+	"Elmar Wardyworth"
+	"Heidrun-Gabriela Wolrond"
+	"Lucas Neuner"
+	"Jacob Mohring"
+	"Elja Daundelyon"
+	"Areagne Lievendag"
+	"Petra Veer"
 }
-monarch_names = { 
+monarch_names = {
+	"Avery" = +1
+	"Tobias" = +1
+	"Wulfgar" = +1
+	"Bertram" = +1
+	"Kjallak" = +1
+	"Josce" = +1
+	"Drogo" = +1
+	"Thori" = +1
+	"Gorm" = +1
+	"Ivo" = +1
+	"Glismoda" = -1
+	"Isgerd" = -1
+	"Amalaswinth" = -1
+	"Saeunn" = -1
+	"Hild" = -1
+	"Idonea" = -1
+	"Philippa" = -1
+	"Ysopa" = -1
+	"Agnes" = -1
+	"Wenthelen" = -1
 }
-ship_names = { 
+ship_names = {
+	"Spitfire Frostbitten Rook"
+	"Devil's Roar Black Swan"
+	"Princess's Shadow Nymphen"
+	"Ortenzia Slayer's Terror"
+	"Whalebane Echo Immeral's Kiss"
+	"Darvin's Cry Earth Dragon"
+	"Gilded Shade Six of the Sky"
+	"Runemarked Sorrow Greedy Dragon"
+	"Ten Titan's Bard"
+	"Deathwind Fell Wight"
+	"Deathwind Blade"
+	"Chaoticfish Devil's Contract"
+	"Blood-Grey Wave Beehive"
+	"The Silent Fjell Dordrecht"
+	"Oathwither Song Melody"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"David Schumer"
 	"Thomas Killigrew"
 	"Naud Paarhuis"
+	"Godric Luppe"
+	"Steffen Ioketilldottir"
+	"Fritz Pijpenbroek"
+	"Ruby Sigvatdottir"
+	"Elia Honigberg"
+	"Amalwara West"
+	"Emelia Shevington"
+	"Nota Byngham"
+	"Elisabeth Cavell"
+	"Marit Seger"
 }
-monarch_names = { 
+monarch_names = {
+	"James" = +1
+	"Wulfgeat" = +1
+	"Thurston" = +1
+	"Brictric" = +1
+	"Arthur" = +1
+	"Rolf" = +1
+	"Algar" = +1
+	"Louw" = +1
+	"Ansketil" = +1
+	"Tobias" = +1
+	"Leonie" = -1
+	"Ormhild" = -1
+	"Werthiva" = -1
+	"Laura" = -1
+	"Amalfriede" = -1
+	"Teja" = -1
+	"Basilia" = -1
+	"Sigrid" = -1
+	"Hrodny" = -1
+	"Wenthelen" = -1
 }
-ship_names = { 
+ship_names = {
+	"Nunney Castle Snarling Zephyr of Blackbrook"
+	"Snowblind Wake Sundered Moon"
+	"Sorcerer's Nymph Kempenfelt"
+	"Titan's Bard Hatherleigh"
+	"Fate Anne"
+	"Titan's Bard Kempenfelt"
+	"Earth Dragon Clove Tree"
+	"Chained Tempest Devil's Contract"
+	"Ortenzia Watcher of Wickenlund"
+	"Fallow Vengeance Dakins"
+	"Hot Flush Cruel Hunter"
+	"Vain Gravedigger Jasper"
+	"Obsidian Nymph Haunted Gambit"
+	"Sunlesswind Song of Cedar Mere"
+	"Rime-Touched Valor Earth Hippogriff of Maresmeet"
 }

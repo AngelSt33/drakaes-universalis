@@ -23,8 +23,53 @@ leader_names = {
 	"Elstan of Nidaros"
 	"Piet Gevelear"
 	"Gunnilda Pettit"
+	"Loveday Biorsson"
+	"Willy Hyll"
+	"Torgard Overbeek"
+	"Amalasuntha Weingaertner"
+	"Gregor Wohler"
+	"Gorm Bouldre"
+	"Gailavira Kinge"
+	"Mœid Steinhaeusser"
+	"Amice Kass"
+	"Merina Marten"
 }
-monarch_names = { 
+monarch_names = {
+	"Godfrey" = +1
+	"Josce" = +1
+	"Leofstan" = +1
+	"Christopher" = +1
+	"Stephen" = +1
+	"Magnus" = +1
+	"Leomer" = +1
+	"Bartholomew" = +1
+	"Asketil" = +1
+	"Leonard" = +1
+	"Freygerd" = -1
+	"Wilamin" = -1
+	"Sigrith" = -1
+	"Basilia" = -1
+	"Teja" = -1
+	"Protasia" = -1
+	"Theda" = -1
+	"Ailith" = -1
+	"Sigrunn" = -1
+	"Asleif" = -1
 }
-ship_names = { 
+ship_names = {
+	"Vain Gravedigger Anne"
+	"Earth Dragon Black Swan"
+	"Steadfast Anne"
+	"Titan's Bard Eight of the Waves"
+	"Devil's Contract Snarling Zephyr of Blackbrook"
+	"WyrmeEyed Wanderer Darvin's Cry"
+	"Son of Colfoundry Devil's Roar"
+	"Burning Vulture Earth Octopus of the West"
+	"The Last Meadfire Glace Bay"
+	"Bitterwake Cry Loyalty"
+	"Blood-Grey Wave Killowen"
+	"Luminous Runner Death Rattle"
+	"Oathbound Drift Abingdon"
+	"Darvin's Cry Sea Golem"
+	"Seeker Runner's Despair"
 }

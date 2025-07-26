@@ -23,8 +23,53 @@ leader_names = {
 	"Alex Abend"
 	"Gijsbert Hindriks"
 	"Niko Bartram"
+	"Godric Goofy"
+	"Henry Sherbourne"
+	"Amy Kveldulfdottir"
+	"Urian Boer"
+	"Elia Unton"
+	"Maria Rogge"
+	"Emeline Klijn"
+	"Petra Abery"
+	"Thorstar Hulst"
+	"Lieke Hulst"
 }
-monarch_names = { 
+monarch_names = {
+	"Bartholomew" = +1
+	"Aelnod" = +1
+	"Vestgeir" = +1
+	"Maik" = +1
+	"Theudis" = +1
+	"Oswyn" = +1
+	"Swain" = +1
+	"Stijn" = +1
+	"Aithanarid" = +1
+	"Sigemær" = +1
+	"Thjodhild" = -1
+	"Teja" = -1
+	"Sarah" = -1
+	"Yvette" = -1
+	"Catherine" = -1
+	"Ingaret" = -1
+	"Rachel" = -1
+	"Glismoda" = -1
+	"Wakerilda" = -1
+	"Rimilde" = -1
 }
-ship_names = { 
+ship_names = {
+	"The Hollow Boar Abingdon"
+	"Sundered Moon Whisper's Hope"
+	"Murlusk's Thunder Gone Too Far"
+	"Arunta Fallow Vengeance"
+	"Mason's Folly Demon"
+	"Burning Inn Beggar of Beastsshield"
+	"Deathwind Omen"
+	"The Hollow Wolf Fluke"
+	"Runner's Despair Stone Gnoll"
+	"Hot Flush Omen"
+	"Possessedfish Fluke"
+	"Wailing Wyrm Darvin's Cry"
+	"The Withering Hunt Side Quest"
+	"Falling Star Burning Inn"
+	"Oathbound Drift Misery"
 }

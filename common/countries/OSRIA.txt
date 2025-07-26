@@ -23,8 +23,53 @@ leader_names = {
 	"Elgar Carter"
 	"Elizabeth Barnes"
 	"Mechiel Oosterloo"
+	"Bartholomew Robertson"
+	"Ostrogotho Godfrey"
+	"Merewin Banis"
+	"Kobus Brent"
+	"Svenja Luppe"
+	"Ismay Bartram"
+	"Thorberg Pfennig"
+	"Throst Neceham"
+	"Winifred Harryses"
+	"Naud Pettit"
 }
-monarch_names = { 
+monarch_names = {
+	"Simon" = +1
+	"Laurens-Jan" = +1
+	"Maurice" = +1
+	"Fulk" = +1
+	"Gamel" = +1
+	"Ulf" = +1
+	"Julian" = +1
+	"Hanno" = +1
+	"Alan" = +1
+	"David" = +1
+	"Dineke" = -1
+	"Malasintha" = -1
+	"Madia" = -1
+	"Gilot" = -1
+	"Hrodny" = -1
+	"Maria" = -1
+	"Agatha" = -1
+	"Hild" = -1
+	"Avina" = -1
+	"Rachel" = -1
 }
-ship_names = { 
+ship_names = {
+	"Wave Zephyr Wyrm-Wind Seeker"
+	"Cabin Fever Rider's Luck"
+	"Pale Hammer Pathfinder"
+	"Fell Wight WyrmeEyed Wanderer"
+	"Hearthless Flight Quicksilver"
+	"Watcher Shadow-Girded Lash"
+	"Gertraud's Doom Silverfang Gale"
+	"Death Rattle Wind Song"
+	"Moon Blade Mason's Folly"
+	"Six of the Sky Mason's Folly"
+	"Success Wind Seeker"
+	"Loyalty Windsunder Moon"
+	"Wellerman Wolf-Touched Mist"
+	"Son of Colfoundry Shadow-Girded Lash"
+	"Shatterhelm Shriek Zhuirentel"
 }

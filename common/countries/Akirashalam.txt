@@ -23,8 +23,53 @@ leader_names = {
 	"Gerda Weingaertner"
 	"Semer Unton"
 	"Patrick Montacute"
+	"Oswyn Kortman"
+	"Gawain Homrighausen"
+	"Arnold Peucker"
+	"Joel Saynsbery"
+	"Merewin Rientjes"
+	"Gilot Hamstra"
+	"Acelina Chamburleyn"
+	"Susanna Neuner"
+	"Sigor Paarhuis"
+	"Catootje Carsjes"
 }
-monarch_names = { 
+monarch_names = {
+	"Bernard" = +1
+	"Totila" = +1
+	"Borstig" = +1
+	"Nigel" = +1
+	"Vestgeir" = +1
+	"Theudis" = +1
+	"Babai" = +1
+	"John" = +1
+	"Harald" = +1
+	"Thurston" = +1
+	"Freygerd" = -1
+	"Gilot" = -1
+	"Rosamund" = -1
+	"Tiana" = -1
+	"Glismoda" = -1
+	"Gunnora" = -1
+	"Julian" = -1
+	"Saegifu" = -1
+	"Isgerd" = -1
+	"Agatha" = -1
 }
-ship_names = { 
+ship_names = {
+	"Wind Song Storm-Bitten Grudge"
+	"Sea Champion's Dolphin Unlikely Breaker"
+	"Red-Eyed Stag Sundered Moon"
+	"Sorrow Warlock's Harpy Ten"
+	"Earth Hippogriff of Maresmeet Duskwake Drifter"
+	"Whiskey Chaser Courtesan's Sprite"
+	"Unlikely Breaker Twice Sunk"
+	"Earth Octopus of the West Wolf-Touched Mist"
+	"Vain Gravedigger Pillager"
+	"Twilight Reaver Nunney Castle"
+	"Windsunder Moon Iron Dragon's Doom"
+	"Surprise Bold Venture"
+	"Whalebane Echo Nevermore"
+	"The Silent Fjell Rider's Luck"
+	"Enterprise Keen of Torcradle"
 }

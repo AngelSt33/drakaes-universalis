@@ -23,8 +23,53 @@ leader_names = {
 	"Ard van der Berg"
 	"Sigor Argentein"
 	"Louis Sehlmann"
+	"Dorothy Biorsson"
+	"Ivette Kass"
+	"Eliza Robertson"
+	"Tristan Barnes"
+	"Odelina Cod"
+	"Gorm Wilmink"
+	"Fulke Lievendag"
+	"Svenja Nemetz"
+	"Anika Stinky"
+	"Aethilheard Hogewind"
 }
-monarch_names = { 
+monarch_names = {
+	"Sampson" = +1
+	"Beucad" = +1
+	"Wulfgeat" = +1
+	"Tedric" = +1
+	"Stephen" = +1
+	"Guy" = +1
+	"Nigel" = +1
+	"Leonard" = +1
+	"Silvester" = +1
+	"Swain" = +1
+	"Agnes" = -1
+	"Sibilla" = -1
+	"Helen" = -1
+	"Sigrunn" = -1
+	"Ursula" = -1
+	"Bridget" = -1
+	"Eulalia" = -1
+	"Mabel" = -1
+	"Gudrun" = -1
+	"Hild" = -1
 }
-ship_names = { 
+ship_names = {
+	"Murlusk's Thunder Wyrm-Wind Seeker"
+	"Whisper's Hope Lalmourn"
+	"The Silent Fjell Dead God"
+	"Dubford Void Servant of Hadiya's Spire"
+	"Surprise Hot Flush"
+	"Bird of Cousin's Eye Deathwind"
+	"Fate Thornborough"
+	"Duskwake Drifter Rune Gull"
+	"Hatherleigh Triad of the Waves"
+	"Success Barrowbound Flame"
+	"Falling Star Osprey's Pride"
+	"The Hollow Wolf Soldier of Fiendshelm"
+	"Titan's Bard Courtesan's Sprite"
+	"Obsidian Nymph Seeker"
+	"Seeker Deathwind"
 }

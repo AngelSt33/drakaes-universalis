@@ -23,8 +23,53 @@ leader_names = {
 	"Tiffany Launceleyn"
 	"Kasper op Hondshorst"
 	"Petra Homrighausen"
+	"Cecilia Godfrey"
+	"Sigor Hamstra"
+	"Maurits-jan Mulders"
+	"Amalina Asulfsson"
+	"Tine Godfrey"
+	"Gamel Herleston"
+	"Regina Winkelink"
+	"Graviel Peereboom"
+	"Liene Bekyngham"
+	"Angrebod Bain"
 }
-monarch_names = { 
+monarch_names = {
+	"Ricimer" = +1
+	"Gunthigis" = +1
+	"Andrew" = +1
+	"Nathaniel" = +1
+	"Denis" = +1
+	"Kadal" = +1
+	"Guy" = +1
+	"Mert" = +1
+	"Leofstan" = +1
+	"Antonin" = +1
+	"Isabel" = -1
+	"Godlefe" = -1
+	"Amalfriede" = -1
+	"Rimilde" = -1
+	"Idonea" = -1
+	"Teja" = -1
+	"Philippa" = -1
+	"Malasintha" = -1
+	"Melle" = -1
+	"Clementia" = -1
 }
-ship_names = { 
+ship_names = {
+	"Stone Gnoll Vain Gravedigger"
+	"Sorrow Warlock's Harpy Blade"
+	"Unlikely Breaker Patience"
+	"Hallowed Gale Black Swan"
+	"The Long Cold Nevermore"
+	"The Wolf's Regret Misery"
+	"Greedy Dragon Unlikely Breaker"
+	"Hearty Melody"
+	"Anne Great Expense"
+	"Wind Seeker Demon"
+	"Whisper Wind Song"
+	"Bitterwake Cry Aquilon"
+	"Earthdon's Heart Shatterhelm Shriek"
+	"Thorn-Gilded Curse Sundew"
+	"The Hollow Boar Haunted Gambit"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Drogo Norden"
 	"Willem Dikken"
 	"Floris Strokappe"
+	"Alfsige Strokappe"
+	"Rik Snelling"
+	"Diggory Wynstryngham"
+	"Lyting Schuerer"
+	"Feenja Killigrew"
+	"Piet Hekkers"
+	"Simon Arentsen"
+	"Christoph Rosenzweig"
+	"Fredegar Hondshorst"
+	"Melisanda Hillebrand"
 }
-monarch_names = { 
+monarch_names = {
+	"Tedric" = +1
+	"Constantin" = +1
+	"Stans" = +1
+	"Maurice" = +1
+	"Gamel" = +1
+	"Ansketil" = +1
+	"Conan" = +1
+	"Warin" = +1
+	"Elric" = +1
+	"Michael" = +1
+	"Marit" = -1
+	"Pavia" = -1
+	"Freygerd" = -1
+	"Dineke" = -1
+	"Milda" = -1
+	"Garsendis" = -1
+	"Rosamund" = -1
+	"Matasuntha" = -1
+	"Mary" = -1
+	"WillemijnLovechild" = -1
 }
-ship_names = { 
+ship_names = {
+	"Waking Dream Wailing Wyrm"
+	"Demon Hot Flush"
+	"Chained Tempest Sundew"
+	"Fate Loyalty"
+	"Gone Too Far Falling Star"
+	"Immeral's Kiss The Shivering Hoard"
+	"Sharp Swan of Torhof Frostbitten Rook"
+	"Wish of Carlusk Abingdon"
+	"Obsidian Nymph Dordrecht"
+	"Path Salamander of Griffinsway Luminous Runner"
+	"Possessedfish Beehive"
+	"Hunter Unlikely Breaker"
+	"Ashen Grin Osprey's Pride"
+	"Reflective Spider Queen of Yorvick"
+	"Chained Tempest Abingdon"
 }

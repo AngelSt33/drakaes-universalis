@@ -23,8 +23,53 @@ leader_names = {
 	"James Slyfield"
 	"Waldo Maydestone"
 	"Jeremias Schreck"
+	"Maurits-jan Heriolfsson"
+	"Gaiseric Bohan"
+	"Ava Key"
+	"Magdelena Bernard"
+	"Henk Vredeveld"
+	"Elisabeth Tabares"
+	"Iemke Bewforest"
+	"Muriel Balam"
+	"Hanne Norden"
+	"Mathies Outlawe"
 }
-monarch_names = { 
+monarch_names = {
+	"Aslac" = +1
+	"Gudmund" = +1
+	"Anagastes" = +1
+	"Farthegn" = +1
+	"Vestgeir" = +1
+	"Claus" = +1
+	"Eustace" = +1
+	"Sewel" = +1
+	"Conan" = +1
+	"Luuk" = +1
+	"Godusa" = -1
+	"Eulalia" = -1
+	"Jorunn" = -1
+	"Ingrid" = -1
+	"Griselda" = -1
+	"Osk" = -1
+	"Roosje" = -1
+	"Werthiva" = -1
+	"Milda" = -1
+	"Tiana" = -1
 }
-ship_names = { 
+ship_names = {
+	"Whisper's Hope Sea Champion's Dolphin"
+	"Wish of Carlusk Jasper"
+	"The Withering Hunt Earthdon's Heart"
+	"Crimson Singer Wind Seeker"
+	"Cuttle Void Servant of Hadiya's Spire"
+	"Horror Wish Copper King of Hare's Hill"
+	"Eight of the Waves The Last Meadfire"
+	"Thorn-Gilded Curse Serpent"
+	"The Long Cold Wave Zephyr"
+	"Princess's Shadow Kempenfelt"
+	"Ironhowl Maiden Watcher"
+	"Dakins Compass"
+	"Wolf-Touched Mist Black Swan"
+	"The Shivering Hoard Dakins"
+	"Runemarked Sorrow Nunney Castle"
 }

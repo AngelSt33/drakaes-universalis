@@ -23,8 +23,53 @@ leader_names = {
 	"Rogier Hiddink"
 	"Ralph Fitzralph"
 	"Brian Wynstryngham"
+	"Iva Dale"
+	"Semer Woodeward"
+	"Gerard Rooij"
+	"Ragenhild Westera"
+	"Ida Engeham"
+	"Odo Kaplan"
+	"Crystobell Krüger"
+	"Almeyque Pijpenbroek"
+	"Elionor Bischoptree"
+	"Heidrun-Gabriela Spebynton"
 }
-monarch_names = { 
+monarch_names = {
+	"Totila" = +1
+	"Henry" = +1
+	"Algar" = +1
+	"Osgood" = +1
+	"Jasper" = +1
+	"Wulsi" = +1
+	"Tedric" = +1
+	"Warin" = +1
+	"Jacob" = +1
+	"Oswyn" = +1
+	"Brunihild" = -1
+	"Sigrunn" = -1
+	"Asgerd" = -1
+	"Wakerilda" = -1
+	"Winifred" = -1
+	"Mildred" = -1
+	"Megan-Laureen" = -1
+	"Alfleta" = -1
+	"Hunila" = -1
+	"Isolde" = -1
 }
-ship_names = { 
+ship_names = {
+	"Sea Golem Cuttle"
+	"Osprey's Pride Keen of Torcradle"
+	"Triad of the Waves Fluke"
+	"Saltheart Frostbitten Rook"
+	"Buccaneer Hallowed Gale"
+	"Sorrow Warlock's Harpy West Son"
+	"Broken Sigil Blade"
+	"The Last Meadfire Spirit"
+	"Barrowbound Flame Queen of Yorvick"
+	"Sunburn Hangman's Hate"
+	"The Shivering Hoard Fell Wight"
+	"Dakins Cruel Dagger"
+	"Greedy Dragon Gilded Shade"
+	"Kilcurrig Fallow Vengeance"
+	"Watcher Broken Sigil"
 }

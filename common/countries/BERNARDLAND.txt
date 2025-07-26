@@ -23,8 +23,53 @@ leader_names = {
 	"Pier Luppe"
 	"Mannes de Ruiter"
 	"James Slyfield"
+	"Beuca Oude"
+	"Patza Mahler"
+	"Erik Wildiek"
+	"Marion Pijnappel"
+	"Stannard Valreach"
+	"Nard Barber"
+	"Herebert Westera"
+	"Mareike Lemann"
+	"Rudie Symons"
+	"Mencia Gyll"
 }
-monarch_names = { 
+monarch_names = {
+	"Stannard" = +1
+	"Nicolas" = +1
+	"Isaak" = +1
+	"Mert" = +1
+	"Valentine" = +1
+	"Alfsige" = +1
+	"Bartjan" = +1
+	"Hjarrandi" = +1
+	"Reynold" = +1
+	"Andrew" = +1
+	"Saeunn" = -1
+	"Susanna" = -1
+	"Thomasin" = -1
+	"Ingaret" = -1
+	"Goditha" = -1
+	"Frances" = -1
+	"Veerle" = -1
+	"Euphemia" = -1
+	"Beatrice" = -1
+	"Winifred" = -1
 }
-ship_names = { 
+ship_names = {
+	"Ruby Ranger Hangman's Hate"
+	"Duskwake Drifter Pool Pilgrim"
+	"Burning Fjord Windsong"
+	"Earth Dragon Luminous Runner"
+	"Nevermore The Hollow Boar"
+	"Whisper's Hope Seeker"
+	"Whisper's Hope Spitfire"
+	"Pale Hammer Dragon's Wail"
+	"Side Quest Wyrm-Wind Seeker"
+	"Patience Watcher of Wickenlund"
+	"Pillager Barrowbound Flame"
+	"Raglan Snarling Zephyr of Blackbrook"
+	"Sorrow Warlock's Harpy Nevermore"
+	"Gordia's Light Osprey's Pride"
+	"The Hollow Wolf Melody"
 }

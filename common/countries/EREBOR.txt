@@ -23,8 +23,53 @@ leader_names = {
 	"Joseph Harwood"
 	"Christiane Schlechter"
 	"Serafina Rosenthal"
+	"Margery Goofy"
+	"Arthur Vredeveld"
+	"Elja Richeman"
+	"Marmaduke Puerto"
+	"Amala Parsons"
+	"Rik Reimink"
+	"Sampson Fitzralph"
+	"Nicolas Kass"
+	"Hubert Schenk"
+	"Peet Cantilupe"
 }
-monarch_names = { 
+monarch_names = {
+	"Sisebut" = +1
+	"Sigric" = +1
+	"Vestgeir" = +1
+	"Giles" = +1
+	"Pascoe" = +1
+	"Fritz" = +1
+	"Huibert" = +1
+	"George" = +1
+	"Drogo" = +1
+	"Sewel" = +1
+	"Winifred" = -1
+	"Isgerd" = -1
+	"Acelina" = -1
+	"Joyce" = -1
+	"Heidi" = -1
+	"Ysopa" = -1
+	"Willy" = -1
+	"Bridget" = -1
+	"Amalfrida" = -1
+	"Wenthelen" = -1
 }
-ship_names = { 
+ship_names = {
+	"Seeker Pale Hammer"
+	"Possessedfish Pillager"
+	"Shadow-Girded Lash Success"
+	"Princess's Shadow Ledbury"
+	"Sea Champion's Dolphin Deathwind"
+	"Possessedfish Song of Cedar Mere"
+	"Titan's Bard Gertraud's Doom"
+	"Cruel Hunter Storm-Bitten Grudge"
+	"Raglan Gordia's Light"
+	"Gordia's Light Omen"
+	"Ortenzia The Last Meadfire"
+	"Runner's Despair Dordrecht"
+	"Sea Champion's Dolphin For Play"
+	"Earth Hippogriff of Maresmeet The Wolf's Regret"
+	"Anne Possessedfish"
 }

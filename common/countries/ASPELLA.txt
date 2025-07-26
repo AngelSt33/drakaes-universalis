@@ -23,8 +23,53 @@ leader_names = {
 	"Elma Stahl"
 	"Arnold Penhallick"
 	"Jacoliene aan Mullekes"
+	"Henkie Edgcomb"
+	"Fritz Vinter"
+	"Svenja Hindriks"
+	"Elisabeth Kophoff"
+	"Stefan Schickendantz"
+	"Mawa Maydestone"
+	"Ostrogotho Damsell"
+	"Anika Ruiter"
+	"Elionor Maydestone"
+	"Ruby Neceham"
 }
-monarch_names = { 
+monarch_names = {
+	"Luke" = +1
+	"Nicholas" = +1
+	"Torkel" = +1
+	"Henry" = +1
+	"Pascoe" = +1
+	"Elgar" = +1
+	"Harald" = +1
+	"Thorkel" = +1
+	"Sindila" = +1
+	"Sisebut" = +1
+	"Emilia" = -1
+	"Albreda" = -1
+	"Oda" = -1
+	"Sien" = -1
+	"Iva" = -1
+	"Wenthelen" = -1
+	"Alice" = -1
+	"Euphemia" = -1
+	"Joyce" = -1
+	"Eulalia" = -1
 }
-ship_names = { 
+ship_names = {
+	"Melody Earth Dragon"
+	"Watcher Hallowed Gale"
+	"Chaoticfish Aquilon"
+	"Obsidian Nymph Courtesan's Sprite"
+	"Runner's Despair Wem"
+	"Earthdon's Heart Great Expense"
+	"Sky Wizard Cursed Raven"
+	"Wolf-Touched Mist Enterprise"
+	"Osprey's Pride Abingdon"
+	"Rider's Luck Crimson Barrow"
+	"Watcher of Wickenlund Seeker"
+	"Misadventure Nunney Castle"
+	"Kilcurrig Great Expense"
+	"Watcher Shadow-Girded Lash"
+	"Barrowbound Flame Zhuirentel"
 }

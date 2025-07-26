@@ -23,8 +23,53 @@ leader_names = {
 	"Alice Downer"
 	"Tatiana Hilbers"
 	"Nicholas Switte"
+	"Patza Kamerling"
+	"Recitach Baldwin"
+	"Wulfwin Maneschijns"
+	"Ediva Benthey"
+	"Harm Dyneley"
+	"Thordis Cooke"
+	"Thomasin Bernbaum"
+	"Lieke Norden"
+	"Ad Chamburleyn"
+	"Amalfriede Barker"
 }
-monarch_names = { 
+monarch_names = {
+	"Isaac" = +1
+	"Waldo" = +1
+	"Luke" = +1
+	"Reynold" = +1
+	"William" = +1
+	"Kaetilmund" = +1
+	"Augustin" = +1
+	"Wulfgar" = +1
+	"Eelco" = +1
+	"Seman" = +1
+	"Laura" = -1
+	"Agnes" = -1
+	"Elske" = -1
+	"Amalasuntha" = -1
+	"Bergljot" = -1
+	"Philippa" = -1
+	"Isgerd" = -1
+	"Isabel" = -1
+	"Hallgerd" = -1
+	"Hunila" = -1
 }
-ship_names = { 
+ship_names = {
+	"Beggar of Beastsshield Oathbound Drift"
+	"Darvin's Cry Ruby Ranger"
+	"Gilded Shade Nymphen"
+	"Bird of Cousin's Eye The Hollow Boar"
+	"Titan's Bard Song of Cedar Mere"
+	"Wolf-Touched Mist Victory"
+	"Mason's Folly Sundered Moon"
+	"Loss Spirit Sundered Moon"
+	"The Hollow Boar Patience"
+	"Devil's Roar Sea Champion's Dolphin"
+	"Sable-Touched Omen Success"
+	"Dubford Chaoticfish"
+	"Earth Dragon Cruel Hunter"
+	"Ruby Ranger Ghost Ghoul"
+	"The Last Meadfire Quicksilver"
 }

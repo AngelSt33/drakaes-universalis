@@ -23,8 +23,53 @@ leader_names = {
 	"Odelina Barker"
 	"Konstanze Hersch"
 	"Rolf Schildknecht"
+	"Ealdhelm Bexley"
+	"Wulfwin Horton"
+	"Nufro Herz"
+	"Adam Sever"
+	"Samuel Holmfastsson"
+	"Jurrien Borgardottir"
+	"Gustav Vloedgraven"
+	"Alfleta Kastner"
+	"Amalfrida Plessner"
+	"Jukel Bewley"
 }
-monarch_names = { 
+monarch_names = {
+	"Sayer" = +1
+	"Elric" = +1
+	"Conan" = +1
+	"Leomer" = +1
+	"Uraias" = +1
+	"Farthegn" = +1
+	"Thurstan" = +1
+	"Marcel" = +1
+	"Eustace" = +1
+	"Ricimer" = +1
+	"Veerle" = -1
+	"Albreda" = -1
+	"Ailith" = -1
+	"Amalasuntha" = -1
+	"Preciosa" = -1
+	"Roosje" = -1
+	"Willy" = -1
+	"Richenda" = -1
+	"Iva" = -1
+	"Gunnora" = -1
 }
-ship_names = { 
+ship_names = {
+	"Titan's Bard Stone Gnoll"
+	"Bitterwake Cry Pathfinder"
+	"Sunburn Earth Hippogriff of Maresmeet"
+	"Kraken Princess's Shadow"
+	"Sunlesswind Hatherleigh"
+	"Keen of Torcradle Eight of the Waves"
+	"Twilight Reaver Luminous Runner"
+	"Mad Wyvern Escape"
+	"Murlusk's Thunder Sunlesswind"
+	"Bold Venture Dedaigneuse"
+	"Death Rattle Son of Colfoundry"
+	"Runemarked Sorrow Iron Dragon's Doom"
+	"Zhuirentel Slayer's Terror"
+	"Side Quest Chaoticfish"
+	"Duskwake Drifter Hunter"
 }

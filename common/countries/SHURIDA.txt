@@ -23,8 +23,53 @@ leader_names = {
 	"Millicent Brewster"
 	"Frances Fraunces"
 	"Avery Balam"
+	"Geert-Jan Zell"
+	"Svenja Lowthe"
+	"Hubert Goodryke"
+	"Willemein Schwann"
+	"Mencia Hoehmann"
+	"Toka Clifton"
+	"Christoph Schachtschneider"
+	"Matthew Rogge"
+	"Sarah Playters"
+	"Mia-Selina Woodeward"
 }
-monarch_names = { 
+monarch_names = {
+	"Martin" = +1
+	"Sayer" = +1
+	"Louw" = +1
+	"Herebert" = +1
+	"Harald" = +1
+	"Thorkel" = +1
+	"Kjallak" = +1
+	"Gunthigis" = +1
+	"Akeman" = +1
+	"Aelnod" = +1
+	"Nicola" = -1
+	"Aldis" = -1
+	"Yvette" = -1
+	"Eve" = -1
+	"Avagisa" = -1
+	"Theda" = -1
+	"Eulalia" = -1
+	"Osk" = -1
+	"Veerle" = -1
+	"Jenefer" = -1
 }
-ship_names = { 
+ship_names = {
+	"Patience Burning Vulture"
+	"Sunburn Serpent"
+	"Crimson Singer Wind Seeker"
+	"Burning Vulture Nymphen"
+	"Earthdon's Heart Ruby Ranger"
+	"Duskwake Drifter Dimsey's Light"
+	"Hearty Ledbury"
+	"Frostbitten Rook Earthdon's Heart"
+	"Greedy Dragon Possessedfish"
+	"Whiskey Chaser Setter"
+	"The Gilded Fen Setter"
+	"Chained Tempest Hatherleigh"
+	"Dragon's Wail Burning Vulture"
+	"Discreet Secret Lavendar Demon"
+	"Chaoticfish Iron Dragon's Doom"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Jamie Schantz"
 	"Cathelijn van den Barg"
 	"Ivette Whitewood"
+	"Monia Benthey"
+	"Thorberg Rede"
+	"Annalies Quattlebaum"
+	"Dirk-Jan Ende"
+	"Nard Elsbroek"
+	"Rhima Wessely"
+	"Mila Klijn"
+	"Herebert Briggs"
+	"Philippa Zalland"
+	"Youri Spebynton"
 }
-monarch_names = { 
+monarch_names = {
+	"Drogo" = +1
+	"Pascoe" = +1
+	"Tumi" = +1
+	"Eelco" = +1
+	"Josce" = +1
+	"Abraham" = +1
+	"Nicolas" = +1
+	"Ailwin" = +1
+	"Gunthigis" = +1
+	"Fravitta" = +1
+	"Beatrice" = -1
+	"Joyce" = -1
+	"Thjodhild" = -1
+	"Mabel" = -1
+	"Thomasin" = -1
+	"Anna" = -1
+	"Leofe" = -1
+	"Laura" = -1
+	"Clementia" = -1
+	"Matasuntha" = -1
 }
-ship_names = { 
+ship_names = {
+	"Unlikely Breaker Moon Blade"
+	"Wailing Wyrm Demon"
+	"Stone Gnoll Triad of the Waves"
+	"Princess's Shadow Wem"
+	"Iron Dragon's Doom Snarling Zephyr of Blackbrook"
+	"Gordia's Light Cursed Raven"
+	"Ruby Ranger Rider's Luck"
+	"Spitfire Horror Wish"
+	"Wish of Carlusk Anne"
+	"Ruby Falcon Kraken"
+	"Oathbound Drift Gull's Shadow"
+	"Devil's Roar Ten"
+	"Burning Fjord Thornborough"
+	"Gordia's Light Wind Song"
+	"Buccaneer Blood-Grey Wave"
 }

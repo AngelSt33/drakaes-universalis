@@ -23,8 +23,53 @@ leader_names = {
 	"David Schumer"
 	"Sijbrand Reimink"
 	"Beorhthere of Puerto"
+	"Jolien Kohnstamm"
+	"Janneke Downer"
+	"Elgar Vreeburg"
+	"Sarah Faylare"
+	"Godwin Mahler"
+	"Loveday Vinter"
+	"Saegifu Thorgeirsson"
+	"Eliza Briggs"
+	"Hubert Maydestone"
+	"Janneke Fraunces"
 }
-monarch_names = { 
+monarch_names = {
+	"Hrapp" = +1
+	"Nicolas" = +1
+	"Nicholas" = +1
+	"Augustin" = +1
+	"Nigel" = +1
+	"Sampson" = +1
+	"Akeman" = +1
+	"Stijn" = +1
+	"Aelric" = +1
+	"Cornelius" = +1
+	"Helewis" = -1
+	"Amice" = -1
+	"Nicola" = -1
+	"Glismoda" = -1
+	"Mary" = -1
+	"Milda" = -1
+	"Madia" = -1
+	"Tiecia" = -1
+	"Alfleta" = -1
+	"Melle" = -1
 }
-ship_names = { 
+ship_names = {
+	"Deathwind Enterprise"
+	"Ruby Ranger Bird of Cousin's Eye"
+	"Duskwake Drifter Buccaneer"
+	"Crimson Singer Shatterhelm Shriek"
+	"Hearty Wind Song"
+	"Enterprise Cabin Fever"
+	"Zhuirentel Possessedfish"
+	"Sunless Mare Pillager"
+	"Ruby Falcon Bird of Cousin's Eye"
+	"Hearthless Flight Fell Wight"
+	"Thorn-Gilded Curse Glace Bay"
+	"Path Salamander of Griffinsway Nunney Castle"
+	"Vain Gravedigger Seeker"
+	"The Hollow Boar Sea Champion's Dolphin"
+	"God of the Ocean Osprey's Pride"
 }

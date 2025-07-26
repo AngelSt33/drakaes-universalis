@@ -23,8 +23,53 @@ leader_names = {
 	"Petronille Flower"
 	"Elisabeth Staple"
 	"Konstanze Hersch"
+	"Sigor Oude"
+	"Iwan Byngham"
+	"Osbert Carsjes"
+	"Amelina Ingjaldottir"
+	"Wilmot Arderne"
+	"Almeyque Sigericdottir"
+	"Victoria Burgh"
+	"Mareike Stahl"
+	"Oonagh Knody"
+	"Eliza Vinter"
 }
-monarch_names = { 
+monarch_names = {
+	"Algar" = +1
+	"Attwell" = +1
+	"Edric" = +1
+	"Rolf" = +1
+	"Samuel" = +1
+	"Leonard" = +1
+	"Abraham" = +1
+	"Ricimer" = +1
+	"Odo" = +1
+	"Oswyn" = +1
+	"Asleif" = -1
+	"Wakerilda" = -1
+	"Cwenhild" = -1
+	"Osk" = -1
+	"Margaret" = -1
+	"Avagisa" = -1
+	"Frances" = -1
+	"Chlodoswintha" = -1
+	"Sien" = -1
+	"Amalasuntha" = -1
 }
-ship_names = { 
+ship_names = {
+	"Sunless Mare Falling Star"
+	"Serpent Mad Wyvern"
+	"Arunta Hearty"
+	"Duskwake Drifter Outlander"
+	"Enterprise Howling Spear"
+	"Greedy Dragon Compass"
+	"Burning Fjord Rider's Luck"
+	"The Sunken Boast Arunta"
+	"Snarling Zephyr of Blackbrook Hunter"
+	"Sunburn Seeker"
+	"Twilight Reaver Nymphen"
+	"Escape Earth Dragon"
+	"Dordrecht Earth Dragon"
+	"Barrowbound Flame Outlander"
+	"Stone Gnoll Iron Devil"
 }

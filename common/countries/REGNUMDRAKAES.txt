@@ -23,8 +23,53 @@ leader_names = {
 	"Jurrien Dietten"
 	"Alan Brudenell"
 	"Stephen Wardyworth"
+	"Eustace Laken"
+	"Konstanze Bradshawe"
+	"Meike Symons"
+	"Skœdir Bredham"
+	"Gijsbert Jorundottir"
+	"Florentijn Long"
+	"Lydia Outlawe"
+	"Carlijne Panzinger"
+	"Theoderid Gifford"
+	"Cathelijn Stier"
 }
-monarch_names = { 
+monarch_names = {
+	"Joseph" = +1
+	"Heiko" = +1
+	"Wulsi" = +1
+	"Godric" = +1
+	"Wulfgeat" = +1
+	"Sigemær" = +1
+	"Godfrey" = +1
+	"Warin" = +1
+	"Uraias" = +1
+	"Benedict" = +1
+	"Wilamin" = -1
+	"Ailith" = -1
+	"Mabel" = -1
+	"Ingrid" = -1
+	"Beatrice" = -1
+	"Hrodny" = -1
+	"Pavia" = -1
+	"Frances" = -1
+	"Avina" = -1
+	"Thjodhild" = -1
 }
-ship_names = { 
+ship_names = {
+	"Sky Wizard Clove Tree"
+	"Melody Reflective Spider"
+	"Loyalty Sunless Mare"
+	"Cuttle Howling Spear"
+	"Burning Fjord Abingdon"
+	"Sundered Moon Chaoticfish"
+	"Sunlesswind Sea Champion's Dolphin"
+	"Killowen Whiskey Chaser"
+	"Runner's Despair Beehive"
+	"Sky Wizard Murlusk's Thunder"
+	"Cabin Fever Dedaigneuse"
+	"Copper King of Hare's Hill Wolf-Touched Mist"
+	"Wem The Last Meadfire"
+	"Sundered Moon Ruby Ranger"
+	"Orca Crimson Barrow"
 }

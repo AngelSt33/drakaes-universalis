@@ -23,8 +23,53 @@ leader_names = {
 	"George Arderne"
 	"Hubrecht Stappenbeld"
 	"Hanno Bartels"
+	"Gilot Bexley"
+	"Ida Sever"
+	"Florentijn Schumer"
+	"Cornelia Knody"
+	"Thorstar Beel"
+	"Ido Badby"
+	"Paulus Rientjes"
+	"Guust Westerhof"
+	"Zarina Ryall"
+	"Janucho Auldyngton"
 }
-monarch_names = { 
+monarch_names = {
+	"John" = +1
+	"Rollo" = +1
+	"Attwell" = +1
+	"Leofing" = +1
+	"Sampson" = +1
+	"Thurstan" = +1
+	"Godwin" = +1
+	"Laurens-Jan" = +1
+	"Elgar" = +1
+	"William" = +1
+	"Theda" = -1
+	"Sigrunn" = -1
+	"Sigrid" = -1
+	"Ailith" = -1
+	"Amalfrida" = -1
+	"Wenthelen" = -1
+	"Godusa" = -1
+	"Glismoda" = -1
+	"Alice" = -1
+	"Iva" = -1
 }
-ship_names = { 
+ship_names = {
+	"Silverfang Gale Blade"
+	"Zhuirentel Unlikely Breaker"
+	"Crimson Singer Misadventure"
+	"Discreet Secret Swanless Wake"
+	"WyrmeEyed Wanderer Fell Wight"
+	"Fell Wight Wyrm-Wind Seeker"
+	"Nymphen Shadow-Girded Lash"
+	"Hearthless Flight Discreet Secret"
+	"Fluke The Wolf's Regret"
+	"Watcher of Wickenlund Loyalty"
+	"Courtesan's Sprite Gone Too Far"
+	"Horror Wish Darvin's Cry"
+	"Outlander Shatterhelm Shriek"
+	"Ironhowl Maiden Dragon's Wail"
+	"Valhalla Runemarked Sorrow"
 }

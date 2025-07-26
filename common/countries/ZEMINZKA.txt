@@ -23,8 +23,53 @@ leader_names = {
 	"Gawain Hopton"
 	"Thomas Norden"
 	"Mathijs Westera"
+	"Svenja Castletown"
+	"Laurin Cantilupe"
+	"Gerard Overweg"
+	"Wulfwin Heiden"
+	"Hallgerd Ende"
+	"Cornelia Molyns"
+	"Sephare Vinter"
+	"Jamie Stinky"
+	"Attala Kalenkamp"
+	"Parnell Holmfastsson"
 }
-monarch_names = { 
+monarch_names = {
+	"Youri" = +1
+	"Hrapp" = +1
+	"Gudmund" = +1
+	"Reginald" = +1
+	"Nicolas" = +1
+	"John" = +1
+	"Joseph" = +1
+	"Sindila" = +1
+	"Brictric" = +1
+	"Luuk" = +1
+	"Idonea" = -1
+	"Leofe" = -1
+	"Tiana" = -1
+	"Marit" = -1
+	"Rimilde" = -1
+	"Enota" = -1
+	"Preciosa" = -1
+	"Theda" = -1
+	"Clementia" = -1
+	"Werthiva" = -1
 }
-ship_names = { 
+ship_names = {
+	"Duskwake Drifter Hull Camel"
+	"Oathwither Song Fluke"
+	"Sunburn Abingdon"
+	"Snarling Zephyr of Blackbrook Soldier of Fiendshelm"
+	"Watcher Windsunder Moon"
+	"Frostbitten Rook Rune Gull"
+	"Obsidian Nymph Blade"
+	"Burning Inn Luminous Runner"
+	"Iron Devil Nevermore"
+	"For Play Escape"
+	"Hearthless Flight Wind Song"
+	"Discreet Secret Ironhowl Maiden"
+	"Mad Wyvern Loyalty"
+	"Sundered Moon Wyrm-Wind Seeker"
+	"Windsunder Moon Outlander"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Nicolas Flower"
 	"Janet Stokes"
 	"Samuel Ashenhurst"
+	"Urian Geist"
+	"Nicola Cantilupe"
+	"Emma Duivencate"
+	"Meike Platz"
+	"Megan-Laureen Molyns"
+	"Tobias de Mata"
+	"Osk Badby"
+	"Floris Neuner"
+	"Sigor Neuner"
+	"Vivien Fitzralph"
 }
-monarch_names = { 
+monarch_names = {
+	"Odo" = +1
+	"Hamo" = +1
+	"Lambert" = +1
+	"Saewulf" = +1
+	"Stijn" = +1
+	"Turbert" = +1
+	"Leofric" = +1
+	"Edward" = +1
+	"Aelric" = +1
+	"Matthew" = +1
+	"Tiana" = -1
+	"Maria" = -1
+	"Marjorie" = -1
+	"Ailith" = -1
+	"Rachel" = -1
+	"Cassandra" = -1
+	"Aldreda" = -1
+	"Willy" = -1
+	"Philippa" = -1
+	"Isolde" = -1
 }
-ship_names = { 
+ship_names = {
+	"Sea Golem Spirit"
+	"Earthdon's Heart Princess's Shadow"
+	"Wind Song Hot Flush"
+	"Silverfang Gale Zhuirentel"
+	"Abingdon The Hollow Boar"
+	"Anne Ashen Grin"
+	"Burning Inn Sundew"
+	"Pale Hammer Outlander"
+	"The Hollow Wolf Cuttle"
+	"Anne Misadventure"
+	"Waking Dream Misadventure"
+	"Discreet Secret Titan's Bard"
+	"Wind Seeker Eight of the Waves"
+	"Vain Gravedigger Escape"
+	"Dubford Sorrow Warlock's Harpy"
 }

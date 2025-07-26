@@ -23,8 +23,53 @@ leader_names = {
 	"Yosi Erlbaum"
 	"Beatrice Schachtschneider"
 	"Ivette Cooke"
+	"Rayko Rampston"
+	"Alfred Jorundottir"
+	"Elia Bexley"
+	"Isolde Schlechter"
+	"Melisanda Whowood"
+	"Jochum Bryan"
+	"Basten Auldyngton"
+	"Reginald Cassy"
+	"Humphrey Bouwhuis"
+	"Crystobell Bartram"
 }
-monarch_names = { 
+monarch_names = {
+	"Koen" = +1
+	"Hrapp" = +1
+	"Henry" = +1
+	"Wulfgar" = +1
+	"Nicholas" = +1
+	"Edric" = +1
+	"Francis" = +1
+	"Richard" = +1
+	"Aithanarid" = +1
+	"Allen" = +1
+	"Preciosa" = -1
+	"Joy" = -1
+	"Tiana" = -1
+	"Avagisa" = -1
+	"Gudrun" = -1
+	"Iva" = -1
+	"Dineke" = -1
+	"Margaret" = -1
+	"Rosamund" = -1
+	"Asleif" = -1
 }
-ship_names = { 
+ship_names = {
+	"Darvin's Cry Loss Spirit"
+	"The Hollow Wolf Abingdon"
+	"Whalebane Echo Nymphen"
+	"Thorn-Gilded Curse Twice Sunk"
+	"Hangman's Hate Ironhowl Maiden"
+	"Vain Gravedigger Dead God"
+	"Barrowbound Flame Surprise"
+	"Wellerman Sorcerer's Nymph"
+	"Devil's Contract Sorrow Warlock's Harpy"
+	"Pale Hammer West Son"
+	"Wyrm-Wind Seeker Seeker"
+	"Twice Sunk The Hollow Wolf"
+	"Blade Watcher of Wickenlund"
+	"Cabin Fever Stone Gnoll"
+	"Devil's Contract Gordia's Light"
 }

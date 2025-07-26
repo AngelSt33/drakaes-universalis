@@ -23,8 +23,53 @@ leader_names = {
 	"Mathijs Westera"
 	"Adam Haddock"
 	"Mathies Schierholt"
+	"Thorstar Kreutzberg"
+	"Gudo Carter"
+	"Arjen Goofy"
+	"Narin Balam"
+	"Fortune Overweg"
+	"Anthony Holthusen"
+	"Jochum Hampden"
+	"Gailavira Bernal"
+	"Samira Rosenthal"
+	"Ivette Nidaros"
 }
-monarch_names = { 
+monarch_names = {
+	"Nicolas" = +1
+	"Sisebut" = +1
+	"Wulsi" = +1
+	"Griffin" = +1
+	"Francis" = +1
+	"Rollo" = +1
+	"William" = +1
+	"Hrapp" = +1
+	"Aithanarid" = +1
+	"Aelric" = +1
+	"Marit" = -1
+	"Idonea" = -1
+	"Protasia" = -1
+	"Agatha" = -1
+	"Amalasuntha" = -1
+	"Livitha" = -1
+	"Jenefer" = -1
+	"Theda" = -1
+	"Emma" = -1
+	"Laura" = -1
 }
-ship_names = { 
+ship_names = {
+	"Pale Hammer Watcher"
+	"Beehive Wyrm-Wind Seeker"
+	"Serpent Compass"
+	"Iron Devil Jasper"
+	"Sharp Swan of Torhof Sorrow Warlock's Harpy"
+	"Kraken Devil's Roar"
+	"Carrier Wyrm-Wind Seeker"
+	"Windsong The Hollow Wolf"
+	"Lavendar Demon Patience"
+	"Seeker Hearty"
+	"Sunburn Side Quest"
+	"Wailing Wyrm Greedy Dragon"
+	"The Withering Hunt Black Swan"
+	"Dimsey's Light Sable-Touched Omen"
+	"Thorn-Gilded Curse Hatherleigh"
 }

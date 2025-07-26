@@ -23,8 +23,53 @@ leader_names = {
 	"Henkjan Grimberg"
 	"Godwin Gifford"
 	"Isabelle Schuerer"
+	"Humphrey Fendler"
+	"Gaatha Klijn"
+	"Josef Geist"
+	"Toos Schulte"
+	"Friederike Chauncey"
+	"Elizabeth de Navete"
+	"Feenja Chauncey"
+	"Cornelia Cary"
+	"Ard Hartstein"
+	"Gilot Kornfeld"
 }
-monarch_names = { 
+monarch_names = {
+	"Pascoe" = +1
+	"Luke" = +1
+	"Geitirgest" = +1
+	"Benedict" = +1
+	"Rowland" = +1
+	"Ailwin" = +1
+	"Tumi" = +1
+	"Beinir" = +1
+	"James" = +1
+	"Arthur" = +1
+	"Amalfriede" = -1
+	"Iva" = -1
+	"Acelina" = -1
+	"Tiana" = -1
+	"Livitha" = -1
+	"Griselda" = -1
+	"Nicola" = -1
+	"Regina" = -1
+	"Leonie" = -1
+	"Jorunn" = -1
 }
-ship_names = { 
+ship_names = {
+	"Swanless Wake Darvin's Cry"
+	"Enterprise Burning Fjord"
+	"Fluke Triad of the Waves"
+	"Copper King of Hare's Hill Howling Spear"
+	"Shadow-Girded Lash Cruel Hunter"
+	"The Gilded Fen Hunter"
+	"Sundew Void Servant of Hadiya's Spire"
+	"Shell Voyager Osprey's Pride"
+	"Kraken The Sunken Boast"
+	"Wolf-Touched Mist Hangman's Hate"
+	"Wailing Wyrm Hangman's Hate"
+	"West Son Silverfang Gale"
+	"Loss Spirit Anne"
+	"Snowblind Wake Melody"
+	"Snowblind Wake Abingdon"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Henry Prowd"
 	"Janneke van der Hulst"
 	"Jan-Pieter in 't Velt"
+	"Youri Bain"
+	"Pien Schreck"
+	"Joseph Maisel"
+	"Denis Kophoff"
+	"Thomasine Godfrey"
+	"Kathrin Unton"
+	"Mathies Bekyngham"
+	"Thomasin Lucy"
+	"Arthur Vredeveld"
+	"Thorstar Edgcomb"
 }
-monarch_names = { 
+monarch_names = {
+	"Cyrila" = +1
+	"Laurenz" = +1
+	"Alan" = +1
+	"Vestgeir" = +1
+	"Algar" = +1
+	"Pascoe" = +1
+	"Seman" = +1
+	"Lambert" = +1
+	"Michael" = +1
+	"Thomas" = +1
+	"Mathilda" = -1
+	"Dorothy" = -1
+	"Mabel" = -1
+	"Mildred" = -1
+	"Rachel" = -1
+	"Godusa" = -1
+	"Eve" = -1
+	"Isgerd" = -1
+	"Oda" = -1
+	"Willy" = -1
 }
-ship_names = { 
+ship_names = {
+	"Carrier The Wolf's Regret"
+	"Horror Wish Side Quest"
+	"Spirit Earth Dragon"
+	"The Hollow Wolf Celerity"
+	"Dakins Sunlesswind"
+	"Blade Windsunder Moon"
+	"Pool Pilgrim Grim Breaker"
+	"Waking Dream Runner's Despair"
+	"Snowblind Wake Thornborough"
+	"Fallow Vengeance Melody"
+	"Hunter Snarling Zephyr of Blackbrook"
+	"Dubford The Silent Fjell"
+	"Sunlesswind Side Quest"
+	"Unlikely Breaker Rune Gull"
+	"Ironhowl Maiden Spirit"
 }

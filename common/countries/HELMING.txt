@@ -23,8 +23,53 @@ leader_names = {
 	"Christopher Kinge"
 	"Marthijn Hogewind"
 	"Willemein Strunk"
+	"Youri West"
+	"Sander Steinhaeusser"
+	"Elja Corbett"
+	"Semer Kastner"
+	"Jochum Tas"
+	"Muriel Wessely"
+	"Edward Honigberg"
+	"Nicholas Cunt"
+	"George Wynston"
+	"Naud Clopton"
 }
-monarch_names = { 
+monarch_names = {
+	"Eldert" = +1
+	"Christopher" = +1
+	"Walter" = +1
+	"Hermen" = +1
+	"Cornelius" = +1
+	"Osbert" = +1
+	"Levi" = +1
+	"Robert" = +1
+	"Joscelin" = +1
+	"Beucad" = +1
+	"Amalfrida" = -1
+	"Sigrid" = -1
+	"Gunnora" = -1
+	"Godusa" = -1
+	"Livitha" = -1
+	"Veerle" = -1
+	"Eulalia" = -1
+	"Oda" = -1
+	"Ailith" = -1
+	"Theda" = -1
 }
-ship_names = { 
+ship_names = {
+	"Hunter Vain Gravedigger"
+	"Deathwind Enterprise"
+	"Success The Sunken Boast"
+	"Murlusk's Thunder Hearthless Flight"
+	"Valhalla The Hollow Wolf"
+	"Dimsey's Light Fate"
+	"The Hollow Boar Raglan"
+	"Dimsey's Light Snowblind Wake"
+	"Beggar of Beastsshield Gone Too Far"
+	"Blade Swanless Wake"
+	"Nymphen Misadventure"
+	"Soldier of Fiendshelm Ironhowl Maiden"
+	"The Shivering Hoard Moon Blade"
+	"Lavendar Demon Gertraud's Doom"
+	"Dakins The Shivering Hoard"
 }

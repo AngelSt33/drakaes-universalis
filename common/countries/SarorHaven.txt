@@ -23,8 +23,53 @@ leader_names = {
 	"Ida Hanfstaengl"
 	"Alie Verhagen"
 	"Cecilia Woodeward"
+	"Bas Wilmink"
+	"Rebecca Zalland"
+	"Bergljot Plessner"
+	"Amalasuintha Zell"
+	"Gunnora Barker"
+	"Ragnhild Horsting"
+	"Lyting Kophoff"
+	"Tim Stoughton"
+	"Geert-Jan Metze"
+	"Peet Tabard"
 }
-monarch_names = { 
+monarch_names = {
+	"Albert" = +1
+	"Gerard" = +1
+	"Beucad" = +1
+	"Geitirgest" = +1
+	"Drogo" = +1
+	"Fritz" = +1
+	"Til" = +1
+	"Claus" = +1
+	"Bartjan" = +1
+	"Stans" = +1
+	"Milda" = -1
+	"Hrodny" = -1
+	"Laura" = -1
+	"Malasintha" = -1
+	"Leofe" = -1
+	"Griselda" = -1
+	"Sedehana" = -1
+	"Enota" = -1
+	"Anna" = -1
+	"Alice" = -1
 }
-ship_names = { 
+ship_names = {
+	"Burning Inn Sharp Swan of Torhof"
+	"Ledbury Ruby Ranger"
+	"Shell Voyager Osprey's Pride"
+	"Cruel Dagger Kraken"
+	"Sea Golem Fluke"
+	"Fate Dakins"
+	"Sky Wizard Ghost Ghoul"
+	"Valhalla Silverfang Gale"
+	"Greedy Dragon The Long Cold"
+	"Windsunder Moon Dedaigneuse"
+	"Lavendar Demon Arunta"
+	"Killowen Whisper's Hope"
+	"Eight of the Waves Death Rattle"
+	"Kempenfelt Devil's Roar"
+	"Spitfire Storm-Bitten Grudge"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Isabelle Schuerer"
 	"Simon Norwood"
 	"Joeri de Boer"
+	"Cornelia Leman"
+	"Erelieva Zarmir"
+	"Felicia Kornfeld"
+	"Marion Ardes"
+	"Magdalene Knody"
+	"Henk-Jan Marten"
+	"Tiffany Bexley"
+	"Yngvild Kinnie"
+	"Mildred Hyll"
+	"Karlijn Beauchamp"
 }
-monarch_names = { 
+monarch_names = {
+	"Gawain" = +1
+	"Alan" = +1
+	"Fastida" = +1
+	"Wulfgar" = +1
+	"Ambrose" = +1
+	"Matteo" = +1
+	"Ricimer" = +1
+	"Ulric" = +1
+	"Gudmund" = +1
+	"Isaak" = +1
+	"Amice" = -1
+	"Marit" = -1
+	"Gudrun" = -1
+	"Oda" = -1
+	"Yvette" = -1
+	"Mildred" = -1
+	"Saeunn" = -1
+	"Garsendis" = -1
+	"Jenefer" = -1
+	"Teja" = -1
 }
-ship_names = { 
+ship_names = {
+	"Sunless Mare Copper King of Hare's Hill"
+	"The Gilded Fen Glace Bay"
+	"Runner's Despair Nymphen"
+	"The Gilded Fen Moon Blade"
+	"Hot Flush Anne"
+	"Gertraud's Doom Sable-Touched Omen"
+	"Whisper Darvin's Cry"
+	"Chained Tempest Pool Pilgrim"
+	"Pool Pilgrim Princess's Shadow"
+	"Nunney Castle Possessedfish"
+	"Ironhowl Maiden Valhalla"
+	"Hull Camel Unlikely Breaker"
+	"Ash-Clad Swan Blade"
+	"Oathbound Drift Windsong"
+	"Cuttle Sorcerer's Nymph"
 }

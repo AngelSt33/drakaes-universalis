@@ -23,8 +23,53 @@ leader_names = {
 	"Ido Luchtenberg"
 	"Arjen Wanschers"
 	"Sahra Koch"
+	"Magdalene Gomersall"
+	"Amelina Chernocke"
+	"Lorelei Killigrew"
+	"Engelise Fleming"
+	"Sunigilda Frilleck"
+	"Lorelei Krüger"
+	"Ido Baldwin"
+	"Bergljot Corbett"
+	"Iemke Edgcomb"
+	"Isolde Stier"
 }
-monarch_names = { 
+monarch_names = {
+	"Gunteric" = +1
+	"Beinir" = +1
+	"Gris" = +1
+	"Cyrila" = +1
+	"Augustin" = +1
+	"Pascoe" = +1
+	"Heiko" = +1
+	"Maximillian" = +1
+	"Orgumleidi" = +1
+	"Warin" = +1
+	"Gudeliva" = -1
+	"Pavia" = -1
+	"Werthiva" = -1
+	"Isabel" = -1
+	"Gunnora" = -1
+	"Wakerilda" = -1
+	"Rimilde" = -1
+	"Leofe" = -1
+	"Marit" = -1
+	"Barbara" = -1
 }
-ship_names = { 
+ship_names = {
+	"Whalebane Echo Watcher"
+	"Fallow Vengeance Silver Arrow"
+	"Path Salamander of Griffinsway Abingdon"
+	"Ruby Falcon Spitfire"
+	"Storm-Bitten Grudge Spirit"
+	"Snarling Zephyr of Blackbrook Setter"
+	"Saltheart Bold Venture"
+	"Mistress of the Waves Eight of the Waves"
+	"Great Expense Omen"
+	"Watcher Loss Spirit"
+	"Oathwither Song Cruel Hunter"
+	"Earth Dragon Arunta"
+	"Cabin Fever Eight of the Waves"
+	"Rime-Touched Valor Silver Arrow"
+	"Ruby Ranger Ten"
 }

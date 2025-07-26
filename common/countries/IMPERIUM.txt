@@ -23,8 +23,53 @@ leader_names = {
 	"Susanna Switte"
 	"Julian Prophete"
 	"Noud Edelman"
+	"Stanilde Pfennig"
+	"Randall Purlles"
+	"Luuk Baker"
+	"Iva Leverer"
+	"Kasper Hanfstaengl"
+	"Leonard Kveldulfdottir"
+	"Ido Oostelaar"
+	"Elstan Romano"
+	"Catalina Lexis"
+	"Mannes Wymer"
 }
-monarch_names = { 
+monarch_names = {
+	"Seman" = +1
+	"Luke" = +1
+	"Gris" = +1
+	"Hanno" = +1
+	"Gilbert" = +1
+	"Sindila" = +1
+	"Fulke" = +1
+	"Isaak" = +1
+	"Athelstan" = +1
+	"Beucad" = +1
+	"Joy" = -1
+	"Enota" = -1
+	"Teja" = -1
+	"Amalaswinth" = -1
+	"Matasuntha" = -1
+	"Sedehana" = -1
+	"Werthiva" = -1
+	"Amalasuntha" = -1
+	"Helewis" = -1
+	"Ailith" = -1
 }
-ship_names = { 
+ship_names = {
+	"The Long Cold Crimson Singer"
+	"Nymphen Red-Eyed Stag"
+	"Loyalty Barrowbound Flame"
+	"Spitfire The Long Cold"
+	"The Long Cold Devil's Contract"
+	"Gull's Shadow Sable-Touched Omen"
+	"Chained Tempest Setter"
+	"Outlander Lavendar Demon"
+	"Murlusk's Thunder Silverfang Gale"
+	"Snarling Zephyr of Blackbrook Black Swan"
+	"Patience Shatterhelm Shriek"
+	"Setter Sky Wizard"
+	"Carrier For Play"
+	"Duskwake Drifter Kraken"
+	"Six of the Sky Possessedfish"
 }

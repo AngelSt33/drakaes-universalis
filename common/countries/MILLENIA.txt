@@ -23,8 +23,53 @@ leader_names = {
 	"Yosi Erlbaum"
 	"Christiane Schlechter"
 	"Bartholomew Wolrond"
+	"Elisabeth Rooij"
+	"Odo Omvlee"
+	"Andrew Kinge"
+	"Juna Puerto"
+	"Almerique Wessely"
+	"Sampson Hampden"
+	"Areagne Elsbroek"
+	"Asketel Kophoff"
+	"Amy Goofy"
+	"Magnus Marsman"
 }
-monarch_names = { 
+monarch_names = {
+	"Thorismud" = +1
+	"Hjarrandi" = +1
+	"Huibert" = +1
+	"Gamel" = +1
+	"Valentine" = +1
+	"Nigel" = +1
+	"Walahmar" = +1
+	"Josce" = +1
+	"Martin" = +1
+	"Marmaduke" = +1
+	"Asgerd" = -1
+	"Sedehana" = -1
+	"Richenda" = -1
+	"Ingaret" = -1
+	"Ellen" = -1
+	"Saegifu" = -1
+	"Magdalene" = -1
+	"Ulfheid" = -1
+	"Gunnora" = -1
+	"Wenthelen" = -1
 }
-ship_names = { 
+ship_names = {
+	"Queen of Yorvick Sunburn"
+	"Iron Devil Waking Dream"
+	"Hangman's Hate Triad of the Waves"
+	"Courtesan's Sprite Runemarked Sorrow"
+	"Crimson Barrow Murlusk's Thunder"
+	"Six of the Sky Gone Too Far"
+	"Oathbound Drift Greedy Dragon"
+	"Cruel Dagger Orca"
+	"Devil's Contract The Wolf's Regret"
+	"Cruel Dagger Outlander"
+	"Quicksilver Loss Spirit"
+	"Steadfast Blade"
+	"Obsidian Nymph Success"
+	"Whalebane Echo Seeker"
+	"Watcher Titan's Bard"
 }

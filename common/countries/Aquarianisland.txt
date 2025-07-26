@@ -23,8 +23,53 @@ leader_names = {
 	"Cäcilia Fischinger"
 	"Marlene Bernbaum"
 	"Alice Neceham"
+	"Semer Scheurling"
+	"Carolin Maudit"
+	"Clementia Wegman"
+	"Gaut de Mata"
+	"Garsendis Bolkesteijn"
+	"Jolien Ingjaldottir"
+	"Jochum Winkelink"
+	"Merina Hogewind"
+	"Fulke Wynston"
+	"Margriet Kyllyngworth"
 }
-monarch_names = { 
+monarch_names = {
+	"Joseph" = +1
+	"Silvester" = +1
+	"Allen" = +1
+	"Sampson" = +1
+	"Ildebad" = +1
+	"Seman" = +1
+	"Magnus" = +1
+	"Mark" = +1
+	"Osbert" = +1
+	"Akeman" = +1
+	"Sigrid" = -1
+	"Iva" = -1
+	"Mathilda" = -1
+	"Megan-Laureen" = -1
+	"Beatrice" = -1
+	"Rosamund" = -1
+	"Winifred" = -1
+	"Aldis" = -1
+	"Cassandra" = -1
+	"Hild" = -1
 }
-ship_names = { 
+ship_names = {
+	"Sunless Mare Song of Cedar Mere"
+	"Melody The Last Meadfire"
+	"Murlusk's Thunder The Withering Hunt"
+	"Death Rattle Misery"
+	"Hearty Glace Bay"
+	"Whalebane Echo Haunted Gambit"
+	"Queen of Yorvick Sunless Mare"
+	"Arunta Chained Tempest"
+	"Cruel Dagger Earth Octopus of the West"
+	"Luminous Runner Duskwake Drifter"
+	"Cabin Fever Celerity"
+	"Whalebane Echo Carrier"
+	"Silverfang Gale Watcher"
+	"Zhuirentel Shadow-Girded Lash"
+	"Runner's Despair Seeker"
 }

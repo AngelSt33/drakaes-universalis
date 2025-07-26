@@ -23,8 +23,53 @@ leader_names = {
 	"Harald Glover"
 	"Magnus Lubach"
 	"Jurren Martini"
+	"Joel Leman"
+	"Marcel Maisel"
+	"Magdalene Cole"
+	"Mieke Schierholt"
+	"Friederike Westera"
+	"Stanilde Bardolf"
+	"Godelieve Lacy"
+	"Felicia Willardsey"
+	"Areagne Ehrenberg"
+	"Antoon Sanner"
 }
-monarch_names = { 
+monarch_names = {
+	"Jorn" = +1
+	"Jasper" = +1
+	"Fulke" = +1
+	"Huibert" = +1
+	"Sindila" = +1
+	"Hrapp" = +1
+	"Hanno" = +1
+	"Bruni" = +1
+	"Patrick" = +1
+	"Alexander" = +1
+	"Avina" = -1
+	"Amalaswinth" = -1
+	"Muriel" = -1
+	"Ingaret" = -1
+	"Aldreda" = -1
+	"Dineke" = -1
+	"Basilia" = -1
+	"Julian" = -1
+	"Griselda" = -1
+	"Goditha" = -1
 }
-ship_names = { 
+ship_names = {
+	"Triad of the Waves Wellerman"
+	"Burning Inn Black Swan"
+	"Abingdon Wyrm-Wind Seeker"
+	"Snarling Zephyr of Blackbrook Saltheart"
+	"Duskwake Drifter Dead God"
+	"Sunlesswind Spitfire"
+	"Thornborough Misadventure"
+	"The Gilded Fen Thornborough"
+	"The Shivering Hoard Surprise"
+	"For Play Aquilon"
+	"Barrowbound Flame West Son"
+	"Possessedfish Victory"
+	"The Shivering Hoard Seeker"
+	"Serpent Swanless Wake"
+	"Wailing Wyrm Valhalla"
 }

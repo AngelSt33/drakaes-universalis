@@ -23,8 +23,53 @@ leader_names = {
 	"Pavia Grove"
 	"Anika Heiden"
 	"Sampson Jay"
+	"Urian Wanschers"
+	"Beuca Hobart"
+	"Cornelia Hülsen"
+	"Iwan Pettit"
+	"Rob Klugman"
+	"Victoria Klugman"
+	"Adam Ashenhurst"
+	"Kobus Sehlmann"
+	"Thorberg Paarhuis"
+	"Alice Marten"
 }
-monarch_names = { 
+monarch_names = {
+	"Wicing" = +1
+	"Levi" = +1
+	"Bergfinn" = +1
+	"Aelnod" = +1
+	"Machiel" = +1
+	"Lewin" = +1
+	"William" = +1
+	"Aithanarid" = +1
+	"Cornelius" = +1
+	"Algar" = +1
+	"Frances" = -1
+	"Rosamund" = -1
+	"Mathilda" = -1
+	"Loveday" = -1
+	"Sibilla" = -1
+	"Leonie" = -1
+	"Milda" = -1
+	"Willy" = -1
+	"Rachel" = -1
+	"Malasintha" = -1
 }
-ship_names = { 
+ship_names = {
+	"Oathwither Song Serpent"
+	"Whalebane Echo Pool Pilgrim"
+	"Unlikely Breaker Seeker"
+	"West Son Sunburn"
+	"Compass Seeker"
+	"Gilded Shade Pathfinder"
+	"Dakins The Long Cold"
+	"The Wolf's Regret Immeral's Kiss"
+	"Burning Inn Jasper"
+	"Gertraud's Doom Death Rattle"
+	"Duskwake Drifter Watcher"
+	"Ledbury The Sunken Boast"
+	"Sunless Mare Ten"
+	"Runner's Despair Eight of the Waves"
+	"Wolf-Touched Mist Pillager"
 }

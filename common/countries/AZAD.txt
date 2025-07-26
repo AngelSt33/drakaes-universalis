@@ -23,8 +23,53 @@ leader_names = {
 	"Engelise Veldon"
 	"Bas Kamerling"
 	"Jukel Lucy"
+	"Gailavira Montacute"
+	"Tatiana Corbett"
+	"Erik Femer"
+	"Francisco Rede"
+	"Gawain Helme"
+	"David Leverer"
+	"Thidrek Strokappe"
+	"Amelina Mugge"
+	"Throst Wohler"
+	"Odelina Loveney"
 }
-monarch_names = { 
+monarch_names = {
+	"Albert" = +1
+	"Martin" = +1
+	"Toka" = +1
+	"Constantin" = +1
+	"Ulfketel" = +1
+	"Arthur" = +1
+	"Ulric" = +1
+	"Alan" = +1
+	"Gunteric" = +1
+	"Thurston" = +1
+	"Eulalia" = -1
+	"Saegifu" = -1
+	"Anna" = -1
+	"Eve" = -1
+	"Nicola" = -1
+	"Roosje" = -1
+	"Enota" = -1
+	"Werthiva" = -1
+	"Wilamin" = -1
+	"Estrid" = -1
 }
-ship_names = { 
+ship_names = {
+	"Dimsey's Light Ruby Falcon"
+	"Rider's Luck Hearthless Flight"
+	"Barrowbound Flame Cursed Raven"
+	"Silver Arrow Unlikely Breaker"
+	"Loss Spirit Quicksilver"
+	"Duskwake Drifter Beggar of Beastsshield"
+	"Anne Devil's Roar"
+	"Possessedfish God of the Ocean"
+	"Mad Wyvern Celerity"
+	"Osprey's Pride Nunney Castle"
+	"The Last Meadfire Darvin's Cry"
+	"Stone Gnoll Burning Fjord"
+	"Sea Golem Wellerman"
+	"Gilded Shade Escape"
+	"Runemarked Sorrow Ten"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Semer Unton"
 	"Arjen Wanschers"
 	"Crystobell Damsell"
+	"Sahra Rothmann"
+	"Emma Hosteler"
+	"Gudo Wanschers"
+	"Selina Clifton"
+	"Ko Wynston"
+	"Ysabe Peucker"
+	"Lieke Bredham"
+	"Jukel Bigley"
+	"Fernando Boote"
+	"Bilimer Bohan"
 }
-monarch_names = { 
+monarch_names = {
+	"Fastida" = +1
+	"Bruni" = +1
+	"Sigric" = +1
+	"Magnus" = +1
+	"Nigel" = +1
+	"Tobias" = +1
+	"Joseph" = +1
+	"Bertram" = +1
+	"Bergfinn" = +1
+	"Philip" = +1
+	"Mildred" = -1
+	"Joyce" = -1
+	"Garsendis" = -1
+	"Jenefer" = -1
+	"Rachel" = -1
+	"Helewis" = -1
+	"Mabel" = -1
+	"Godusa" = -1
+	"Amice" = -1
+	"Hunila" = -1
 }
-ship_names = { 
+ship_names = {
+	"Courtesan's Sprite Sunlesswind"
+	"Silver Arrow Ironhowl Maiden"
+	"Loss Spirit Watcher"
+	"Fallow Vengeance Hunter"
+	"Nevermore Whisper's Hope"
+	"Valhalla Ashen Grin"
+	"Omen Wish of Carlusk"
+	"Song of Cedar Mere The Hollow Boar"
+	"Spirit Devil's Roar"
+	"Rime-Touched Valor Dakins"
+	"Darvin's Cry Hearty"
+	"Devil's Roar Fell Wight"
+	"Pale Hammer Enterprise"
+	"Sky Wizard Gertraud's Doom"
+	"Saltheart Oathwither Song"
 }

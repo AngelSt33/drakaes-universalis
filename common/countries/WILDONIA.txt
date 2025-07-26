@@ -23,8 +23,53 @@ leader_names = {
 	"Bartholomew Stokes"
 	"Gregor Reitz"
 	"Waldo Burgh"
+	"Henk-Jan Glover"
+	"Amelina Mirones"
+	"Hygbald Jentzsch"
+	"Marthijn Weterink"
+	"Ad Luthi"
+	"Tiffany Barnes"
+	"Nelke Ogmundottir"
+	"Thomas Hache"
+	"Amelie Kveldulfdottir"
+	"Ontanon Pijnappel"
 }
-monarch_names = { 
+monarch_names = {
+	"Leofstan" = +1
+	"Philips" = +1
+	"Alan" = +1
+	"Wulfgar" = +1
+	"Herebert" = +1
+	"Harald" = +1
+	"Edric" = +1
+	"Samuel" = +1
+	"Maurice" = +1
+	"Geert-Jan" = +1
+	"Preciosa" = -1
+	"Thjodhild" = -1
+	"Sigrunn" = -1
+	"Elske" = -1
+	"Veerle" = -1
+	"Melle" = -1
+	"Frances" = -1
+	"Beatrice" = -1
+	"Rachel" = -1
+	"Milda" = -1
 }
-ship_names = { 
+ship_names = {
+	"Bitterwake Cry Watcher"
+	"Dakins Path Salamander of Griffinsway"
+	"Howling Spear Sundew"
+	"Wyrm-Wind Seeker Nunney Castle"
+	"Shadow-Girded Lash Seeker"
+	"Dubford Snarling Zephyr of Blackbrook"
+	"Earth Hippogriff of Maresmeet Fallow Vengeance"
+	"Murlusk's Thunder Rime-Touched Valor"
+	"Ashen Grin Fell Wight"
+	"Kempenfelt The Last Meadfire"
+	"Victory Sorrow Warlock's Harpy"
+	"Murlusk's Thunder The Shivering Hoard"
+	"Wish of Carlusk Escape"
+	"Wellerman Wolf-Touched Mist"
+	"Ashen Grin Jasper"
 }

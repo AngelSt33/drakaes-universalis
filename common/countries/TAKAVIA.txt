@@ -23,8 +23,53 @@ leader_names = {
 	"Bartholomew Stokes"
 	"Ludovic Brownflet"
 	"Mila Ehrler"
+	"Daniel Boes"
+	"Odoin Kætilmundottir"
+	"Margaret Niekisch"
+	"Seda Kreutzberg"
+	"Bas Scheurling"
+	"Osk Harryses"
+	"Harm Molyns"
+	"Noud Overweg"
+	"Sigric Kats"
+	"Mieke Goofy"
 }
-monarch_names = { 
+monarch_names = {
+	"Conan" = +1
+	"Bartjan" = +1
+	"Akeman" = +1
+	"Julian" = +1
+	"Sampson" = +1
+	"Mart-jan" = +1
+	"Anthony" = +1
+	"Anagastes" = +1
+	"Geitirgest" = +1
+	"Hermen" = +1
+	"Mathilde" = -1
+	"Ursula" = -1
+	"Avagisa" = -1
+	"Sigrith" = -1
+	"Ailith" = -1
+	"Maria" = -1
+	"Clementia" = -1
+	"Marjorie" = -1
+	"Madia" = -1
+	"Hunila" = -1
 }
-ship_names = { 
+ship_names = {
+	"Hunter The Sunken Boast"
+	"The Long Cold Pillager"
+	"Wish of Carlusk Rider's Luck"
+	"Wind Seeker Seeker"
+	"Ironhowl Maiden Hull Camel"
+	"Princess's Shadow Beehive"
+	"Mad Wyvern Loyalty"
+	"Chained Tempest Immeral's Kiss"
+	"Surprise Death Rattle"
+	"Possessedfish West Son"
+	"Falling Star Gilded Shade"
+	"Deathwind Demon"
+	"Sunburn Saltheart"
+	"Sunlesswind Devil's Contract"
+	"Storm-Bitten Grudge Hangman's Hate"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Isaac Badby"
 	"Giles Bosby"
 	"Aelric Parsons"
+	"Guthhere Rosenzweig"
+	"Godric Leverer"
+	"Monia Weterink"
+	"Felizitas Steinhaeusser"
+	"Elgar Maneschijns"
+	"Jochem Hyll"
+	"Angelina Switte"
+	"Farnobius Schulte"
+	"Jochum Schachtschneider"
+	"Frithila Nafnidottir"
 }
-monarch_names = { 
+monarch_names = {
+	"Arne" = +1
+	"Theudis" = +1
+	"Ulric" = +1
+	"Lambert" = +1
+	"Silvester" = +1
+	"Youri" = +1
+	"Gilbert" = +1
+	"Wulfgar" = +1
+	"Machiel" = +1
+	"Laurenz" = +1
+	"Mabel" = -1
+	"Muriel" = -1
+	"Asgerd" = -1
+	"Rimilde" = -1
+	"Amalfrida" = -1
+	"Sigrid" = -1
+	"Bergljot" = -1
+	"Brunihild" = -1
+	"Thjodhild" = -1
+	"Wilamin" = -1
 }
-ship_names = { 
+ship_names = {
+	"The Silent Fjell Success"
+	"Sunless Mare Dordrecht"
+	"Oathwither Song Sea Champion's Dolphin"
+	"Six of the Sky Fate"
+	"The Sunken Boast Beggar of Beastsshield"
+	"Zhuirentel Broken Sigil"
+	"The Last Meadfire Dedaigneuse"
+	"Gone Too Far Carrier"
+	"Soldier of Fiendshelm Possessedfish"
+	"Great Expense Gull's Shadow"
+	"Mason's Folly Orca"
+	"Silverfang Gale Wind Song"
+	"Watcher of Wickenlund Seeker"
+	"Lavendar Demon Serpent"
+	"Burning Fjord Hangman's Hate"
 }

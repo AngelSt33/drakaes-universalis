@@ -23,8 +23,53 @@ leader_names = {
 	"Joel Kleiber"
 	"Bricteva Kyllyngworth"
 	"Elizabeth Barnes"
+	"Victoria Sever"
+	"Fredegar Brudenell"
+	"Solomon Kaplan"
+	"Featris Vreeburg"
+	"Dalla Symons"
+	"Kasper Vreeburg"
+	"Lindert Bekyngham"
+	"Ard Grove"
+	"Kasper Harris"
+	"Stijn Pijpenbroek"
 }
-monarch_names = { 
+monarch_names = {
+	"Jasper" = +1
+	"Ulf" = +1
+	"Ansketil" = +1
+	"Godfrey" = +1
+	"Tobias" = +1
+	"Conan" = +1
+	"Francis" = +1
+	"Marmaduke" = +1
+	"Oswyn" = +1
+	"Fulk" = +1
+	"Wenthelen" = -1
+	"Ursula" = -1
+	"Alwina" = -1
+	"Asgerd" = -1
+	"Acelina" = -1
+	"Eve" = -1
+	"Thomasin" = -1
+	"Julian" = -1
+	"Brunihild" = -1
+	"Agnes" = -1
 }
-ship_names = { 
+ship_names = {
+	"Ten Broken Sigil"
+	"Whiskey Chaser Hull Camel"
+	"Outlander Shadow-Girded Lash"
+	"Shadow-Girded Lash Crimson Singer"
+	"The Last Meadfire Ten"
+	"Waking Dream Chaoticfish"
+	"Osprey's Pride Sharp Swan of Torhof"
+	"Blade Snowblind Wake"
+	"Hunter Hallowed Gale"
+	"Whiskey Chaser Pathfinder"
+	"Swanless Wake Dead God"
+	"Whiskey Chaser Orca"
+	"The Shivering Hoard Spitfire"
+	"Haunted Gambit Burning Fjord"
+	"Fell Wight Sable-Touched Omen"
 }

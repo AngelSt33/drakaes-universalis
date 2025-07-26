@@ -23,8 +23,53 @@ leader_names = {
 	"Hubrecht Stappenbeld"
 	"Ivette Whitewood"
 	"Willem Dikken"
+	"Lindert Luthi"
+	"Elric Maisel"
+	"Amelina Hoehmann"
+	"Theoderid Thorgeirsson"
+	"Beorhthere Tabard"
+	"Jurren Neceham"
+	"Humphrey Schickendantz"
+	"Wilmot Whitewood"
+	"Clementia Weizenbaum"
+	"Geirhild Saravia"
 }
-monarch_names = { 
+monarch_names = {
+	"Edward" = +1
+	"Thurston" = +1
+	"Gilbert" = +1
+	"Hermen" = +1
+	"Saewulf" = +1
+	"Vivian" = +1
+	"Arne" = +1
+	"Jorn" = +1
+	"Stephen" = +1
+	"Stijn" = +1
+	"Estrid" = -1
+	"Wenthelen" = -1
+	"Aldreda" = -1
+	"Avina" = -1
+	"Joy" = -1
+	"Rachel" = -1
+	"Iva" = -1
+	"Hrodny" = -1
+	"Richenda" = -1
+	"Catherine" = -1
 }
-ship_names = { 
+ship_names = {
+	"Watcher of Wickenlund Setter"
+	"Sea Champion's Dolphin Hot Flush"
+	"Misadventure Watcher"
+	"Setter Gone Too Far"
+	"Son of Colfoundry Pale Hammer"
+	"Dimsey's Light The Shivering Hoard"
+	"Gordia's Light Rider's Luck"
+	"The Withering Hunt Escape"
+	"Burning Inn Success"
+	"Bold Venture Success"
+	"Fell Wight The Hollow Wolf"
+	"Wellerman Shatterhelm Shriek"
+	"Earthdon's Heart Shadow-Girded Lash"
+	"Osprey's Pride Steadfast"
+	"Sorrow Warlock's Harpy Beehive"
 }
