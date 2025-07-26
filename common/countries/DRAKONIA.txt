@@ -1,7 +1,7 @@
 # DRAKONIA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 19 31 109 }
+revolutionary_colors = { 15 12 15 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Harm Duchateau"
+	"Christiane Schlechter"
+	"Lindert Pijpenbroek"
 }
 monarch_names = { 
 }

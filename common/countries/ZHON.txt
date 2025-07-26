@@ -1,7 +1,7 @@
 # ZHON
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 125 222 16 }
+revolutionary_colors = { 10 7 15 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Engelise Veldon"
+	"Ambrose Bernard"
+	"Christoph Rothmann"
 }
 monarch_names = { 
 }

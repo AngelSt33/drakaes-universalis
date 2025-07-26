@@ -1,7 +1,7 @@
 # OLDGUARD
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 180 249 116 }
+revolutionary_colors = { 12 0 16 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Leonard Copinger"
+	"Jan-Willem Duivencate"
+	"Alan Brudenell"
 }
 monarch_names = { 
 }

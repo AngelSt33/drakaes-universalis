@@ -1,7 +1,7 @@
 # NUJHARIA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 222 64 164 }
+revolutionary_colors = { 11 12 11 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Alice Neceham"
+	"Wicing Fleming"
+	"Adam Haddock"
 }
 monarch_names = { 
 }

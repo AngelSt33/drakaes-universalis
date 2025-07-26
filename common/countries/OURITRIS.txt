@@ -1,7 +1,7 @@
 # OURITRIS
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 159 16 188 }
+revolutionary_colors = { 13 10 8 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Marmaduke Whowood"
+	"Drogo Norden"
+	"Willy Kastner"
 }
 monarch_names = { 
 }

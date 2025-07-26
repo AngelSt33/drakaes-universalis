@@ -1,7 +1,7 @@
 # ASRIA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 218 204 147 }
+revolutionary_colors = { 2 7 0 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Elstan of Nidaros"
+	"Elgar Fowler"
+	"Luuk Vredeveld"
 }
 monarch_names = { 
 }

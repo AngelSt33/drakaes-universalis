@@ -1,7 +1,7 @@
 # Treelords
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 43 236 79 }
+revolutionary_colors = { 15 8 7 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Jurren ten Bos"
+	"Dik Lusseveld"
+	"Gijsbert Hindriks"
 }
 monarch_names = { 
 }

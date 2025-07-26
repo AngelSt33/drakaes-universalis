@@ -1,7 +1,7 @@
 # STONEMANOR
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 56 145 212 }
+revolutionary_colors = { 8 14 8 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Patience Beel"
+	"Mildred Willardsey"
+	"Arthur Panshawe"
 }
 monarch_names = { 
 }

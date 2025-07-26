@@ -1,7 +1,7 @@
 # DIREGON
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 254 221 164 }
+revolutionary_colors = { 2 7 5 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Herebert Stoughton"
+	"Pascoe Helme"
+	"Arjen Wanschers"
 }
 monarch_names = { 
 }

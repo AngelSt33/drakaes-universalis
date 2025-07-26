@@ -1,7 +1,7 @@
 # FARREACH
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 174 213 189 }
+revolutionary_colors = { 14 7 1 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Janet Strachleigh"
+	"Randall Weston"
+	"Arnold Penhallick"
 }
 monarch_names = { 
 }

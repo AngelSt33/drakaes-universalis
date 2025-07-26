@@ -1,7 +1,7 @@
 # IUITTICAZ
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 69 95 72 }
+revolutionary_colors = { 7 7 15 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Rayko Harig"
+	"Ludovic Cranford"
+	"Henry Prowd"
 }
 monarch_names = { 
 }

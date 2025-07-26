@@ -1,7 +1,7 @@
 # MORDLADRON
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 216 105 249 }
+revolutionary_colors = { 8 13 4 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Sampson Jay"
+	"Joeri de Boer"
+	"Ismay Fitzralph"
 }
 monarch_names = { 
 }

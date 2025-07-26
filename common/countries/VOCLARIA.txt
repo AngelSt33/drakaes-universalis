@@ -1,7 +1,7 @@
 # VOCLARIA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 98 86 117 }
+revolutionary_colors = { 13 2 14 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Randall Bouldre"
+	"Joseph Gifford"
+	"Margaret Sandes"
 }
 monarch_names = { 
 }

@@ -1,7 +1,7 @@
 # SHIROKANEZA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 135 41 33 }
+revolutionary_colors = { 0 12 5 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Sander Klijn"
+	"Floris Strokappe"
+	"Zarina Heitz"
 }
 monarch_names = { 
 }

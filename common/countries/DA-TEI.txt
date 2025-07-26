@@ -1,7 +1,7 @@
 # DA-TEI
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 155 16 100 }
+revolutionary_colors = { 7 5 4 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Henry Prowd"
+	"Tristan Pfennig"
+	"Cornelius Seger"
 }
 monarch_names = { 
 }

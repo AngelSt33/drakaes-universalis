@@ -1,7 +1,7 @@
 # CATANIA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 185 112 78 }
+revolutionary_colors = { 15 11 9 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"David the Thief"
+	"Guthhere the Cunt"
+	"Ludovic Curteys"
 }
 monarch_names = { 
 }

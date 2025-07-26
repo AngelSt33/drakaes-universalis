@@ -1,7 +1,7 @@
 # MYKITAS
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 240 208 97 }
+revolutionary_colors = { 3 4 12 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Ambrose Bernard"
+	"Christiane Schlechter"
+	"Ulfi Wylde"
 }
 monarch_names = { 
 }

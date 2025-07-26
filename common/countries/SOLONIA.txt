@@ -1,7 +1,7 @@
 # SOLONIA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 96 22 215 }
+revolutionary_colors = { 14 2 16 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"James Slyfield"
+	"Waldo Maydestone"
+	"Jeremias Schreck"
 }
 monarch_names = { 
 }

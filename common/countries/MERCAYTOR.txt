@@ -1,7 +1,7 @@
 # MERCAYTOR
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 102 242 18 }
+revolutionary_colors = { 2 7 13 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Alice Downer"
+	"Yosi Erlbaum"
+	"Thomas Norden"
 }
 monarch_names = { 
 }

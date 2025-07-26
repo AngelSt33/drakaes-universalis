@@ -1,7 +1,7 @@
 # Konigsburg
 graphical_culture = westerngfx
 color = { 114 36 154 }
-revolutionary_colors = { }
+revolutionary_colors = { 10 11 3 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Jacob Kohnstamm"
+	"Ludovic Brownflet"
+	"Aelric Godfrey"
 }
 monarch_names = { 
 }

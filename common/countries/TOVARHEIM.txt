@@ -1,7 +1,7 @@
 # TOVARHEIM
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 74 140 236 }
+revolutionary_colors = { 7 11 7 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Clarissa Ryall"
+	"Waldo Barber"
+	"Daniel Boote"
 }
 monarch_names = { 
 }

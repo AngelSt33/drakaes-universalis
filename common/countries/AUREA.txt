@@ -1,7 +1,7 @@
 # AUREA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 181 204 150 }
+revolutionary_colors = { 11 4 0 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Svenja Platz"
+	"Brictric Byngham"
+	"Meike Schickendantz"
 }
 monarch_names = { 
 }

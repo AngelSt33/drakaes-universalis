@@ -1,7 +1,7 @@
 # MYTRINIL
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 56 28 246 }
+revolutionary_colors = { 0 14 1 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Richard Gyll"
+	"Rik Oostelaar"
+	"Adam Haddock"
 }
 monarch_names = { 
 }

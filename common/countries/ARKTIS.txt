@@ -1,7 +1,7 @@
 # ARKTIS
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 45 249 91 }
+revolutionary_colors = { 0 1 7 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Beatrice Schachtschneider"
+	"Anthony Leverer"
+	"Waldo Maydestone"
 }
 monarch_names = { 
 }

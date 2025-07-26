@@ -1,7 +1,7 @@
 # VALIA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 207 8 136 }
+revolutionary_colors = { 6 14 10 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Winifred Sadler"
+	"Mila Ehrler"
+	"Sigor Argentein"
 }
 monarch_names = { 
 }

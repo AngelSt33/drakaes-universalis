@@ -1,7 +1,7 @@
 # VULPERIUM
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 146 14 51 }
+revolutionary_colors = { 6 0 7 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Zarina Heitz"
+	"Engelise Veldon"
+	"Ealdhelm of Nibury"
 }
 monarch_names = { 
 }

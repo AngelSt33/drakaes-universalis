@@ -1,7 +1,7 @@
 # VELERIN
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 237 132 215 }
+revolutionary_colors = { 11 0 11 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Ard van der Berg"
+	"Sigor Argentein"
+	"Louis Sehlmann"
 }
 monarch_names = { 
 }

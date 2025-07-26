@@ -1,7 +1,7 @@
 # CAISLEAN
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 28 125 111 }
+revolutionary_colors = { 5 0 12 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Gudo Geissler"
+	"Odo Sotton"
+	"Paulus Bodmer"
 }
 monarch_names = { 
 }

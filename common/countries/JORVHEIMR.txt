@@ -1,7 +1,7 @@
 # JORVHEIMR
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 14 184 100 }
+revolutionary_colors = { 9 6 7 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Alice Downer"
+	"Matthew Bryan"
+	"Millicent Brewster"
 }
 monarch_names = { 
 }

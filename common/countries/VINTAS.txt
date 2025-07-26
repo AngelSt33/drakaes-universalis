@@ -1,7 +1,7 @@
 # VINTAS
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 58 132 93 }
+revolutionary_colors = { 9 0 15 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Mannes de Ruiter"
+	"Eustace Spebynton"
+	"Tatiana Hilbers"
 }
 monarch_names = { 
 }

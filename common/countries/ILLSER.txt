@@ -1,7 +1,7 @@
 # ILLSER
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 224 118 224 }
+revolutionary_colors = { 4 8 12 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Richard Waldeley"
+	"Toka Baker"
+	"Cecilia Woodeward"
 }
 monarch_names = { 
 }

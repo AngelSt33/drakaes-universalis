@@ -1,7 +1,7 @@
 # PISCES
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 46 40 172 }
+revolutionary_colors = { 13 9 14 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Yosi Erlbaum"
+	"Mila Ehrler"
+	"Lindert Carsjes"
 }
 monarch_names = { 
 }

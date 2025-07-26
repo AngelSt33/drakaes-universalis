@@ -1,7 +1,7 @@
 # RHEINFAULDER
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 166 185 182 }
+revolutionary_colors = { 12 5 11 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Luuk Vredeveld"
+	"Ivette Whitewood"
+	"Kasper op Hondshorst"
 }
 monarch_names = { 
 }

@@ -1,7 +1,7 @@
 # TERRATHER
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 97 79 248 }
+revolutionary_colors = { 16 5 7 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Giles Bosby"
+	"Tiecia Shevington"
+	"Saegifu Hache"
 }
 monarch_names = { 
 }

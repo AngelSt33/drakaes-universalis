@@ -1,7 +1,7 @@
 # COSTA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 60 201 115 }
+revolutionary_colors = { 16 7 9 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Anthony Leverer"
+	"Maurits-jan Winkelink"
+	"Protasia Addicock"
 }
 monarch_names = { 
 }

@@ -1,7 +1,7 @@
 # BLOMACHFOREST
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 122 222 206 }
+revolutionary_colors = { 0 7 7 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Godelieve Teunissen Marsman"
+	"Jurrien Dietten"
+	"Asketel Clifton"
 }
 monarch_names = { 
 }

@@ -1,7 +1,7 @@
 # KODNOR
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 145 183 250 }
+revolutionary_colors = { 3 16 16 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Tristan Pfennig"
+	"Stijn Wegman"
+	"Bartholomew Lodyngton"
 }
 monarch_names = { 
 }

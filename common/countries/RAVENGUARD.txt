@@ -1,7 +1,7 @@
 # RAVENGUARD
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 250 122 224 }
+revolutionary_colors = { 14 15 8 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Arjen Schans"
+	"Noud Edelman"
+	"Joseph Gifford"
 }
 monarch_names = { 
 }

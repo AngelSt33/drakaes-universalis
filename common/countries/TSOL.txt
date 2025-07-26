@@ -1,7 +1,7 @@
 # TSOL
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 0 158 162 }
+revolutionary_colors = { 1 10 7 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Oswyn Frilleck"
+	"Sabine Crugge"
+	"Brian Wynstryngham"
 }
 monarch_names = { 
 }

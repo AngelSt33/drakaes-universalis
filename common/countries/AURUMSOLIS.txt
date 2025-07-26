@@ -1,7 +1,7 @@
 # AURUMSOLIS
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 153 121 88 }
+revolutionary_colors = { 5 2 13 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Rayko Harig"
+	"Cynesige the Goofy"
+	"Aelric Parsons"
 }
 monarch_names = { 
 }

@@ -1,7 +1,7 @@
 # SUSTERA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 114 188 11 }
+revolutionary_colors = { 16 1 4 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Kathrin Sperl"
+	"Fulke Salford"
+	"Sampson Jay"
 }
 monarch_names = { 
 }

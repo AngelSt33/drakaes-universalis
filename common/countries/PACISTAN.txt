@@ -1,7 +1,7 @@
 # PACISTAN
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 38 210 103 }
+revolutionary_colors = { 6 13 7 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Jacoliene aan Mullekes"
+	"Brian Wynstryngham"
+	"Kobus Veer"
 }
 monarch_names = { 
 }

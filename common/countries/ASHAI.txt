@@ -1,7 +1,7 @@
 # ASHAI
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 183 34 16 }
+revolutionary_colors = { 4 7 9 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Eustace Chauncey"
+	"Phillip Weingaertner"
+	"Jeremias Schreck"
 }
 monarch_names = { 
 }

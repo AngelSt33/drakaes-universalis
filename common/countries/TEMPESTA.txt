@@ -1,7 +1,7 @@
 # TEMPESTA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 207 94 124 }
+revolutionary_colors = { 10 12 9 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Winifred Sadler"
+	"Tiecia Shevington"
+	"Stephen Wardyworth"
 }
 monarch_names = { 
 }
