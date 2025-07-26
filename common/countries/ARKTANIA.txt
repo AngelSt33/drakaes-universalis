@@ -1,7 +1,7 @@
 # ARKTANIA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 3 94 58 }
+revolutionary_colors = { 2 12 1 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Isaac Badby"
+	"Giles Bosby"
+	"Aelric Parsons"
 }
 monarch_names = { 
 }

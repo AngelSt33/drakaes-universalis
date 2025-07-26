@@ -1,7 +1,7 @@
 # EXOUSIA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 55 66 20 }
+revolutionary_colors = { 9 13 9 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Wulfgeat Lave"
+	"Stijn Mulders"
+	"Iva Peucker"
 }
 monarch_names = { 
 }

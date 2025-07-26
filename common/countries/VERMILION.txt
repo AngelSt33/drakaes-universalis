@@ -1,7 +1,7 @@
 # VERMILION
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 249 240 19 }
+revolutionary_colors = { 0 14 9 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Odo Cantilupe"
+	"Sayer Symons"
+	"Christopher Kinge"
 }
 monarch_names = { 
 }

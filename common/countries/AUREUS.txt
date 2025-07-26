@@ -1,7 +1,7 @@
 # AUREUS
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 124 66 226 }
+revolutionary_colors = { 4 11 12 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Richard Gyll"
+	"Barbara Fitzralph"
+	"Wulfgeat Lave"
 }
 monarch_names = { 
 }

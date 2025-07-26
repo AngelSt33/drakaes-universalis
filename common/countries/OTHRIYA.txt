@@ -1,7 +1,7 @@
 # OTHRIYA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 234 75 17 }
+revolutionary_colors = { 8 0 1 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Henkjan Grimberg"
+	"Godwin Gifford"
+	"Isabelle Schuerer"
 }
 monarch_names = { 
 }

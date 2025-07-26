@@ -1,7 +1,7 @@
 # SHATTERED
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 164 49 156 }
+revolutionary_colors = { 8 14 8 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Marthijn Hogewind"
+	"Alice Neceham"
+	"Godwin Richeman"
 }
 monarch_names = { 
 }

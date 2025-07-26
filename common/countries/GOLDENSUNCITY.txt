@@ -1,7 +1,7 @@
 # GOLDENSUNCITY
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 164 132 174 }
+revolutionary_colors = { 7 12 16 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Nicolas Flower"
+	"Janet Stokes"
+	"Samuel Ashenhurst"
 }
 monarch_names = { 
 }

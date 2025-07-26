@@ -1,7 +1,7 @@
 # IKKUL
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 179 78 124 }
+revolutionary_colors = { 12 16 12 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Drogo Maudit"
+	"Sayer Brayles"
+	"Jan-Willem Duivencate"
 }
 monarch_names = { 
 }

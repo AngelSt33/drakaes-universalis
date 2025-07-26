@@ -1,7 +1,7 @@
 # TORTUGA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 131 129 148 }
+revolutionary_colors = { 10 14 1 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Marcel Teeselink"
+	"Fulke Key"
+	"Wicing Fleming"
 }
 monarch_names = { 
 }

@@ -1,7 +1,7 @@
 # Seeburg
 graphical_culture = westerngfx
 color = { 85 100 157 }
-revolutionary_colors = { }
+revolutionary_colors = { 3 12 2 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Semer Windham"
+	"Jamie Schantz"
+	"Saegifu Hache"
 }
 monarch_names = { 
 }

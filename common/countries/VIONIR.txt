@@ -1,7 +1,7 @@
 # VIONIR
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 5 40 233 }
+revolutionary_colors = { 14 1 10 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Ute Lemann"
+	"Fritz Honigberg"
+	"Godric Leynham"
 }
 monarch_names = { 
 }

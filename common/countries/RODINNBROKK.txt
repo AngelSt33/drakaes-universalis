@@ -1,7 +1,7 @@
 # RODINNBROKK
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 204 226 167 }
+revolutionary_colors = { 5 5 1 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Akeman Vinter"
+	"Richard Waldeley"
+	"Henk Weitenberg"
 }
 monarch_names = { 
 }

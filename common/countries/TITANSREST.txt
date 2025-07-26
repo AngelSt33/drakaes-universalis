@@ -1,7 +1,7 @@
 # TITANSREST
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 192 106 112 }
+revolutionary_colors = { 7 3 3 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Semer Windham"
+	"Nigel Snelling"
+	"Arjen Schans"
 }
 monarch_names = { 
 }

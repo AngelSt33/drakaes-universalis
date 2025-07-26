@@ -1,7 +1,7 @@
 # Avaria
 graphical_culture = westerngfx
 color = { 165 29 53 }
-revolutionary_colors = { }
+revolutionary_colors = { 15 12 1 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Cathelijn van den Barg"
+	"Godwin Gifford"
+	"Isabelle Schuerer"
 }
 monarch_names = { 
 }

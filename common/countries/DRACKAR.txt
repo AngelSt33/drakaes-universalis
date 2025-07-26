@@ -1,7 +1,7 @@
 # DRACKAR
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 208 8 227 }
+revolutionary_colors = { 4 11 5 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"David Rientjes"
+	"Henry Prowd"
+	"Brictric Hadresham"
 }
 monarch_names = { 
 }

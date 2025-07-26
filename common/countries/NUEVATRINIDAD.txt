@@ -1,7 +1,7 @@
 # NUEVATRINIDAD
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 177 94 85 }
+revolutionary_colors = { 14 15 10 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Drogo Norden"
+	"Elmar Riedel"
+	"Sijbrand Reimink"
 }
 monarch_names = { 
 }

@@ -1,7 +1,7 @@
 # MOSIRSUMARI
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 25 74 254 }
+revolutionary_colors = { 4 12 1 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Godelieve Teunissen Marsman"
+	"Nanko van 't Bouwhuis"
+	"Godric Bewley"
 }
 monarch_names = { 
 }

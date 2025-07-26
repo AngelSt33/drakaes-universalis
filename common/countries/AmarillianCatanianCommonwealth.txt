@@ -1,7 +1,7 @@
 # Treelords
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 43 72 205 }
+revolutionary_colors = { 10 12 8 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Elia Weingaertner"
+	"Jan-Bart Hekkers"
+	"Henkjan Grimberg"
 }
 monarch_names = { 
 }

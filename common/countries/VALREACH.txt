@@ -1,7 +1,7 @@
 # VALREACH
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 176 64 127 }
+revolutionary_colors = { 8 0 0 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Pier van Norel"
+	"Osbert Theobauld"
+	"Kobus Kalenkamp"
 }
 monarch_names = { 
 }

@@ -1,7 +1,7 @@
 # THE
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 175 162 166 }
+revolutionary_colors = { 6 6 8 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Jeremias Schreck"
+	"Randall Weston"
+	"Wulfstan Ginter"
 }
 monarch_names = { 
 }

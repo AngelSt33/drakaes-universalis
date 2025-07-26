@@ -1,7 +1,7 @@
 # ASHARALYN
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 46 154 127 }
+revolutionary_colors = { 14 9 1 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Carolin Stier"
+	"Joseph Gifford"
+	"David Rientjes"
 }
 monarch_names = { 
 }

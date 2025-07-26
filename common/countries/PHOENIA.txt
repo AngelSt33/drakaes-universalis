@@ -1,7 +1,7 @@
 # PHOENIA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 193 107 48 }
+revolutionary_colors = { 15 15 7 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Dorothy Harris"
+	"Willy Bekman"
+	"Pascoe Helme"
 }
 monarch_names = { 
 }

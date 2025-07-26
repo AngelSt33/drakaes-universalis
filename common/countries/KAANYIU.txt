@@ -1,7 +1,7 @@
 # KAANYIU
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 68 160 51 }
+revolutionary_colors = { 3 14 12 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Willy Bekman"
+	"Cathelijn van den Barg"
+	"Reggy ten Hemmel"
 }
 monarch_names = { 
 }

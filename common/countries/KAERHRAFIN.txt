@@ -1,7 +1,7 @@
 # KAERHRAFIN
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 236 33 204 }
+revolutionary_colors = { 5 13 11 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Conan Rampston"
+	"Elizabeth Barnes"
+	"Stephen Wardyworth"
 }
 monarch_names = { 
 }

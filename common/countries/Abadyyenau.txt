@@ -1,7 +1,7 @@
 # Abadyyenau
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 3 233 181 }
+revolutionary_colors = { 6 12 9 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Giles Foliot"
+	"Dik Lusseveld"
+	"Sander Klijn"
 }
 monarch_names = { 
 }

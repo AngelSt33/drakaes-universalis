@@ -1,7 +1,7 @@
 # ULFAENG
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 175 31 139 }
+revolutionary_colors = { 8 3 3 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Elric Laken"
+	"Herebert Daubernoun"
+	"Brictric Byngham"
 }
 monarch_names = { 
 }

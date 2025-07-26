@@ -1,7 +1,7 @@
 # MALUCIA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 152 5 213 }
+revolutionary_colors = { 10 6 9 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"George Arderne"
+	"Hubrecht Stappenbeld"
+	"Hanno Bartels"
 }
 monarch_names = { 
 }

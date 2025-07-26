@@ -1,7 +1,7 @@
 # WOLFINWILDONIA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 247 175 42 }
+revolutionary_colors = { 13 13 7 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Odelina Barker"
+	"Konstanze Hersch"
+	"Rolf Schildknecht"
 }
 monarch_names = { 
 }

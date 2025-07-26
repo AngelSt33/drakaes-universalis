@@ -1,7 +1,7 @@
 # Treelords
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 76 60 205 }
+revolutionary_colors = { 4 7 3 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Felicia Scarclyf"
+	"Godwin Gifford"
+	"Ludovic Cranford"
 }
 monarch_names = { 
 }

@@ -1,7 +1,7 @@
 # BEL
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 75 197 33 }
+revolutionary_colors = { 6 10 1 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Henry Prowd"
+	"Alan Brudenell"
+	"Eustace Spebynton"
 }
 monarch_names = { 
 }

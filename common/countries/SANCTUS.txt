@@ -1,7 +1,7 @@
 # SANCTUS
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 247 112 172 }
+revolutionary_colors = { 0 11 7 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Ludovic Cranford"
+	"Sigor Brinckhurst"
+	"Ambrose Bernard"
 }
 monarch_names = { 
 }

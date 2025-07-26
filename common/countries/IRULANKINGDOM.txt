@@ -1,7 +1,7 @@
 # IRULANKINGDOM
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 183 66 243 }
+revolutionary_colors = { 7 10 11 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Jochem Buit"
+	"Giles Bosby"
+	"Julian op Duivencate"
 }
 monarch_names = { 
 }

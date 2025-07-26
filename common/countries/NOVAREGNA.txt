@@ -1,7 +1,7 @@
 # NOVAREGNA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 147 61 193 }
+revolutionary_colors = { 3 8 3 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Reggy ten Hemmel"
+	"Piet Gevelear"
+	"Svenja Platz"
 }
 monarch_names = { 
 }

@@ -1,7 +1,7 @@
 # YASZUMA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 153 130 86 }
+revolutionary_colors = { 9 5 13 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Rogier Hiddink"
+	"Sarah Molyns"
+	"James Slyfield"
 }
 monarch_names = { 
 }

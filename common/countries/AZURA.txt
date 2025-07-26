@@ -1,7 +1,7 @@
 # AZURA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 109 166 120 }
+revolutionary_colors = { 11 13 5 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Harald Glover"
+	"Magnus Lubach"
+	"Jurren Martini"
 }
 monarch_names = { 
 }

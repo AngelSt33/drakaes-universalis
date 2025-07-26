@@ -1,7 +1,7 @@
 # RARIDAN
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 61 150 229 }
+revolutionary_colors = { 0 13 4 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Patience Lodyngton"
+	"Elyas Byfield"
+	"Rik Oostelaar"
 }
 monarch_names = { 
 }

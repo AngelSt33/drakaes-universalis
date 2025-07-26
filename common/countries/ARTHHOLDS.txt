@@ -1,7 +1,7 @@
 # ARTHHOLDS
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 137 28 137 }
+revolutionary_colors = { 0 2 14 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Drogo Norden"
+	"Willem Dikken"
+	"Floris Strokappe"
 }
 monarch_names = { 
 }

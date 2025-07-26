@@ -1,7 +1,7 @@
 # ASTRYA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 204 218 134 }
+revolutionary_colors = { 6 5 1 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Godwin Gifford"
+	"Gabriel Leman"
+	"Noud Edelman"
 }
 monarch_names = { 
 }

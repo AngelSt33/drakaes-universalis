@@ -1,7 +1,7 @@
 # Oranje
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 27 100 57 }
+revolutionary_colors = { 3 10 5 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Ludovic Cranford"
+	"Gamel Town"
+	"Stannard Ashenhurst"
 }
 monarch_names = { 
 }

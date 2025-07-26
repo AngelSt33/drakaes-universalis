@@ -1,7 +1,7 @@
 # TARXIEN
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 190 203 18 }
+revolutionary_colors = { 4 15 15 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Bas Kamerling"
+	"Cecilia Woodeward"
+	"Reginald Eldysley"
 }
 monarch_names = { 
 }

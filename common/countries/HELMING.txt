@@ -1,7 +1,7 @@
 # HELMING
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 184 134 138 }
+revolutionary_colors = { 6 5 3 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Christopher Kinge"
+	"Marthijn Hogewind"
+	"Willemein Strunk"
 }
 monarch_names = { 
 }

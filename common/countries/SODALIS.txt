@@ -1,7 +1,7 @@
 # SODALIS
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 33 154 222 }
+revolutionary_colors = { 9 1 1 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Lindert Carsjes"
+	"Maurice Dale"
+	"Jeremias Schreck"
 }
 monarch_names = { 
 }

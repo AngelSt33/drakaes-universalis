@@ -1,7 +1,7 @@
 # YUVARIA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 103 201 101 }
+revolutionary_colors = { 15 0 15 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Alice Downer"
+	"Whyburgh Faylare"
+	"Roger Harryses"
 }
 monarch_names = { 
 }

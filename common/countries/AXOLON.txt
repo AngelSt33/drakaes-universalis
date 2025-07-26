@@ -1,7 +1,7 @@
 # AXOLON
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 235 135 112 }
+revolutionary_colors = { 8 13 11 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Cornelius Seger"
+	"Geert-Jan Bokhove"
+	"Leofing Cantilupe"
 }
 monarch_names = { 
 }

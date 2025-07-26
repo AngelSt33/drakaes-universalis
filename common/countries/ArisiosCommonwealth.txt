@@ -1,8 +1,8 @@
 # Treelords
 graphical_culture = westerngfx
 
-color = {      }
-revolutionary_colors = {    }
+color = { 131 127 26 }
+revolutionary_colors = { 8 3 2 }
 
 historical_idea_groups = {
 	offensive_ideas
@@ -27,7 +27,9 @@ fleet_names = {
 }
 
 leader_names = {
-	
+	"Giles Foliot"
+	"Henkjan Grimberg"
+	"Mathies Schierholt"
 }
 
 monarch_names = {

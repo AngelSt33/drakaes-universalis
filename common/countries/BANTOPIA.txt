@@ -1,7 +1,7 @@
 # BANTOPIA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 207 143 215 }
+revolutionary_colors = { 5 11 6 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Aelric Godfrey"
+	"Joeri de Boer"
+	"Jacoliene aan Mullekes"
 }
 monarch_names = { 
 }

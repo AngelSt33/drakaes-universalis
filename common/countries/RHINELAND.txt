@@ -1,7 +1,7 @@
 # RHINELAND
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 13 235 17 }
+revolutionary_colors = { 0 11 6 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Ido Luchtenberg"
+	"Arjen Wanschers"
+	"Sahra Koch"
 }
 monarch_names = { 
 }
