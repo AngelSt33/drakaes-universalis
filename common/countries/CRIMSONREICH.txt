@@ -1,7 +1,7 @@
 # CRIMSONREICH
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 231 24 40 }
+revolutionary_colors = { 4 7 4 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Iwan Elsbroek"
+	"Bernard Herleston"
+	"Florentijn van de Weterink"
 }
 monarch_names = { 
 }

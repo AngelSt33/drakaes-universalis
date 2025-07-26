@@ -1,7 +1,7 @@
 # NORTHSTAR
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 111 163 214 }
+revolutionary_colors = { 5 6 8 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Aelric Parsons"
+	"Basten Flederis"
+	"Magdalene Luthi"
 }
 monarch_names = { 
 }

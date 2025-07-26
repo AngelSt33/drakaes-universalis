@@ -1,7 +1,7 @@
 # EUCLIDEA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 255 156 113 }
+revolutionary_colors = { 14 13 13 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Fortune Auldyngton"
+	"Leendert Koestra"
+	"Ealdhelm of Nibury"
 }
 monarch_names = { 
 }

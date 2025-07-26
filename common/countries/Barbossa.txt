@@ -1,7 +1,7 @@
 # Barbossa
 graphical_culture = westerngfx
 color = { 153 151 152 }
-revolutionary_colors = { }
+revolutionary_colors = { 6 3 0 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Lindert Carsjes"
+	"Florentijn van de Weterink"
+	"Floris Strokappe"
 }
 monarch_names = { 
 }

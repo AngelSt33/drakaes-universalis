@@ -1,7 +1,7 @@
 # LAFROS
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 206 71 143 }
+revolutionary_colors = { 12 15 16 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Zarina Heitz"
+	"Ole Kaplan"
+	"Nanko van 't Bouwhuis"
 }
 monarch_names = { 
 }

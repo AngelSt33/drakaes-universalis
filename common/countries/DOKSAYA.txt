@@ -1,7 +1,7 @@
 # DOKSAYA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 139 146 210 }
+revolutionary_colors = { 4 12 11 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Edward Cary"
+	"Gijsbert Hindriks"
+	"Nota Chernocke"
 }
 monarch_names = { 
 }

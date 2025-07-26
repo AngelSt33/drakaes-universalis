@@ -1,7 +1,7 @@
 # URAK
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 208 225 187 }
+revolutionary_colors = { 6 6 4 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Drogo Norden"
+	"Lydia Hoehmann"
+	"Mechiel Oosterloo"
 }
 monarch_names = { 
 }

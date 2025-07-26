@@ -1,7 +1,7 @@
 # AREVEYI
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 170 5 84 }
+revolutionary_colors = { 5 1 4 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Rudie Boekholt"
+	"Nota Chernocke"
+	"Tatiana Hilbers"
 }
 monarch_names = { 
 }

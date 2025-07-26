@@ -1,7 +1,7 @@
 # LOBLANTIS
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 89 204 136 }
+revolutionary_colors = { 13 15 0 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Waldo Barber"
+	"Cassandra Wyddowsoun"
+	"Ambrose Bernard"
 }
 monarch_names = { 
 }

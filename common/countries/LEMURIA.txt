@@ -1,7 +1,7 @@
 # LEMURIA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 71 108 38 }
+revolutionary_colors = { 13 12 6 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Jochem Buit"
+	"Sayer Brayles"
+	"Hubert Wilmink"
 }
 monarch_names = { 
 }

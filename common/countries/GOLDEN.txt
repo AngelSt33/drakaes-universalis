@@ -1,7 +1,7 @@
 # GOLDEN
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 118 146 158 }
+revolutionary_colors = { 2 12 0 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Thomasine Crugge"
+	"Floris Strokappe"
+	"Avery Balam"
 }
 monarch_names = { 
 }

@@ -1,7 +1,7 @@
 # TERRANIA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 208 64 171 }
+revolutionary_colors = { 3 13 7 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Mareike Stangl"
+	"Tiffany Launceleyn"
+	"Godwin Richeman"
 }
 monarch_names = { 
 }

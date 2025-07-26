@@ -1,7 +1,7 @@
 # QADAKH
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 50 237 154 }
+revolutionary_colors = { 7 5 1 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Nanko van 't Bouwhuis"
+	"Thomas Killigrew"
+	"Wulfwin Sever"
 }
 monarch_names = { 
 }

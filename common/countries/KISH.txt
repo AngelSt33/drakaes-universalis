@@ -1,7 +1,7 @@
 # KISH
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 160 76 82 }
+revolutionary_colors = { 12 16 14 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Jan-Bart Hekkers"
+	"Tristan Pfennig"
+	"Winifred Sadler"
 }
 monarch_names = { 
 }

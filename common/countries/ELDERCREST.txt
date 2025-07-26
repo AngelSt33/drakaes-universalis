@@ -1,7 +1,7 @@
 # ELDERCREST
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 19 36 196 }
+revolutionary_colors = { 11 9 15 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Christiane Schlechter"
+	"Karin Gustloff"
+	"Harm Duchateau"
 }
 monarch_names = { 
 }

@@ -1,7 +1,7 @@
 # ILLUMINA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 242 103 118 }
+revolutionary_colors = { 10 7 7 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"David Schumer"
+	"Thomas Killigrew"
+	"Naud Paarhuis"
 }
 monarch_names = { 
 }

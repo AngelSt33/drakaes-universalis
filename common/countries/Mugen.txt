@@ -1,7 +1,7 @@
 # Treelords
 graphical_culture = westerngfx
 color = { 166 98 89 }
-revolutionary_colors = { }
+revolutionary_colors = { 14 4 16 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,11 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Jeremias Shrek"
+	"Godwin Richeman"
+	"Elinor Lacy"
+	"Frospan the Boytoy"
 }
 monarch_names = { 
 }

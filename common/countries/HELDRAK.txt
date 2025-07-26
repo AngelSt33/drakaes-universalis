@@ -1,7 +1,7 @@
 # HELDRAK
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 78 50 169 }
+revolutionary_colors = { 4 8 8 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Jodoc Castletown"
+	"Mathijs Westera"
+	"Elinor Lacy"
 }
 monarch_names = { 
 }

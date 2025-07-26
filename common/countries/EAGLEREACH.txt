@@ -1,7 +1,7 @@
 # EAGLEREACH
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 45 174 153 }
+revolutionary_colors = { 10 16 5 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Aelric Godfrey"
+	"Mareike Stangl"
+	"Henkjan Grimberg"
 }
 monarch_names = { 
 }

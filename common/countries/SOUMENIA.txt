@@ -1,7 +1,7 @@
 # SOUMENIA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 86 59 175 }
+revolutionary_colors = { 13 0 9 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Godwin Richeman"
+	"Susanna Switte"
+	"Gamel Town"
 }
 monarch_names = { 
 }

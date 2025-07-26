@@ -1,7 +1,7 @@
 # SHURIDA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 20 108 123 }
+revolutionary_colors = { 5 2 2 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Millicent Brewster"
+	"Frances Fraunces"
+	"Avery Balam"
 }
 monarch_names = { 
 }

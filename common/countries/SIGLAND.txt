@@ -1,7 +1,7 @@
 # SIGLAND
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 54 54 131 }
+revolutionary_colors = { 14 10 3 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Hubert Wilmink"
+	"Florentijn van de Weterink"
+	"Ulfi Wylde"
 }
 monarch_names = { 
 }

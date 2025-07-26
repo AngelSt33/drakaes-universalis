@@ -1,7 +1,7 @@
 # ANDROKVOST
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 121 197 98 }
+revolutionary_colors = { 2 12 16 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Elma Stahl"
+	"Ida Hanfstaengl"
+	"Isaac Badby"
 }
 monarch_names = { 
 }

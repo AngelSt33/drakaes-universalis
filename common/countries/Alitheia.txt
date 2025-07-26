@@ -1,7 +1,7 @@
 # Treelords
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 112 155 23 }
+revolutionary_colors = { 6 10 10 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Hygbald of Jorvick"
+	"Sander Klijn"
+	"Basten Flederis"
 }
 monarch_names = { 
 }

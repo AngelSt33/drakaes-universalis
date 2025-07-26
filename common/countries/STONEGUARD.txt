@@ -1,7 +1,7 @@
 # STONEGUARD
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 107 42 73 }
+revolutionary_colors = { 16 4 14 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Sabine Crugge"
+	"Gerda Weingaertner"
+	"David Sanner"
 }
 monarch_names = { 
 }

@@ -1,7 +1,7 @@
 # Treelords
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 203 95 153 }
+revolutionary_colors = { 0 15 15 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Gerda Weingaertner"
+	"Semer Unton"
+	"Patrick Montacute"
 }
 monarch_names = { 
 }

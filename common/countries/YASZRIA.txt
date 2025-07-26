@@ -1,7 +1,7 @@
 # YASZRIA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 97 83 47 }
+revolutionary_colors = { 3 13 1 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Avery Balam"
+	"Merewin Cleffort"
+	"Cäcilia Fischinger"
 }
 monarch_names = { 
 }

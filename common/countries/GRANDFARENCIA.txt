@@ -1,7 +1,7 @@
 # GRANDFARENCIA
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 81 75 53 }
+revolutionary_colors = { 14 15 3 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Dirk-Jan van Heek"
+	"Vivien Holthusen"
+	"Joseph Gifford"
 }
 monarch_names = { 
 }

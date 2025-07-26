@@ -1,7 +1,7 @@
 # VELENU
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 54 209 145 }
+revolutionary_colors = { 9 0 5 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Bricteva Kyllyngworth"
+	"Beatrice Schachtschneider"
+	"Tim Steinhaeusser"
 }
 monarch_names = { 
 }

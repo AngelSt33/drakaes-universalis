@@ -1,7 +1,7 @@
 # VALKYRION
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 72 232 183 }
+revolutionary_colors = { 14 14 12 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Cwenhild Briggs"
+	"Leofing Cantilupe"
+	"Reggy ten Hemmel"
 }
 monarch_names = { 
 }

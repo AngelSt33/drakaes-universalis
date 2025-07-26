@@ -1,7 +1,7 @@
 # SQUATISTAN
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 154 163 169 }
+revolutionary_colors = { 0 6 16 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Willy Bekman"
+	"Carolin Stier"
+	"Konstanze Hersch"
 }
 monarch_names = { 
 }

@@ -1,7 +1,7 @@
 # MORDAINE
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 229 252 222 }
+revolutionary_colors = { 10 7 0 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Yosi Erlbaum"
+	"Beatrice Schachtschneider"
+	"Ivette Cooke"
 }
 monarch_names = { 
 }

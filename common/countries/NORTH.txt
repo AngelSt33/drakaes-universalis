@@ -1,7 +1,7 @@
 # NORTH
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 91 194 250 }
+revolutionary_colors = { 1 10 11 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Felicia Scarclyf"
+	"Isabelle Schuerer"
+	"Nanko van 't Bouwhuis"
 }
 monarch_names = { 
 }

@@ -1,7 +1,7 @@
 # RIZZO
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 236 160 29 }
+revolutionary_colors = { 0 3 11 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Cäcilia Fischinger"
+	"Oswyn Frilleck"
+	"Rebecca Pownder"
 }
 monarch_names = { 
 }

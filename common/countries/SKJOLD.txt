@@ -1,7 +1,7 @@
 # SKJOLD
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 193 208 203 }
+revolutionary_colors = { 1 16 4 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Jan-Pieter in 't Velt"
+	"Mannes de Ruiter"
+	"Arthur Spebynton"
 }
 monarch_names = { 
 }

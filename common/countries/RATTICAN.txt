@@ -1,7 +1,7 @@
 # RATTICAN
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 188 114 186 }
+revolutionary_colors = { 8 15 11 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Waldo Barber"
+	"Arjen van Rooij"
+	"Felicia Scarclyf"
 }
 monarch_names = { 
 }

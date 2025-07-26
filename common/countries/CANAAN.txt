@@ -1,7 +1,7 @@
 # CANAAN
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 203 244 108 }
+revolutionary_colors = { 11 7 16 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Frances Fraunces"
+	"Jochen Sulzberger"
+	"Gudo Geissler"
 }
 monarch_names = { 
 }

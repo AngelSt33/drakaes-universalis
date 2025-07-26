@@ -1,7 +1,7 @@
 # VISIO
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 108 0 191 }
+revolutionary_colors = { 16 1 4 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Richard Gyll"
+	"Ralph Fitzralph"
+	"Amice Abery"
 }
 monarch_names = { 
 }

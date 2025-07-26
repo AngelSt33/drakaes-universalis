@@ -1,7 +1,7 @@
 # BOULDEROV
 graphical_culture = westerngfx
-color = { }
-revolutionary_colors = { }
+color = { 51 193 217 }
+revolutionary_colors = { 7 11 16 }
 historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
@@ -19,7 +19,10 @@ army_names = {
 }
 fleet_names = { 
 }
-leader_names = { 
+leader_names = {
+	"Ido Geist"
+	"Vivien Holthusen"
+	"Lowie Omvlee"
 }
 monarch_names = { 
 }
