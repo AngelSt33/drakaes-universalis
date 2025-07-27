@@ -23,8 +23,53 @@ leader_names = {
 	"Odelina Barker"
 	"Whyburgh Faylare"
 	"Mechiel Oosterloo"
+	"Gamel Daubernoun"
+	"Aelric Grove"
+	"Amalasuntha Klugman"
+	"Ludovic Brewster"
+	"Francisco Mirones"
+	"Areagne Fodde"
+	"Josef Ardes"
+	"Hanno Mahler"
+	"Katrien Scheurling"
+	"Henkie Saynsbery"
 }
-monarch_names = { 
+monarch_names = {
+	"Levi" = +1
+	"Thori" = +1
+	"Sigisvult" = +1
+	"Claus" = +1
+	"Algar" = +1
+	"Eelco" = +1
+	"Torkel" = +1
+	"Elric" = +1
+	"Leofstan" = +1
+	"Magnus" = +1
+	"Amalfrida" = -1
+	"Bridget" = -1
+	"Madia" = -1
+	"Barbara" = -1
+	"Euphemia" = -1
+	"Regina" = -1
+	"Ormhild" = -1
+	"Millicent" = -1
+	"Helewis" = -1
+	"Richenda" = -1
 }
-ship_names = { 
+ship_names = {
+	"Snowblind Wake Copper King of Hare's Hill"
+	"Abingdon Possessedfish"
+	"Mistress of the Waves Sharp Swan of Torhof"
+	"Thorn-Gilded Curse Patience"
+	"Dragon's Wail For Play"
+	"Bold Venture Iron Dragon's Doom"
+	"Wish of Carlusk Luminous Runner"
+	"Fluke Burning Inn"
+	"Barrowbound Flame Blade"
+	"Sundered Moon Iron Devil"
+	"Setter Cruel Dagger"
+	"Outlander The Hollow Wolf"
+	"Beggar of Beastsshield Red-Eyed Stag"
+	"Celerity Oathbound Drift"
+	"Cabin Fever Cursed Raven"
 }

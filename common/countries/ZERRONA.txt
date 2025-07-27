@@ -23,8 +23,53 @@ leader_names = {
 	"Ludovic Brownflet"
 	"Toka Baker"
 	"Niko Bartram"
+	"Nanko de Catilo"
+	"Ute Niekisch"
+	"Alice Oostelaar"
+	"Olvir Wohler"
+	"Isolde Weston"
+	"Rosamund Forentin"
+	"Ton Hvitserksson"
+	"Gudo Schierholt"
+	"Christoph Zarmir"
+	"Christoph Thoraldrdottir"
 }
-monarch_names = { 
+monarch_names = {
+	"Ansketil" = +1
+	"Godfrey" = +1
+	"Bernard" = +1
+	"Reynold" = +1
+	"Herebert" = +1
+	"David" = +1
+	"Borstig" = +1
+	"Joseph" = +1
+	"Eldert" = +1
+	"Beucad" = +1
+	"Heidi" = -1
+	"Jorunn" = -1
+	"Amice" = -1
+	"Osk" = -1
+	"Thjodhild" = -1
+	"Sibilla" = -1
+	"Ingrid" = -1
+	"Tiecia" = -1
+	"Pavia" = -1
+	"Marit" = -1
 }
-ship_names = { 
+ship_names = {
+	"Whisper Watcher"
+	"Setter Triad of the Waves"
+	"Copper King of Hare's Hill Great Expense"
+	"Wish of Carlusk Celerity"
+	"Oathbound Drift Setter"
+	"Earth Octopus of the West Void Servant of Hadiya's Spire"
+	"Wind Seeker Haunted Gambit"
+	"Buccaneer Whiskey Chaser"
+	"Whisper Greedy Dragon"
+	"Frostbitten Rook Enterprise"
+	"Wish of Carlusk Surprise"
+	"Demon Hallowed Gale"
+	"Wave Zephyr Crimson Barrow"
+	"Fallow Vengeance Ten"
+	"Beggar of Beastsshield Wind Seeker"
 }

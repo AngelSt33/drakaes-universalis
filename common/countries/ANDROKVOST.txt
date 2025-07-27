@@ -23,8 +23,53 @@ leader_names = {
 	"Elma Stahl"
 	"Ida Hanfstaengl"
 	"Isaac Badby"
+	"Simon Sternberg"
+	"Cuthbert Praas"
+	"Cornelius Damsell"
+	"Alviva Zell"
+	"Asdis Vos"
+	"Tobias Williams"
+	"Thomasin Reimink"
+	"Guthhere Romano"
+	"Christiane Smalbroek"
+	"Phillip Mandl"
 }
-monarch_names = { 
+monarch_names = {
+	"Allen" = +1
+	"Maik" = +1
+	"Rowland" = +1
+	"Oswyn" = +1
+	"Godfrey" = +1
+	"Nicholas" = +1
+	"Jon" = +1
+	"Leofing" = +1
+	"Patrick" = +1
+	"Godwin" = +1
+	"Philippa" = -1
+	"Wakerilda" = -1
+	"Gudeliva" = -1
+	"Nicola" = -1
+	"Theda" = -1
+	"Tiecia" = -1
+	"Acelina" = -1
+	"Ormhild" = -1
+	"Teja" = -1
+	"Isolde" = -1
 }
-ship_names = { 
+ship_names = {
+	"Oathbound Drift Dragon's Wail"
+	"Wyrm-Wind Seeker Abingdon"
+	"Wind Seeker Serpent"
+	"Path Salamander of Griffinsway Waking Dream"
+	"Soldier of Fiendshelm The Last Meadfire"
+	"Misadventure Victory"
+	"Shell Voyager Jasper"
+	"Whalebane Echo Six of the Sky"
+	"Iron Devil Escape"
+	"Oathwither Song Iron Dragon's Doom"
+	"Wolf-Touched Mist Valhalla"
+	"Wailing Wyrm Luminous Runner"
+	"True Witch Celerity"
+	"Blood-Grey Wave Saltheart"
+	"Nevermore Burning Inn"
 }

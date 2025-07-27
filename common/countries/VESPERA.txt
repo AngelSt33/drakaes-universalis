@@ -23,8 +23,53 @@ leader_names = {
 	"Ruby Niekisch"
 	"Elstan of Nidaros"
 	"Rayko Harig"
+	"Margriet Baldwin"
+	"Kasper Oosterkamp"
+	"Thomas Kophoff"
+	"Ontanon Sternberg"
+	"Nota Vos"
+	"Monia Hassink"
+	"Patience Hrokdottir"
+	"Urian Gradl"
+	"Akeman Luthi"
+	"Bricteva Hogewind"
 }
-monarch_names = { 
+monarch_names = {
+	"Saewulf" = +1
+	"Brictric" = +1
+	"Sisebut" = +1
+	"Oswyn" = +1
+	"Nicholas" = +1
+	"Griffin" = +1
+	"Theudis" = +1
+	"William" = +1
+	"Aslac" = +1
+	"Swain" = +1
+	"Millicent" = -1
+	"Laura" = -1
+	"Asgerd" = -1
+	"Godlefe" = -1
+	"Asleif" = -1
+	"Dineke" = -1
+	"Eulalia" = -1
+	"Margaret" = -1
+	"Godusa" = -1
+	"Goditha" = -1
 }
-ship_names = { 
+ship_names = {
+	"Enterprise Hearty"
+	"Dedaigneuse Side Quest"
+	"Shell Voyager Earth Hippogriff of Maresmeet"
+	"Ash-Clad Swan Fluke"
+	"Nymphen Death Rattle"
+	"Sunburn Success"
+	"Frostbitten Rook Zhuirentel"
+	"The Wolf's Regret Quicksilver"
+	"Whisper Omen"
+	"Serpent Burning Fjord"
+	"Oathwither Song Saltheart"
+	"Whisper Kilcurrig"
+	"Sunburn Lalmourn"
+	"Wish of Carlusk Success"
+	"Six of the Sky Gilded Shade"
 }

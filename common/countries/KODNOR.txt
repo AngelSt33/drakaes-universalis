@@ -23,8 +23,53 @@ leader_names = {
 	"Tristan Pfennig"
 	"Stijn Wegman"
 	"Bartholomew Lodyngton"
+	"Thomasin Thorgeirsson"
+	"Juna Mugge"
+	"James Vloedgraven"
+	"Marcel Platz"
+	"Kaatje Schuerer"
+	"Richard Spebynton"
+	"Anton Niekisch"
+	"Christiane Heiden"
+	"Ole Town"
+	"Jukel Tas"
 }
-monarch_names = { 
+monarch_names = {
+	"Bartholomew" = +1
+	"Benedict" = +1
+	"Lewin" = +1
+	"Hermen" = +1
+	"Til" = +1
+	"Warin" = +1
+	"Laurenz" = +1
+	"Odo" = +1
+	"Bartjan" = +1
+	"Percival" = +1
+	"Brunihild" = -1
+	"Melle" = -1
+	"Catherine" = -1
+	"Wenthelen" = -1
+	"Alice" = -1
+	"Gilot" = -1
+	"Oda" = -1
+	"Helewis" = -1
+	"Ellen" = -1
+	"Basilia" = -1
 }
-ship_names = { 
+ship_names = {
+	"Dordrecht Crimson Barrow"
+	"Fate Loyalty"
+	"Wind Song Misadventure"
+	"Void Servant of Hadiya's Spire Kempenfelt"
+	"The Silent Fjell Silver Arrow"
+	"Great Expense Success"
+	"Whisper Rider's Luck"
+	"Sea Golem Rune Gull"
+	"Wind Song Devil's Roar"
+	"Mistress of the Waves Spitfire"
+	"Surprise Sunlesswind"
+	"Soldier of Fiendshelm Cabin Fever"
+	"Rider's Luck Hallowed Gale"
+	"Sunburn Cuttle"
+	"Wind Song Wailing Wyrm"
 }

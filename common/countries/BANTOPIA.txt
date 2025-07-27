@@ -23,8 +23,53 @@ leader_names = {
 	"Aelric Godfrey"
 	"Joeri de Boer"
 	"Jacoliene aan Mullekes"
+	"Rob Wrenne"
+	"Heiko Rientjes"
+	"Nicholas Dikken"
+	"Mannes Lemann"
+	"Elinor Smalbroek"
+	"Stefan Hindriks"
+	"Gaut Ardes"
+	"Niko Nafnidottir"
+	"Lennert Browet"
+	"George Cary"
 }
-monarch_names = { 
+monarch_names = {
+	"Stans" = +1
+	"Ulric" = +1
+	"Isaac" = +1
+	"Orgumleidi" = +1
+	"Hrapp" = +1
+	"Sampson" = +1
+	"Lambert" = +1
+	"Henry" = +1
+	"Cornelius" = +1
+	"Gunthigis" = +1
+	"Mathilda" = -1
+	"Livitha" = -1
+	"Acelina" = -1
+	"Feenja" = -1
+	"Isabel" = -1
+	"Melle" = -1
+	"WillemijnLovechild" = -1
+	"Rosamund" = -1
+	"Marit" = -1
+	"Ormhild" = -1
 }
-ship_names = { 
+ship_names = {
+	"Burning Fjord Copper King of Hare's Hill"
+	"Fell Wight Slayer's Terror"
+	"Dedaigneuse Red-Eyed Stag"
+	"Misadventure Tentacle"
+	"Victory Ashen Grin"
+	"Nymphen Snowblind Wake"
+	"Ortenzia Wyrm-Wind Seeker"
+	"Sunless Mare Seeker"
+	"The Gilded Fen Celerity"
+	"Wolf-Touched Mist Killowen"
+	"Saltheart Windsunder Moon"
+	"Arunta The Last Meadfire"
+	"Silverfang Gale God of the Ocean"
+	"Wind Seeker Son of Colfoundry"
+	"Seeker Silverfang Gale"
 }

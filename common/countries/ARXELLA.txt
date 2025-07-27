@@ -23,8 +23,53 @@ leader_names = {
 	"Sephare Fenton"
 	"Floris Strokappe"
 	"Ludovic Curteys"
+	"Mark Marten"
+	"Christoph Hassink"
+	"Philips Fleming"
+	"Fernando Leverer"
+	"Thorstar de Mora"
+	"Elionor Romano"
+	"Bilimer Lond"
+	"Denis Bokhove"
+	"Maria Haddock"
+	"Helmina Sehlmann"
 }
-monarch_names = { 
+monarch_names = {
+	"Avery" = +1
+	"Allen" = +1
+	"Hermen" = +1
+	"Sewel" = +1
+	"Ansketil" = +1
+	"Borstig" = +1
+	"Saewulf" = +1
+	"Oliver" = +1
+	"Claus" = +1
+	"Warin" = +1
+	"Runa" = -1
+	"Euphemia" = -1
+	"Hallgerd" = -1
+	"Amalasuntha" = -1
+	"Oda" = -1
+	"Earngith" = -1
+	"Marit" = -1
+	"Madia" = -1
+	"Freygerd" = -1
+	"Helewis" = -1
 }
-ship_names = { 
+ship_names = {
+	"Fate Fell Wight"
+	"Side Quest Side Quest"
+	"Oathbound Drift Pathfinder"
+	"The Gilded Fen Dubford"
+	"Gordia's Light Aquilon"
+	"Hallowed Gale Windsong"
+	"Chained Tempest Fell Wight"
+	"Pathfinder Runner's Despair"
+	"Rime-Touched Valor Crimson Singer"
+	"Nymphen Watcher of Wickenlund"
+	"Celerity Wish of Carlusk"
+	"West Son Mason's Folly"
+	"Shatterhelm Shriek Omen"
+	"Sky Wizard Ledbury"
+	"Wellerman Slayer's Terror"
 }

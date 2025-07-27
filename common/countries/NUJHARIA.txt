@@ -23,8 +23,53 @@ leader_names = {
 	"Alice Neceham"
 	"Wicing Fleming"
 	"Adam Haddock"
+	"Cornelius Ruiter"
+	"Herebert Mulders"
+	"Beorhthere Stier"
+	"Clementia Beauchamp"
+	"Marit Hosteler"
+	"Jan-Willem Westera"
+	"Ragnhild Rondel"
+	"Monia Thorgeirsson"
+	"Odoin Stahl"
+	"Niko Sperl"
 }
-monarch_names = { 
+monarch_names = {
+	"Tobias" = +1
+	"Henry" = +1
+	"Godric" = +1
+	"Michael" = +1
+	"Brictric" = +1
+	"Lambert" = +1
+	"Sigisvult" = +1
+	"Reginald" = +1
+	"Harald" = +1
+	"Skorri" = +1
+	"Wilamin" = -1
+	"Brunihild" = -1
+	"Hunila" = -1
+	"Asgerd" = -1
+	"Preciosa" = -1
+	"Emma" = -1
+	"Gudeliva" = -1
+	"Magdalene" = -1
+	"Susanna" = -1
+	"Cwenhild" = -1
 }
-ship_names = { 
+ship_names = {
+	"WyrmeEyed Wanderer Abingdon"
+	"Frostbitten Rook Raglan"
+	"Shell Voyager Cuttle"
+	"Ghost Ghoul Snarling Zephyr of Blackbrook"
+	"Wellerman Windsunder Moon"
+	"Keen of Torcradle Haunted Gambit"
+	"Nevermore Wind Seeker"
+	"Melody WyrmeEyed Wanderer"
+	"Chained Tempest Pathfinder"
+	"Dragon's Wail The Silent Fjell"
+	"Abingdon Bold Venture"
+	"Son of Colfoundry Possessedfish"
+	"Tentacle Sunburn"
+	"Oathbound Drift Dedaigneuse"
+	"Obsidian Nymph Abingdon"
 }

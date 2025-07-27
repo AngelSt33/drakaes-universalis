@@ -23,8 +23,53 @@ leader_names = {
 	"Leofric Bradshawe"
 	"David Rientjes"
 	"Sahra Koch"
+	"Erelieva Geirsteinsson"
+	"Elinor Pijpenbroek"
+	"Dorothy Sternberg"
+	"Amala Hrokdottir"
+	"Antoon Huessen"
+	"Throst Boote"
+	"Mia-Selina de Ysla"
+	"Gerda Staple"
+	"Lucon de Navete"
+	"Ludovic Thorgeirsson"
 }
-monarch_names = { 
+monarch_names = {
+	"Luuk" = +1
+	"Maximillian" = +1
+	"Lewin" = +1
+	"Arthur" = +1
+	"Randall" = +1
+	"Osgood" = +1
+	"Ivo" = +1
+	"Bertram" = +1
+	"Matteo" = +1
+	"Henry" = +1
+	"Thomasin" = -1
+	"Melle" = -1
+	"Goditha" = -1
+	"Susanna" = -1
+	"Muriel" = -1
+	"Aldreda" = -1
+	"Ingaret" = -1
+	"Saeunn" = -1
+	"Griselda" = -1
+	"Richenda" = -1
 }
-ship_names = { 
+ship_names = {
+	"Victory Wish of Carlusk"
+	"Hearty God of the Ocean"
+	"Sundered Moon Vain Gravedigger"
+	"Wind Seeker Carrier"
+	"Omen Bold Venture"
+	"Hangman's Hate Whisper's Hope"
+	"Success Slayer's Terror"
+	"Valhalla Crimson Barrow"
+	"Wolf-Touched Mist Queen of Yorvick"
+	"Sea Golem Rider's Luck"
+	"Kempenfelt Reflective Spider"
+	"Gilded Shade Seeker"
+	"Falling Star Keen of Torcradle"
+	"Watcher Mason's Folly"
+	"Ironhowl Maiden Son of Colfoundry"
 }

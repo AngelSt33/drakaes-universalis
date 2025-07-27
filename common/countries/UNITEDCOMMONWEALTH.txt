@@ -23,8 +23,53 @@ leader_names = {
 	"Alice Neceham"
 	"Wicing Fleming"
 	"Beatrice Schachtschneider"
+	"Margery Prowd"
+	"David Koch"
+	"Reynold Steinhaeusser"
+	"Leomer Sehlmann"
+	"Jolina Metze"
+	"Tobias Schierholt"
+	"Henk Gomersall"
+	"Cornelius Vaart"
+	"Andrew Boes"
+	"Thidrek Barker"
 }
-monarch_names = { 
+monarch_names = {
+	"Leofstan" = +1
+	"Christopher" = +1
+	"Wicing" = +1
+	"Kaetilmund" = +1
+	"Antonin" = +1
+	"Stannard" = +1
+	"Nathaniel" = +1
+	"Gawain" = +1
+	"Marcel" = +1
+	"Eelco" = +1
+	"Ailith" = -1
+	"Amalasuntha" = -1
+	"Hallgerd" = -1
+	"Tiecia" = -1
+	"Saegifu" = -1
+	"Wakerilda" = -1
+	"Basilia" = -1
+	"Amalaswinth" = -1
+	"Isgerd" = -1
+	"Clementia" = -1
 }
-ship_names = { 
+ship_names = {
+	"Ten Sea Golem"
+	"Barrowbound Flame Saltheart"
+	"Wyrm-Wind Seeker Watcher"
+	"Gilded Shade Lalmourn"
+	"Mistress of the Waves Darvin's Cry"
+	"Blade Wish of Carlusk"
+	"Aquilon Hearthless Flight"
+	"Valhalla Wind Seeker"
+	"Burning Inn Blade"
+	"Quicksilver Bitterwake Cry"
+	"The Last Meadfire Loyalty"
+	"Frostbitten Rook Success"
+	"Steadfast Pillager"
+	"Gilded Shade Sea Champion's Dolphin"
+	"Kempenfelt The Gilded Fen"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Fortune Auldyngton"
 	"Margaret Sandes"
 	"Dirk-Jan van Heek"
+	"Sabine Ruiter"
+	"Luisa Wegman"
+	"Tatiana Fischinger"
+	"Gerda Velt"
+	"Garsendis Ashenhurst"
+	"Gijsbert Shevington"
+	"Saegifu Sadler"
+	"Gailavira Lodewijk"
+	"Avina Ryall"
+	"Godwin Valreach"
 }
-monarch_names = { 
+monarch_names = {
+	"Godwin" = +1
+	"Joseph" = +1
+	"Gawaine" = +1
+	"Toka" = +1
+	"Humphrey" = +1
+	"Oswyn" = +1
+	"Godfrey" = +1
+	"Claus" = +1
+	"Waldo" = +1
+	"Alfsige" = +1
+	"Avina" = -1
+	"Margaret" = -1
+	"Saeunn" = -1
+	"Feenja" = -1
+	"Tiecia" = -1
+	"Runa" = -1
+	"Sedehana" = -1
+	"Wenthelen" = -1
+	"Hunila" = -1
+	"Ysopa" = -1
 }
-ship_names = { 
+ship_names = {
+	"Hearthless Flight Serpent"
+	"Runner's Despair Dedaigneuse"
+	"Earth Octopus of the West The Hollow Boar"
+	"Whiskey Chaser Waking Dream"
+	"Princess's Shadow Falling Star"
+	"Mason's Folly Carrier"
+	"Obsidian Nymph Aquilon"
+	"Grim Breaker Silver Arrow"
+	"God of the Ocean Whisper's Hope"
+	"Runner's Despair Killowen"
+	"Aquilon Deathwind"
+	"Whiskey Chaser Ten"
+	"Duskwake Drifter Clove Tree"
+	"Tentacle The Last Meadfire"
+	"Mason's Folly Eight of the Waves"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Marcel Teeselink"
 	"Semer Unton"
 	"Gerard Sherbourne"
+	"Sijbrand Overweg"
+	"Godwin Symilor"
+	"Thomasin Heerius"
+	"Jamie Harris"
+	"Thomasin Panshawe"
+	"Tonna Scarclyf"
+	"Narin Freer"
+	"Elja Bain"
+	"Svea Downer"
+	"Jochum Borgardottir"
 }
-monarch_names = { 
+monarch_names = {
+	"Leonard" = +1
+	"Geitirgest" = +1
+	"Arne" = +1
+	"Kaetilmund" = +1
+	"Augustin" = +1
+	"Hanno" = +1
+	"Hrapp" = +1
+	"James" = +1
+	"Theudis" = +1
+	"Luke" = +1
+	"Protasia" = -1
+	"Isgerd" = -1
+	"Nicola" = -1
+	"Joy" = -1
+	"Sarah" = -1
+	"Marjorie" = -1
+	"Jorunn" = -1
+	"Catherine" = -1
+	"Susanna" = -1
+	"Osk" = -1
 }
-ship_names = { 
+ship_names = {
+	"Escape Grim Breaker"
+	"Frostbitten Rook Carrier"
+	"Misadventure Sundered Moon"
+	"Crimson Barrow Glace Bay"
+	"Misadventure Fluke"
+	"Grim Breaker Ghost Ghoul"
+	"Iron Devil Sundered Moon"
+	"Barrowbound Flame Beehive"
+	"Kempenfelt Sorrow Warlock's Harpy"
+	"Titan's Bard Beggar of Beastsshield"
+	"Outlander Hot Flush"
+	"Snowblind Wake Darvin's Cry"
+	"Whisper Fell Wight"
+	"Red-Eyed Stag Copper King of Hare's Hill"
+	"Shell Voyager Sundered Moon"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Hubert Wilmink"
 	"Florentijn van de Weterink"
 	"Ulfi Wylde"
+	"Oonagh Pijpenbroek"
+	"Nufro Tyndall"
+	"Ida Kamerling"
+	"Bartholomew Wegman"
+	"Ido Harryses"
+	"Lefwin Bolkesteijn"
+	"Henk de Luque"
+	"Antonia Strunk"
+	"Chris Schantz"
+	"Jurren Overbeek"
 }
-monarch_names = { 
+monarch_names = {
+	"Isaak" = +1
+	"Gawaine" = +1
+	"Randall" = +1
+	"Ricimer" = +1
+	"Walter" = +1
+	"George" = +1
+	"Hrapp" = +1
+	"Robert" = +1
+	"Matteo" = +1
+	"Allen" = +1
+	"Mathilda" = -1
+	"Mabel" = -1
+	"Sarra" = -1
+	"Regina" = -1
+	"Eulalia" = -1
+	"Livitha" = -1
+	"Alwina" = -1
+	"Preciosa" = -1
+	"Enota" = -1
+	"Megan-Laureen" = -1
 }
-ship_names = { 
+ship_names = {
+	"True Witch Blade"
+	"Serpent Red-Eyed Stag"
+	"Sunlesswind Success"
+	"Chained Tempest Victory"
+	"Devil's Roar Hatherleigh"
+	"Outlander Frostbitten Rook"
+	"Copper King of Hare's Hill Death Rattle"
+	"Ashen Grin Dubford"
+	"Obsidian Nymph Blade"
+	"Sea Golem Victory"
+	"Melody Gone Too Far"
+	"Side Quest Shell Voyager"
+	"Grim Breaker Watcher"
+	"Waking Dream Vain Gravedigger"
+	"Burning Fjord Fluke"
 }

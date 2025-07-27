@@ -23,8 +23,53 @@ leader_names = {
 	"Mechiel Oosterloo"
 	"Elstan of Nidaros"
 	"Meike Schickendantz"
+	"Tatiana Ehrler"
+	"Margery Brownflet"
+	"Tiecia Dygenys"
+	"Herebert Webb"
+	"Carlijne Willardsey"
+	"Cathelijn Geissler"
+	"Tiffany Tabares"
+	"Dik Seger"
+	"Merewin Pfennig"
+	"Gorm Wessely"
 }
-monarch_names = { 
+monarch_names = {
+	"Arthur" = +1
+	"Stephen" = +1
+	"Tobias" = +1
+	"Gamel" = +1
+	"Hrapp" = +1
+	"Gunthigis" = +1
+	"Benedict" = +1
+	"Akeman" = +1
+	"Roger" = +1
+	"Walter" = +1
+	"Julian" = -1
+	"Isabel" = -1
+	"Leofe" = -1
+	"Regina" = -1
+	"Mildred" = -1
+	"Susanna" = -1
+	"Ulfheid" = -1
+	"Avagisa" = -1
+	"Aldis" = -1
+	"Gunnora" = -1
 }
-ship_names = { 
+ship_names = {
+	"Beggar of Beastsshield Reflective Spider"
+	"Chaoticfish Son of Colfoundry"
+	"Shadow-Girded Lash Carrier"
+	"Snarling Zephyr of Blackbrook Pillager"
+	"Ghost Ghoul Deathwind"
+	"Loss Spirit Falling Star"
+	"Bitterwake Cry Fluke"
+	"Mad Wyvern Ten"
+	"Soldier of Fiendshelm Possessedfish"
+	"Sunlesswind Rune Gull"
+	"Luminous Runner Sorrow Warlock's Harpy"
+	"The Shivering Hoard Six of the Sky"
+	"Demon Chaoticfish"
+	"Sunburn Hunter"
+	"Omen Shell Voyager"
 }

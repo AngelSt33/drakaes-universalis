@@ -23,8 +23,53 @@ leader_names = {
 	"Arjen Schans"
 	"Jan-Willem Duivencate"
 	"Herebert Stoughton"
+	"Elise Coulthurst"
+	"Rogier Foliot"
+	"Mathijs Horsting"
+	"Thrain Mirones"
+	"Matthew Winkelink"
+	"Cecilia Engeham"
+	"Magdalene Westera"
+	"Svea Sandes"
+	"Almerique Strunk"
+	"Leonard Wolrond"
 }
-monarch_names = { 
+monarch_names = {
+	"Ildebad" = +1
+	"Kadal" = +1
+	"Asketil" = +1
+	"Elric" = +1
+	"Borstig" = +1
+	"Sigemær" = +1
+	"Turbert" = +1
+	"Stephen" = +1
+	"Michael" = +1
+	"Gunthigis" = +1
+	"Loveday" = -1
+	"Livitha" = -1
+	"Marit" = -1
+	"Sigrith" = -1
+	"Goditha" = -1
+	"Alfleta" = -1
+	"Mabel" = -1
+	"Heidi" = -1
+	"Ailith" = -1
+	"Estrid" = -1
 }
-ship_names = { 
+ship_names = {
+	"Dragon's Wail Duskwake Drifter"
+	"Raglan Compass"
+	"Storm-Bitten Grudge Melody"
+	"Storm-Bitten Grudge Moon Blade"
+	"Whiskey Chaser Blade"
+	"Loyalty Possessedfish"
+	"Burning Fjord Song of Cedar Mere"
+	"Ash-Clad Swan Waking Dream"
+	"Misadventure Dordrecht"
+	"Wish of Carlusk Luminous Runner"
+	"Osprey's Pride Sea Golem"
+	"Gertraud's Doom The Sunken Boast"
+	"Whalebane Echo Six of the Sky"
+	"Wailing Wyrm Dubford"
+	"Kilcurrig Deathwind"
 }

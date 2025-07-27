@@ -23,8 +23,53 @@ leader_names = {
 	"Guthhere the Cunt"
 	"Eustace Spebynton"
 	"Lydia Hoehmann"
+	"Joel Horton"
+	"Galindus Kophoff"
+	"Svea Snelling"
+	"Lydia Grebel"
+	"Wil Bexley"
+	"Alex Bewforest"
+	"Sunigilda Argentein"
+	"Lorelei Gustloff"
+	"Lavinia Switte"
+	"Pier Paarhuis"
 }
-monarch_names = { 
+monarch_names = {
+	"Leomer" = +1
+	"Julian" = +1
+	"Ansketil" = +1
+	"Giles" = +1
+	"Fulke" = +1
+	"Oliver" = +1
+	"Babai" = +1
+	"Jorn" = +1
+	"Eustace" = +1
+	"Eldert" = +1
+	"Dorothy" = -1
+	"Isgerd" = -1
+	"Freygerd" = -1
+	"Ailith" = -1
+	"Saegifu" = -1
+	"Cwenhild" = -1
+	"Philippa" = -1
+	"Leonie" = -1
+	"Maria" = -1
+	"Wenthelen" = -1
 }
-ship_names = { 
+ship_names = {
+	"Cruel Dagger Dead God"
+	"Ironhowl Maiden Windsong"
+	"Seeker Osprey's Pride"
+	"Wyrm-Wind Seeker Dragon's Wail"
+	"Sundew Deathwind"
+	"Gone Too Far Ledbury"
+	"Lavendar Demon Nunney Castle"
+	"Side Quest Greedy Dragon"
+	"Twilight Reaver Soldier of Fiendshelm"
+	"Bold Venture Cruel Hunter"
+	"Abingdon For Play"
+	"Chained Tempest Killowen"
+	"Spirit Horror Wish"
+	"Twilight Reaver Hangman's Hate"
+	"Unlikely Breaker Courtesan's Sprite"
 }

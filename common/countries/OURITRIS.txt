@@ -23,8 +23,53 @@ leader_names = {
 	"Marmaduke Whowood"
 	"Drogo Norden"
 	"Willy Kastner"
+	"Peter Jorvick"
+	"Jurrien Reimink"
+	"Asketel Bownell"
+	"Patza Brocksby"
+	"Roger Lucy"
+	"Amalwara Heimsoth"
+	"Susanna Wessely"
+	"Maurits-jan Fenton"
+	"Margaret Penhallick"
+	"Meike Jorvick"
 }
-monarch_names = { 
+monarch_names = {
+	"Marmaduke" = +1
+	"Lewin" = +1
+	"Levi" = +1
+	"Leofric" = +1
+	"Jasper" = +1
+	"Bertram" = +1
+	"Tobias" = +1
+	"Anthony" = +1
+	"Constantin" = +1
+	"Thorismud" = +1
+	"Eve" = -1
+	"Milda" = -1
+	"Sibilla" = -1
+	"Griselda" = -1
+	"Ysopa" = -1
+	"Alfleta" = -1
+	"Freygerd" = -1
+	"Barbara" = -1
+	"Jorunn" = -1
+	"Basilia" = -1
 }
-ship_names = { 
+ship_names = {
+	"Burning Inn Dakins"
+	"Hatherleigh The Withering Hunt"
+	"Keen of Torcradle Setter"
+	"West Son Runner's Despair"
+	"Sundered Moon Crimson Barrow"
+	"Barrowbound Flame Success"
+	"Wellerman Cruel Dagger"
+	"Killowen Sunless Mare"
+	"Loss Spirit Iron Dragon's Doom"
+	"Hangman's Hate Storm-Bitten Grudge"
+	"Fell Wight The Hollow Wolf"
+	"Watcher of Wickenlund Kempenfelt"
+	"Wyrm-Wind Seeker Patience"
+	"Shadow-Girded Lash Copper King of Hare's Hill"
+	"Sharp Swan of Torhof The Shivering Hoard"
 }

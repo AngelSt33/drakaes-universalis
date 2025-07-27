@@ -23,8 +23,53 @@ leader_names = {
 	"Frances Fraunces"
 	"Jochen Sulzberger"
 	"Gudo Geissler"
+	"Alfsige Leifdottir"
+	"Daniel Harryses"
+	"Willem Bouwhuis"
+	"Elionor Kornfeld"
+	"Joseph Flederis"
+	"Whyburgh Gustloff"
+	"Clementia Wyddowsoun"
+	"Richard Wylde"
+	"Galla Boes"
+	"Skœdir Burgh"
 }
-monarch_names = { 
+monarch_names = {
+	"Randall" = +1
+	"Martin" = +1
+	"Percival" = +1
+	"Ulric" = +1
+	"Jasper" = +1
+	"Josce" = +1
+	"Drogo" = +1
+	"Matteo" = +1
+	"Anthony" = +1
+	"Jon" = +1
+	"Theda" = -1
+	"Preciosa" = -1
+	"Wilamin" = -1
+	"Ingrid" = -1
+	"Bergljot" = -1
+	"Gudrun" = -1
+	"Ailith" = -1
+	"Idonea" = -1
+	"Ysopa" = -1
+	"Goditha" = -1
 }
-ship_names = { 
+ship_names = {
+	"Path Salamander of Griffinsway Song of Cedar Mere"
+	"The Withering Hunt Dubford"
+	"Seeker The Hollow Wolf"
+	"Queen of Yorvick Oathbound Drift"
+	"Cabin Fever Rider's Luck"
+	"Oathwither Song Haunted Gambit"
+	"Melody Howling Spear"
+	"Frostbitten Rook Waking Dream"
+	"Whalebane Echo Tentacle"
+	"Hull Camel Oathwither Song"
+	"Chaoticfish Dakins"
+	"Anne Crimson Barrow"
+	"Loss Spirit Beggar of Beastsshield"
+	"Devil's Roar Nunney Castle"
+	"Devil's Roar Seeker"
 }

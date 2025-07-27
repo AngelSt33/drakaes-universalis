@@ -23,8 +23,53 @@ leader_names = {
 	"Dirk-Jan van Heek"
 	"Vivien Holthusen"
 	"Joseph Gifford"
+	"Felicia Elmebrigge"
+	"Hallgerd Gunnsteindottir"
+	"Aethilheard Knody"
+	"Reynold Jentzsch"
+	"Gaatha Rosenthal"
+	"Leofstan Marsman"
+	"Avagisa Sever"
+	"Randall Praas"
+	"Sijbrand Lucy"
+	"Niko Sperl"
 }
-monarch_names = { 
+monarch_names = {
+	"Thori" = +1
+	"Bergfinn" = +1
+	"Bartholomew" = +1
+	"Jacob" = +1
+	"Randall" = +1
+	"Laurenz" = +1
+	"Diggory" = +1
+	"Alexander" = +1
+	"Levi" = +1
+	"Walahmar" = +1
+	"Beatrice" = -1
+	"Loveday" = -1
+	"Sibilla" = -1
+	"Wenthelen" = -1
+	"Ellen" = -1
+	"Nicola" = -1
+	"Ulfheid" = -1
+	"Marit" = -1
+	"Melle" = -1
+	"Avina" = -1
 }
-ship_names = { 
+ship_names = {
+	"Sundew Silverfang Gale"
+	"Twilight Reaver Sharp Swan of Torhof"
+	"Cruel Dagger Omen"
+	"Pale Hammer Jasper"
+	"Sky Wizard Bird of Cousin's Eye"
+	"Ash-Clad Swan Fell Wight"
+	"Kilcurrig Snowblind Wake"
+	"Rime-Touched Valor Clove Tree"
+	"Mason's Folly Darvin's Cry"
+	"Serpent Burning Inn"
+	"Watcher of Wickenlund Seeker"
+	"Quicksilver Chained Tempest"
+	"Demon Duskwake Drifter"
+	"Wyrm-Wind Seeker Murlusk's Thunder"
+	"Dead God Silverfang Gale"
 }

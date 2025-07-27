@@ -23,8 +23,53 @@ leader_names = {
 	"Lowie Omvlee"
 	"Reggy Kophoff"
 	"Nanko van 't Bouwhuis"
+	"Rolf Kalenkamp"
+	"Ysabe Daubernoun"
+	"Thorstar Gaytan"
+	"Lefwin Scarclyf"
+	"Amy de Ysla"
+	"Gamel Wyddowsoun"
+	"Alfleta Knody"
+	"Gamel Barber"
+	"Willy Chamburleyn"
+	"Edward Brayles"
 }
-monarch_names = { 
+monarch_names = {
+	"Osbert" = +1
+	"Turbert" = +1
+	"Matteo" = +1
+	"Athelstan" = +1
+	"Herebert" = +1
+	"Uraias" = +1
+	"Kadal" = +1
+	"Benedict" = +1
+	"Kjallak" = +1
+	"Conan" = +1
+	"Sigrith" = -1
+	"Sedehana" = -1
+	"Asgerd" = -1
+	"Sigrid" = -1
+	"Livitha" = -1
+	"Malasintha" = -1
+	"Magdalene" = -1
+	"Anna" = -1
+	"Marjorie" = -1
+	"Ysopa" = -1
 }
-ship_names = { 
+ship_names = {
+	"Hearthless Flight Patience"
+	"Hearty Wind Song"
+	"The Hollow Wolf Anne"
+	"Jasper Shatterhelm Shriek"
+	"Side Quest Copper King of Hare's Hill"
+	"Dordrecht Shell Voyager"
+	"Hangman's Hate Shatterhelm Shriek"
+	"Luminous Runner Oathwither Song"
+	"Snowblind Wake West Son"
+	"Mistress of the Waves Zhuirentel"
+	"Quicksilver Slayer's Terror"
+	"Watcher of Wickenlund Seeker"
+	"Demon The Silent Fjell"
+	"Fallow Vengeance Pillager"
+	"Wolf-Touched Mist Pillager"
 }

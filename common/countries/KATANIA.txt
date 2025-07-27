@@ -23,8 +23,53 @@ leader_names = {
 	"Harald Glover"
 	"Wulfstan Ginter"
 	"Jurren ten Bos"
+	"Erik Ryall"
+	"Alfleta Bolkesteijn"
+	"Anton Spebynton"
+	"Josef Schickendantz"
+	"Clementia Tolasson"
+	"Reggy de Luque"
+	"Rolf Vetter"
+	"Ljot Badby"
+	"Beatrice Walsch"
+	"Francisco Ehrlinger"
 }
-monarch_names = { 
+monarch_names = {
+	"Tumi" = +1
+	"Walter" = +1
+	"Hermen" = +1
+	"Arthur" = +1
+	"Diggory" = +1
+	"Nigel" = +1
+	"Laurenz" = +1
+	"Vestgeir" = +1
+	"Thori" = +1
+	"Eustace" = +1
+	"Catherine" = -1
+	"Jenefer" = -1
+	"Sigrunn" = -1
+	"Sarra" = -1
+	"Enota" = -1
+	"Wakerilda" = -1
+	"Marjorie" = -1
+	"Saegifu" = -1
+	"Werthiva" = -1
+	"Protasia" = -1
 }
-ship_names = { 
+ship_names = {
+	"Song of Cedar Mere Burning Inn"
+	"Obsidian Nymph Ten"
+	"Snarling Zephyr of Blackbrook Surprise"
+	"Cuttle Bold Venture"
+	"Anne Misadventure"
+	"Misadventure Six of the Sky"
+	"Sunless Mare Windsong"
+	"Fallow Vengeance Seeker"
+	"Pale Hammer Hunter"
+	"Broken Sigil Earthdon's Heart"
+	"Obsidian Nymph Haunted Gambit"
+	"Swanless Wake God of the Ocean"
+	"Orca For Play"
+	"Grim Breaker Rune Gull"
+	"Rime-Touched Valor Seeker"
 }

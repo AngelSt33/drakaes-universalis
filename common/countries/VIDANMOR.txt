@@ -23,8 +23,53 @@ leader_names = {
 	"Margaret Sandes"
 	"Stanilde Cole"
 	"Harald Glover"
+	"Rayko Walsch"
+	"Mœid Shevington"
+	"Joycelin Luppe"
+	"Simon Laken"
+	"Lucon Rooij"
+	"Henkie Kophoff"
+	"Oswyn Westerlaan"
+	"Maurits Robredo"
+	"Tiecia Overweg"
+	"Friederike Crugge"
 }
-monarch_names = { 
+monarch_names = {
+	"Conan" = +1
+	"Odo" = +1
+	"George" = +1
+	"Humphrey" = +1
+	"Martin" = +1
+	"William" = +1
+	"Kadal" = +1
+	"James" = +1
+	"Brictric" = +1
+	"Reginald" = +1
+	"Marjorie" = -1
+	"Gunnora" = -1
+	"Asgerd" = -1
+	"Mathilda" = -1
+	"Alice" = -1
+	"Theda" = -1
+	"Alwina" = -1
+	"Winifred" = -1
+	"Rachel" = -1
+	"Ingaret" = -1
 }
-ship_names = { 
+ship_names = {
+	"Pale Hammer Earthdon's Heart"
+	"Mistress of the Waves Hunter"
+	"Ten Reflective Spider"
+	"Valhalla True Witch"
+	"Kempenfelt Wolf-Touched Mist"
+	"Blade Windsunder Moon"
+	"Haunted Gambit Shadow-Girded Lash"
+	"Soldier of Fiendshelm Wolf-Touched Mist"
+	"The Shivering Hoard Haunted Gambit"
+	"Mason's Folly Watcher"
+	"Spitfire Void Servant of Hadiya's Spire"
+	"Ledbury Crimson Barrow"
+	"Windsunder Moon God of the Ocean"
+	"Dubford Whalebane Echo"
+	"Thorn-Gilded Curse Rider's Luck"
 }

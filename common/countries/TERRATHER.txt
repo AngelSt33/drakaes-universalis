@@ -23,8 +23,53 @@ leader_names = {
 	"Giles Bosby"
 	"Tiecia Shevington"
 	"Saegifu Hache"
+	"Rayko Boes"
+	"Jochem Wegman"
+	"Ontanon Fleming"
+	"Fortune Klugman"
+	"Luisa Grebel"
+	"Ismay Grimberg"
+	"Jacob Marten"
+	"Thordis Bigley"
+	"Elma Schuerer"
+	"Alicia Luppe"
 }
-monarch_names = { 
+monarch_names = {
+	"Fulke" = +1
+	"Joseph" = +1
+	"Luuk" = +1
+	"Levi" = +1
+	"Diggory" = +1
+	"Marcel" = +1
+	"Asketil" = +1
+	"Randall" = +1
+	"Stans" = +1
+	"Ildebad" = +1
+	"Joy" = -1
+	"Godlefe" = -1
+	"Alwina" = -1
+	"Milda" = -1
+	"Earngith" = -1
+	"Emilia" = -1
+	"Tiana" = -1
+	"Osk" = -1
+	"Isgerd" = -1
+	"Mary" = -1
 }
-ship_names = { 
+ship_names = {
+	"Nymphen Storm-Bitten Grudge"
+	"Earth Hippogriff of Maresmeet Shell Voyager"
+	"Possessedfish Watcher"
+	"Dordrecht Crimson Barrow"
+	"Runner's Despair Rider's Luck"
+	"Thornborough Hot Flush"
+	"Son of Colfoundry Mason's Folly"
+	"Success Grim Breaker"
+	"Dordrecht Princess's Shadow"
+	"The Silent Fjell West Son"
+	"Gertraud's Doom Sea Golem"
+	"Compass Outlander"
+	"Ruby Falcon Seeker"
+	"Sorrow Warlock's Harpy Son of Colfoundry"
+	"The Hollow Boar Six of the Sky"
 }

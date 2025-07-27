@@ -23,8 +23,53 @@ leader_names = {
 	"Godric Leynham"
 	"Basten Flederis"
 	"Sigor Playters"
+	"Maurits Kaplan"
+	"Erik Neceham"
+	"Louis Baldwin"
+	"Luisa Lave"
+	"Bertram Brownflet"
+	"Sigric Krakouer"
+	"Mencia Hussey"
+	"Amalasuintha Luchtenberg"
+	"Maaike Heimsoth"
+	"Aethilheard Schachtschneider"
 }
-monarch_names = { 
+monarch_names = {
+	"Osgood" = +1
+	"Leofric" = +1
+	"Thomas" = +1
+	"Jacob" = +1
+	"Laurens-Jan" = +1
+	"Leon" = +1
+	"Griffin" = +1
+	"Kaetilmund" = +1
+	"Vivian" = +1
+	"Bruni" = +1
+	"Jenefer" = -1
+	"Asgerd" = -1
+	"Livitha" = -1
+	"Clementia" = -1
+	"Rimilde" = -1
+	"Gunnora" = -1
+	"Enota" = -1
+	"Ailith" = -1
+	"Alwina" = -1
+	"Amice" = -1
 }
-ship_names = { 
+ship_names = {
+	"Eight of the Waves Crimson Barrow"
+	"Watcher Hot Flush"
+	"Chaoticfish Immeral's Kiss"
+	"Dakins Path Salamander of Griffinsway"
+	"Hangman's Hate WyrmeEyed Wanderer"
+	"Ash-Clad Swan Black Swan"
+	"The Gilded Fen Rune Gull"
+	"Windsunder Moon Valhalla"
+	"Melody Windsunder Moon"
+	"Killowen Grim Breaker"
+	"Cruel Hunter Iron Devil"
+	"Nunney Castle The Wolf's Regret"
+	"Sea Golem Stone Gnoll"
+	"Tentacle Wyrm-Wind Seeker"
+	"Howling Spear Beggar of Beastsshield"
 }

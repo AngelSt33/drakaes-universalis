@@ -23,8 +23,53 @@ leader_names = {
 	"Brian Wynstryngham"
 	"Janneke van der Hulst"
 	"Nicola Rogge"
+	"Sunilda Rampston"
+	"Helmina Schreck"
+	"Viktor Platz"
+	"Serafina Zell"
+	"Beatrice Ardes"
+	"Samira de Valmeseda"
+	"Hanne Theobauld"
+	"Marthijn Auldyngton"
+	"Stephen Fitzralph"
+	"Stannard Bouwhuis"
 }
-monarch_names = { 
+monarch_names = {
+	"Simon" = +1
+	"Thurstan" = +1
+	"Frideric" = +1
+	"Jorn" = +1
+	"Guy" = +1
+	"Asketil" = +1
+	"Edward" = +1
+	"George" = +1
+	"Fastida" = +1
+	"Leofstan" = +1
+	"Regina" = -1
+	"Thjodhild" = -1
+	"Ingaret" = -1
+	"Loveday" = -1
+	"Brunihild" = -1
+	"Wakerilda" = -1
+	"Isabel" = -1
+	"Enota" = -1
+	"Rosamund" = -1
+	"Veerle" = -1
 }
-ship_names = { 
+ship_names = {
+	"The Gilded Fen Seeker"
+	"Earth Hippogriff of Maresmeet Hearthless Flight"
+	"Setter Storm-Bitten Grudge"
+	"Burning Vulture Watcher"
+	"Misadventure Eight of the Waves"
+	"Blade Sunless Mare"
+	"The Last Meadfire Cruel Hunter"
+	"Arunta Devil's Roar"
+	"The Sunken Boast Earth Octopus of the West"
+	"Mistress of the Waves Side Quest"
+	"The Sunken Boast Black Swan"
+	"Side Quest Kraken"
+	"Deathwind Iron Dragon's Doom"
+	"Burning Inn Nevermore"
+	"Swanless Wake Abingdon"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Rebecca Quattlebaum"
 	"Leendert Koestra"
 	"Mareike Stangl"
+	"Throst Herz"
+	"Anthony Hodgeson"
+	"Peter Kortman"
+	"Ljot Gyll"
+	"Margaret Coulthurst"
+	"Torgard Panzinger"
+	"Steffen Stier"
+	"Kaatje Brownflet"
+	"Francisco Schans"
+	"Godric Bardolf"
 }
-monarch_names = { 
+monarch_names = {
+	"Maurice" = +1
+	"Saewulf" = +1
+	"Benedict" = +1
+	"Ailwin" = +1
+	"Osbert" = +1
+	"Pascoe" = +1
+	"Joscelin" = +1
+	"Randall" = +1
+	"Babai" = +1
+	"Alexander" = +1
+	"Griselda" = -1
+	"Sarra" = -1
+	"Margaret" = -1
+	"Madia" = -1
+	"Amalfriede" = -1
+	"Susanna" = -1
+	"Maria" = -1
+	"Regina" = -1
+	"Aldis" = -1
+	"Malasintha" = -1
 }
-ship_names = { 
+ship_names = {
+	"Sea Champion's Dolphin WyrmeEyed Wanderer"
+	"Ortenzia Slayer's Terror"
+	"Cruel Dagger Killowen"
+	"Ruby Falcon Setter"
+	"Death Rattle Clove Tree"
+	"Ironhowl Maiden Hull Camel"
+	"Queen of Yorvick The Wolf's Regret"
+	"Wolf-Touched Mist Cuttle"
+	"Cabin Fever Dead God"
+	"Devil's Roar Bird of Cousin's Eye"
+	"Soldier of Fiendshelm The Shivering Hoard"
+	"Dakins Sable-Touched Omen"
+	"The Gilded Fen Raglan"
+	"Wish of Carlusk Nymphen"
+	"Earth Dragon Cuttle"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Louis Sehlmann"
 	"Eustace Chauncey"
 	"Vivien Holthusen"
+	"Ida Zarmir"
+	"Gutirre Heerius"
+	"Merewin Peereboom"
+	"Thordis Veldon"
+	"Amelina Bos"
+	"Jochum Hemmel"
+	"Mila Edgcomb"
+	"Florentijn Strachleigh"
+	"Odo Hulst"
+	"Dalla Asulfsson"
 }
-monarch_names = { 
+monarch_names = {
+	"Eldert" = +1
+	"Borstig" = +1
+	"Kadal" = +1
+	"Oswyn" = +1
+	"Geert-Jan" = +1
+	"Waldo" = +1
+	"Jordan" = +1
+	"Walter" = +1
+	"Hamo" = +1
+	"Alan" = +1
+	"Frances" = -1
+	"Aldreda" = -1
+	"Godusa" = -1
+	"Joy" = -1
+	"Protasia" = -1
+	"Enni" = -1
+	"Preciosa" = -1
+	"Livitha" = -1
+	"Avagisa" = -1
+	"Dineke" = -1
 }
-ship_names = { 
+ship_names = {
+	"Bird of Cousin's Eye Sea Golem"
+	"Vain Gravedigger Crimson Singer"
+	"Ash-Clad Swan Wellerman"
+	"Falling Star Sunless Mare"
+	"Thornborough Sunlesswind"
+	"Song of Cedar Mere The Hollow Boar"
+	"Cursed Raven Twilight Reaver"
+	"Rider's Luck Hearty"
+	"Arunta Void Servant of Hadiya's Spire"
+	"Earth Hippogriff of Maresmeet Rime-Touched Valor"
+	"Deathwind Blade"
+	"Gilded Shade Omen"
+	"Death Rattle Nunney Castle"
+	"Possessedfish Nymphen"
+	"Dragon's Wail Shell Voyager"
 }

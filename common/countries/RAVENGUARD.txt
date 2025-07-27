@@ -23,8 +23,53 @@ leader_names = {
 	"Arjen Schans"
 	"Noud Edelman"
 	"Joseph Gifford"
+	"Maria Lodyngton"
+	"Marcel Fischinger"
+	"Antonia de Aranda"
+	"Sephare Wymer"
+	"Jodoc Hassink"
+	"Daniel Reitz"
+	"Geert-Jan Browet"
+	"Gawain Briggs"
+	"Kobus Arentsen"
+	"Attala Switte"
 }
-monarch_names = { 
+monarch_names = {
+	"Gunteric" = +1
+	"Sigemær" = +1
+	"Randall" = +1
+	"Theudis" = +1
+	"Totila" = +1
+	"Stijn" = +1
+	"Martin" = +1
+	"Gilbert" = +1
+	"Alexander" = +1
+	"Cyrila" = +1
+	"Garsendis" = -1
+	"Livitha" = -1
+	"Gilot" = -1
+	"Malasintha" = -1
+	"Hrodny" = -1
+	"Albreda" = -1
+	"Gudrun" = -1
+	"Margaret" = -1
+	"Feenja" = -1
+	"Preciosa" = -1
 }
-ship_names = { 
+ship_names = {
+	"Murlusk's Thunder Hot Flush"
+	"Side Quest Lalmourn"
+	"Obsidian Nymph Six of the Sky"
+	"Princess's Shadow Cruel Hunter"
+	"Spitfire Oathbound Drift"
+	"God of the Ocean The Hollow Boar"
+	"Melody Sorrow Warlock's Harpy"
+	"Steadfast Beehive"
+	"Mad Wyvern Saltheart"
+	"Cruel Dagger Greedy Dragon"
+	"Thorn-Gilded Curse Zhuirentel"
+	"Silver Arrow Barrowbound Flame"
+	"Duskwake Drifter Nymphen"
+	"Iron Dragon's Doom Hearty"
+	"Kraken Gordia's Light"
 }

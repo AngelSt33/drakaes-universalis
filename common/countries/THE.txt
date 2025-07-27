@@ -23,8 +23,53 @@ leader_names = {
 	"Jeremias Schreck"
 	"Randall Weston"
 	"Wulfstan Ginter"
+	"Michaela Oosterkamp"
+	"Jochen Stappenbeld"
+	"Emelia Brownflet"
+	"Simon Killigrew"
+	"Thorberg Hale"
+	"Elma Dikken"
+	"Parnell Bernard"
+	"Cornelia Fraunces"
+	"Kaatje de Mata"
+	"Asdis Echyngham"
 }
-monarch_names = { 
+monarch_names = {
+	"Thorkel" = +1
+	"Beucad" = +1
+	"Godric" = +1
+	"Thorismud" = +1
+	"Nathaniel" = +1
+	"John" = +1
+	"Edward" = +1
+	"Benedict" = +1
+	"Falco" = +1
+	"Aelric" = +1
+	"Wenthelen" = -1
+	"Maria" = -1
+	"WillemijnLovechild" = -1
+	"Elske" = -1
+	"Rimilde" = -1
+	"Dorothy" = -1
+	"Asgerd" = -1
+	"Euphemia" = -1
+	"Joy" = -1
+	"Willy" = -1
 }
-ship_names = { 
+ship_names = {
+	"Slayer's Terror Aquilon"
+	"Black Swan Steadfast"
+	"Cabin Fever Dordrecht"
+	"Mason's Folly Tentacle"
+	"Frostbitten Rook Jasper"
+	"Wailing Wyrm Kempenfelt"
+	"Unlikely Breaker Spirit"
+	"True Witch Abingdon"
+	"Discreet Secret Deathwind"
+	"The Wolf's Regret Fell Wight"
+	"Horror Wish Quicksilver"
+	"Ash-Clad Swan Copper King of Hare's Hill"
+	"Queen of Yorvick The Long Cold"
+	"Duskwake Drifter Patience"
+	"Snarling Zephyr of Blackbrook Kempenfelt"
 }

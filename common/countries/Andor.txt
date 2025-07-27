@@ -23,8 +23,53 @@ leader_names = {
 	"Alfred Lowthe"
 	"Cecilia Woodeward"
 	"Stephen Wardyworth"
+	"Jacoliene Vetter"
+	"Gutirre Nibury"
+	"Lowie Buryngton"
+	"Arnold Bradshawe"
+	"Nathaniel Gellner"
+	"Tiecia Berg"
+	"Gunnora Westera"
+	"Gadaric Launceleyn"
+	"Seda Hyll"
+	"Grace Nemetz"
 }
-monarch_names = { 
+monarch_names = {
+	"Fritz" = +1
+	"Algar" = +1
+	"Herebert" = +1
+	"Gudmund" = +1
+	"Diggory" = +1
+	"Wulfgeat" = +1
+	"Stans" = +1
+	"Harald" = +1
+	"Jorn" = +1
+	"Koen" = +1
+	"Gilot" = -1
+	"Asgerd" = -1
+	"Sibilla" = -1
+	"Madia" = -1
+	"Magdalene" = -1
+	"Amalfrida" = -1
+	"Cassandra" = -1
+	"Garsendis" = -1
+	"Isabel" = -1
+	"Earngith" = -1
 }
-ship_names = { 
+ship_names = {
+	"The Last Meadfire Kraken"
+	"Sea Golem Quicksilver"
+	"Sunlesswind Hull Camel"
+	"Earth Hippogriff of Maresmeet Whiskey Chaser"
+	"Whalebane Echo Luminous Runner"
+	"Howling Spear Greedy Dragon"
+	"Whisper's Hope Melody"
+	"Quicksilver Cruel Dagger"
+	"Ghost Ghoul The Silent Fjell"
+	"Hallowed Gale Celerity"
+	"Thornborough Ruby Falcon"
+	"Dordrecht Sorcerer's Nymph"
+	"Falling Star Sorcerer's Nymph"
+	"Fluke Sorrow Warlock's Harpy"
+	"The Hollow Wolf Pathfinder"
 }

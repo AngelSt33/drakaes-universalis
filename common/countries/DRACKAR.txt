@@ -23,8 +23,53 @@ leader_names = {
 	"David Rientjes"
 	"Henry Prowd"
 	"Brictric Hadresham"
+	"Hallveig Borgardottir"
+	"Kaatje Grove"
+	"Osbert Neceham"
+	"Magdalene Dikken"
+	"Petra Wynston"
+	"Galindus Mugge"
+	"Conan Neuner"
+	"Patza Walsch"
+	"Marion Cantilupe"
+	"Tristan Coulthurst"
 }
-monarch_names = { 
+monarch_names = {
+	"Beucad" = +1
+	"Diggory" = +1
+	"Thorismud" = +1
+	"Sindila" = +1
+	"Turbert" = +1
+	"Gunthigis" = +1
+	"Simon" = +1
+	"Ambrose" = +1
+	"Geert-Jan" = +1
+	"Edward" = +1
+	"Helen" = -1
+	"Hrodny" = -1
+	"Isgerd" = -1
+	"Teja" = -1
+	"Aldis" = -1
+	"Margaret" = -1
+	"Anna" = -1
+	"Agnes" = -1
+	"Heidi" = -1
+	"Leonie" = -1
 }
-ship_names = { 
+ship_names = {
+	"Hallowed Gale Escape"
+	"Nunney Castle Obsidian Nymph"
+	"Darvin's Cry The Hollow Wolf"
+	"Nunney Castle Windsunder Moon"
+	"Howling Spear Wave Zephyr"
+	"Pale Hammer Wind Song"
+	"Dimsey's Light Barrowbound Flame"
+	"Dead God Loss Spirit"
+	"Watcher Sorcerer's Nymph"
+	"For Play Celerity"
+	"Buccaneer Hot Flush"
+	"Unlikely Breaker Serpent"
+	"Hull Camel The Long Cold"
+	"Chaoticfish Blade"
+	"Buccaneer Sea Golem"
 }

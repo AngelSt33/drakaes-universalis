@@ -23,8 +23,53 @@ leader_names = {
 	"Stijn Wegman"
 	"Petra Mohring"
 	"Maurice Dale"
+	"Cuthbert Beel"
+	"Lowie Stinky"
+	"Nicola Härig"
+	"Cornelius Fodde"
+	"Avagisa Switte"
+	"Waldo Bokhove"
+	"Elstan Wohler"
+	"Muriel Kamerling"
+	"Amalfrida Poelakker"
+	"Semer de Aranda"
 }
-monarch_names = { 
+monarch_names = {
+	"Wulsi" = +1
+	"Francis" = +1
+	"Mart-jan" = +1
+	"Geitirgest" = +1
+	"Jasper" = +1
+	"Godric" = +1
+	"Benedict" = +1
+	"Stans" = +1
+	"Magnus" = +1
+	"Joscelin" = +1
+	"Helewis" = -1
+	"Mabel" = -1
+	"Earngith" = -1
+	"Sigrith" = -1
+	"Asleif" = -1
+	"Sigrid" = -1
+	"Susanna" = -1
+	"Cassandra" = -1
+	"Agatha" = -1
+	"Enota" = -1
 }
-ship_names = { 
+ship_names = {
+	"Fluke Triad of the Waves"
+	"Fate Moon Blade"
+	"Serpent For Play"
+	"Sorcerer's Nymph Nevermore"
+	"Whalebane Echo Valhalla"
+	"Runner's Despair Cruel Hunter"
+	"Sharp Swan of Torhof Ruby Ranger"
+	"Mistress of the Waves Side Quest"
+	"Twilight Reaver Twice Sunk"
+	"Lavendar Demon Thornborough"
+	"The Long Cold Hangman's Hate"
+	"The Withering Hunt Jasper"
+	"Nunney Castle Ruby Falcon"
+	"Chained Tempest Nunney Castle"
+	"Celerity Vain Gravedigger"
 }

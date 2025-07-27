@@ -23,8 +23,53 @@ leader_names = {
 	"Cornelius Seger"
 	"Geert-Jan Bokhove"
 	"Leofing Cantilupe"
+	"Livitha Halley"
+	"Attala Wynter"
+	"John Valreach"
+	"Carlijne Metze"
+	"Gregor Pownder"
+	"Galindus Berger"
+	"Tristan Barnes"
+	"Samira Eldysley"
+	"Mathies Robynson"
+	"Joeri Ehrenberg"
 }
-monarch_names = { 
+monarch_names = {
+	"Sampson" = +1
+	"Nigel" = +1
+	"Aelric" = +1
+	"Albert" = +1
+	"Bergfinn" = +1
+	"Bertram" = +1
+	"Eustace" = +1
+	"Nicolas" = +1
+	"James" = +1
+	"Walter" = +1
+	"Hild" = -1
+	"Ulfheid" = -1
+	"Osk" = -1
+	"Agatha" = -1
+	"Catherine" = -1
+	"Asgerd" = -1
+	"Mary" = -1
+	"Amalfriede" = -1
+	"Helewis" = -1
+	"Hrodny" = -1
 }
-ship_names = { 
+ship_names = {
+	"Ruby Ranger Dragon's Wail"
+	"Runner's Despair Earth Hippogriff of Maresmeet"
+	"WyrmeEyed Wanderer Melody"
+	"Barrowbound Flame Seeker"
+	"Earth Octopus of the West Chained Tempest"
+	"Killowen WyrmeEyed Wanderer"
+	"For Play Nevermore"
+	"True Witch Sundered Moon"
+	"Titan's Bard Copper King of Hare's Hill"
+	"Sunless Mare Buccaneer"
+	"Darvin's Cry Side Quest"
+	"Nevermore Snarling Zephyr of Blackbrook"
+	"Falling Star Whisper's Hope"
+	"God of the Ocean Shadow-Girded Lash"
+	"True Witch Demon"
 }

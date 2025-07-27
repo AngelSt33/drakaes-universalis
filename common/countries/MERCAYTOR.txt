@@ -23,8 +23,53 @@ leader_names = {
 	"Alice Downer"
 	"Yosi Erlbaum"
 	"Thomas Norden"
+	"Lieke Echyngham"
+	"Luisa Heffelfinger"
+	"Mildred Holten"
+	"Osbert Biorsson"
+	"Andrew Buit"
+	"Ida Outlawe"
+	"Giles Leman"
+	"Emelia Cole"
+	"Arthur Lodewijk"
+	"Godwin Bouwhuis"
 }
-monarch_names = { 
+monarch_names = {
+	"Gawain" = +1
+	"Lefwin" = +1
+	"Gamel" = +1
+	"Michael" = +1
+	"Fravitta" = +1
+	"Fritz" = +1
+	"Gunteric" = +1
+	"Beucad" = +1
+	"Athelstan" = +1
+	"Vestgeir" = +1
+	"Saeunn" = -1
+	"Earngith" = -1
+	"Beatrice" = -1
+	"Alice" = -1
+	"Sigrith" = -1
+	"Glismoda" = -1
+	"WillemijnLovechild" = -1
+	"Isgerd" = -1
+	"Wakerilda" = -1
+	"Nicola" = -1
 }
-ship_names = { 
+ship_names = {
+	"Hearthless Flight Patience"
+	"Gone Too Far Ten"
+	"Luminous Runner The Withering Hunt"
+	"Cruel Dagger Gertraud's Doom"
+	"For Play Beggar of Beastsshield"
+	"Osprey's Pride Ortenzia"
+	"Titan's Bard Seeker"
+	"Ghost Ghoul Unlikely Breaker"
+	"Grim Breaker Son of Colfoundry"
+	"Whisper West Son"
+	"West Son Sky Wizard"
+	"Fate Omen"
+	"Black Swan The Withering Hunt"
+	"Bird of Cousin's Eye Great Expense"
+	"Whisper Ortenzia"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Christoph Rothmann"
 	"Waldo Maydestone"
 	"James Wynter"
+	"Leofric Duivencate"
+	"Amalaswinth Lemann"
+	"Simon Janzen"
+	"Bertram Hassink"
+	"Amelina Staple"
+	"Tine Femer"
+	"Parnell Krüger"
+	"Osk Lusseveld"
+	"Gorm Platz"
+	"Svenja Williams"
 }
-monarch_names = { 
+monarch_names = {
+	"Sisebut" = +1
+	"Henry" = +1
+	"Aelric" = +1
+	"Josce" = +1
+	"Aslac" = +1
+	"Walahmar" = +1
+	"Benedict" = +1
+	"Gamel" = +1
+	"Tedric" = +1
+	"Roger" = +1
+	"Barbara" = -1
+	"Hallgerd" = -1
+	"Roosje" = -1
+	"Goditha" = -1
+	"Regina" = -1
+	"Mathilda" = -1
+	"Griselda" = -1
+	"Sedehana" = -1
+	"Rimilde" = -1
+	"Jorunn" = -1
 }
-ship_names = { 
+ship_names = {
+	"Void Servant of Hadiya's Spire Six of the Sky"
+	"Thorn-Gilded Curse Pool Pilgrim"
+	"For Play Thornborough"
+	"Sea Champion's Dolphin Ruby Ranger"
+	"Kraken Cruel Dagger"
+	"Whalebane Echo Ortenzia"
+	"Sunlesswind Surprise"
+	"Hallowed Gale Luminous Runner"
+	"Slayer's Terror Earthdon's Heart"
+	"Blade The Hollow Wolf"
+	"Watcher of Wickenlund Windsong"
+	"Earth Dragon Beggar of Beastsshield"
+	"Twice Sunk Sunlesswind"
+	"Rune Gull Possessedfish"
+	"Waking Dream Cruel Dagger"
 }

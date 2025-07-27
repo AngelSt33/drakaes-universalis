@@ -23,8 +23,53 @@ leader_names = {
 	"Richard Gyll"
 	"Rik Oostelaar"
 	"Adam Haddock"
+	"Waldo Barker"
+	"Rik Stoughton"
+	"Janucho Thoraldrdottir"
+	"Mabel Borgardottir"
+	"Anton Clifton"
+	"Janneke Wynstryngham"
+	"Elizabeth Heriolfsson"
+	"Nanko Dygenys"
+	"Arngunn Killigrew"
+	"Gudrun Maneschijns"
 }
-monarch_names = { 
+monarch_names = {
+	"James" = +1
+	"Allen" = +1
+	"Eldert" = +1
+	"Solomon" = +1
+	"Thori" = +1
+	"Gerard" = +1
+	"Jasper" = +1
+	"Leon" = +1
+	"Sisebut" = +1
+	"William" = +1
+	"Dineke" = -1
+	"Barbara" = -1
+	"Leofe" = -1
+	"Beatrice" = -1
+	"Cwenhild" = -1
+	"Alice" = -1
+	"Amice" = -1
+	"Joy" = -1
+	"Matasuntha" = -1
+	"Tiecia" = -1
 }
-ship_names = { 
+ship_names = {
+	"The Hollow Wolf Buccaneer"
+	"Watcher of Wickenlund Killowen"
+	"Duskwake Drifter Song of Cedar Mere"
+	"Beehive Bold Venture"
+	"The Shivering Hoard Discreet Secret"
+	"Pillager Iron Devil"
+	"Abingdon Hot Flush"
+	"West Son Chained Tempest"
+	"Whisper Arunta"
+	"Ruby Falcon Buccaneer"
+	"Iron Devil Kempenfelt"
+	"Whisper Dordrecht"
+	"Omen Great Expense"
+	"Spirit Sunburn"
+	"Sable-Touched Omen Rider's Luck"
 }

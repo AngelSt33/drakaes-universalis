@@ -23,8 +23,53 @@ leader_names = {
 	"Janneke van der Hulst"
 	"Engelise Veldon"
 	"Angrebod Windham"
+	"Svenja Ingjaldottir"
+	"Cwenhild Berger"
+	"Carolin Poelakker"
+	"Oonagh de Valmeseda"
+	"Gawain Carter"
+	"Eustace Zell"
+	"Humphrey Elmebrigge"
+	"Olvir Paarhuis"
+	"Maurice Plessner"
+	"Lavinia Clopton"
 }
-monarch_names = { 
+monarch_names = {
+	"Ulric" = +1
+	"Tedric" = +1
+	"Augustin" = +1
+	"Turbert" = +1
+	"Youri" = +1
+	"Thorkel" = +1
+	"Maurice" = +1
+	"Philips" = +1
+	"Sisebut" = +1
+	"Magnus" = +1
+	"Livitha" = -1
+	"Mildred" = -1
+	"Maria" = -1
+	"Eulalia" = -1
+	"Brunihild" = -1
+	"Amalaswinth" = -1
+	"Willy" = -1
+	"Garsendis" = -1
+	"Saeunn" = -1
+	"Margaret" = -1
 }
-ship_names = { 
+ship_names = {
+	"Mistress of the Waves Sea Champion's Dolphin"
+	"Earth Hippogriff of Maresmeet The Shivering Hoard"
+	"The Silent Fjell Thornborough"
+	"Windsong Whiskey Chaser"
+	"Keen of Torcradle Fluke"
+	"Watcher Barrowbound Flame"
+	"Keen of Torcradle Killowen"
+	"Bold Venture Earthdon's Heart"
+	"God of the Ocean Misadventure"
+	"Side Quest Steadfast"
+	"Song of Cedar Mere Titan's Bard"
+	"The Shivering Hoard Serpent"
+	"Sea Champion's Dolphin Hearthless Flight"
+	"Watcher of Wickenlund Setter"
+	"Burning Fjord Raglan"
 }

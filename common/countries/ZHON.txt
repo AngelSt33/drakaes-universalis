@@ -23,8 +23,53 @@ leader_names = {
 	"Engelise Veldon"
 	"Ambrose Bernard"
 	"Christoph Rothmann"
+	"Tristan Nemetz"
+	"Joeri Arderne"
+	"Dorothy Prowd"
+	"Peter Elmebrigge"
+	"Gaut Maydestone"
+	"Amalasuintha Homrighausen"
+	"Teunissen Foliot"
+	"Rik Rampston"
+	"Theoderid Hobart"
+	"Andrew Heimsoth"
 }
-monarch_names = { 
+monarch_names = {
+	"Solomon" = +1
+	"Giles" = +1
+	"Adrian" = +1
+	"Percival" = +1
+	"Jasper" = +1
+	"Gris" = +1
+	"Arne" = +1
+	"Brictric" = +1
+	"Thurston" = +1
+	"Laurenz" = +1
+	"Veerle" = -1
+	"Isolde" = -1
+	"Philippa" = -1
+	"Jenefer" = -1
+	"Matasuntha" = -1
+	"Euphemia" = -1
+	"Gilot" = -1
+	"Ormhild" = -1
+	"Beatrice" = -1
+	"Albreda" = -1
 }
-ship_names = { 
+ship_names = {
+	"Orca Possessedfish"
+	"Shatterhelm Shriek Seeker"
+	"Oathbound Drift Sharp Swan of Torhof"
+	"Whiskey Chaser Sharp Swan of Torhof"
+	"Princess's Shadow Crimson Singer"
+	"Triad of the Waves Carrier"
+	"Misery Hallowed Gale"
+	"Misadventure Falling Star"
+	"Sable-Touched Omen Discreet Secret"
+	"Blade Vain Gravedigger"
+	"True Witch Beehive"
+	"Storm-Bitten Grudge Dakins"
+	"Horror Wish Copper King of Hare's Hill"
+	"Spitfire Broken Sigil"
+	"Victory Death Rattle"
 }

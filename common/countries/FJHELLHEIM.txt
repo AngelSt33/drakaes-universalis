@@ -23,8 +23,53 @@ leader_names = {
 	"Silvester Cod"
 	"Nathaniel Coulthurst"
 	"Marthijn Hogewind"
+	"Saewulf Foliot"
+	"Augustin Sigvatdottir"
+	"Rolf Schachtschneider"
+	"Rayko Hülsen"
+	"Svea Symilor"
+	"Kaatje Lodyngton"
+	"Godwin Lucy"
+	"Diggory Pfennig"
+	"Megan-Laureen Chauncey"
+	"Avery Plessner"
 }
-monarch_names = { 
+monarch_names = {
+	"Hermen" = +1
+	"Odo" = +1
+	"Wicing" = +1
+	"Gawain" = +1
+	"Toka" = +1
+	"Ricimer" = +1
+	"Magnus" = +1
+	"Asketil" = +1
+	"Pascoe" = +1
+	"Abraham" = +1
+	"Aldreda" = -1
+	"Protasia" = -1
+	"Helen" = -1
+	"Euphemia" = -1
+	"Maria" = -1
+	"Acelina" = -1
+	"Gudeliva" = -1
+	"Heidi" = -1
+	"Saegifu" = -1
+	"Milda" = -1
 }
-ship_names = { 
+ship_names = {
+	"Mistress of the Waves Six of the Sky"
+	"Hallowed Gale Crimson Singer"
+	"Compass God of the Ocean"
+	"Rune Gull Burning Inn"
+	"Abingdon Reflective Spider"
+	"Dordrecht Shell Voyager"
+	"Beggar of Beastsshield Swanless Wake"
+	"Oathwither Song Hangman's Hate"
+	"Rime-Touched Valor Enterprise"
+	"Melody Ruby Falcon"
+	"Earth Octopus of the West Sorrow Warlock's Harpy"
+	"Victory The Hollow Boar"
+	"West Son Hearthless Flight"
+	"Gordia's Light Sea Champion's Dolphin"
+	"Arunta Whisper's Hope"
 }

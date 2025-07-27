@@ -23,8 +23,53 @@ leader_names = {
 	"George Arderne"
 	"Mark Wrenne"
 	"Niko Bartram"
+	"Rebecca Cranford"
+	"Clarissa de Navete"
+	"Niko Stappenbeld"
+	"Elinor Ehrler"
+	"Maurits Kooiman"
+	"Michaela Glover"
+	"Muriel Edelman"
+	"Brian Boes"
+	"Fernando Kinnie"
+	"Fulgencio Mugge"
 }
-monarch_names = { 
+monarch_names = {
+	"Robert" = +1
+	"Hjarrandi" = +1
+	"Godwin" = +1
+	"Claus" = +1
+	"Falco" = +1
+	"Levi" = +1
+	"Ricimer" = +1
+	"Laurenz" = +1
+	"Mark" = +1
+	"Marmaduke" = +1
+	"Amalaswinth" = -1
+	"Freygerd" = -1
+	"Godlefe" = -1
+	"Rimilde" = -1
+	"Euphemia" = -1
+	"Malasintha" = -1
+	"Tiana" = -1
+	"Basilia" = -1
+	"Amalfrida" = -1
+	"Loveday" = -1
 }
-ship_names = { 
+ship_names = {
+	"Mad Wyvern Ledbury"
+	"Sorrow Warlock's Harpy Dead God"
+	"Moon Blade Watcher of Wickenlund"
+	"Surprise Horror Wish"
+	"Deathwind Success"
+	"Sundered Moon Oathwither Song"
+	"Blade The Gilded Fen"
+	"Chained Tempest Kraken"
+	"Silverfang Gale Victory"
+	"Earth Dragon Glace Bay"
+	"Watcher Wind Seeker"
+	"Black Swan Lavendar Demon"
+	"Ruby Ranger Carrier"
+	"Titan's Bard Wem"
+	"Ghost Ghoul Cabin Fever"
 }

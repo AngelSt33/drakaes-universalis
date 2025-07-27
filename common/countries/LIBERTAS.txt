@@ -23,8 +23,53 @@ leader_names = {
 	"Louis Sehlmann"
 	"Urian Loveney"
 	"Emeline Elmebrigge"
+	"Huml Steinhaeusser"
+	"Wilmot Eldysley"
+	"Ruby Salford"
+	"Petra Velt"
+	"Cecilia Mullekes"
+	"Elisabeth Stelzner"
+	"Jukel Holmfastsson"
+	"Monia Luppe"
+	"Cornelia Perryvalle"
+	"Amala Wynston"
 }
-monarch_names = { 
+monarch_names = {
+	"Jasper" = +1
+	"Babai" = +1
+	"Claus" = +1
+	"Geert-Jan" = +1
+	"Oliver" = +1
+	"Maik" = +1
+	"Jordan" = +1
+	"Aithanarid" = +1
+	"Valentine" = +1
+	"Aelnod" = +1
+	"Werthiva" = -1
+	"Amalfriede" = -1
+	"Helewis" = -1
+	"Catherine" = -1
+	"Gudrun" = -1
+	"Brunihild" = -1
+	"Saegifu" = -1
+	"Asgerd" = -1
+	"Teja" = -1
+	"Frances" = -1
 }
-ship_names = { 
+ship_names = {
+	"Thornborough Duskwake Drifter"
+	"Earthdon's Heart Ashen Grin"
+	"Bitterwake Cry Windsong"
+	"Ledbury Sky Wizard"
+	"Kilcurrig The Wolf's Regret"
+	"Hallowed Gale Quicksilver"
+	"Runner's Despair Crimson Singer"
+	"Sunless Mare Serpent"
+	"Storm-Bitten Grudge Dimsey's Light"
+	"Thorn-Gilded Curse Ten"
+	"Ghost Ghoul For Play"
+	"Snarling Zephyr of Blackbrook Eight of the Waves"
+	"Lalmourn Keen of Torcradle"
+	"Twilight Reaver Darvin's Cry"
+	"Stone Gnoll Shadow-Girded Lash"
 }

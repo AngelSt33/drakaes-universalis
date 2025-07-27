@@ -23,8 +23,53 @@ leader_names = {
 	"Elric Laken"
 	"Herebert Daubernoun"
 	"Brictric Byngham"
+	"Cecily Prowd"
+	"Jan-Pieter Banis"
+	"Richildis Harig"
+	"Patience Pijnappel"
+	"Isabelle Heek"
+	"Jan-Bart Fischinger"
+	"Mœid Jorvick"
+	"Elmar Sadler"
+	"Jodoc Jay"
+	"Lucas Kats"
 }
-monarch_names = { 
+monarch_names = {
+	"Giles" = +1
+	"Antonin" = +1
+	"Aithanarid" = +1
+	"Jon" = +1
+	"Francis" = +1
+	"Fritz" = +1
+	"Denis" = +1
+	"Leomer" = +1
+	"Rowland" = +1
+	"Stijn" = +1
+	"Glismoda" = -1
+	"Ellen" = -1
+	"Megan-Laureen" = -1
+	"Susanna" = -1
+	"Basilia" = -1
+	"Beatrice" = -1
+	"Ailith" = -1
+	"Goditha" = -1
+	"Sarah" = -1
+	"Enota" = -1
 }
-ship_names = { 
+ship_names = {
+	"Silverfang Gale Eight of the Waves"
+	"Oathbound Drift Thornborough"
+	"Steadfast Omen"
+	"Kempenfelt Compass"
+	"Fate Wellerman"
+	"Queen of Yorvick Gone Too Far"
+	"Ruby Ranger Black Swan"
+	"Chained Tempest Demon"
+	"Sharp Swan of Torhof Slayer's Terror"
+	"West Son Gilded Shade"
+	"Seeker Wailing Wyrm"
+	"The Shivering Hoard Luminous Runner"
+	"Barrowbound Flame Dimsey's Light"
+	"Six of the Sky Sable-Touched Omen"
+	"Possessedfish Wellerman"
 }

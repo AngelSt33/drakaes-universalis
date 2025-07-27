@@ -23,8 +23,53 @@ leader_names = {
 	"Alice Neceham"
 	"Ludovic Cranford"
 	"Ambrose Bernard"
+	"Amalaswinth Pettit"
+	"Wilmot Overbeek"
+	"Sephare Whitewood"
+	"Catherine Schildknecht"
+	"Rayko Lodyngton"
+	"Oonagh Oosterkamp"
+	"Hubert Hulst"
+	"Philips Sperl"
+	"Bartholomew Snelling"
+	"Oswyn Ashenhurst"
 }
-monarch_names = { 
+monarch_names = {
+	"William" = +1
+	"Ailwin" = +1
+	"Skorri" = +1
+	"Richard" = +1
+	"Anagastes" = +1
+	"Griffin" = +1
+	"Eelco" = +1
+	"Bartjan" = +1
+	"Hermen" = +1
+	"Maurice" = +1
+	"Milda" = -1
+	"Emilia" = -1
+	"Theda" = -1
+	"Frances" = -1
+	"Earngith" = -1
+	"Saeunn" = -1
+	"Sigrunn" = -1
+	"Isolde" = -1
+	"Beatrice" = -1
+	"Heidi" = -1
 }
-ship_names = { 
+ship_names = {
+	"Abingdon Compass"
+	"Son of Colfoundry Princess's Shadow"
+	"The Wolf's Regret Seeker"
+	"Obsidian Nymph Ledbury"
+	"Hallowed Gale Soldier of Fiendshelm"
+	"Void Servant of Hadiya's Spire Wave Zephyr"
+	"Crimson Barrow Wave Zephyr"
+	"Wolf-Touched Mist Twice Sunk"
+	"Windsong Great Expense"
+	"Nevermore Duskwake Drifter"
+	"Sunburn Anne"
+	"Escape Thorn-Gilded Curse"
+	"Sorcerer's Nymph Glace Bay"
+	"Abingdon True Witch"
+	"Broken Sigil Spitfire"
 }

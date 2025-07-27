@@ -23,8 +23,53 @@ leader_names = {
 	"Elstan of Nidaros"
 	"Beorhthere of Puerto"
 	"Odo Cantilupe"
+	"Samira Willardsey"
+	"Almeyque Stappenbeld"
+	"Alex Cary"
+	"Janet Orgumleididottir"
+	"Odo Rientjes"
+	"Ida Vos"
+	"Constantin Zell"
+	"Luisa de Ysla"
+	"Maria Cole"
+	"Rik Schuerer"
 }
-monarch_names = { 
+monarch_names = {
+	"Silvester" = +1
+	"Lefwin" = +1
+	"Fastida" = +1
+	"Simon" = +1
+	"Aelnod" = +1
+	"Joseph" = +1
+	"Youri" = +1
+	"Gawain" = +1
+	"Luuk" = +1
+	"Jukel" = +1
+	"Hallgerd" = -1
+	"Yvette" = -1
+	"Wakerilda" = -1
+	"Mary" = -1
+	"Beatrice" = -1
+	"Joy" = -1
+	"Protasia" = -1
+	"Garsendis" = -1
+	"Cwenhild" = -1
+	"Sigrid" = -1
 }
-ship_names = { 
+ship_names = {
+	"The Withering Hunt Iron Dragon's Doom"
+	"Sunburn Earth Octopus of the West"
+	"Frostbitten Rook Valhalla"
+	"Whisper's Hope Windsong"
+	"Gone Too Far Zhuirentel"
+	"Compass Soldier of Fiendshelm"
+	"Vain Gravedigger Windsong"
+	"Osprey's Pride Fate"
+	"Sky Wizard Queen of Yorvick"
+	"Shatterhelm Shriek Pool Pilgrim"
+	"Hull Camel Unlikely Breaker"
+	"Queen of Yorvick Bitterwake Cry"
+	"Sorrow Warlock's Harpy Enterprise"
+	"Barrowbound Flame Dragon's Wail"
+	"Crimson Barrow Nevermore"
 }

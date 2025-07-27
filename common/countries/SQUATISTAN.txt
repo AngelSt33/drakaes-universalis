@@ -23,8 +23,53 @@ leader_names = {
 	"Willy Bekman"
 	"Carolin Stier"
 	"Konstanze Hersch"
+	"Amalasuintha Stinky"
+	"Bilimer Mandl"
+	"Mathies Romano"
+	"Arthur Fraunces"
+	"Ursula Maneschijns"
+	"Ludovic Fodde"
+	"Sarah Schachtschneider"
+	"Hanno Weizenbaum"
+	"Featris Schildknecht"
+	"Juna Bardolf"
 }
-monarch_names = { 
+monarch_names = {
+	"Huibert" = +1
+	"Josce" = +1
+	"Fravitta" = +1
+	"Odo" = +1
+	"Sisebut" = +1
+	"Asketil" = +1
+	"Gunthigis" = +1
+	"Maik" = +1
+	"Reginald" = +1
+	"Leonard" = +1
+	"Runa" = -1
+	"Beatrice" = -1
+	"Heidi" = -1
+	"Leonie" = -1
+	"Glismoda" = -1
+	"Wilamin" = -1
+	"Melle" = -1
+	"Agatha" = -1
+	"Isabel" = -1
+	"Winifred" = -1
 }
-ship_names = { 
+ship_names = {
+	"Cabin Fever Iron Dragon's Doom"
+	"The Sunken Boast Dead God"
+	"Princess's Shadow Nymphen"
+	"True Witch Kraken"
+	"Twice Sunk Red-Eyed Stag"
+	"Song of Cedar Mere Keen of Torcradle"
+	"Runner's Despair Spirit"
+	"Setter Compass"
+	"Sable-Touched Omen Discreet Secret"
+	"Shadow-Girded Lash Dimsey's Light"
+	"Void Servant of Hadiya's Spire Dubford"
+	"Osprey's Pride Wind Seeker"
+	"Oathbound Drift Six of the Sky"
+	"Son of Colfoundry Storm-Bitten Grudge"
+	"Sunburn Windsong"
 }

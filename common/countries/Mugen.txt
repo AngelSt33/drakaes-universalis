@@ -24,8 +24,53 @@ leader_names = {
 	"Godwin Richeman"
 	"Elinor Lacy"
 	"Frospan the Boytoy"
+	"David Walsch"
+	"Humphrey Weston"
+	"Leonard Pennebrygg"
+	"Ealdhelm Vreeburg"
+	"Toka Cleffort"
+	"Arnold Wynstryngham"
+	"Rudie Herleston"
+	"Avery Williams"
+	"Mabel Staple"
+	"Stephen Velt"
 }
-monarch_names = { 
+monarch_names = {
+	"Lefwin" = +1
+	"Alexander" = +1
+	"Fritz" = +1
+	"Lambert" = +1
+	"Elric" = +1
+	"Wicing" = +1
+	"Alan" = +1
+	"Torkel" = +1
+	"Jon" = +1
+	"Vivian" = +1
+	"Sibilla" = -1
+	"Milda" = -1
+	"Anna" = -1
+	"Dorothy" = -1
+	"Sedehana" = -1
+	"Livitha" = -1
+	"Isolde" = -1
+	"Marit" = -1
+	"Avagisa" = -1
+	"Leonie" = -1
 }
-ship_names = { 
+ship_names = {
+	"The Withering Hunt Ortenzia"
+	"Ten Mason's Folly"
+	"Unlikely Breaker Dragon's Wail"
+	"Loss Spirit Hull Camel"
+	"Fallow Vengeance West Son"
+	"Deathwind Bird of Cousin's Eye"
+	"Six of the Sky Great Expense"
+	"Loss Spirit Sea Champion's Dolphin"
+	"Mad Wyvern Wave Zephyr"
+	"Kilcurrig Grim Breaker"
+	"Ironhowl Maiden Wem"
+	"Valhalla Sky Wizard"
+	"Swanless Wake Watcher"
+	"Devil's Roar Ortenzia"
+	"Falling Star Reflective Spider"
 }

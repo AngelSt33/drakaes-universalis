@@ -23,8 +23,53 @@ leader_names = {
 	"Henkjan Grimberg"
 	"Semer Unton"
 	"Alan Brudenell"
+	"Nicholas Salford"
+	"Wulfstan Damsell"
+	"Elisabeth Fakereach"
+	"Lyting Sternberg"
+	"Mawa Wildiek"
+	"Loveday Honigberg"
+	"Beatrice Hoehmann"
+	"Felicia Herleston"
+	"Giles Long"
+	"Alfleta Bartels"
 }
-monarch_names = { 
+monarch_names = {
+	"Fulke" = +1
+	"William" = +1
+	"David" = +1
+	"Marcel" = +1
+	"Alan" = +1
+	"Stephen" = +1
+	"Philip" = +1
+	"Walter" = +1
+	"Hjarrandi" = +1
+	"Laurenz" = +1
+	"Jorunn" = -1
+	"Regina" = -1
+	"Cassandra" = -1
+	"Helewis" = -1
+	"Ursula" = -1
+	"Garsendis" = -1
+	"Philippa" = -1
+	"Ulfheid" = -1
+	"Margaret" = -1
+	"Oda" = -1
 }
-ship_names = { 
+ship_names = {
+	"WyrmeEyed Wanderer Earth Octopus of the West"
+	"Raglan Shadow-Girded Lash"
+	"Watcher The Hollow Wolf"
+	"Swanless Wake Beehive"
+	"Oathbound Drift Patience"
+	"Possessedfish Demon"
+	"Beggar of Beastsshield The Last Meadfire"
+	"Path Salamander of Griffinsway Omen"
+	"Buccaneer Sunlesswind"
+	"Whiskey Chaser Nevermore"
+	"Titan's Bard Greedy Dragon"
+	"Mason's Folly Moon Blade"
+	"Wailing Wyrm Clove Tree"
+	"The Last Meadfire Black Swan"
+	"Runemarked Sorrow Falling Star"
 }

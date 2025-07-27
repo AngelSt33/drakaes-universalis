@@ -23,8 +23,53 @@ leader_names = {
 	"Waldo Barber"
 	"Arjen van Rooij"
 	"Felicia Scarclyf"
+	"Edward Launceleyn"
+	"Meike Boes"
+	"Lennert Alikok"
+	"Jukel Strunk"
+	"Alicia Crugge"
+	"Gaatha Vetter"
+	"Yosi Elsbroek"
+	"Rhima Elsbroek"
+	"Juna Chauncey"
+	"David Walley"
 }
-monarch_names = { 
+monarch_names = {
+	"Ulf" = +1
+	"Ansketil" = +1
+	"Cyrila" = +1
+	"Guy" = +1
+	"Leomer" = +1
+	"Aelnod" = +1
+	"Maurice" = +1
+	"Edric" = +1
+	"Oswyn" = +1
+	"Edward" = +1
+	"Cassandra" = -1
+	"Madia" = -1
+	"Frances" = -1
+	"Idonea" = -1
+	"Livitha" = -1
+	"Godusa" = -1
+	"Leofe" = -1
+	"Aldreda" = -1
+	"Ursula" = -1
+	"Mildred" = -1
 }
-ship_names = { 
+ship_names = {
+	"Wailing Wyrm Buccaneer"
+	"Duskwake Drifter Sea Champion's Dolphin"
+	"Burning Fjord God of the Ocean"
+	"Sunburn Copper King of Hare's Hill"
+	"Cabin Fever Ortenzia"
+	"Oathwither Song Sea Champion's Dolphin"
+	"The Wolf's Regret Nunney Castle"
+	"Gone Too Far Six of the Sky"
+	"Hearty Spitfire"
+	"Silver Arrow Path Salamander of Griffinsway"
+	"Iron Dragon's Doom Side Quest"
+	"Bold Venture Enterprise"
+	"Sunburn Glace Bay"
+	"Slayer's Terror Setter"
+	"Pale Hammer Dead God"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Cassandra Wyddowsoun"
 	"Elia Weingaertner"
 	"Henry Prowd"
+	"Marcel Pennebrygg"
+	"Daniel Leifdottir"
+	"Godwin Praas"
+	"Elmar Stelzner"
+	"Gunnora Kohnstamm"
+	"Rebecca Dyneley"
+	"Konstanze Rede"
+	"Elstan Ende"
+	"Livitha Barber"
+	"Mildred Geist"
 }
-monarch_names = { 
+monarch_names = {
+	"Aithanarid" = +1
+	"Heiko" = +1
+	"Falco" = +1
+	"Bartholomew" = +1
+	"Hamo" = +1
+	"Simon" = +1
+	"Denis" = +1
+	"Thomas" = +1
+	"Joseph" = +1
+	"Geitirgest" = +1
+	"Ursula" = -1
+	"Helen" = -1
+	"Catherine" = -1
+	"Sibilla" = -1
+	"WillemijnLovechild" = -1
+	"Hrodny" = -1
+	"Pavia" = -1
+	"Jorunn" = -1
+	"Amalaswinth" = -1
+	"Frances" = -1
 }
-ship_names = { 
+ship_names = {
+	"Gone Too Far Side Quest"
+	"Melody Barrowbound Flame"
+	"Hatherleigh The Wolf's Regret"
+	"Hearthless Flight Melody"
+	"Success The Wolf's Regret"
+	"Darvin's Cry Unlikely Breaker"
+	"Grim Breaker Glace Bay"
+	"Gull's Shadow Triad of the Waves"
+	"Keen of Torcradle Immeral's Kiss"
+	"Silverfang Gale Misery"
+	"Oathbound Drift Gertraud's Doom"
+	"Loss Spirit Beggar of Beastsshield"
+	"The Hollow Wolf Thornborough"
+	"Shadow-Girded Lash Hangman's Hate"
+	"Gertraud's Doom Sunlesswind"
 }

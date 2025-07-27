@@ -23,8 +23,53 @@ leader_names = {
 	"Cathelijn van den Barg"
 	"Godwin Gifford"
 	"Isabelle Schuerer"
+	"Golde Haddock"
+	"Mila Hodgeson"
+	"Basten Berg"
+	"Thordis Dikken"
+	"Gilot Sulzberger"
+	"Henry Stappenbeld"
+	"Sander Sigvatdottir"
+	"Janneke Poelakker"
+	"Barbara Jay"
+	"Muriel Maydestone"
 }
-monarch_names = { 
+monarch_names = {
+	"Tumi" = +1
+	"Ildebad" = +1
+	"Sampson" = +1
+	"Waldo" = +1
+	"Geitirgest" = +1
+	"Elric" = +1
+	"Jukel" = +1
+	"Jon" = +1
+	"Gris" = +1
+	"Jorn" = +1
+	"Marjorie" = -1
+	"Ysopa" = -1
+	"Clementia" = -1
+	"Avina" = -1
+	"Agatha" = -1
+	"Frances" = -1
+	"Ingaret" = -1
+	"Saegifu" = -1
+	"Ulfheid" = -1
+	"Gudrun" = -1
 }
-ship_names = { 
+ship_names = {
+	"Wem Mad Wyvern"
+	"Watcher of Wickenlund Raglan"
+	"Sorrow Warlock's Harpy Celerity"
+	"Sundew Howling Spear"
+	"Tentacle Bitterwake Cry"
+	"Son of Colfoundry Whisper"
+	"Osprey's Pride The Gilded Fen"
+	"Cabin Fever Dragon's Wail"
+	"Cruel Dagger Dedaigneuse"
+	"The Long Cold Waking Dream"
+	"Ruby Falcon Beggar of Beastsshield"
+	"Hearty Cursed Raven"
+	"Cruel Hunter Duskwake Drifter"
+	"Sunburn Quicksilver"
+	"Watcher of Wickenlund Escape"
 }

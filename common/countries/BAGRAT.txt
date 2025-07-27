@@ -23,8 +23,53 @@ leader_names = {
 	"Ismay Castletown"
 	"Richard Gyll"
 	"Stanilde Cole"
+	"Marlene Stahl"
+	"Gunnora Wrenne"
+	"Rebecca Ruiter"
+	"Attala de Gadea"
+	"Guthhere West"
+	"Piet Wolrond"
+	"Mœid Hogewind"
+	"Gustav Rampston"
+	"Heiko Playters"
+	"Anton Webb"
 }
-monarch_names = { 
+monarch_names = {
+	"Borstig" = +1
+	"Nigel" = +1
+	"Beinir" = +1
+	"Leofstan" = +1
+	"Herebert" = +1
+	"Totila" = +1
+	"Jacob" = +1
+	"Til" = +1
+	"Sampson" = +1
+	"Hermen" = +1
+	"Regina" = -1
+	"Eulalia" = -1
+	"Beatrice" = -1
+	"Wenthelen" = -1
+	"Isabel" = -1
+	"Estrid" = -1
+	"Milda" = -1
+	"Avagisa" = -1
+	"Matasuntha" = -1
+	"Magdalene" = -1
 }
-ship_names = { 
+ship_names = {
+	"Cruel Dagger Blade"
+	"Ten Shatterhelm Shriek"
+	"Runner's Despair Raglan"
+	"Dedaigneuse Possessedfish"
+	"Runner's Despair Six of the Sky"
+	"Rime-Touched Valor Beggar of Beastsshield"
+	"The Silent Fjell Moon Blade"
+	"Burning Vulture Hatherleigh"
+	"Serpent Titan's Bard"
+	"The Hollow Wolf Wem"
+	"Anne Shatterhelm Shriek"
+	"Rune Gull Shadow-Girded Lash"
+	"Dimsey's Light Burning Vulture"
+	"Path Salamander of Griffinsway Carrier"
+	"Wind Seeker Tentacle"
 }

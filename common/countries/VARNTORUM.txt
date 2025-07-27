@@ -23,8 +23,53 @@ leader_names = {
 	"Thomasine Crugge"
 	"Jochen Sulzberger"
 	"Elinor Lacy"
+	"Emelia Schickendantz"
+	"Godwin Baldwin"
+	"Tine Weston"
+	"Tobias Gaytan"
+	"Nard Winkelink"
+	"Oswyn Hilbers"
+	"Jolien Kohnstamm"
+	"Marit Stoughton"
+	"Hanno Schickendantz"
+	"Iemke Homrighausen"
 }
-monarch_names = { 
+monarch_names = {
+	"Rollo" = +1
+	"Jordan" = +1
+	"Koen" = +1
+	"Beucad" = +1
+	"Mert" = +1
+	"Fastida" = +1
+	"Sigemær" = +1
+	"Nathaniel" = +1
+	"Athelstan" = +1
+	"Falco" = +1
+	"Amalasuntha" = -1
+	"Estrid" = -1
+	"Eulalia" = -1
+	"Helen" = -1
+	"Acelina" = -1
+	"Emilia" = -1
+	"Bridget" = -1
+	"Anna" = -1
+	"Gudeliva" = -1
+	"Enota" = -1
 }
-ship_names = { 
+ship_names = {
+	"Silver Arrow Blood-Grey Wave"
+	"Thorn-Gilded Curse Patience"
+	"Thornborough Thorn-Gilded Curse"
+	"Seeker Mason's Folly"
+	"Bird of Cousin's Eye Gone Too Far"
+	"Haunted Gambit Keen of Torcradle"
+	"Sunless Mare Immeral's Kiss"
+	"Keen of Torcradle Escape"
+	"The Silent Fjell Killowen"
+	"Windsunder Moon Raglan"
+	"Princess's Shadow Bird of Cousin's Eye"
+	"Sundew Broken Sigil"
+	"Triad of the Waves Abingdon"
+	"Chained Tempest Sea Champion's Dolphin"
+	"Side Quest Kempenfelt"
 }

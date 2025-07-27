@@ -23,8 +23,53 @@ leader_names = {
 	"Patience Beel"
 	"Lydia Hoehmann"
 	"Fulke Salford"
+	"Dirk-Jan Wyddowsoun"
+	"Huml Gomersall"
+	"Nota Schwann"
+	"Aelric Ginter"
+	"Cecily Beauchamp"
+	"Rebecca Harryses"
+	"Kasper Hoehmann"
+	"Marion de Catilo"
+	"Gutirre Daubernoun"
+	"Cwenhild Arentsen"
 }
-monarch_names = { 
+monarch_names = {
+	"Oliver" = +1
+	"Adrian" = +1
+	"Turbert" = +1
+	"Arthur" = +1
+	"Reynold" = +1
+	"Leofric" = +1
+	"Hrapp" = +1
+	"Gunthigis" = +1
+	"Farthegn" = +1
+	"Hjarrandi" = +1
+	"Mathilde" = -1
+	"Mary" = -1
+	"Euphemia" = -1
+	"Enni" = -1
+	"Goditha" = -1
+	"Ingaret" = -1
+	"Clementia" = -1
+	"Sarra" = -1
+	"Glismoda" = -1
+	"Ingrid" = -1
 }
-ship_names = { 
+ship_names = {
+	"Void Servant of Hadiya's Spire Outlander"
+	"Ash-Clad Swan Bird of Cousin's Eye"
+	"Ironhowl Maiden Cursed Raven"
+	"The Hollow Boar Gertraud's Doom"
+	"Chaoticfish Windsong"
+	"Beggar of Beastsshield Shatterhelm Shriek"
+	"West Son Pale Hammer"
+	"Rime-Touched Valor Crimson Singer"
+	"Possessedfish Twice Sunk"
+	"Spirit Twilight Reaver"
+	"Wyrm-Wind Seeker Seeker"
+	"Devil's Contract Shell Voyager"
+	"Possessedfish Earth Octopus of the West"
+	"Watcher Storm-Bitten Grudge"
+	"Snarling Zephyr of Blackbrook Celerity"
 }

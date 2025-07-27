@@ -23,8 +23,53 @@ leader_names = {
 	"Joel Kleiber"
 	"Odelina Barker"
 	"Kobus Veer"
+	"Osk Isleifdottir"
+	"Rhima Switte"
+	"Wilmot Hindriks"
+	"Tori Fendler"
+	"Cacilia Geirsteinsson"
+	"Joycelin Hopton"
+	"Stefan Weston"
+	"Nathaniel Sotton"
+	"Henk Vloedgraven"
+	"Ontanon de Valmeseda"
 }
-monarch_names = { 
+monarch_names = {
+	"Laurenz" = +1
+	"Lefwin" = +1
+	"Bartholomew" = +1
+	"Totila" = +1
+	"Giles" = +1
+	"Aslac" = +1
+	"Elric" = +1
+	"Seman" = +1
+	"Nicolas" = +1
+	"Jasper" = +1
+	"Basilia" = -1
+	"Alfleta" = -1
+	"Agatha" = -1
+	"Wakerilda" = -1
+	"Estrid" = -1
+	"Anna" = -1
+	"Susanna" = -1
+	"Ellen" = -1
+	"Laura" = -1
+	"Godlefe" = -1
 }
-ship_names = { 
+ship_names = {
+	"Wave Zephyr Wyrm-Wind Seeker"
+	"Snarling Zephyr of Blackbrook Melody"
+	"Black Swan Gilded Shade"
+	"Mistress of the Waves Wave Zephyr"
+	"Zhuirentel Sable-Touched Omen"
+	"The Sunken Boast Earthdon's Heart"
+	"Ten Sorcerer's Nymph"
+	"Queen of Yorvick Rime-Touched Valor"
+	"Oathwither Song Pathfinder"
+	"Cabin Fever Success"
+	"Red-Eyed Stag Quicksilver"
+	"Sky Wizard Black Swan"
+	"Orca Storm-Bitten Grudge"
+	"Earth Hippogriff of Maresmeet Chained Tempest"
+	"The Sunken Boast Sundew"
 }

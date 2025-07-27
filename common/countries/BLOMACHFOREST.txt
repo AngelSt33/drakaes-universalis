@@ -23,8 +23,53 @@ leader_names = {
 	"Godelieve Teunissen Marsman"
 	"Jurrien Dietten"
 	"Asketel Clifton"
+	"Featris Dietten"
+	"Matthew Gustloff"
+	"Amalasuntha Metze"
+	"Luisa Paarhuis"
+	"Frances Molyns"
+	"Susanna Crugge"
+	"Richard Härig"
+	"Bartholomew Berger"
+	"Jodoc Teeselink"
+	"Brian Cunt"
 }
-monarch_names = { 
+monarch_names = {
+	"Wulfgeat" = +1
+	"Edric" = +1
+	"Eldert" = +1
+	"Thorkel" = +1
+	"Silvester" = +1
+	"Gudmund" = +1
+	"Andrew" = +1
+	"Mert" = +1
+	"Valentine" = +1
+	"Anthony" = +1
+	"Livitha" = -1
+	"Marjorie" = -1
+	"Griselda" = -1
+	"Albreda" = -1
+	"Eulalia" = -1
+	"Milda" = -1
+	"Glismoda" = -1
+	"Frances" = -1
+	"Julian" = -1
+	"Sigrunn" = -1
 }
-ship_names = { 
+ship_names = {
+	"Pillager Rime-Touched Valor"
+	"Saltheart Crimson Barrow"
+	"Killowen Burning Inn"
+	"Windsunder Moon Orca"
+	"Titan's Bard Escape"
+	"Hallowed Gale Dubford"
+	"Windsunder Moon Waking Dream"
+	"Iron Devil Beehive"
+	"Unlikely Breaker Fluke"
+	"Grim Breaker Sundew"
+	"Void Servant of Hadiya's Spire Dakins"
+	"Mad Wyvern Surprise"
+	"Lavendar Demon Demon"
+	"Anne Runner's Despair"
+	"Sunless Mare Buccaneer"
 }

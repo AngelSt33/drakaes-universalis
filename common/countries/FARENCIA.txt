@@ -23,8 +23,53 @@ leader_names = {
 	"Isolde Knody"
 	"Crystobell Damsell"
 	"Tiecia Shevington"
+	"Cacilia Zalland"
+	"Ulfi Biorsson"
+	"Gorm Willardsey"
+	"Alrik Vredeveld"
+	"Phillip Auldyngton"
+	"Gunnilda Ryall"
+	"Janneke Grebel"
+	"Cynesige Hanfstaengl"
+	"Willem Boekholt"
+	"Aelric Carter"
 }
-monarch_names = { 
+monarch_names = {
+	"Adrian" = +1
+	"Laurenz" = +1
+	"Griffin" = +1
+	"Isaac" = +1
+	"Machiel" = +1
+	"Maurice" = +1
+	"Warin" = +1
+	"Ulric" = +1
+	"Kadal" = +1
+	"Philip" = +1
+	"Thomasin" = -1
+	"Mabel" = -1
+	"Loveday" = -1
+	"Iva" = -1
+	"Sigrith" = -1
+	"Sigrid" = -1
+	"Pavia" = -1
+	"Amalfriede" = -1
+	"Julian" = -1
+	"Catherine" = -1
 }
-ship_names = { 
+ship_names = {
+	"Void Servant of Hadiya's Spire Black Swan"
+	"Shell Voyager Bird of Cousin's Eye"
+	"Red-Eyed Stag Wellerman"
+	"Unlikely Breaker Soldier of Fiendshelm"
+	"True Witch Black Swan"
+	"Tentacle Runner's Despair"
+	"Falling Star Wolf-Touched Mist"
+	"Osprey's Pride Escape"
+	"Outlander Rime-Touched Valor"
+	"Watcher Runemarked Sorrow"
+	"Stone Gnoll Whisper"
+	"Sunlesswind Pathfinder"
+	"Great Expense Crimson Singer"
+	"Rime-Touched Valor Wem"
+	"Ghost Ghoul Cabin Fever"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Richard Gyll"
 	"Ralph Fitzralph"
 	"Amice Abery"
+	"Geirhild Wohler"
+	"Ulfilas Weston"
+	"Roger Dohl"
+	"Sabine Hogewind"
+	"Rogier Goberd"
+	"Adam Oostelaar"
+	"Denis Webb"
+	"Gaut Dietten"
+	"James Gevelear"
+	"Almerique Rampston"
 }
-monarch_names = { 
+monarch_names = {
+	"Aslac" = +1
+	"Anthony" = +1
+	"Gawain" = +1
+	"Ivo" = +1
+	"Marmaduke" = +1
+	"Leomer" = +1
+	"Babai" = +1
+	"Stephen" = +1
+	"Thorismud" = +1
+	"Brictric" = +1
+	"Mathilde" = -1
+	"Frances" = -1
+	"Rachel" = -1
+	"Garsendis" = -1
+	"Rimilde" = -1
+	"Willy" = -1
+	"Iva" = -1
+	"Ysopa" = -1
+	"Ingrid" = -1
+	"Alice" = -1
 }
-ship_names = { 
+ship_names = {
+	"Cruel Hunter Wolf-Touched Mist"
+	"Gertraud's Doom Ashen Grin"
+	"Snarling Zephyr of Blackbrook Raglan"
+	"Serpent Reflective Spider"
+	"Slayer's Terror Zhuirentel"
+	"Queen of Yorvick Barrowbound Flame"
+	"Dead God True Witch"
+	"Sunless Mare Haunted Gambit"
+	"Watcher Gone Too Far"
+	"Reflective Spider Dimsey's Light"
+	"Kraken Shatterhelm Shriek"
+	"The Silent Fjell Victory"
+	"Possessedfish Stone Gnoll"
+	"Whalebane Echo Blade"
+	"Earth Dragon Sea Champion's Dolphin"
 }

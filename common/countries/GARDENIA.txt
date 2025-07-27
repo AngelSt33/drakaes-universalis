@@ -23,8 +23,53 @@ leader_names = {
 	"Maurits Smalbroek"
 	"Diggory Edgcomb"
 	"Gabriel Robertson"
+	"Anthony de Luque"
+	"Lavinia de Gadea"
+	"Alfleta Launceleyn"
+	"Svenja Barker"
+	"Anton Laken"
+	"Selina Bodmer"
+	"Mawa Brent"
+	"Brictric Castletown"
+	"Amy Lusseveld"
+	"Engelise Helme"
 }
-monarch_names = { 
+monarch_names = {
+	"Warin" = +1
+	"Oliver" = +1
+	"Leon" = +1
+	"Randall" = +1
+	"Herebert" = +1
+	"Percival" = +1
+	"Marcel" = +1
+	"Stannard" = +1
+	"Luuk" = +1
+	"Walter" = +1
+	"Theda" = -1
+	"Amalfrida" = -1
+	"Basilia" = -1
+	"Philippa" = -1
+	"Helewis" = -1
+	"Asgerd" = -1
+	"Mildred" = -1
+	"Laura" = -1
+	"Sigrith" = -1
+	"Protasia" = -1
 }
-ship_names = { 
+ship_names = {
+	"Obsidian Nymph Earthdon's Heart"
+	"Escape Loss Spirit"
+	"Stone Gnoll The Gilded Fen"
+	"Ash-Clad Swan Sundew"
+	"Burning Fjord Pillager"
+	"Ruby Falcon Nunney Castle"
+	"The Withering Hunt Saltheart"
+	"Horror Wish Spitfire"
+	"Iron Devil Sharp Swan of Torhof"
+	"For Play Cuttle"
+	"The Withering Hunt Stone Gnoll"
+	"Sable-Touched Omen Silver Arrow"
+	"Raglan Oathbound Drift"
+	"Whisper God of the Ocean"
+	"Gertraud's Doom The Hollow Wolf"
 }

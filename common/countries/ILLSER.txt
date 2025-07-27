@@ -23,8 +23,53 @@ leader_names = {
 	"Richard Waldeley"
 	"Toka Baker"
 	"Cecilia Woodeward"
+	"Peet Webb"
+	"Nicola Sehlmann"
+	"Steffen Oosterkamp"
+	"Daniel Ioketilldottir"
+	"Helewis Davers"
+	"Amalaswinth Marsman"
+	"Jolina Cary"
+	"Amalasuintha Hillebrand"
+	"Bartholomew Hyde"
+	"Serafina Wolrond"
 }
-monarch_names = { 
+monarch_names = {
+	"Wulfgar" = +1
+	"Gawain" = +1
+	"Vestgeir" = +1
+	"Oswyn" = +1
+	"Laurenz" = +1
+	"Swain" = +1
+	"Conan" = +1
+	"Elric" = +1
+	"Falco" = +1
+	"Andrew" = +1
+	"Philippa" = -1
+	"Tiecia" = -1
+	"Melle" = -1
+	"Freygerd" = -1
+	"Amice" = -1
+	"Joy" = -1
+	"Rimilde" = -1
+	"Glismoda" = -1
+	"Asleif" = -1
+	"Idonea" = -1
 }
-ship_names = { 
+ship_names = {
+	"The Silent Fjell Beehive"
+	"Courtesan's Sprite Gilded Shade"
+	"Immeral's Kiss Path Salamander of Griffinsway"
+	"Cabin Fever Devil's Contract"
+	"Sable-Touched Omen Darvin's Cry"
+	"Lavendar Demon Darvin's Cry"
+	"Deathwind Raglan"
+	"Sunlesswind Hatherleigh"
+	"Hatherleigh Rime-Touched Valor"
+	"Pale Hammer Pillager"
+	"Nunney Castle Duskwake Drifter"
+	"Mad Wyvern Wave Zephyr"
+	"Barrowbound Flame Spirit"
+	"WyrmeEyed Wanderer Pillager"
+	"Cabin Fever Beehive"
 }

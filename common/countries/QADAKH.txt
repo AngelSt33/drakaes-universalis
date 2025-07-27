@@ -23,8 +23,53 @@ leader_names = {
 	"Nanko van 't Bouwhuis"
 	"Thomas Killigrew"
 	"Wulfwin Sever"
+	"Roger Sever"
+	"Cecilia Oostelaar"
+	"Magnus Key"
+	"Mildred Strachleigh"
+	"Jan-Bart Hillebrand"
+	"Wulfgeat Bartels"
+	"Jeremias Tetzlaff"
+	"Hanne Harig"
+	"Fredegar Neceham"
+	"Ljot Slyfield"
 }
-monarch_names = { 
+monarch_names = {
+	"Jon" = +1
+	"Ildebad" = +1
+	"Aithanarid" = +1
+	"Bartjan" = +1
+	"Tumi" = +1
+	"Michael" = +1
+	"Gorm" = +1
+	"Fastida" = +1
+	"Bernard" = +1
+	"Gudmund" = +1
+	"Laura" = -1
+	"Helen" = -1
+	"Asleif" = -1
+	"Madia" = -1
+	"Marjorie" = -1
+	"Tiecia" = -1
+	"Enota" = -1
+	"Goditha" = -1
+	"Emma" = -1
+	"Oda" = -1
 }
-ship_names = { 
+ship_names = {
+	"Nunney Castle Obsidian Nymph"
+	"Earth Hippogriff of Maresmeet Sable-Touched Omen"
+	"Princess's Shadow Wem"
+	"Whalebane Echo Discreet Secret"
+	"Queen of Yorvick Shell Voyager"
+	"The Hollow Boar Misery"
+	"Watcher Blood-Grey Wave"
+	"Nymphen Misadventure"
+	"WyrmeEyed Wanderer Immeral's Kiss"
+	"Wyrm-Wind Seeker Serpent"
+	"Courtesan's Sprite Gone Too Far"
+	"Sunburn Gull's Shadow"
+	"Rider's Luck The Hollow Wolf"
+	"Sunless Mare Cruel Hunter"
+	"Thorn-Gilded Curse God of the Ocean"
 }

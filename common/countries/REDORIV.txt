@@ -23,8 +23,53 @@ leader_names = {
 	"Whyburgh Faylare"
 	"Toka Baker"
 	"Golde Hyll"
+	"Gustav Bradshawe"
+	"Marit Killigrew"
+	"Lennert Ogmundottir"
+	"Monia Mirones"
+	"Elionor Bernard"
+	"Regina Cleffort"
+	"Angrebod Greenway"
+	"Christoph Cod"
+	"Harald Bouwhuis"
+	"Mathies Parsons"
 }
-monarch_names = { 
+monarch_names = {
+	"Bergfinn" = +1
+	"Ansketil" = +1
+	"Algar" = +1
+	"Robert" = +1
+	"Aelnod" = +1
+	"Sigemær" = +1
+	"Maurice" = +1
+	"Allen" = +1
+	"Jacob" = +1
+	"Alfsige" = +1
+	"Acelina" = -1
+	"Nicola" = -1
+	"Gudrun" = -1
+	"Hild" = -1
+	"Mathilde" = -1
+	"Hallgerd" = -1
+	"Theda" = -1
+	"Rimilde" = -1
+	"Cassandra" = -1
+	"Ursula" = -1
 }
-ship_names = { 
+ship_names = {
+	"Fell Wight Osprey's Pride"
+	"Steadfast Dakins"
+	"Great Expense Enterprise"
+	"Hallowed Gale Devil's Contract"
+	"Ten Blood-Grey Wave"
+	"Dakins WyrmeEyed Wanderer"
+	"Blood-Grey Wave Buccaneer"
+	"Possessedfish Soldier of Fiendshelm"
+	"Death Rattle Aquilon"
+	"Cruel Dagger Spitfire"
+	"The Sunken Boast Melody"
+	"Sorrow Warlock's Harpy Wem"
+	"Nevermore Ruby Ranger"
+	"Rider's Luck Loss Spirit"
+	"Gone Too Far Arunta"
 }

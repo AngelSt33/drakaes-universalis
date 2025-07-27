@@ -23,8 +23,53 @@ leader_names = {
 	"Rayko Harig"
 	"Karin Gustloff"
 	"Iwan Elsbroek"
+	"Gregor Killigrew"
+	"Julian Rogge"
+	"Toka Carter"
+	"Rikiar Norwood"
+	"Regina Bartram"
+	"Mark Carter"
+	"Erelieva Briggs"
+	"Wicing Hodgeson"
+	"Alan Luppe"
+	"Constantin Thorgeirsson"
 }
-monarch_names = { 
+monarch_names = {
+	"Geitirgest" = +1
+	"Herebert" = +1
+	"Sampson" = +1
+	"Walahmar" = +1
+	"Swain" = +1
+	"Asketil" = +1
+	"Anagastes" = +1
+	"Oswyn" = +1
+	"Thori" = +1
+	"Thurston" = +1
+	"Enota" = -1
+	"Sarah" = -1
+	"Chlodoswintha" = -1
+	"Ingrid" = -1
+	"Catherine" = -1
+	"Aldreda" = -1
+	"Yvette" = -1
+	"Muriel" = -1
+	"Veerle" = -1
+	"Ellen" = -1
 }
-ship_names = { 
+ship_names = {
+	"Hot Flush Song of Cedar Mere"
+	"Discreet Secret Runemarked Sorrow"
+	"Sea Champion's Dolphin Deathwind"
+	"Oathwither Song Black Swan"
+	"Snarling Zephyr of Blackbrook Killowen"
+	"Immeral's Kiss Hearthless Flight"
+	"The Hollow Wolf Devil's Contract"
+	"Dimsey's Light The Gilded Fen"
+	"The Wolf's Regret Fell Wight"
+	"Beggar of Beastsshield Fate"
+	"Ironhowl Maiden Dordrecht"
+	"The Silent Fjell Dedaigneuse"
+	"Sorrow Warlock's Harpy Pool Pilgrim"
+	"The Long Cold Blade"
+	"Glace Bay Grim Breaker"
 }

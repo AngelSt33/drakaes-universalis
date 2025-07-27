@@ -23,8 +23,53 @@ leader_names = {
 	"Mannes de Ruiter"
 	"Eustace Spebynton"
 	"Tatiana Hilbers"
+	"Gijsbert Heimsoth"
+	"Elmar Stoughton"
+	"Thorve Klijn"
+	"Gunnora Praas"
+	"Gerda Gudlaugdottir"
+	"Wulsi Seger"
+	"Bas Stangl"
+	"Ferrnando Hrokdottir"
+	"Bernard Bewforest"
+	"Amy Strunk"
 }
-monarch_names = { 
+monarch_names = {
+	"Philips" = +1
+	"Randall" = +1
+	"Rowland" = +1
+	"Beucad" = +1
+	"Guy" = +1
+	"Humphrey" = +1
+	"Godric" = +1
+	"Silvester" = +1
+	"Youri" = +1
+	"Leofing" = +1
+	"Rimilde" = -1
+	"Godusa" = -1
+	"Isabel" = -1
+	"Alfleta" = -1
+	"Ormhild" = -1
+	"Mabel" = -1
+	"Jenefer" = -1
+	"Malasintha" = -1
+	"Mathilda" = -1
+	"Hunila" = -1
 }
-ship_names = { 
+ship_names = {
+	"Enterprise Shatterhelm Shriek"
+	"Dead God Triad of the Waves"
+	"Cruel Hunter The Withering Hunt"
+	"Fate Ten"
+	"Song of Cedar Mere WyrmeEyed Wanderer"
+	"Six of the Sky Keen of Torcradle"
+	"Eight of the Waves The Shivering Hoard"
+	"Silverfang Gale Serpent"
+	"Wellerman Possessedfish"
+	"Ruby Falcon Devil's Contract"
+	"Watcher of Wickenlund Silver Arrow"
+	"The Wolf's Regret Kilcurrig"
+	"Watcher of Wickenlund Setter"
+	"Pool Pilgrim Ironhowl Maiden"
+	"Setter The Hollow Wolf"
 }

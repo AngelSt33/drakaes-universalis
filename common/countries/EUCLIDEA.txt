@@ -23,8 +23,53 @@ leader_names = {
 	"Fortune Auldyngton"
 	"Leendert Koestra"
 	"Ealdhelm of Nibury"
+	"Henkjan Norel"
+	"Henk-Jan Strunk"
+	"Clarissa Badby"
+	"Ljot Baldwin"
+	"Domingo Hiddink"
+	"Sarah Maneschijns"
+	"Margaret Boes"
+	"Narin Leman"
+	"Galla Barg"
+	"Gabriel Weterink"
 }
-monarch_names = { 
+monarch_names = {
+	"Asketil" = +1
+	"Marmaduke" = +1
+	"Tedric" = +1
+	"Valentine" = +1
+	"Lewin" = +1
+	"Edward" = +1
+	"Tobias" = +1
+	"Simon" = +1
+	"Matteo" = +1
+	"Osgood" = +1
+	"Amalfriede" = -1
+	"Protasia" = -1
+	"Estrid" = -1
+	"Joyce" = -1
+	"Euphemia" = -1
+	"Regina" = -1
+	"Iva" = -1
+	"Yvette" = -1
+	"Osk" = -1
+	"Preciosa" = -1
 }
-ship_names = { 
+ship_names = {
+	"Dimsey's Light Howling Spear"
+	"Side Quest Bird of Cousin's Eye"
+	"Wem Frostbitten Rook"
+	"Howling Spear Kempenfelt"
+	"The Wolf's Regret Queen of Yorvick"
+	"Watcher Watcher of Wickenlund"
+	"Path Salamander of Griffinsway Tentacle"
+	"Chained Tempest Cursed Raven"
+	"Crimson Barrow Celerity"
+	"Sunless Mare Saltheart"
+	"Sunburn Blade"
+	"Zhuirentel Barrowbound Flame"
+	"Twice Sunk Sea Golem"
+	"Titan's Bard Gull's Shadow"
+	"God of the Ocean The Gilded Fen"
 }

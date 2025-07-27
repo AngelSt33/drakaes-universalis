@@ -23,8 +23,53 @@ leader_names = {
 	"Zarina Heitz"
 	"Ole Kaplan"
 	"Nanko van 't Bouwhuis"
+	"Joeri Rede"
+	"Tatiana Kyllyngworth"
+	"Thomasine Buit"
+	"Amalasuintha Heiden"
+	"Herebert Bos"
+	"Godelieve Omvlee"
+	"Garsendis Benthey"
+	"Helewis Hache"
+	"Nathaniel Mullekes"
+	"Elinor Chauncey"
 }
-monarch_names = { 
+monarch_names = {
+	"Kjallak" = +1
+	"William" = +1
+	"Henry" = +1
+	"Fastida" = +1
+	"Vivian" = +1
+	"Simon" = +1
+	"Heiko" = +1
+	"Allen" = +1
+	"Farthegn" = +1
+	"Kaetilmund" = +1
+	"Wakerilda" = -1
+	"Milda" = -1
+	"Susanna" = -1
+	"Amalasuntha" = -1
+	"Godlefe" = -1
+	"Mary" = -1
+	"Richenda" = -1
+	"Sien" = -1
+	"Rosamund" = -1
+	"Hrodny" = -1
 }
-ship_names = { 
+ship_names = {
+	"Orca Oathwither Song"
+	"Seeker Ash-Clad Swan"
+	"Valhalla The Hollow Boar"
+	"Burning Fjord Kraken"
+	"Raglan Duskwake Drifter"
+	"Osprey's Pride Dragon's Wail"
+	"Red-Eyed Stag Sharp Swan of Torhof"
+	"Carrier The Sunken Boast"
+	"Ghost Ghoul Path Salamander of Griffinsway"
+	"Bold Venture Soldier of Fiendshelm"
+	"Iron Devil Hunter"
+	"Misadventure Jasper"
+	"Deathwind Celerity"
+	"Sea Golem Earthdon's Heart"
+	"Whalebane Echo Quicksilver"
 }

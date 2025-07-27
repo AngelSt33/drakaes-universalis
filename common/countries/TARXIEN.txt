@@ -23,8 +23,53 @@ leader_names = {
 	"Bas Kamerling"
 	"Cecilia Woodeward"
 	"Reginald Eldysley"
+	"Peet Beel"
+	"Parnell Dyneley"
+	"Joycelin Zell"
+	"Marmaduke Schickendantz"
+	"Magdelena Bewforest"
+	"Attala Coulthurst"
+	"Eustace Playters"
+	"Gilot Prowd"
+	"Edward Velt"
+	"Mieke Oostelaar"
 }
-monarch_names = { 
+monarch_names = {
+	"Herebert" = +1
+	"Nicolas" = +1
+	"Hanno" = +1
+	"Athelstan" = +1
+	"Michael" = +1
+	"Martin" = +1
+	"Arne" = +1
+	"Reginald" = +1
+	"Jon" = +1
+	"Stephen" = +1
+	"Catherine" = -1
+	"Jenefer" = -1
+	"Gilot" = -1
+	"Alwina" = -1
+	"Goditha" = -1
+	"Ailith" = -1
+	"Marjorie" = -1
+	"Sien" = -1
+	"Bridget" = -1
+	"Rimilde" = -1
 }
-ship_names = { 
+ship_names = {
+	"Glace Bay Horror Wish"
+	"Vain Gravedigger Melody"
+	"Void Servant of Hadiya's Spire Watcher"
+	"For Play Ten"
+	"The Silent Fjell Success"
+	"The Wolf's Regret West Son"
+	"Shatterhelm Shriek Iron Dragon's Doom"
+	"Earth Octopus of the West Blood-Grey Wave"
+	"Crimson Barrow Song of Cedar Mere"
+	"Whalebane Echo Dakins"
+	"Gone Too Far Melody"
+	"Gilded Shade Watcher"
+	"Fallow Vengeance Fell Wight"
+	"Victory The Last Meadfire"
+	"WyrmeEyed Wanderer Omen"
 }

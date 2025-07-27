@@ -23,8 +23,53 @@ leader_names = {
 	"Ralph Goberd"
 	"Pier van Norel"
 	"Solomon Hampden"
+	"Nicolas Cole"
+	"Verle Buryngton"
+	"Jochem de Mora"
+	"Amalfrieda Hillebrand"
+	"Lefwin Whitewood"
+	"Humphrey Edelman"
+	"Lydia Wylde"
+	"Toos Gorste"
+	"Alex Ogmundottir"
+	"Paulus Boer"
 }
-monarch_names = { 
+monarch_names = {
+	"Jorn" = +1
+	"Warin" = +1
+	"Augustin" = +1
+	"Sisebut" = +1
+	"Asketil" = +1
+	"Denis" = +1
+	"Kaetilmund" = +1
+	"Roger" = +1
+	"Akeman" = +1
+	"Ambrose" = +1
+	"Saegifu" = -1
+	"Wenthelen" = -1
+	"Amalfrida" = -1
+	"Ellen" = -1
+	"Cassandra" = -1
+	"Barbara" = -1
+	"Veerle" = -1
+	"Leofe" = -1
+	"Joy" = -1
+	"Muriel" = -1
 }
-ship_names = { 
+ship_names = {
+	"Wem Sunburn"
+	"Keen of Torcradle Bird of Cousin's Eye"
+	"Wailing Wyrm Soldier of Fiendshelm"
+	"Windsunder Moon Ghost Ghoul"
+	"Wind Seeker Outlander"
+	"Quicksilver Gordia's Light"
+	"Twice Sunk Red-Eyed Stag"
+	"Silverfang Gale Earth Octopus of the West"
+	"Hallowed Gale Loyalty"
+	"Chained Tempest Side Quest"
+	"Unlikely Breaker Watcher"
+	"Wish of Carlusk Haunted Gambit"
+	"Ruby Falcon Victory"
+	"Triad of the Waves Glace Bay"
+	"Grim Breaker Success"
 }

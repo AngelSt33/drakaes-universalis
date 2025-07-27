@@ -23,8 +23,53 @@ leader_names = {
 	"Sander Klijn"
 	"Thomas Norden"
 	"Mathijs Westera"
+	"Bregje Windham"
+	"Jan-Bart Steinhaeusser"
+	"Petronille Kalenkamp"
+	"Angrebod Bernal"
+	"Gawain Hale"
+	"Magnus Cod"
+	"Tristan Wildiek"
+	"Huib Sotton"
+	"Elinor Stangl"
+	"Lucas Gunnsteindottir"
 }
-monarch_names = { 
+monarch_names = {
+	"Alan" = +1
+	"Algar" = +1
+	"James" = +1
+	"Gerard" = +1
+	"Louw" = +1
+	"Bernard" = +1
+	"Hrapp" = +1
+	"Humphrey" = +1
+	"Adrian" = +1
+	"Laurens-Jan" = +1
+	"Avagisa" = -1
+	"Ailith" = -1
+	"Iva" = -1
+	"Isabel" = -1
+	"Ursula" = -1
+	"Hild" = -1
+	"Marjorie" = -1
+	"Amalfriede" = -1
+	"Teja" = -1
+	"Idonea" = -1
 }
-ship_names = { 
+ship_names = {
+	"Obsidian Nymph Dakins"
+	"Sunless Mare Discreet Secret"
+	"Six of the Sky Whisper's Hope"
+	"Crimson Singer Hearthless Flight"
+	"Ten Hearthless Flight"
+	"Sable-Touched Omen Cursed Raven"
+	"Runemarked Sorrow Osprey's Pride"
+	"Titan's Bard Kempenfelt"
+	"Orca Sunless Mare"
+	"Lalmourn Possessedfish"
+	"West Son Sky Wizard"
+	"Sea Golem Escape"
+	"Mistress of the Waves Raglan"
+	"Misadventure Kempenfelt"
+	"The Long Cold Sharp Swan of Torhof"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Patience Beel"
 	"Mildred Willardsey"
 	"Arthur Panshawe"
+	"Hygbald Lacy"
+	"Frances Sever"
+	"Avina Sever"
+	"Patza Mandl"
+	"Emeline Bigley"
+	"Mabel Bownell"
+	"Tatiana Webb"
+	"Brian Saynsbery"
+	"Gerard Schickendantz"
+	"Rebecca Fakereach"
 }
-monarch_names = { 
+monarch_names = {
+	"Osgood" = +1
+	"Ambrose" = +1
+	"Hanno" = +1
+	"Aelnod" = +1
+	"Josce" = +1
+	"Gawain" = +1
+	"Ildebad" = +1
+	"Brictric" = +1
+	"Adrian" = +1
+	"Leonard" = +1
+	"Osk" = -1
+	"Theda" = -1
+	"Iva" = -1
+	"Hild" = -1
+	"WillemijnLovechild" = -1
+	"Isolde" = -1
+	"Ursula" = -1
+	"Euphemia" = -1
+	"Eve" = -1
+	"Cwenhild" = -1
 }
-ship_names = { 
+ship_names = {
+	"Hallowed Gale Song of Cedar Mere"
+	"Fell Wight Slayer's Terror"
+	"Hangman's Hate Side Quest"
+	"Mistress of the Waves Earth Hippogriff of Maresmeet"
+	"Ashen Grin Stone Gnoll"
+	"Omen Storm-Bitten Grudge"
+	"Kilcurrig Gone Too Far"
+	"Sorrow Warlock's Harpy Watcher"
+	"Princess's Shadow Kraken"
+	"Windsunder Moon Zhuirentel"
+	"The Last Meadfire Spirit"
+	"Watcher True Witch"
+	"Dead God Deathwind"
+	"Whisper's Hope Dordrecht"
+	"Sable-Touched Omen Escape"
 }

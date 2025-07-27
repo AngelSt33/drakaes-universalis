@@ -23,8 +23,53 @@ leader_names = {
 	"Richard Gyll"
 	"Barbara Fitzralph"
 	"Wulfgeat Lave"
+	"Ostrogotho Gorste"
+	"Stannard Metze"
+	"Basten Kastner"
+	"Piet Strokappe"
+	"Amalaswinth Perryvalle"
+	"Luca Harig"
+	"David Maudit"
+	"Farnobius Hersch"
+	"Olivia Cranford"
+	"Ard Staple"
 }
-monarch_names = { 
+monarch_names = {
+	"Jasper" = +1
+	"Richard" = +1
+	"Koen" = +1
+	"Jordan" = +1
+	"Drogo" = +1
+	"Tobias" = +1
+	"William" = +1
+	"Leofric" = +1
+	"Youri" = +1
+	"Beucad" = +1
+	"Maria" = -1
+	"Griselda" = -1
+	"Cassandra" = -1
+	"Amalaswinth" = -1
+	"Gudeliva" = -1
+	"Helen" = -1
+	"Brunihild" = -1
+	"Avagisa" = -1
+	"Mabel" = -1
+	"Runa" = -1
 }
-ship_names = { 
+ship_names = {
+	"Dakins Bitterwake Cry"
+	"Howling Spear Seeker"
+	"Sunlesswind Watcher"
+	"Slayer's Terror Seeker"
+	"Sable-Touched Omen Son of Colfoundry"
+	"Killowen Shatterhelm Shriek"
+	"Fluke Whisper"
+	"The Wolf's Regret Kraken"
+	"Howling Spear Valhalla"
+	"Kempenfelt Mason's Folly"
+	"Wailing Wyrm Outlander"
+	"Broken Sigil Copper King of Hare's Hill"
+	"Ash-Clad Swan Earthdon's Heart"
+	"Red-Eyed Stag Setter"
+	"Broken Sigil Escape"
 }

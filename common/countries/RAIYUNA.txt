@@ -23,8 +23,53 @@ leader_names = {
 	"Peet van der Tas"
 	"Loveday Davers"
 	"Sahra Koch"
+	"Ido Bigley"
+	"Jacoliene Hassink"
+	"Gaiseric Smalbroek"
+	"Joeri Nafnidottir"
+	"Pien Rampston"
+	"Engelise Overbeek"
+	"Amalfrieda Holmfastsson"
+	"Silvester Schuerer"
+	"Jolina Bigley"
+	"Bartholomew Isleifdottir"
 }
-monarch_names = { 
+monarch_names = {
+	"Cyrila" = +1
+	"Josce" = +1
+	"Samuel" = +1
+	"Andrew" = +1
+	"Oswyn" = +1
+	"Randall" = +1
+	"Rowland" = +1
+	"Gilbert" = +1
+	"Aelric" = +1
+	"Joscelin" = +1
+	"Willy" = -1
+	"Hallgerd" = -1
+	"Asgerd" = -1
+	"Thomasin" = -1
+	"Gudrun" = -1
+	"Ingaret" = -1
+	"Marit" = -1
+	"Malasintha" = -1
+	"Eulalia" = -1
+	"Runa" = -1
 }
-ship_names = { 
+ship_names = {
+	"Oathwither Song Valhalla"
+	"Iron Devil Tentacle"
+	"Thornborough Horror Wish"
+	"Silverfang Gale Clove Tree"
+	"Fallow Vengeance Wellerman"
+	"Storm-Bitten Grudge Discreet Secret"
+	"Glace Bay Blood-Grey Wave"
+	"Pool Pilgrim Burning Inn"
+	"Horror Wish Dordrecht"
+	"Raglan Princess's Shadow"
+	"Carrier Keen of Torcradle"
+	"Duskwake Drifter Kempenfelt"
+	"Blade Watcher of Wickenlund"
+	"Iron Dragon's Doom The Shivering Hoard"
+	"Orca Sunlesswind"
 }

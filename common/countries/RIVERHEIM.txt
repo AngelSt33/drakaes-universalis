@@ -23,8 +23,53 @@ leader_names = {
 	"Cassandra Wyddowsoun"
 	"Kaatje Boes"
 	"Ole Kaplan"
+	"Edward Gevelear"
+	"Gregor Bradshawe"
+	"Anthony Wildiek"
+	"Karlijn Bardolf"
+	"Jolina Metze"
+	"Dik Schulte"
+	"Graviel Abend"
+	"Harm Lexis"
+	"Amy Sehlmann"
+	"Catalina Launceleyn"
 }
-monarch_names = { 
+monarch_names = {
+	"Isaak" = +1
+	"Orgumleidi" = +1
+	"Joscelin" = +1
+	"Drogo" = +1
+	"Elgar" = +1
+	"Fulk" = +1
+	"Seman" = +1
+	"Godric" = +1
+	"James" = +1
+	"Fritz" = +1
+	"Freygerd" = -1
+	"Susanna" = -1
+	"Jenefer" = -1
+	"Idonea" = -1
+	"Philippa" = -1
+	"Agatha" = -1
+	"Protasia" = -1
+	"Ulfheid" = -1
+	"Muriel" = -1
+	"Runa" = -1
 }
-ship_names = { 
+ship_names = {
+	"Cabin Fever Ortenzia"
+	"Tentacle Cabin Fever"
+	"Obsidian Nymph Melody"
+	"Sundered Moon Unlikely Breaker"
+	"Side Quest Nymphen"
+	"Wellerman Rime-Touched Valor"
+	"Ruby Falcon Misery"
+	"The Hollow Wolf Queen of Yorvick"
+	"Jasper Misadventure"
+	"Wolf-Touched Mist Wave Zephyr"
+	"God of the Ocean Cabin Fever"
+	"Murlusk's Thunder Whisper"
+	"Burning Fjord Carrier"
+	"The Long Cold Dedaigneuse"
+	"Great Expense Abingdon"
 }

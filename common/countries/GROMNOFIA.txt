@@ -23,8 +23,53 @@ leader_names = {
 	"Wulsi Greenway"
 	"Amy Bohan"
 	"Loveday Davers"
+	"Anthony Borgardottir"
+	"Golde Gradl"
+	"Teunissen Peereboom"
+	"Amalafrida Cunt"
+	"Lilli Buit"
+	"Rosamund Unton"
+	"Bridget Crugge"
+	"Mœid de Catilo"
+	"Ismay Ehrler"
+	"Roger Paarhuis"
 }
-monarch_names = { 
+monarch_names = {
+	"Wulfgeat" = +1
+	"Hrapp" = +1
+	"Adrian" = +1
+	"Farthegn" = +1
+	"Magnus" = +1
+	"Nathaniel" = +1
+	"Albert" = +1
+	"Leomer" = +1
+	"Ricimer" = +1
+	"Rowland" = +1
+	"Avina" = -1
+	"Mathilda" = -1
+	"Helen" = -1
+	"Sigrid" = -1
+	"Ulfheid" = -1
+	"Hild" = -1
+	"Frances" = -1
+	"Asgerd" = -1
+	"Cassandra" = -1
+	"Philippa" = -1
 }
-ship_names = { 
+ship_names = {
+	"Beggar of Beastsshield The Silent Fjell"
+	"Ruby Ranger Wave Zephyr"
+	"Waking Dream Sorrow Warlock's Harpy"
+	"Shell Voyager Anne"
+	"Fallow Vengeance Buccaneer"
+	"Shatterhelm Shriek Sea Champion's Dolphin"
+	"Loyalty Deathwind"
+	"Ruby Falcon Windsong"
+	"Pale Hammer Melody"
+	"Wish of Carlusk Dubford"
+	"Murlusk's Thunder Sky Wizard"
+	"Moon Blade Ashen Grin"
+	"Chained Tempest Soldier of Fiendshelm"
+	"Clove Tree Sunburn"
+	"Raglan Barrowbound Flame"
 }

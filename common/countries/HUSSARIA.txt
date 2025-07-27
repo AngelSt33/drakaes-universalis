@@ -23,8 +23,53 @@ leader_names = {
 	"Muriel Byngham"
 	"Richard Gyll"
 	"Marlene Bernbaum"
+	"Leofstan Mirones"
+	"Mabel Weizenbaum"
+	"Olvir Gustloff"
+	"Gerda Lucy"
+	"Henk-Jan Byngham"
+	"Parnell Hosteler"
+	"Henk-Jan Guthrumsson"
+	"Erik Wolrond"
+	"Mathies Bischoptree"
+	"Patza Peucker"
 }
-monarch_names = { 
+monarch_names = {
+	"Kjallak" = +1
+	"Bertram" = +1
+	"Humphrey" = +1
+	"Bernard" = +1
+	"Simon" = +1
+	"Attwell" = +1
+	"Leofing" = +1
+	"Fulk" = +1
+	"Ulfketel" = +1
+	"Hamo" = +1
+	"Hrodny" = -1
+	"Glismoda" = -1
+	"Cassandra" = -1
+	"Wilamin" = -1
+	"Goditha" = -1
+	"Avina" = -1
+	"Joy" = -1
+	"Aldis" = -1
+	"Alwina" = -1
+	"Winifred" = -1
 }
-ship_names = { 
+ship_names = {
+	"Snarling Zephyr of Blackbrook Pool Pilgrim"
+	"Gilded Shade Courtesan's Sprite"
+	"Dimsey's Light Lavendar Demon"
+	"Wem Swanless Wake"
+	"Wolf-Touched Mist Crimson Singer"
+	"Whiskey Chaser Hull Camel"
+	"Twice Sunk Osprey's Pride"
+	"Immeral's Kiss Possessedfish"
+	"Ash-Clad Swan Twice Sunk"
+	"Earth Dragon Anne"
+	"Sundered Moon Sable-Touched Omen"
+	"Runner's Despair Son of Colfoundry"
+	"Lavendar Demon Serpent"
+	"Misadventure Son of Colfoundry"
+	"Chained Tempest Beehive"
 }

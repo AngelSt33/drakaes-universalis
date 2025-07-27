@@ -23,8 +23,53 @@ leader_names = {
 	"Angrebod Windham"
 	"Kathrin Sperl"
 	"Leofric Bradshawe"
+	"Toka Barker"
+	"Jolien Staple"
+	"Thomasine Parsons"
+	"Karlijn Stelzner"
+	"Whyburgh Corbett"
+	"Catherine Bexley"
+	"Elgar Bain"
+	"Marcel Westerhof"
+	"Jan-Bart Neuner"
+	"Willem de Catilo"
 }
-monarch_names = { 
+monarch_names = {
+	"Luuk" = +1
+	"Gorm" = +1
+	"Elgar" = +1
+	"Antonin" = +1
+	"Falco" = +1
+	"Robert" = +1
+	"Sewel" = +1
+	"Thomas" = +1
+	"Vivian" = +1
+	"Gudmund" = +1
+	"Emilia" = -1
+	"Julian" = -1
+	"Hunila" = -1
+	"Freygerd" = -1
+	"Earngith" = -1
+	"Barbara" = -1
+	"Oda" = -1
+	"Joyce" = -1
+	"Gudeliva" = -1
+	"Goditha" = -1
 }
-ship_names = { 
+ship_names = {
+	"Demon Unlikely Breaker"
+	"God of the Ocean Sunless Mare"
+	"Wish of Carlusk Beehive"
+	"Great Expense Clove Tree"
+	"Copper King of Hare's Hill Chained Tempest"
+	"Blood-Grey Wave Escape"
+	"Ironhowl Maiden Beehive"
+	"Ghost Ghoul Deathwind"
+	"Blood-Grey Wave Black Swan"
+	"Burning Inn Bird of Cousin's Eye"
+	"Reflective Spider Success"
+	"The Hollow Boar Earthdon's Heart"
+	"Twilight Reaver Hull Camel"
+	"Nunney Castle Whisper's Hope"
+	"Obsidian Nymph Waking Dream"
 }

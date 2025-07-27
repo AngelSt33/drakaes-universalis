@@ -23,8 +23,53 @@ leader_names = {
 	"Joeri de Boer"
 	"Henk Weitenberg"
 	"Iva Peucker"
+	"Ivette Goofy"
+	"Amalfriede Panshawe"
+	"Petra Weingaertner"
+	"Drogo Launceleyn"
+	"Magnus Stahl"
+	"Amelie Heek"
+	"Nicola Town"
+	"Almeyque Praas"
+	"Christopher Switte"
+	"Bas Winkelink"
 }
-monarch_names = { 
+monarch_names = {
+	"Huibert" = +1
+	"Randall" = +1
+	"Gunteric" = +1
+	"Brictric" = +1
+	"Philip" = +1
+	"Godric" = +1
+	"Giles" = +1
+	"Seman" = +1
+	"Leofric" = +1
+	"George" = +1
+	"Yvette" = -1
+	"Amalfriede" = -1
+	"Preciosa" = -1
+	"Euphemia" = -1
+	"Millicent" = -1
+	"Isabel" = -1
+	"Garsendis" = -1
+	"Ingaret" = -1
+	"Sigrunn" = -1
+	"Helen" = -1
 }
-ship_names = { 
+ship_names = {
+	"Glace Bay Wailing Wyrm"
+	"Anne Wyrm-Wind Seeker"
+	"Gilded Shade Glace Bay"
+	"Spitfire Mistress of the Waves"
+	"Killowen Ironhowl Maiden"
+	"Earth Dragon Gertraud's Doom"
+	"God of the Ocean Bold Venture"
+	"Kraken Path Salamander of Griffinsway"
+	"The Shivering Hoard Devil's Contract"
+	"The Long Cold Pool Pilgrim"
+	"Shadow-Girded Lash Pool Pilgrim"
+	"Tentacle Obsidian Nymph"
+	"Fluke Ruby Falcon"
+	"God of the Ocean Hearty"
+	"Shatterhelm Shriek Zhuirentel"
 }

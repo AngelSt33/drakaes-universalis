@@ -23,8 +23,53 @@ leader_names = {
 	"Christiane Schlechter"
 	"Karin Gustloff"
 	"Harm Duchateau"
+	"Amalfrida Fischinger"
+	"Loveday Zalland"
+	"Jan-Willem Valreach"
+	"Jacob Nemetz"
+	"Hygbald de Mata"
+	"Lindert Curteys"
+	"Reginald Panshawe"
+	"Jan-Bart Herz"
+	"Cacilia Walsch"
+	"Samira Bartels"
 }
-monarch_names = { 
+monarch_names = {
+	"Uraias" = +1
+	"Sisebut" = +1
+	"Jukel" = +1
+	"Mert" = +1
+	"Josce" = +1
+	"David" = +1
+	"Denis" = +1
+	"Vestgeir" = +1
+	"Augustin" = +1
+	"Torkel" = +1
+	"Roosje" = -1
+	"Godusa" = -1
+	"Rimilde" = -1
+	"Anna" = -1
+	"Idonea" = -1
+	"Barbara" = -1
+	"Marit" = -1
+	"Oda" = -1
+	"Aldreda" = -1
+	"Saegifu" = -1
 }
-ship_names = { 
+ship_names = {
+	"Cabin Fever Six of the Sky"
+	"Triad of the Waves Arunta"
+	"Watcher Sea Golem"
+	"Son of Colfoundry Burning Vulture"
+	"Dakins Sunless Mare"
+	"Side Quest Titan's Bard"
+	"Mason's Folly Wind Song"
+	"Kilcurrig The Hollow Boar"
+	"Hearthless Flight Arunta"
+	"Deathwind Ten"
+	"Barrowbound Flame Patience"
+	"Blade The Hollow Boar"
+	"Triad of the Waves Wave Zephyr"
+	"Burning Fjord Serpent"
+	"Slayer's Terror Silver Arrow"
 }

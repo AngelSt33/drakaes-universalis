@@ -23,8 +23,53 @@ leader_names = {
 	"Ruby Niekisch"
 	"Margery Cavell"
 	"Sarah Molyns"
+	"Ragnhild Mahler"
+	"Arnold Ardes"
+	"Clarissa Bos"
+	"Felizitas Parsons"
+	"Geirhild Valreach"
+	"Ulfilas Wegman"
+	"Frances Lond"
+	"Thorve Kestenbaum"
+	"Thomasin Helme"
+	"Isabelle Nasidottir"
 }
-monarch_names = { 
+monarch_names = {
+	"Alan" = +1
+	"Machiel" = +1
+	"Christopher" = +1
+	"Warin" = +1
+	"Fulke" = +1
+	"Nathaniel" = +1
+	"Seman" = +1
+	"Ildebad" = +1
+	"Bergfinn" = +1
+	"Farthegn" = +1
+	"Amalaswinth" = -1
+	"Asleif" = -1
+	"Melle" = -1
+	"Garsendis" = -1
+	"Joyce" = -1
+	"Leofe" = -1
+	"Chlodoswintha" = -1
+	"WillemijnLovechild" = -1
+	"Emma" = -1
+	"Megan-Laureen" = -1
 }
-ship_names = { 
+ship_names = {
+	"Serpent The Hollow Wolf"
+	"Hatherleigh Chained Tempest"
+	"Whisper Nymphen"
+	"Immeral's Kiss Shatterhelm Shriek"
+	"Aquilon Misadventure"
+	"Reflective Spider Sharp Swan of Torhof"
+	"Cursed Raven Iron Devil"
+	"Path Salamander of Griffinsway Raglan"
+	"Queen of Yorvick Whisper's Hope"
+	"Abingdon Deathwind"
+	"Ruby Ranger God of the Ocean"
+	"Osprey's Pride Bold Venture"
+	"Broken Sigil Crimson Singer"
+	"Sable-Touched Omen Waking Dream"
+	"Oathwither Song Ledbury"
 }

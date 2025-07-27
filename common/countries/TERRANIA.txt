@@ -23,8 +23,53 @@ leader_names = {
 	"Mareike Stangl"
 	"Tiffany Launceleyn"
 	"Godwin Richeman"
+	"Catalina Schumer"
+	"Iva Schantz"
+	"Iva Sehlmann"
+	"Giles Corbett"
+	"Hubrecht Stelzner"
+	"Guthhere Barber"
+	"Sarah Snelling"
+	"Teunissen Scheurling"
+	"Elionor Hosteler"
+	"Asketel Kleiber"
 }
-monarch_names = { 
+monarch_names = {
+	"Ricimer" = +1
+	"Reynold" = +1
+	"Robert" = +1
+	"Pascoe" = +1
+	"Bartholomew" = +1
+	"Roger" = +1
+	"Walter" = +1
+	"Harald" = +1
+	"Eldert" = +1
+	"Aithanarid" = +1
+	"Emma" = -1
+	"Rosamund" = -1
+	"Ysopa" = -1
+	"Susanna" = -1
+	"Theda" = -1
+	"Sarah" = -1
+	"Nicola" = -1
+	"Agnes" = -1
+	"Margaret" = -1
+	"Tiecia" = -1
 }
-ship_names = { 
+ship_names = {
+	"Lalmourn Vain Gravedigger"
+	"Runner's Despair Earth Hippogriff of Maresmeet"
+	"Death Rattle Earth Hippogriff of Maresmeet"
+	"Eight of the Waves Sea Golem"
+	"Gordia's Light Patience"
+	"Windsunder Moon Quicksilver"
+	"Wyrm-Wind Seeker Gertraud's Doom"
+	"Cruel Dagger Darvin's Cry"
+	"Hull Camel Deathwind"
+	"The Silent Fjell Windsong"
+	"WyrmeEyed Wanderer Crimson Singer"
+	"Chained Tempest Carrier"
+	"Earth Octopus of the West Silverfang Gale"
+	"Titan's Bard Ortenzia"
+	"Osprey's Pride Silver Arrow"
 }

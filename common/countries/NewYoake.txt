@@ -23,8 +23,53 @@ leader_names = {
 	"Nigel Snelling"
 	"Arjen Schans"
 	"Lavinia Chauncey"
+	"Gregory Castletown"
+	"Iemke Kophoff"
+	"Gunnora Woodeward"
+	"Fulgencio Metze"
+	"Patza Clopton"
+	"Gorm Teeselink"
+	"Amalafrida Sadler"
+	"Joel Ragisson"
+	"Simon Ogmundottir"
+	"Magdalene Borgardottir"
 }
-monarch_names = { 
+monarch_names = {
+	"Cornelius" = +1
+	"Turbert" = +1
+	"Fastida" = +1
+	"Youri" = +1
+	"Philips" = +1
+	"Borstig" = +1
+	"Luuk" = +1
+	"Stephen" = +1
+	"Hjarrandi" = +1
+	"Julian" = +1
+	"Thomasin" = -1
+	"Mildred" = -1
+	"Malasintha" = -1
+	"Runa" = -1
+	"Sibilla" = -1
+	"Nicola" = -1
+	"Alice" = -1
+	"Protasia" = -1
+	"Ysopa" = -1
+	"Loveday" = -1
 }
-ship_names = { 
+ship_names = {
+	"Fell Wight The Withering Hunt"
+	"Fell Wight Void Servant of Hadiya's Spire"
+	"Kilcurrig Blood-Grey Wave"
+	"Discreet Secret The Last Meadfire"
+	"Courtesan's Sprite Hallowed Gale"
+	"Cruel Dagger Haunted Gambit"
+	"Whalebane Echo Surprise"
+	"God of the Ocean Sunlesswind"
+	"Wellerman Triad of the Waves"
+	"Whisper Blade"
+	"Triad of the Waves Dimsey's Light"
+	"Immeral's Kiss Reflective Spider"
+	"Possessedfish Glace Bay"
+	"Twilight Reaver Song of Cedar Mere"
+	"Pale Hammer Spitfire"
 }

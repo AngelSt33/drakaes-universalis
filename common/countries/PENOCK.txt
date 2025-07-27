@@ -23,8 +23,53 @@ leader_names = {
 	"Nanko van 't Bouwhuis"
 	"Drogo Norden"
 	"Niko Bartram"
+	"Amalfrida Willemzen"
+	"Luuk Harig"
+	"Elyas Geist"
+	"Monia Brudenell"
+	"Acelina Weitenberg"
+	"Saegifu Walsch"
+	"Dirk-Jan Oostelaar"
+	"Tine Horton"
+	"Thorve Bernbaum"
+	"Florentijn Cranford"
 }
-monarch_names = { 
+monarch_names = {
+	"Josce" = +1
+	"Uraias" = +1
+	"Kjallak" = +1
+	"Turbert" = +1
+	"Oswyn" = +1
+	"Lefwin" = +1
+	"Lewin" = +1
+	"Leonard" = +1
+	"Maximillian" = +1
+	"Mark" = +1
+	"Runa" = -1
+	"Gudeliva" = -1
+	"Megan-Laureen" = -1
+	"Sedehana" = -1
+	"Agnes" = -1
+	"Frances" = -1
+	"Goditha" = -1
+	"Chlodoswintha" = -1
+	"Joyce" = -1
+	"Sigrith" = -1
 }
-ship_names = { 
+ship_names = {
+	"Wem Bold Venture"
+	"Gordia's Light Tentacle"
+	"WyrmeEyed Wanderer Iron Dragon's Doom"
+	"Vain Gravedigger Beehive"
+	"Devil's Roar Osprey's Pride"
+	"Sea Golem Glace Bay"
+	"The Gilded Fen Earth Octopus of the West"
+	"Moon Blade Void Servant of Hadiya's Spire"
+	"Cruel Dagger Song of Cedar Mere"
+	"Seeker Howling Spear"
+	"Mistress of the Waves Gull's Shadow"
+	"Pathfinder Runemarked Sorrow"
+	"Gone Too Far Tentacle"
+	"Osprey's Pride Sable-Touched Omen"
+	"Chaoticfish Anne"
 }

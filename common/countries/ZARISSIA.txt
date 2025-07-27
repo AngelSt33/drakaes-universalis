@@ -23,8 +23,53 @@ leader_names = {
 	"Alicia Jentzsch"
 	"Odo Cantilupe"
 	"Stanilde Cole"
+	"Jukel Waldeley"
+	"Cynesige Pettit"
+	"Isabelle Geist"
+	"Gregory Vloedgraven"
+	"Paulus Gaytan"
+	"Grace Mirones"
+	"Amalfrida Westera"
+	"Annalies Briggs"
+	"Toos Eldysley"
+	"Stephen Schwann"
 }
-monarch_names = { 
+monarch_names = {
+	"Vestgeir" = +1
+	"Koen" = +1
+	"Akeman" = +1
+	"Isaac" = +1
+	"Torkel" = +1
+	"Rollo" = +1
+	"Robert" = +1
+	"Athelstan" = +1
+	"Thomas" = +1
+	"Eelco" = +1
+	"Ormhild" = -1
+	"Pavia" = -1
+	"Isabel" = -1
+	"Estrid" = -1
+	"Albreda" = -1
+	"Ingaret" = -1
+	"Brunihild" = -1
+	"Asgerd" = -1
+	"Eve" = -1
+	"Acelina" = -1
 }
-ship_names = { 
+ship_names = {
+	"Demon Keen of Torcradle"
+	"Spitfire Gordia's Light"
+	"Bitterwake Cry Dordrecht"
+	"Oathwither Song Six of the Sky"
+	"Ghost Ghoul The Silent Fjell"
+	"Wellerman Triad of the Waves"
+	"Surprise Reflective Spider"
+	"Twilight Reaver Black Swan"
+	"Bitterwake Cry Fluke"
+	"Setter Burning Fjord"
+	"Quicksilver Path Salamander of Griffinsway"
+	"Burning Inn Son of Colfoundry"
+	"Kempenfelt Mistress of the Waves"
+	"Wind Song Gone Too Far"
+	"Runemarked Sorrow Saltheart"
 }

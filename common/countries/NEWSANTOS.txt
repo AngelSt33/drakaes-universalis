@@ -23,8 +23,53 @@ leader_names = {
 	"Ralph Bexley"
 	"Thalia Kass"
 	"Josef Sternberg"
+	"Merina Gudlaugdottir"
+	"Wulsi Heek"
+	"Gutirre Leifdottir"
+	"Iwan Hosteler"
+	"Jochem Bain"
+	"Emma Town"
+	"Gailavira Hulst"
+	"Eliza Wylde"
+	"Katrien Hülsen"
+	"Urian Dietten"
 }
-monarch_names = { 
+monarch_names = {
+	"Wicing" = +1
+	"Osgood" = +1
+	"Warin" = +1
+	"Machiel" = +1
+	"Augustin" = +1
+	"Koen" = +1
+	"Jorn" = +1
+	"Stephen" = +1
+	"Arne" = +1
+	"Harald" = +1
+	"Enni" = -1
+	"Marit" = -1
+	"Philippa" = -1
+	"Theda" = -1
+	"Iva" = -1
+	"Bergljot" = -1
+	"Beatrice" = -1
+	"Maria" = -1
+	"Godlefe" = -1
+	"Saeunn" = -1
 }
-ship_names = { 
+ship_names = {
+	"The Silent Fjell Soldier of Fiendshelm"
+	"For Play Earth Hippogriff of Maresmeet"
+	"Great Expense Success"
+	"Chained Tempest Queen of Yorvick"
+	"Cuttle Runemarked Sorrow"
+	"Deathwind Earth Hippogriff of Maresmeet"
+	"Seeker Bold Venture"
+	"Dubford Whalebane Echo"
+	"The Shivering Hoard Wellerman"
+	"Sunburn West Son"
+	"Keen of Torcradle Iron Dragon's Doom"
+	"Ash-Clad Swan Sea Champion's Dolphin"
+	"Hallowed Gale Serpent"
+	"Luminous Runner Sunburn"
+	"Soldier of Fiendshelm Hearthless Flight"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Elia Weingaertner"
 	"Jan-Bart Hekkers"
 	"Henkjan Grimberg"
+	"Andrew Saravia"
+	"Nota Westera"
+	"Barbara Montacute"
+	"Niko Hopton"
+	"Rayko Marsche"
+	"Vivien Pownder"
+	"Karin Wohler"
+	"Maurits Chamburleyn"
+	"Harm Janzen"
+	"Frances Fleming"
 }
-monarch_names = { 
+monarch_names = {
+	"Ansketil" = +1
+	"Christopher" = +1
+	"Orgumleidi" = +1
+	"Harald" = +1
+	"Thomas" = +1
+	"Anthony" = +1
+	"William" = +1
+	"Philip" = +1
+	"Athelstan" = +1
+	"Reynold" = +1
+	"Melle" = -1
+	"Yvette" = -1
+	"Ormhild" = -1
+	"Sien" = -1
+	"Mabel" = -1
+	"Hunila" = -1
+	"Amalfrida" = -1
+	"Amalasuntha" = -1
+	"Marjorie" = -1
+	"Madia" = -1
 }
-ship_names = { 
+ship_names = {
+	"The Sunken Boast Copper King of Hare's Hill"
+	"Loyalty Storm-Bitten Grudge"
+	"The Long Cold Kraken"
+	"Triad of the Waves Devil's Contract"
+	"Ghost Ghoul Whisper's Hope"
+	"Song of Cedar Mere Silverfang Gale"
+	"Abingdon Void Servant of Hadiya's Spire"
+	"Blade Bitterwake Cry"
+	"Crimson Barrow Watcher"
+	"Kilcurrig Wolf-Touched Mist"
+	"Escape Sky Wizard"
+	"Twilight Reaver Black Swan"
+	"Howling Spear Raglan"
+	"The Hollow Boar Sea Champion's Dolphin"
+	"Aquilon The Gilded Fen"
 }

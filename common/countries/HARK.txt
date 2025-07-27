@@ -23,8 +23,53 @@ leader_names = {
 	"Ambrose Bernard"
 	"Beorhthere of Puerto"
 	"Elise Grebel"
+	"Melisanda Martini"
+	"Yosi Hrokdottir"
+	"Dorothy Boote"
+	"Lorena Neceham"
+	"Elisabeth Banis"
+	"Odelina Bernal"
+	"Amalaswinth Kinge"
+	"Featris Hrokdottir"
+	"Cecilia Heriolfsson"
+	"Joel Shevington"
 }
-monarch_names = { 
+monarch_names = {
+	"Tobias" = +1
+	"Thorismud" = +1
+	"Jorn" = +1
+	"Aithanarid" = +1
+	"Diggory" = +1
+	"Jukel" = +1
+	"Gunteric" = +1
+	"Kjallak" = +1
+	"Fulke" = +1
+	"Laurens-Jan" = +1
+	"Winifred" = -1
+	"Ellen" = -1
+	"Bergljot" = -1
+	"Veerle" = -1
+	"Matasuntha" = -1
+	"Garsendis" = -1
+	"Sigrith" = -1
+	"Amalasuntha" = -1
+	"Runa" = -1
+	"Leofe" = -1
 }
-ship_names = { 
+ship_names = {
+	"Pool Pilgrim Thorn-Gilded Curse"
+	"Dubford Hearty"
+	"Sharp Swan of Torhof Wolf-Touched Mist"
+	"Enterprise Loss Spirit"
+	"Cursed Raven Gordia's Light"
+	"Celerity Horror Wish"
+	"Ten The Silent Fjell"
+	"Kempenfelt Hearthless Flight"
+	"True Witch Nunney Castle"
+	"Obsidian Nymph Patience"
+	"Thorn-Gilded Curse Soldier of Fiendshelm"
+	"Ash-Clad Swan Anne"
+	"Dimsey's Light Reflective Spider"
+	"Windsunder Moon Dragon's Wail"
+	"WyrmeEyed Wanderer Nevermore"
 }

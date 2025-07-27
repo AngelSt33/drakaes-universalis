@@ -23,8 +23,53 @@ leader_names = {
 	"Jeremias Schreck"
 	"Adam Haddock"
 	"Julian Prophete"
+	"Gustav Wessely"
+	"Ontanon Daubernoun"
+	"Lucas Bradshawe"
+	"Fanny Schildknecht"
+	"Lucas Homrighausen"
+	"Olivia Luthi"
+	"Gadaric Glover"
+	"Ida Bernbaum"
+	"Jamie Hale"
+	"Tim Heimsoth"
 }
-monarch_names = { 
+monarch_names = {
+	"Jasper" = +1
+	"Ricimer" = +1
+	"Leomer" = +1
+	"Sigric" = +1
+	"Bertram" = +1
+	"James" = +1
+	"Reynold" = +1
+	"Henry" = +1
+	"Orgumleidi" = +1
+	"Elric" = +1
+	"Godlefe" = -1
+	"Theda" = -1
+	"Gilot" = -1
+	"Philippa" = -1
+	"Sarah" = -1
+	"Cassandra" = -1
+	"Livitha" = -1
+	"Hrodny" = -1
+	"Aldis" = -1
+	"Gudeliva" = -1
 }
-ship_names = { 
+ship_names = {
+	"Sable-Touched Omen Nunney Castle"
+	"Beggar of Beastsshield The Withering Hunt"
+	"Snarling Zephyr of Blackbrook Darvin's Cry"
+	"Void Servant of Hadiya's Spire Song of Cedar Mere"
+	"Deathwind Moon Blade"
+	"Shatterhelm Shriek Spitfire"
+	"Hearthless Flight Tentacle"
+	"Watcher of Wickenlund Osprey's Pride"
+	"Seeker The Last Meadfire"
+	"Whiskey Chaser Dakins"
+	"Wailing Wyrm Sharp Swan of Torhof"
+	"Serpent Devil's Roar"
+	"Hunter Fate"
+	"Sunburn Hunter"
+	"Jasper Burning Vulture"
 }

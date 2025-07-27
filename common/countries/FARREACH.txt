@@ -23,8 +23,53 @@ leader_names = {
 	"Janet Strachleigh"
 	"Randall Weston"
 	"Arnold Penhallick"
+	"Henry Kinnie"
+	"Liene Brocksby"
+	"Elyas Echyngham"
+	"Narin Saynsbery"
+	"Jacoliene Zalland"
+	"Ulfilas Klijn"
+	"Christopher Woodeward"
+	"Lorelei Knody"
+	"Hubrecht Luppe"
+	"Oswyn Nasidottir"
 }
-monarch_names = { 
+monarch_names = {
+	"Griffin" = +1
+	"Oliver" = +1
+	"Machiel" = +1
+	"Til" = +1
+	"Jordan" = +1
+	"Sindila" = +1
+	"Mart-jan" = +1
+	"Reginald" = +1
+	"Hanno" = +1
+	"Mert" = +1
+	"Hrodny" = -1
+	"Leonie" = -1
+	"Basilia" = -1
+	"Avina" = -1
+	"Tiecia" = -1
+	"Estrid" = -1
+	"Amalaswinth" = -1
+	"Laura" = -1
+	"Julian" = -1
+	"Gilot" = -1
 }
-ship_names = { 
+ship_names = {
+	"Howling Spear Seeker"
+	"Greedy Dragon Watcher of Wickenlund"
+	"Mason's Folly Kempenfelt"
+	"Black Swan Chaoticfish"
+	"Ruby Falcon Aquilon"
+	"Ashen Grin Nunney Castle"
+	"Ashen Grin Buccaneer"
+	"Steadfast Kilcurrig"
+	"Nunney Castle Runner's Despair"
+	"True Witch Abingdon"
+	"Barrowbound Flame Dakins"
+	"Oathbound Drift Song of Cedar Mere"
+	"Whalebane Echo Seeker"
+	"The Hollow Wolf Pathfinder"
+	"Ruby Falcon Fluke"
 }

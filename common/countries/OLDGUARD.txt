@@ -23,8 +23,53 @@ leader_names = {
 	"Leonard Copinger"
 	"Jan-Willem Duivencate"
 	"Alan Brudenell"
+	"Elgar Fleming"
+	"Lindert Zalland"
+	"James Perryvalle"
+	"Sander Kamerling"
+	"Osk Strokappe"
+	"Thorve Hassink"
+	"Elionor Cary"
+	"Brian Cantilupe"
+	"Diggory Stangl"
+	"Mannes Penhallick"
 }
-monarch_names = { 
+monarch_names = {
+	"Claus" = +1
+	"Henry" = +1
+	"Heiko" = +1
+	"Constantin" = +1
+	"Mert" = +1
+	"Jacob" = +1
+	"Ansketil" = +1
+	"Samuel" = +1
+	"Skorri" = +1
+	"Aelnod" = +1
+	"Theda" = -1
+	"Aldreda" = -1
+	"Wenthelen" = -1
+	"Madia" = -1
+	"Isolde" = -1
+	"Rimilde" = -1
+	"Pavia" = -1
+	"Isabel" = -1
+	"Godlefe" = -1
+	"Yvette" = -1
 }
-ship_names = { 
+ship_names = {
+	"Wind Song Mad Wyvern"
+	"Side Quest Cuttle"
+	"Obsidian Nymph Sharp Swan of Torhof"
+	"Oathbound Drift Sharp Swan of Torhof"
+	"Duskwake Drifter Loyalty"
+	"Broken Sigil Thornborough"
+	"Sorcerer's Nymph Loyalty"
+	"Side Quest Serpent"
+	"Sundered Moon Storm-Bitten Grudge"
+	"Sable-Touched Omen Eight of the Waves"
+	"Celerity Side Quest"
+	"Whisper Wind Song"
+	"Gertraud's Doom Whisper"
+	"Chaoticfish Song of Cedar Mere"
+	"Earth Octopus of the West Rime-Touched Valor"
 }

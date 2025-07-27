@@ -23,8 +23,53 @@ leader_names = {
 	"Joel Kleiber"
 	"Naud Paarhuis"
 	"Samuel Ashenhurst"
+	"Rayko Beel"
+	"Marthijn Kaplan"
+	"Leendert Killigrew"
+	"Amice Baker"
+	"Thomas Wildiek"
+	"Marcel Pownder"
+	"Gregory Berger"
+	"Helewis Tyndall"
+	"Rayko Stappenbeld"
+	"Fernando Clopton"
 }
-monarch_names = { 
+monarch_names = {
+	"Ansketil" = +1
+	"Aelric" = +1
+	"Anagastes" = +1
+	"Oswyn" = +1
+	"Christopher" = +1
+	"Sayer" = +1
+	"James" = +1
+	"Joseph" = +1
+	"Jordan" = +1
+	"Percival" = +1
+	"Cwenhild" = -1
+	"Leofe" = -1
+	"Enota" = -1
+	"Gudrun" = -1
+	"Godusa" = -1
+	"Asgerd" = -1
+	"Rosamund" = -1
+	"Sarra" = -1
+	"Amalfrida" = -1
+	"Bergljot" = -1
 }
-ship_names = { 
+ship_names = {
+	"Courtesan's Sprite Unlikely Breaker"
+	"Keen of Torcradle Spirit"
+	"Ortenzia Fate"
+	"Blade The Gilded Fen"
+	"Ashen Grin Bird of Cousin's Eye"
+	"Earth Hippogriff of Maresmeet Hot Flush"
+	"Stone Gnoll The Sunken Boast"
+	"Misery Cruel Dagger"
+	"Gone Too Far Serpent"
+	"Kempenfelt Twilight Reaver"
+	"Barrowbound Flame Patience"
+	"Ruby Ranger Watcher"
+	"Hot Flush Dimsey's Light"
+	"Frostbitten Rook Dimsey's Light"
+	"Wind Seeker West Son"
 }

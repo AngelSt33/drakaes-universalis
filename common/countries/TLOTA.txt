@@ -23,8 +23,53 @@ leader_names = {
 	"Mechiel Oosterloo"
 	"Ismay Castletown"
 	"David Rientjes"
+	"Torgard Peereboom"
+	"Catalina Luppe"
+	"Lucas Peereboom"
+	"Hallveig Heek"
+	"Basten Williams"
+	"Reginald Hartstein"
+	"Ragnhild Wrenne"
+	"Thomasin Ashenhurst"
+	"Loveday Hassink"
+	"Elia Holmfastsson"
 }
-monarch_names = { 
+monarch_names = {
+	"Michael" = +1
+	"Orgumleidi" = +1
+	"Mark" = +1
+	"Thorkel" = +1
+	"Simon" = +1
+	"Andrew" = +1
+	"Augustin" = +1
+	"Cornelius" = +1
+	"Gudmund" = +1
+	"Hjarrandi" = +1
+	"Brunihild" = -1
+	"Magdalene" = -1
+	"Tiana" = -1
+	"Acelina" = -1
+	"Feenja" = -1
+	"Emma" = -1
+	"Earngith" = -1
+	"Helewis" = -1
+	"Gudeliva" = -1
+	"Sibilla" = -1
 }
-ship_names = { 
+ship_names = {
+	"Storm-Bitten Grudge Arunta"
+	"Grim Breaker Hull Camel"
+	"Earth Octopus of the West Wind Seeker"
+	"Wolf-Touched Mist Murlusk's Thunder"
+	"Sea Golem Six of the Sky"
+	"Patience The Withering Hunt"
+	"Whisper Pillager"
+	"Beggar of Beastsshield Ash-Clad Swan"
+	"Devil's Roar Side Quest"
+	"Murlusk's Thunder Burning Inn"
+	"The Last Meadfire Seeker"
+	"Song of Cedar Mere Wind Seeker"
+	"Sea Golem Dubford"
+	"The Withering Hunt Blade"
+	"Surprise Burning Inn"
 }

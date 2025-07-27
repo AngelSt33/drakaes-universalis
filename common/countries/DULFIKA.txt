@@ -23,8 +23,53 @@ leader_names = {
 	"Odo Cantilupe"
 	"Golde Hyll"
 	"Marlene Bernbaum"
+	"Ludovic Maisel"
+	"Janet Kestenbaum"
+	"Lefwin Stokes"
+	"Urian Weitenberg"
+	"Gabriel Boote"
+	"Ludovic Jentzsch"
+	"Leofstan Berger"
+	"Gustav Symilor"
+	"Gregory Clifton"
+	"Maurits Niekisch"
 }
-monarch_names = { 
+monarch_names = {
+	"Eustace" = +1
+	"Totila" = +1
+	"Aithanarid" = +1
+	"Jordan" = +1
+	"Orgumleidi" = +1
+	"William" = +1
+	"Drogo" = +1
+	"Leonard" = +1
+	"Walahmar" = +1
+	"Ulfketel" = +1
+	"Freygerd" = -1
+	"Yvette" = -1
+	"Joy" = -1
+	"Megan-Laureen" = -1
+	"Leofe" = -1
+	"Saeunn" = -1
+	"Isolde" = -1
+	"Enni" = -1
+	"Pavia" = -1
+	"Sibilla" = -1
 }
-ship_names = { 
+ship_names = {
+	"Side Quest Victory"
+	"Shatterhelm Shriek Earth Octopus of the West"
+	"Luminous Runner Barrowbound Flame"
+	"Gone Too Far Stone Gnoll"
+	"Ruby Ranger Saltheart"
+	"Duskwake Drifter Pillager"
+	"Gordia's Light Waking Dream"
+	"Broken Sigil Abingdon"
+	"Shadow-Girded Lash Devil's Contract"
+	"Spirit Ashen Grin"
+	"Bold Venture Hangman's Hate"
+	"Possessedfish Six of the Sky"
+	"Slayer's Terror Clove Tree"
+	"Cruel Dagger Watcher"
+	"Ashen Grin Victory"
 }

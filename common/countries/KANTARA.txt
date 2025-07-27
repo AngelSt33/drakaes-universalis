@@ -23,8 +23,53 @@ leader_names = {
 	"Jamie Schantz"
 	"Cuthbert Purlles"
 	"Elstan of Nidaros"
+	"Mannes Kveldulfdottir"
+	"Daniel Mugge"
+	"Kathrin Bownell"
+	"Jolina Schwann"
+	"Arnold Mugge"
+	"Marlene Strachleigh"
+	"Margriet Hyde"
+	"Alfleta Krakouer"
+	"Elizabeth Kats"
+	"Nota Hersch"
 }
-monarch_names = { 
+monarch_names = {
+	"Borstig" = +1
+	"Beucad" = +1
+	"Nathaniel" = +1
+	"Gunthigis" = +1
+	"David" = +1
+	"Turbert" = +1
+	"Wicing" = +1
+	"Conan" = +1
+	"Valentine" = +1
+	"Babai" = +1
+	"Goditha" = -1
+	"Glismoda" = -1
+	"Oda" = -1
+	"Eve" = -1
+	"Avina" = -1
+	"Malasintha" = -1
+	"Saegifu" = -1
+	"Heidi" = -1
+	"Bridget" = -1
+	"Pavia" = -1
 }
-ship_names = { 
+ship_names = {
+	"Zhuirentel Twilight Reaver"
+	"Sorrow Warlock's Harpy Seeker"
+	"The Long Cold Moon Blade"
+	"Son of Colfoundry Gilded Shade"
+	"Celerity Ash-Clad Swan"
+	"Sunburn Arunta"
+	"Blade Burning Vulture"
+	"Lalmourn Sunlesswind"
+	"Ashen Grin Celerity"
+	"The Withering Hunt Gertraud's Doom"
+	"Hunter Ashen Grin"
+	"Sky Wizard Demon"
+	"Gertraud's Doom Silverfang Gale"
+	"Swanless Wake Saltheart"
+	"Wave Zephyr The Withering Hunt"
 }

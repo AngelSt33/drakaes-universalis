@@ -23,8 +23,53 @@ leader_names = {
 	"Marthijn Hogewind"
 	"Alice Neceham"
 	"Godwin Richeman"
+	"Leendert Duivencate"
+	"Fulgencio Erlbaum"
+	"Nigel Norden"
+	"Henkjan Schachtschneider"
+	"Bartholomew Bredham"
+	"Pier Grebel"
+	"Jochen Ehrlinger"
+	"Carolin Thoraldrdottir"
+	"Lyting Sigvatdottir"
+	"Ole Kveldulfdottir"
 }
-monarch_names = { 
+monarch_names = {
+	"Osbert" = +1
+	"Hjarrandi" = +1
+	"Akeman" = +1
+	"Adrian" = +1
+	"Totila" = +1
+	"Simon" = +1
+	"Eldert" = +1
+	"David" = +1
+	"Sigric" = +1
+	"Ildebad" = +1
+	"Julian" = -1
+	"Heidi" = -1
+	"Helen" = -1
+	"Megan-Laureen" = -1
+	"Aldreda" = -1
+	"Freygerd" = -1
+	"Beatrice" = -1
+	"Enni" = -1
+	"Cassandra" = -1
+	"Euphemia" = -1
 }
-ship_names = { 
+ship_names = {
+	"Possessedfish Side Quest"
+	"The Sunken Boast Quicksilver"
+	"Snarling Zephyr of Blackbrook Windsong"
+	"Windsunder Moon Pillager"
+	"Windsong Fate"
+	"Hearthless Flight Dead God"
+	"Queen of Yorvick Watcher of Wickenlund"
+	"Vain Gravedigger Earth Hippogriff of Maresmeet"
+	"Crimson Singer Steadfast"
+	"Runemarked Sorrow Patience"
+	"Burning Fjord Crimson Singer"
+	"Sunless Mare Killowen"
+	"The Sunken Boast Twice Sunk"
+	"Wish of Carlusk Hangman's Hate"
+	"Shatterhelm Shriek Side Quest"
 }

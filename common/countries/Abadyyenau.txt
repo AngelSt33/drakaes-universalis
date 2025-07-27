@@ -23,8 +23,53 @@ leader_names = {
 	"Giles Foliot"
 	"Dik Lusseveld"
 	"Sander Klijn"
+	"Verle Crugge"
+	"Maurice Stappenbeld"
+	"Jan-Bart Brudenell"
+	"Wulfstan Fendler"
+	"Giles Boer"
+	"Hermangild Purlles"
+	"Fortune Kohnstamm"
+	"Oswyn Platz"
+	"Gawain Badby"
+	"Eliza Banis"
 }
-monarch_names = { 
+monarch_names = {
+	"Sisebut" = +1
+	"Aslac" = +1
+	"Mert" = +1
+	"Leofric" = +1
+	"Christopher" = +1
+	"Swain" = +1
+	"Brictric" = +1
+	"John" = +1
+	"Maximillian" = +1
+	"Youri" = +1
+	"Matasuntha" = -1
+	"Mabel" = -1
+	"Amalaswinth" = -1
+	"Tiana" = -1
+	"Teja" = -1
+	"Gudrun" = -1
+	"Margaret" = -1
+	"Protasia" = -1
+	"Enni" = -1
+	"Philippa" = -1
 }
-ship_names = { 
+ship_names = {
+	"Iron Dragon's Doom Howling Spear"
+	"Enterprise Loss Spirit"
+	"The Wolf's Regret Queen of Yorvick"
+	"The Sunken Boast Anne"
+	"Murlusk's Thunder Burning Fjord"
+	"Courtesan's Sprite Shell Voyager"
+	"Misadventure Six of the Sky"
+	"Horror Wish Dragon's Wail"
+	"Bold Venture Dubford"
+	"Side Quest Patience"
+	"Killowen Earth Dragon"
+	"Queen of Yorvick Howling Spear"
+	"Song of Cedar Mere Compass"
+	"Rime-Touched Valor Rune Gull"
+	"Titan's Bard Seeker"
 }

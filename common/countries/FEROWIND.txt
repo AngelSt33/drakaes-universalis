@@ -23,8 +23,53 @@ leader_names = {
 	"Reginald Eldysley"
 	"Tim Steinhaeusser"
 	"Olivia Horton"
+	"Geirhild Kleiber"
+	"Aethilheard de Vire"
+	"Christoph Hyde"
+	"Huib Kalenkamp"
+	"Gawain Badby"
+	"Amelie Schickendantz"
+	"Lucas Gevelear"
+	"Steffen Bewley"
+	"Leofric Ehrenberg"
+	"Livitha Outlawe"
 }
-monarch_names = { 
+monarch_names = {
+	"Silvester" = +1
+	"Alfsige" = +1
+	"Leon" = +1
+	"Totila" = +1
+	"Fravitta" = +1
+	"Levi" = +1
+	"Matthew" = +1
+	"Borstig" = +1
+	"Aelnod" = +1
+	"Akeman" = +1
+	"Sibilla" = -1
+	"Helen" = -1
+	"Basilia" = -1
+	"Agatha" = -1
+	"Clementia" = -1
+	"Roosje" = -1
+	"Cwenhild" = -1
+	"Amalasuntha" = -1
+	"Euphemia" = -1
+	"Avina" = -1
 }
-ship_names = { 
+ship_names = {
+	"Surprise Path Salamander of Griffinsway"
+	"Mason's Folly Dordrecht"
+	"Wind Song Unlikely Breaker"
+	"Horror Wish Escape"
+	"Whalebane Echo Melody"
+	"Howling Spear God of the Ocean"
+	"The Wolf's Regret Hunter"
+	"Devil's Roar Hull Camel"
+	"Fallow Vengeance Ghost Ghoul"
+	"Stone Gnoll Ironhowl Maiden"
+	"Sundered Moon Broken Sigil"
+	"Burning Inn Hatherleigh"
+	"Falling Star The Silent Fjell"
+	"Snarling Zephyr of Blackbrook Greedy Dragon"
+	"The Hollow Boar Eight of the Waves"
 }

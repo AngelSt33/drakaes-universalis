@@ -23,8 +23,53 @@ leader_names = {
 	"Gawain Hopton"
 	"Gudo Geissler"
 	"Jolina Ehrlinger"
+	"Jolien Stelzner"
+	"Nigel Reimink"
+	"Featris Stappenbeld"
+	"Leonard Weingaertner"
+	"Ostrogotho Wynter"
+	"Alexandre Bolkesteijn"
+	"Janneke Hamstra"
+	"Rhima Goberd"
+	"Maria Hekkers"
+	"Mawa Femer"
 }
-monarch_names = { 
+monarch_names = {
+	"Solomon" = +1
+	"Leofric" = +1
+	"Humphrey" = +1
+	"Alexander" = +1
+	"Lambert" = +1
+	"Stijn" = +1
+	"Bernard" = +1
+	"Nathaniel" = +1
+	"Heiko" = +1
+	"Albert" = +1
+	"Hrodny" = -1
+	"Willy" = -1
+	"Nicola" = -1
+	"Albreda" = -1
+	"Amalfriede" = -1
+	"Brunihild" = -1
+	"Ulfheid" = -1
+	"Megan-Laureen" = -1
+	"Isgerd" = -1
+	"Runa" = -1
 }
-ship_names = { 
+ship_names = {
+	"Cuttle Fallow Vengeance"
+	"Valhalla Slayer's Terror"
+	"West Son Swanless Wake"
+	"Sea Champion's Dolphin Wish of Carlusk"
+	"Lavendar Demon Celerity"
+	"Great Expense Rune Gull"
+	"The Shivering Hoard Haunted Gambit"
+	"Iron Devil Beggar of Beastsshield"
+	"Whisper Soldier of Fiendshelm"
+	"Celerity Steadfast"
+	"Mistress of the Waves Spitfire"
+	"Sunburn Ghost Ghoul"
+	"Snowblind Wake Raglan"
+	"Gone Too Far Dragon's Wail"
+	"Earth Hippogriff of Maresmeet The Hollow Boar"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Hubert Wilmink"
 	"Guthhere the Cunt"
 	"Gregor Reitz"
+	"Brian Wynter"
+	"Anton Cobham"
+	"Amice Seger"
+	"Bertram Baldwin"
+	"Elise Purlles"
+	"Gailavira Stoughton"
+	"Eystein Geist"
+	"Sunigilda Oude"
+	"Mechiel Bardolf"
+	"Pavia Bernard"
 }
-monarch_names = { 
+monarch_names = {
+	"Sampson" = +1
+	"Totila" = +1
+	"Mark" = +1
+	"Alexander" = +1
+	"Valentine" = +1
+	"Gerard" = +1
+	"Sewel" = +1
+	"Samuel" = +1
+	"James" = +1
+	"Jacob" = +1
+	"Gudrun" = -1
+	"Dineke" = -1
+	"Iva" = -1
+	"Leonie" = -1
+	"Hallgerd" = -1
+	"Alfleta" = -1
+	"Heidi" = -1
+	"Sigrid" = -1
+	"Euphemia" = -1
+	"Bridget" = -1
 }
-ship_names = { 
+ship_names = {
+	"Gone Too Far Kraken"
+	"Aquilon Snowblind Wake"
+	"Dakins The Hollow Boar"
+	"Surprise The Sunken Boast"
+	"Killowen Void Servant of Hadiya's Spire"
+	"Loss Spirit Black Swan"
+	"Gilded Shade Bird of Cousin's Eye"
+	"Beggar of Beastsshield Oathwither Song"
+	"Discreet Secret Unlikely Breaker"
+	"Side Quest Greedy Dragon"
+	"Hearthless Flight Side Quest"
+	"Compass Moon Blade"
+	"Wailing Wyrm Pillager"
+	"Twilight Reaver Tentacle"
+	"Spitfire Swanless Wake"
 }

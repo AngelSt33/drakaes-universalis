@@ -23,8 +23,55 @@ leader_names = {
 	"David the Thief"
 	"Guthhere the Cunt"
 	"Ludovic Curteys"
+	"Amalfrieda Richeman"
+	"Rosamund Barnes"
+	"Liene Bekman"
+	"Isaac Wegman"
+	"Hermangild Gyll"
+	"Amala Huessen"
+	"Herebert Omvlee"
+	"Pier Holten"
+	"Mia-Selina Fendler"
+	"Samuel Marsche"
 }
-monarch_names = { 
+monarch_names = {
+	"Laurens-Jan" = +1
+	"Kjallak" = +1
+	"Beucad" = +1
+	"Attwell" = +1
+	"Ambrose" = +1
+	"Falco" = +1
+	"Thurstan" = +1
+	"Elric" = +1
+	"Gunteric" = +1
+	"Mark" = +1
+	"Acelina" = -1
+	"Sigrith" = -1
+	"Emilia" = -1
+	"Ursula" = -1
+	"Dineke" = -1
+	"Wakerilda" = -1
+	"Joyce" = -1
+	"Godlefe" = -1
+	"Saegifu" = -1
+	"Enota" = -1
 }
-ship_names = { 
+ship_names = {
+	"Wish of Carlusk Dakins"
+	"Silverfang Gale Fell Wight"
+	"Enterprise Windsunder Moon"
+	"Ruby Ranger Misery"
+	"The Thief"
+	"Gypsy of the Sea"
+	"Shadow-Girded Lash Melody"
+	"Hallowed Gale Lalmourn"
+	"Enterprise Osprey's Pride"
+	"Watcher of Wickenlund Bird of Cousin's Eye"
+	"Patience Gordia's Light"
+	"Hearthless Flight Wave Zephyr"
+	"Black Swan WyrmeEyed Wanderer"
+	"Blade Crimson Barrow"
+	"Sable-Touched Omen Silver Arrow"
+	"The Shivering Hoard Pillager"
+	"Loyalty Chaoticfish"
 }

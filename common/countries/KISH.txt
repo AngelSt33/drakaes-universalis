@@ -23,8 +23,53 @@ leader_names = {
 	"Jan-Bart Hekkers"
 	"Tristan Pfennig"
 	"Winifred Sadler"
+	"Ragnhild Prowd"
+	"Patience Nidaros"
+	"Toka Briggs"
+	"Geert-Jan Heiden"
+	"Joseph Ehrlinger"
+	"Jodoc Hussey"
+	"Ido Weterink"
+	"Amelina Hilbers"
+	"Lindert Marsman"
+	"Mencia Sandes"
 }
-monarch_names = { 
+monarch_names = {
+	"Josce" = +1
+	"Albert" = +1
+	"Rolf" = +1
+	"Aslac" = +1
+	"Frideric" = +1
+	"Ailwin" = +1
+	"Torkel" = +1
+	"Gunthigis" = +1
+	"Herebert" = +1
+	"Isaac" = +1
+	"Regina" = -1
+	"Idonea" = -1
+	"Gudrun" = -1
+	"Hallgerd" = -1
+	"Estrid" = -1
+	"Roosje" = -1
+	"Protasia" = -1
+	"Wakerilda" = -1
+	"Feenja" = -1
+	"Asgerd" = -1
 }
-ship_names = { 
+ship_names = {
+	"Spirit Broken Sigil"
+	"Loyalty Runner's Despair"
+	"Iron Devil Hangman's Hate"
+	"Copper King of Hare's Hill The Sunken Boast"
+	"Nunney Castle Hearthless Flight"
+	"Windsunder Moon Ten"
+	"Fate Carrier"
+	"Ortenzia Wish of Carlusk"
+	"Hearthless Flight Blade"
+	"Princess's Shadow West Son"
+	"Darvin's Cry Red-Eyed Stag"
+	"Hatherleigh Thorn-Gilded Curse"
+	"Escape Twilight Reaver"
+	"The Gilded Fen Devil's Contract"
+	"Patience Sorcerer's Nymph"
 }

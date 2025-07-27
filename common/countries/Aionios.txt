@@ -23,8 +23,53 @@ leader_names = {
 	"Jurren ten Bos"
 	"Dik Lusseveld"
 	"Gijsbert Hindriks"
+	"Luuk Oude"
+	"Stefan Baldwin"
+	"Alfleta Briggs"
+	"Verle Boes"
+	"Torgard Sternberg"
+	"Maaike Gustloff"
+	"Gunnilda Lievendag"
+	"Susanna Heiden"
+	"Lydia Hodgeson"
+	"Kathrin Bain"
 }
-monarch_names = { 
+monarch_names = {
+	"Robert" = +1
+	"Huibert" = +1
+	"Edward" = +1
+	"Hanno" = +1
+	"Wulsi" = +1
+	"Kaetilmund" = +1
+	"Aithanarid" = +1
+	"Aelric" = +1
+	"Francis" = +1
+	"Pascoe" = +1
+	"Runa" = -1
+	"Emilia" = -1
+	"Osk" = -1
+	"Thomasin" = -1
+	"Wakerilda" = -1
+	"Malasintha" = -1
+	"Julian" = -1
+	"Susanna" = -1
+	"Milda" = -1
+	"Joyce" = -1
 }
-ship_names = { 
+ship_names = {
+	"The Wolf's Regret Patience"
+	"Side Quest Chained Tempest"
+	"Chaoticfish Saltheart"
+	"Bitterwake Cry Ghost Ghoul"
+	"Beggar of Beastsshield Burning Fjord"
+	"Black Swan Hearthless Flight"
+	"Sharp Swan of Torhof The Withering Hunt"
+	"Broken Sigil Dragon's Wail"
+	"Kempenfelt The Last Meadfire"
+	"Spirit WyrmeEyed Wanderer"
+	"Ledbury Wish of Carlusk"
+	"Quicksilver Osprey's Pride"
+	"Sundew Twilight Reaver"
+	"Mistress of the Waves Dordrecht"
+	"Deathwind Black Swan"
 }

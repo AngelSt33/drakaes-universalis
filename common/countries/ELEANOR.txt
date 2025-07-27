@@ -23,8 +23,53 @@ leader_names = {
 	"Elgar Carter"
 	"Kaatje Boes"
 	"Petra Homrighausen"
+	"Richard Norel"
+	"Arnold Flederis"
+	"Silvester Borgardottir"
+	"Vivien Dyneley"
+	"Ad Overweg"
+	"Jochum Willemzen"
+	"Recitach Vetter"
+	"Francisco Herz"
+	"Susanna Ginter"
+	"Huib Ragisson"
 }
-monarch_names = { 
+monarch_names = {
+	"Thorkel" = +1
+	"Fulk" = +1
+	"Borstig" = +1
+	"Luke" = +1
+	"Matthew" = +1
+	"Robert" = +1
+	"Guy" = +1
+	"Arthur" = +1
+	"Tumi" = +1
+	"Matteo" = +1
+	"Ellen" = -1
+	"Jenefer" = -1
+	"Joy" = -1
+	"Nicola" = -1
+	"Albreda" = -1
+	"Melle" = -1
+	"Protasia" = -1
+	"Rosamund" = -1
+	"Bridget" = -1
+	"Milda" = -1
 }
-ship_names = { 
+ship_names = {
+	"Possessedfish Ten"
+	"Fate Queen of Yorvick"
+	"Beggar of Beastsshield Death Rattle"
+	"Fate Abingdon"
+	"Bitterwake Cry Arunta"
+	"Sundew Sable-Touched Omen"
+	"Chained Tempest Copper King of Hare's Hill"
+	"Outlander True Witch"
+	"Cruel Dagger Jasper"
+	"Wave Zephyr Iron Devil"
+	"Cursed Raven Cruel Dagger"
+	"Iron Devil Carrier"
+	"Crimson Barrow Escape"
+	"Whalebane Echo Saltheart"
+	"Setter Gilded Shade"
 }

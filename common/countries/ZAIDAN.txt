@@ -23,8 +23,53 @@ leader_names = {
 	"Godric Bewley"
 	"Loveday Davers"
 	"Ralph Fitzralph"
+	"Ida Bradshawe"
+	"Alex Leynham"
+	"Gaut Sehlmann"
+	"Ismay Neceham"
+	"Avagisa Flower"
+	"Leomer Robredo"
+	"Lyting Bouldre"
+	"Alicia Addicock"
+	"Cornelia Norel"
+	"Heiko Mullekes"
 }
-monarch_names = { 
+monarch_names = {
+	"David" = +1
+	"Anagastes" = +1
+	"Lambert" = +1
+	"Robert" = +1
+	"Vestgeir" = +1
+	"Ricimer" = +1
+	"Matteo" = +1
+	"Humphrey" = +1
+	"Machiel" = +1
+	"Hjarrandi" = +1
+	"Pavia" = -1
+	"Heidi" = -1
+	"Ormhild" = -1
+	"Rachel" = -1
+	"Malasintha" = -1
+	"Saegifu" = -1
+	"Jenefer" = -1
+	"Maria" = -1
+	"Glismoda" = -1
+	"Sedehana" = -1
 }
-ship_names = { 
+ship_names = {
+	"Soldier of Fiendshelm Watcher of Wickenlund"
+	"Lavendar Demon Bird of Cousin's Eye"
+	"Ruby Ranger Melody"
+	"Hallowed Gale Black Swan"
+	"The Hollow Boar Aquilon"
+	"Earth Dragon Misery"
+	"Murlusk's Thunder Chained Tempest"
+	"Void Servant of Hadiya's Spire West Son"
+	"Pathfinder Mistress of the Waves"
+	"Song of Cedar Mere Sunless Mare"
+	"Gone Too Far Serpent"
+	"Howling Spear Pillager"
+	"Hearty Cursed Raven"
+	"Snowblind Wake Clove Tree"
+	"Gone Too Far Orca"
 }

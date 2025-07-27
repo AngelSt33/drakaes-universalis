@@ -23,8 +23,53 @@ leader_names = {
 	"Winifred Sadler"
 	"Mila Ehrler"
 	"Sigor Argentein"
+	"Elinor Prowd"
+	"Mawa Dietten"
+	"Giles Asplyn"
+	"Asketel Godfrey"
+	"Constantin Molyns"
+	"Zarina Vloedgraven"
+	"Sabine Kooiman"
+	"Leofstan Hillebrand"
+	"Willy Hillebrand"
+	"Tristan Luthi"
 }
-monarch_names = { 
+monarch_names = {
+	"Farthegn" = +1
+	"Fravitta" = +1
+	"Ivo" = +1
+	"Magnus" = +1
+	"Humphrey" = +1
+	"Ricimer" = +1
+	"Bertram" = +1
+	"Sindila" = +1
+	"Vestgeir" = +1
+	"Godric" = +1
+	"Rimilde" = -1
+	"Godusa" = -1
+	"Yvette" = -1
+	"Emma" = -1
+	"Regina" = -1
+	"Alwina" = -1
+	"Dorothy" = -1
+	"Sarra" = -1
+	"Laura" = -1
+	"Agatha" = -1
 }
-ship_names = { 
+ship_names = {
+	"Ironhowl Maiden Hatherleigh"
+	"Sorrow Warlock's Harpy Luminous Runner"
+	"Cruel Hunter Ironhowl Maiden"
+	"Twice Sunk Horror Wish"
+	"Jasper Hearthless Flight"
+	"Shell Voyager Anne"
+	"Copper King of Hare's Hill Snarling Zephyr of Blackbrook"
+	"Mason's Folly Melody"
+	"Wave Zephyr Chained Tempest"
+	"Spitfire Duskwake Drifter"
+	"Soldier of Fiendshelm Hallowed Gale"
+	"Whalebane Echo Pillager"
+	"Soldier of Fiendshelm Duskwake Drifter"
+	"Oathbound Drift Pool Pilgrim"
+	"Loss Spirit Blade"
 }

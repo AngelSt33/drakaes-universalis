@@ -23,8 +23,53 @@ leader_names = {
 	"Oswyn Frilleck"
 	"Mathies Schierholt"
 	"Eustace Spebynton"
+	"Sayer Lucy"
+	"Basten Bouldre"
+	"Carlijne Luthi"
+	"Hallveig Daundelyon"
+	"Willemein Gudlaugdottir"
+	"Gregory Holthusen"
+	"Amalfriede Paarhuis"
+	"Leonhard Gaytan"
+	"Annalies Ruiter"
+	"Rik Dohl"
 }
-monarch_names = { 
+monarch_names = {
+	"Fulk" = +1
+	"Orgumleidi" = +1
+	"Vestgeir" = +1
+	"Henry" = +1
+	"Marmaduke" = +1
+	"Toka" = +1
+	"Vivian" = +1
+	"Gawaine" = +1
+	"Harald" = +1
+	"Ulfketel" = +1
+	"Bergljot" = -1
+	"Protasia" = -1
+	"Feenja" = -1
+	"Margaret" = -1
+	"Hild" = -1
+	"Amalasuntha" = -1
+	"Philippa" = -1
+	"Sibilla" = -1
+	"Agatha" = -1
+	"Anna" = -1
 }
-ship_names = { 
+ship_names = {
+	"Hearty Valhalla"
+	"Chaoticfish Ghost Ghoul"
+	"Mistress of the Waves Celerity"
+	"Whisper Spirit"
+	"Rime-Touched Valor Anne"
+	"Burning Inn Stone Gnoll"
+	"Ironhowl Maiden Ledbury"
+	"Earth Dragon Celerity"
+	"The Withering Hunt Rune Gull"
+	"Path Salamander of Griffinsway Spitfire"
+	"Discreet Secret Mistress of the Waves"
+	"The Gilded Fen Wellerman"
+	"Sunlesswind Patience"
+	"Moon Blade Reflective Spider"
+	"Courtesan's Sprite Steadfast"
 }

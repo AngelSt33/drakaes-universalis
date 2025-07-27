@@ -23,8 +23,53 @@ leader_names = {
 	"Alice Downer"
 	"Whyburgh Faylare"
 	"Roger Harryses"
+	"Mildred Peucker"
+	"Rogier Ioketilldottir"
+	"Geert-Jan Leverer"
+	"Katrien Briggs"
+	"Leofing Ende"
+	"Isolde Harryses"
+	"Toos Underhill"
+	"Jochum Reitz"
+	"Maurits-jan de Vire"
+	"Reynold Heerius"
 }
-monarch_names = { 
+monarch_names = {
+	"Youri" = +1
+	"Lewin" = +1
+	"Luuk" = +1
+	"Eustace" = +1
+	"Babai" = +1
+	"Alfsige" = +1
+	"Saewulf" = +1
+	"Tobias" = +1
+	"Joseph" = +1
+	"Patrick" = +1
+	"Mary" = -1
+	"Eulalia" = -1
+	"Tiana" = -1
+	"Dorothy" = -1
+	"Asgerd" = -1
+	"Millicent" = -1
+	"Earngith" = -1
+	"Cwenhild" = -1
+	"Barbara" = -1
+	"Aldreda" = -1
 }
-ship_names = { 
+ship_names = {
+	"The Gilded Fen Ledbury"
+	"Setter Ruby Falcon"
+	"West Son Mad Wyvern"
+	"Chained Tempest Serpent"
+	"Wish of Carlusk Hull Camel"
+	"Shell Voyager Greedy Dragon"
+	"Ruby Ranger Kraken"
+	"Wind Seeker Nunney Castle"
+	"Jasper Wish of Carlusk"
+	"Sorcerer's Nymph Clove Tree"
+	"Immeral's Kiss The Silent Fjell"
+	"Hallowed Gale Son of Colfoundry"
+	"Silverfang Gale Outlander"
+	"Raglan Gilded Shade"
+	"Omen Lavendar Demon"
 }

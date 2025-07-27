@@ -23,8 +23,53 @@ leader_names = {
 	"Godelieve Teunissen Marsman"
 	"Nanko van 't Bouwhuis"
 	"Godric Bewley"
+	"Elia Jorundottir"
+	"Amalasuntha Mohring"
+	"Jochem Marsche"
+	"Elisabeth Jorvick"
+	"Roger Stelzner"
+	"Tiecia Mylner"
+	"Gailavira Holthusen"
+	"Amalfrida Holmfastsson"
+	"Kasper Horsting"
+	"Elric Weston"
 }
-monarch_names = { 
+monarch_names = {
+	"Jordan" = +1
+	"Elgar" = +1
+	"Harald" = +1
+	"Nicolas" = +1
+	"Patrick" = +1
+	"Albert" = +1
+	"Rowland" = +1
+	"Waldo" = +1
+	"Alfsige" = +1
+	"Silvester" = +1
+	"Hunila" = -1
+	"Aldreda" = -1
+	"Godusa" = -1
+	"Rimilde" = -1
+	"Veerle" = -1
+	"Gudrun" = -1
+	"Ellen" = -1
+	"Asgerd" = -1
+	"Enota" = -1
+	"Preciosa" = -1
 }
-ship_names = { 
+ship_names = {
+	"Buccaneer Keen of Torcradle"
+	"Chaoticfish Soldier of Fiendshelm"
+	"Deathwind Arunta"
+	"Sable-Touched Omen Killowen"
+	"Haunted Gambit Whalebane Echo"
+	"Pale Hammer Devil's Contract"
+	"Sorrow Warlock's Harpy Gertraud's Doom"
+	"Death Rattle Killowen"
+	"Pillager Ash-Clad Swan"
+	"The Wolf's Regret Escape"
+	"Compass Windsong"
+	"Melody Shadow-Girded Lash"
+	"Blood-Grey Wave Kilcurrig"
+	"Titan's Bard Arunta"
+	"Whisper's Hope Misery"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Maurits-jan Winkelink"
 	"Mark Wrenne"
 	"Thomasine Crugge"
+	"Hubert Lodyngton"
+	"Geert-Jan Salford"
+	"Toos Hulst"
+	"Emeline Barber"
+	"Olvir Vinter"
+	"Alicia Steinhaeusser"
+	"Jochen Freer"
+	"Lucon Platz"
+	"Joycelin Bryan"
+	"Tiecia Arentsen"
 }
-monarch_names = { 
+monarch_names = {
+	"Oliver" = +1
+	"Maximillian" = +1
+	"Edric" = +1
+	"Aelfward" = +1
+	"Abraham" = +1
+	"Youri" = +1
+	"Bertram" = +1
+	"Koen" = +1
+	"Kaetilmund" = +1
+	"Tedric" = +1
+	"Theda" = -1
+	"Winifred" = -1
+	"Rachel" = -1
+	"Julian" = -1
+	"Ulfheid" = -1
+	"Sarah" = -1
+	"Anna" = -1
+	"Feenja" = -1
+	"Catherine" = -1
+	"Megan-Laureen" = -1
 }
-ship_names = { 
+ship_names = {
+	"Sea Golem Killowen"
+	"Serpent Unlikely Breaker"
+	"Pale Hammer Wellerman"
+	"Blade The Gilded Fen"
+	"Cuttle Ruby Falcon"
+	"Blood-Grey Wave Earth Octopus of the West"
+	"Iron Devil Nevermore"
+	"Silver Arrow The Sunken Boast"
+	"Mad Wyvern Haunted Gambit"
+	"Fate Fluke"
+	"Melody Shatterhelm Shriek"
+	"Queen of Yorvick Howling Spear"
+	"True Witch Jasper"
+	"Swanless Wake Wind Song"
+	"True Witch Victory"
 }

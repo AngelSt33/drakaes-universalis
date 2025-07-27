@@ -23,8 +23,53 @@ leader_names = {
 	"Tristan Pfennig"
 	"Pier Luppe"
 	"Thalia Kass"
+	"Janucho Vreeburg"
+	"Frithila Brownflet"
+	"Felizitas Downer"
+	"Janet Plessner"
+	"Vivien Borgardottir"
+	"Maurits Ryall"
+	"Guthhere Mugge"
+	"Jurren Schwann"
+	"Tim Playters"
+	"Protasia Wymer"
 }
-monarch_names = { 
+monarch_names = {
+	"Waldo" = +1
+	"Denis" = +1
+	"Ulric" = +1
+	"Elric" = +1
+	"Swain" = +1
+	"Giles" = +1
+	"Rowland" = +1
+	"Harald" = +1
+	"Gawaine" = +1
+	"Claus" = +1
+	"Richenda" = -1
+	"Madia" = -1
+	"Godlefe" = -1
+	"Freygerd" = -1
+	"Osk" = -1
+	"Sigrunn" = -1
+	"Acelina" = -1
+	"Sigrith" = -1
+	"Ingrid" = -1
+	"Roosje" = -1
 }
-ship_names = { 
+ship_names = {
+	"Wish of Carlusk Watcher"
+	"Nevermore Rime-Touched Valor"
+	"The Sunken Boast Carrier"
+	"Blood-Grey Wave Dimsey's Light"
+	"Red-Eyed Stag Lalmourn"
+	"Wave Zephyr Whiskey Chaser"
+	"Luminous Runner Sunless Mare"
+	"Burning Inn Zhuirentel"
+	"Dimsey's Light Twilight Reaver"
+	"Twilight Reaver West Son"
+	"Ironhowl Maiden Wem"
+	"Runner's Despair Escape"
+	"Watcher of Wickenlund Ten"
+	"Snarling Zephyr of Blackbrook Enterprise"
+	"Whiskey Chaser Serpent"
 }

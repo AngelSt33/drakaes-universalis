@@ -23,8 +23,53 @@ leader_names = {
 	"Sampson Jay"
 	"Joeri de Boer"
 	"Ismay Fitzralph"
+	"Andrew Alikok"
+	"Maurits Oosterloo"
+	"Magnus Bredham"
+	"Felizitas Ingjaldottir"
+	"Monia Bryan"
+	"Gudo Bekman"
+	"Maurits Bernal"
+	"Odoin Peucker"
+	"Peter Kyllyngworth"
+	"Cwenhild Bernal"
 }
-monarch_names = { 
+monarch_names = {
+	"Bernard" = +1
+	"Leofstan" = +1
+	"Gamel" = +1
+	"Arne" = +1
+	"William" = +1
+	"Elgar" = +1
+	"Luke" = +1
+	"Ulric" = +1
+	"Ricimer" = +1
+	"Torkel" = +1
+	"Isabel" = -1
+	"Enota" = -1
+	"Hunila" = -1
+	"Feenja" = -1
+	"Sien" = -1
+	"Osk" = -1
+	"Saegifu" = -1
+	"Hrodny" = -1
+	"Amalfriede" = -1
+	"Sarah" = -1
 }
-ship_names = { 
+ship_names = {
+	"Windsong Sunlesswind"
+	"Sea Golem Discreet Secret"
+	"True Witch Arunta"
+	"Pillager The Last Meadfire"
+	"Keen of Torcradle Pool Pilgrim"
+	"Aquilon Sea Golem"
+	"Rime-Touched Valor Kilcurrig"
+	"Tentacle Oathbound Drift"
+	"Melody Loss Spirit"
+	"Patience Watcher of Wickenlund"
+	"Discreet Secret Path Salamander of Griffinsway"
+	"Sea Champion's Dolphin Whalebane Echo"
+	"Lavendar Demon Falling Star"
+	"Burning Vulture Luminous Runner"
+	"Oathbound Drift Jasper"
 }

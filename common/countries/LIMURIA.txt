@@ -23,8 +23,53 @@ leader_names = {
 	"Paulus Bodmer"
 	"Pavia Grove"
 	"Mark Wrenne"
+	"Mark Leifdottir"
+	"Amalasuntha Kyllyngworth"
+	"Sigor Arentsen"
+	"Sijbrand Brocksby"
+	"Julian Vaart"
+	"Ad Berger"
+	"Bricteva Baker"
+	"Mechiel Balam"
+	"Hanno Corbett"
+	"Susanna Kætilmundottir"
 }
-monarch_names = { 
+monarch_names = {
+	"Frideric" = +1
+	"Hjarrandi" = +1
+	"Fastida" = +1
+	"Walahmar" = +1
+	"Leofric" = +1
+	"Sindila" = +1
+	"Toka" = +1
+	"Humphrey" = +1
+	"Nathaniel" = +1
+	"Anthony" = +1
+	"Avagisa" = -1
+	"Margaret" = -1
+	"Melle" = -1
+	"Loveday" = -1
+	"Matasuntha" = -1
+	"Chlodoswintha" = -1
+	"Bridget" = -1
+	"Mabel" = -1
+	"Godusa" = -1
+	"Regina" = -1
 }
-ship_names = { 
+ship_names = {
+	"Mistress of the Waves West Son"
+	"Ledbury Possessedfish"
+	"Ironhowl Maiden Pool Pilgrim"
+	"Misery Bold Venture"
+	"Anne Horror Wish"
+	"Anne Runemarked Sorrow"
+	"Cursed Raven Sable-Touched Omen"
+	"Gertraud's Doom Swanless Wake"
+	"Horror Wish Rune Gull"
+	"Rider's Luck Vain Gravedigger"
+	"Whalebane Echo Dedaigneuse"
+	"Gordia's Light Watcher"
+	"The Gilded Fen Carrier"
+	"Eight of the Waves Side Quest"
+	"Celerity Obsidian Nymph"
 }

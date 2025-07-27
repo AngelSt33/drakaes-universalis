@@ -23,8 +23,53 @@ leader_names = {
 	"Ambrose Bernard"
 	"Christiane Schlechter"
 	"Ulfi Wylde"
+	"Stephen Weingaertner"
+	"Thomasin Jentzsch"
+	"Catootje Weizenbaum"
+	"Leonard Hulst"
+	"Yosi Vaart"
+	"Brictric Hülsen"
+	"Gutirre Krakouer"
+	"Elizabeth Crugge"
+	"Maaike Stappenbeld"
+	"Lyting Wilmink"
 }
-monarch_names = { 
+monarch_names = {
+	"Louw" = +1
+	"Wicing" = +1
+	"Fritz" = +1
+	"Adrian" = +1
+	"Bartjan" = +1
+	"Frideric" = +1
+	"Ulfketel" = +1
+	"Avery" = +1
+	"Sindila" = +1
+	"Richard" = +1
+	"Joyce" = -1
+	"Runa" = -1
+	"Melle" = -1
+	"Margaret" = -1
+	"Madia" = -1
+	"Goditha" = -1
+	"Magdalene" = -1
+	"Sedehana" = -1
+	"Malasintha" = -1
+	"Joy" = -1
 }
-ship_names = { 
+ship_names = {
+	"Celerity Hallowed Gale"
+	"Deathwind Dimsey's Light"
+	"Shell Voyager Dakins"
+	"Sea Champion's Dolphin Snarling Zephyr of Blackbrook"
+	"Cuttle Devil's Roar"
+	"Slayer's Terror Anne"
+	"Princess's Shadow Victory"
+	"Wolf-Touched Mist Fell Wight"
+	"Seeker Sky Wizard"
+	"Jasper Cruel Dagger"
+	"Wind Seeker Waking Dream"
+	"Dimsey's Light Ruby Ranger"
+	"Shadow-Girded Lash Devil's Contract"
+	"Side Quest Immeral's Kiss"
+	"Falling Star Gilded Shade"
 }

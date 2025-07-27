@@ -23,8 +23,53 @@ leader_names = {
 	"Drogo Maudit"
 	"Sayer Brayles"
 	"Jan-Willem Duivencate"
+	"Carlijne Harwood"
+	"Joeri Dohl"
+	"Amalwara Harwood"
+	"Thomasin Davers"
+	"Mareike Platz"
+	"Guust Ioketilldottir"
+	"Godwin Saravia"
+	"Elise Maudit"
+	"Leomer Wynstryngham"
+	"Sephare Jentzsch"
 }
-monarch_names = { 
+monarch_names = {
+	"Hjarrandi" = +1
+	"Mert" = +1
+	"Godwin" = +1
+	"Fravitta" = +1
+	"Martin" = +1
+	"Heiko" = +1
+	"Cornelius" = +1
+	"Fastida" = +1
+	"Gudmund" = +1
+	"Sisebut" = +1
+	"Aldis" = -1
+	"Iva" = -1
+	"Loveday" = -1
+	"Marjorie" = -1
+	"Gudrun" = -1
+	"Ormhild" = -1
+	"Aldreda" = -1
+	"Frances" = -1
+	"Amalasuntha" = -1
+	"Acelina" = -1
 }
-ship_names = { 
+ship_names = {
+	"Path Salamander of Griffinsway Crimson Singer"
+	"Whiskey Chaser Black Swan"
+	"Dragon's Wail Iron Devil"
+	"Watcher of Wickenlund Zhuirentel"
+	"Sorrow Warlock's Harpy Surprise"
+	"Fallow Vengeance Valhalla"
+	"Ruby Ranger Hull Camel"
+	"Whisper's Hope Earthdon's Heart"
+	"Whiskey Chaser Ten"
+	"Grim Breaker Sundew"
+	"Steadfast Pillager"
+	"Watcher Lavendar Demon"
+	"Barrowbound Flame Pathfinder"
+	"Hangman's Hate Osprey's Pride"
+	"Queen of Yorvick The Gilded Fen"
 }

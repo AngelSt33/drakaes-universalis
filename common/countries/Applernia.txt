@@ -23,8 +23,53 @@ leader_names = {
 	"Drogo Norden"
 	"Bartholomew Stokes"
 	"Elric Laken"
+	"Antoon Shevington"
+	"Lefwin Kooiman"
+	"Steffen Cranford"
+	"Lorelei Hodgeson"
+	"Gregor Vetter"
+	"Arnold Jorvick"
+	"Emelia Barker"
+	"Gamel Overbeek"
+	"Wulfgeat Ruiter"
+	"Mathies Hvitserksson"
 }
-monarch_names = { 
+monarch_names = {
+	"Joscelin" = +1
+	"Bartjan" = +1
+	"Thomas" = +1
+	"Fulke" = +1
+	"Isaak" = +1
+	"Attwell" = +1
+	"Oliver" = +1
+	"Jordan" = +1
+	"Fulk" = +1
+	"Osbert" = +1
+	"Enota" = -1
+	"Mathilde" = -1
+	"Maria" = -1
+	"Winifred" = -1
+	"Philippa" = -1
+	"Amalasuntha" = -1
+	"Agnes" = -1
+	"Bergljot" = -1
+	"Margaret" = -1
+	"Aldis" = -1
 }
-ship_names = { 
+ship_names = {
+	"Rune Gull Twilight Reaver"
+	"Wem Snowblind Wake"
+	"Great Expense Courtesan's Sprite"
+	"Darvin's Cry Sunlesswind"
+	"Success Great Expense"
+	"Luminous Runner Thorn-Gilded Curse"
+	"Cursed Raven Oathwither Song"
+	"Serpent Runner's Despair"
+	"Seeker Storm-Bitten Grudge"
+	"Hunter Grim Breaker"
+	"Snarling Zephyr of Blackbrook Abingdon"
+	"Dimsey's Light Silverfang Gale"
+	"Escape Hearty"
+	"Iron Dragon's Doom The Shivering Hoard"
+	"Iron Dragon's Doom Burning Fjord"
 }

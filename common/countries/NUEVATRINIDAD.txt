@@ -23,8 +23,53 @@ leader_names = {
 	"Drogo Norden"
 	"Elmar Riedel"
 	"Sijbrand Reimink"
+	"Paulus Copinger"
+	"Yosi Overbeek"
+	"Basten Wolrond"
+	"Thurston Luppe"
+	"Maurice Schachtschneider"
+	"George Edgcomb"
+	"Bas Hosteler"
+	"Margaret Bewforest"
+	"Jurren Montacute"
+	"Ismay Rampston"
 }
-monarch_names = { 
+monarch_names = {
+	"Denis" = +1
+	"Godfrey" = +1
+	"Jorn" = +1
+	"Kadal" = +1
+	"Nigel" = +1
+	"Philips" = +1
+	"Abraham" = +1
+	"Hamo" = +1
+	"Thurstan" = +1
+	"Oliver" = +1
+	"Willy" = -1
+	"Dorothy" = -1
+	"Bergljot" = -1
+	"Ellen" = -1
+	"Mary" = -1
+	"Jorunn" = -1
+	"Gudeliva" = -1
+	"Teja" = -1
+	"Sigrunn" = -1
+	"Sarah" = -1
 }
-ship_names = { 
+ship_names = {
+	"The Hollow Wolf Sea Champion's Dolphin"
+	"Wave Zephyr Thorn-Gilded Curse"
+	"Ortenzia Triad of the Waves"
+	"Death Rattle Courtesan's Sprite"
+	"Horror Wish Pillager"
+	"Earth Octopus of the West Path Salamander of Griffinsway"
+	"Blood-Grey Wave Loyalty"
+	"Killowen Sable-Touched Omen"
+	"Sable-Touched Omen Enterprise"
+	"Kempenfelt Possessedfish"
+	"Arunta Wyrm-Wind Seeker"
+	"Red-Eyed Stag Darvin's Cry"
+	"Snowblind Wake Falling Star"
+	"Immeral's Kiss Great Expense"
+	"Frostbitten Rook Windsong"
 }

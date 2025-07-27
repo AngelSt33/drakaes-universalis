@@ -23,8 +23,53 @@ leader_names = {
 	"Aelric Parsons"
 	"Basten Flederis"
 	"Magdalene Luthi"
+	"Mildred Slyfield"
+	"Mannes Halley"
+	"Sijbrand West"
+	"Hubert Launceleyn"
+	"Michaela Norden"
+	"Cornelia Lexis"
+	"Isolde Jay"
+	"Samira Helme"
+	"Olvir Kleiber"
+	"Crystobell Gradl"
 }
-monarch_names = { 
+monarch_names = {
+	"Bartholomew" = +1
+	"Oliver" = +1
+	"Leofstan" = +1
+	"Youri" = +1
+	"Simon" = +1
+	"Attwell" = +1
+	"Saewulf" = +1
+	"Josce" = +1
+	"Uraias" = +1
+	"Elric" = +1
+	"Leofe" = -1
+	"Winifred" = -1
+	"Joyce" = -1
+	"Rimilde" = -1
+	"Leonie" = -1
+	"Thomasin" = -1
+	"Barbara" = -1
+	"Rosamund" = -1
+	"Chlodoswintha" = -1
+	"Catherine" = -1
 }
-ship_names = { 
+ship_names = {
+	"Beehive Snarling Zephyr of Blackbrook"
+	"For Play Twice Sunk"
+	"Quicksilver Chaoticfish"
+	"Anne Swanless Wake"
+	"Great Expense Black Swan"
+	"Reflective Spider Jasper"
+	"Courtesan's Sprite Grim Breaker"
+	"Sky Wizard Murlusk's Thunder"
+	"Pale Hammer Bird of Cousin's Eye"
+	"Titan's Bard Dimsey's Light"
+	"Black Swan Mistress of the Waves"
+	"Crimson Barrow Luminous Runner"
+	"Windsunder Moon Courtesan's Sprite"
+	"Earth Hippogriff of Maresmeet Chained Tempest"
+	"Barrowbound Flame Celerity"
 }

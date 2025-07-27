@@ -23,8 +23,53 @@ leader_names = {
 	"Pier van Norel"
 	"Osbert Theobauld"
 	"Kobus Kalenkamp"
+	"Luuk West"
+	"Ole Kalenkamp"
+	"Leonhard Bewforest"
+	"Henkie Weston"
+	"Arnold Kamerling"
+	"Gudo Omvlee"
+	"Brian Ioketilldottir"
+	"Emeline Buit"
+	"Alfsige Lodyngton"
+	"Janucho Wylde"
 }
-monarch_names = { 
+monarch_names = {
+	"Allen" = +1
+	"Orgumleidi" = +1
+	"Wulsi" = +1
+	"Toka" = +1
+	"Josce" = +1
+	"Adrian" = +1
+	"Percival" = +1
+	"Reynold" = +1
+	"Tobias" = +1
+	"Ricimer" = +1
+	"Loveday" = -1
+	"Ellen" = -1
+	"Anna" = -1
+	"Dorothy" = -1
+	"Alwina" = -1
+	"Mathilda" = -1
+	"Joyce" = -1
+	"Marit" = -1
+	"Willy" = -1
+	"Protasia" = -1
 }
-ship_names = { 
+ship_names = {
+	"Whiskey Chaser Luminous Runner"
+	"Duskwake Drifter Sea Champion's Dolphin"
+	"Ashen Grin Spitfire"
+	"Dubford Thorn-Gilded Curse"
+	"Windsunder Moon Patience"
+	"Killowen Ruby Falcon"
+	"Sunburn Sharp Swan of Torhof"
+	"Runner's Despair Spitfire"
+	"Pool Pilgrim Fallow Vengeance"
+	"Burning Vulture Immeral's Kiss"
+	"Lavendar Demon Arunta"
+	"Anne Princess's Shadow"
+	"Courtesan's Sprite Lavendar Demon"
+	"Hearthless Flight Saltheart"
+	"Death Rattle Rider's Luck"
 }

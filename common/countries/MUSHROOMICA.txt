@@ -23,8 +23,53 @@ leader_names = {
 	"Nard van Overbeek"
 	"Emma Hyde"
 	"Thomas Killigrew"
+	"Pien Dietten"
+	"Galla Rosenzweig"
+	"Bilimer Walsch"
+	"Karlijn Robredo"
+	"Isolde Panzinger"
+	"Stannard Grebel"
+	"Livitha Kophoff"
+	"Asketel Koestra"
+	"Barbara Unton"
+	"Beatrice Duchateau"
 }
-monarch_names = { 
+monarch_names = {
+	"Laurens-Jan" = +1
+	"Asketil" = +1
+	"Ildebad" = +1
+	"Sindila" = +1
+	"Thurstan" = +1
+	"Huibert" = +1
+	"Matteo" = +1
+	"Joscelin" = +1
+	"Harald" = +1
+	"Alexander" = +1
+	"Goditha" = -1
+	"Rosamund" = -1
+	"Hild" = -1
+	"Werthiva" = -1
+	"Idonea" = -1
+	"Ursula" = -1
+	"Basilia" = -1
+	"Emma" = -1
+	"Iva" = -1
+	"Helewis" = -1
 }
-ship_names = { 
+ship_names = {
+	"The Last Meadfire Murlusk's Thunder"
+	"Osprey's Pride Thorn-Gilded Curse"
+	"Whisper Waking Dream"
+	"Dedaigneuse Runner's Despair"
+	"Greedy Dragon Reflective Spider"
+	"Twice Sunk Silverfang Gale"
+	"Quicksilver Shadow-Girded Lash"
+	"Runemarked Sorrow Escape"
+	"Devil's Contract Oathbound Drift"
+	"Dordrecht Whalebane Echo"
+	"WyrmeEyed Wanderer Victory"
+	"Princess's Shadow Demon"
+	"Fluke Princess's Shadow"
+	"Surprise Barrowbound Flame"
+	"Cruel Dagger Fell Wight"
 }

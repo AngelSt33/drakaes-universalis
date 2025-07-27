@@ -23,8 +23,53 @@ leader_names = {
 	"Wulsi Greenway"
 	"James Wynter"
 	"Arjen van Rooij"
+	"Hubrecht Fraunces"
+	"Fritz Hekkers"
+	"Lorelei Thorgeirsson"
+	"Margery Klijn"
+	"Hygbald Vetter"
+	"Mathies Bartram"
+	"Nicola Smalbroek"
+	"Arnold Hache"
+	"Alfred Sigericdottir"
+	"Elja Herz"
 }
-monarch_names = { 
+monarch_names = {
+	"Leon" = +1
+	"Gorm" = +1
+	"Josce" = +1
+	"Thorismud" = +1
+	"Ivo" = +1
+	"Nicholas" = +1
+	"Giles" = +1
+	"Gunteric" = +1
+	"Ricimer" = +1
+	"Elgar" = +1
+	"Millicent" = -1
+	"Aldreda" = -1
+	"Frances" = -1
+	"Asleif" = -1
+	"Mary" = -1
+	"Winifred" = -1
+	"Freygerd" = -1
+	"Alice" = -1
+	"Earngith" = -1
+	"Milda" = -1
 }
-ship_names = { 
+ship_names = {
+	"Hot Flush Saltheart"
+	"Burning Inn Ledbury"
+	"Cuttle Devil's Roar"
+	"Reflective Spider Waking Dream"
+	"Wind Song Compass"
+	"Sunburn Ten"
+	"Oathbound Drift Saltheart"
+	"Windsong Mason's Folly"
+	"Death Rattle Rune Gull"
+	"Bitterwake Cry Wem"
+	"Silverfang Gale Nevermore"
+	"Outlander The Hollow Wolf"
+	"Seeker The Shivering Hoard"
+	"Loss Spirit Hatherleigh"
+	"Sorcerer's Nymph Sea Champion's Dolphin"
 }

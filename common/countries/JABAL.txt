@@ -23,8 +23,53 @@ leader_names = {
 	"Augustin Beauchamp"
 	"Tiffany Launceleyn"
 	"Phillip Weingaertner"
+	"Cornelius Westerhof"
+	"Tatiana Jorundottir"
+	"Akeman Robynson"
+	"Giles Windham"
+	"Tori Rijnders"
+	"Loveday Heek"
+	"Merewin Herleston"
+	"Henry Duivencate"
+	"Sijbrand Hrokdottir"
+	"Goisvintha Gustloff"
 }
-monarch_names = { 
+monarch_names = {
+	"Lewin" = +1
+	"Henry" = +1
+	"Julian" = +1
+	"Isaac" = +1
+	"Stannard" = +1
+	"Leon" = +1
+	"Leonard" = +1
+	"Ulric" = +1
+	"Sampson" = +1
+	"Laurens-Jan" = +1
+	"Marjorie" = -1
+	"Elske" = -1
+	"Winifred" = -1
+	"Glismoda" = -1
+	"Mathilde" = -1
+	"Ingaret" = -1
+	"Agnes" = -1
+	"Matasuntha" = -1
+	"Alwina" = -1
+	"Earngith" = -1
 }
-ship_names = { 
+ship_names = {
+	"Celerity Sky Wizard"
+	"Bold Venture Falling Star"
+	"Soldier of Fiendshelm Watcher of Wickenlund"
+	"Horror Wish Moon Blade"
+	"Tentacle Path Salamander of Griffinsway"
+	"Deathwind Anne"
+	"Steadfast Gull's Shadow"
+	"Serpent Fate"
+	"Burning Inn Omen"
+	"Thornborough Watcher of Wickenlund"
+	"Slayer's Terror Cruel Hunter"
+	"Whisper's Hope Sundew"
+	"Dimsey's Light Path Salamander of Griffinsway"
+	"The Wolf's Regret Hull Camel"
+	"Haunted Gambit Misadventure"
 }

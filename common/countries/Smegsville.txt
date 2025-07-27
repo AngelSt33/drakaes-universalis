@@ -23,8 +23,53 @@ leader_names = {
 	"Nigel Snelling"
 	"Roger Harryses"
 	"Adam Haddock"
+	"Randall Teeselink"
+	"Feenja Rampston"
+	"Wulfgeat Ardes"
+	"Bertram Hale"
+	"Elma Brinckhurst"
+	"Gerda Penhallick"
+	"Willy Waldeley"
+	"Tatiana Hussey"
+	"Leofing Glover"
+	"Magdelena Hoehmann"
 }
-monarch_names = { 
+monarch_names = {
+	"Gilbert" = +1
+	"Giles" = +1
+	"Oswyn" = +1
+	"Randall" = +1
+	"Edric" = +1
+	"Kadal" = +1
+	"Brictric" = +1
+	"Bergfinn" = +1
+	"Gorm" = +1
+	"Orgumleidi" = +1
+	"Alfleta" = -1
+	"Jenefer" = -1
+	"Goditha" = -1
+	"Ulfheid" = -1
+	"Saegifu" = -1
+	"Amalfrida" = -1
+	"Dorothy" = -1
+	"Alice" = -1
+	"Werthiva" = -1
+	"Alwina" = -1
 }
-ship_names = { 
+ship_names = {
+	"Storm-Bitten Grudge Sea Champion's Dolphin"
+	"Mad Wyvern Cruel Hunter"
+	"Beehive Burning Fjord"
+	"Swanless Wake Beggar of Beastsshield"
+	"Orca Thorn-Gilded Curse"
+	"Horror Wish Arunta"
+	"Quicksilver True Witch"
+	"The Hollow Boar Jasper"
+	"Hull Camel Sable-Touched Omen"
+	"Osprey's Pride Surprise"
+	"Stone Gnoll The Last Meadfire"
+	"Oathwither Song Nymphen"
+	"Courtesan's Sprite Watcher of Wickenlund"
+	"Barrowbound Flame Sundew"
+	"Shatterhelm Shriek Hangman's Hate"
 }

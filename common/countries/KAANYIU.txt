@@ -23,8 +23,53 @@ leader_names = {
 	"Willy Bekman"
 	"Cathelijn van den Barg"
 	"Reggy ten Hemmel"
+	"Brian de Gadea"
+	"Cacilia Ehrler"
+	"Eystein Hiddink"
+	"Brictric Wynter"
+	"Arthur Vetter"
+	"Randall Schierholt"
+	"Henry Clifton"
+	"Amalfrida Rogge"
+	"Leendert Sigericdottir"
+	"Ursula Weston"
 }
-monarch_names = { 
+monarch_names = {
+	"Thorkel" = +1
+	"Gawaine" = +1
+	"Beucad" = +1
+	"Robert" = +1
+	"Tumi" = +1
+	"Edric" = +1
+	"Toka" = +1
+	"Patrick" = +1
+	"Nicolas" = +1
+	"John" = +1
+	"Heidi" = -1
+	"Sarah" = -1
+	"Eve" = -1
+	"Saeunn" = -1
+	"Winifred" = -1
+	"Mathilda" = -1
+	"Pavia" = -1
+	"Willy" = -1
+	"Enota" = -1
+	"Albreda" = -1
 }
-ship_names = { 
+ship_names = {
+	"Burning Vulture Thornborough"
+	"Sorcerer's Nymph Beehive"
+	"Ghost Ghoul The Hollow Wolf"
+	"Earthdon's Heart Runemarked Sorrow"
+	"Thorn-Gilded Curse Watcher"
+	"Fell Wight Misadventure"
+	"Kraken The Silent Fjell"
+	"Tentacle Storm-Bitten Grudge"
+	"Rune Gull Mad Wyvern"
+	"Vain Gravedigger Watcher"
+	"Sable-Touched Omen Twice Sunk"
+	"Moon Blade Thorn-Gilded Curse"
+	"Misery Horror Wish"
+	"Watcher The Sunken Boast"
+	"Nunney Castle Whisper"
 }

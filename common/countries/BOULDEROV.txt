@@ -23,8 +23,53 @@ leader_names = {
 	"Ido Geist"
 	"Vivien Holthusen"
 	"Lowie Omvlee"
+	"Jochum Bewforest"
+	"Augustin Valreach"
+	"Amala Wolrond"
+	"Ragenhild Addicock"
+	"Viktor Baker"
+	"Rhima Hiddink"
+	"Matthew Westerhof"
+	"Joycelin Tas"
+	"Wil Scarclyf"
+	"Julian Ende"
 }
-monarch_names = { 
+monarch_names = {
+	"Jordan" = +1
+	"Godfrey" = +1
+	"Rollo" = +1
+	"Percival" = +1
+	"Bergfinn" = +1
+	"Gunteric" = +1
+	"Ivo" = +1
+	"Eelco" = +1
+	"Babai" = +1
+	"Gawaine" = +1
+	"Albreda" = -1
+	"Sedehana" = -1
+	"Hild" = -1
+	"Ulfheid" = -1
+	"Gudrun" = -1
+	"Sarra" = -1
+	"Megan-Laureen" = -1
+	"Sigrunn" = -1
+	"Bergljot" = -1
+	"Rachel" = -1
 }
-ship_names = { 
+ship_names = {
+	"Blood-Grey Wave Pillager"
+	"Slayer's Terror Kilcurrig"
+	"Cursed Raven Compass"
+	"Thorn-Gilded Curse Wem"
+	"The Long Cold Glace Bay"
+	"Crimson Singer Burning Fjord"
+	"Burning Fjord Hunter"
+	"Stone Gnoll Whalebane Echo"
+	"Pillager Unlikely Breaker"
+	"Crimson Barrow Sundew"
+	"Wellerman Watcher of Wickenlund"
+	"Pale Hammer Kraken"
+	"Loss Spirit Courtesan's Sprite"
+	"Cabin Fever Outlander"
+	"Thorn-Gilded Curse Rider's Luck"
 }

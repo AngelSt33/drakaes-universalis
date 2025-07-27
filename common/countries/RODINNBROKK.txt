@@ -23,8 +23,53 @@ leader_names = {
 	"Akeman Vinter"
 	"Richard Waldeley"
 	"Henk Weitenberg"
+	"Ismay Boote"
+	"Philippa Gevelear"
+	"Monia Gomersall"
+	"Rhima Overbeek"
+	"Christiane Vaart"
+	"Gailavira Fodde"
+	"Teunissen Holthusen"
+	"Leonard Sherbourne"
+	"Leofric Lowthe"
+	"Mannes Stoughton"
 }
-monarch_names = { 
+monarch_names = {
+	"Ivo" = +1
+	"Rolf" = +1
+	"Hamo" = +1
+	"Jukel" = +1
+	"Turbert" = +1
+	"Mart-jan" = +1
+	"Falco" = +1
+	"Magnus" = +1
+	"Mert" = +1
+	"Totila" = +1
+	"Godlefe" = -1
+	"Wilamin" = -1
+	"Ingrid" = -1
+	"Aldreda" = -1
+	"Elske" = -1
+	"Albreda" = -1
+	"Gilot" = -1
+	"Philippa" = -1
+	"Aldis" = -1
+	"Marit" = -1
 }
-ship_names = { 
+ship_names = {
+	"Darvin's Cry Twilight Reaver"
+	"Dead God Sea Golem"
+	"Stone Gnoll Triad of the Waves"
+	"Horror Wish Moon Blade"
+	"Enterprise The Gilded Fen"
+	"Burning Vulture Celerity"
+	"Wind Song Compass"
+	"Fluke Howling Spear"
+	"Void Servant of Hadiya's Spire Sea Champion's Dolphin"
+	"Hull Camel Shatterhelm Shriek"
+	"Song of Cedar Mere The Long Cold"
+	"Osprey's Pride Ledbury"
+	"Sea Golem Tentacle"
+	"Deathwind Rune Gull"
+	"Clove Tree Watcher of Wickenlund"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Leofing Cantilupe"
 	"Humphrey Chamburleyn"
 	"Iva Peucker"
+	"Mieke Ende"
+	"Tonna Hvitserksson"
+	"Philips Veer"
+	"Floris Chauncey"
+	"Dorothy Salford"
+	"Eustace Dikken"
+	"Erik Oosterloo"
+	"Andrew Auldyngton"
+	"Alfleta Dyneley"
+	"Godelieve Veer"
 }
-monarch_names = { 
+monarch_names = {
+	"Griffin" = +1
+	"Fastida" = +1
+	"Huibert" = +1
+	"Ulfketel" = +1
+	"Sigemær" = +1
+	"Nicholas" = +1
+	"Sewel" = +1
+	"Saewulf" = +1
+	"Ulf" = +1
+	"Bruni" = +1
+	"Isabel" = -1
+	"Ysopa" = -1
+	"Hrodny" = -1
+	"Alfleta" = -1
+	"Marjorie" = -1
+	"Thjodhild" = -1
+	"Margaret" = -1
+	"Agnes" = -1
+	"Gunnora" = -1
+	"Heidi" = -1
 }
-ship_names = { 
+ship_names = {
+	"Vain Gravedigger Son of Colfoundry"
+	"Triad of the Waves Silver Arrow"
+	"Pool Pilgrim Burning Vulture"
+	"Beggar of Beastsshield Whalebane Echo"
+	"Raglan Whalebane Echo"
+	"Surprise Sable-Touched Omen"
+	"Void Servant of Hadiya's Spire Zhuirentel"
+	"Loyalty Pale Hammer"
+	"Gertraud's Doom Mistress of the Waves"
+	"For Play Falling Star"
+	"Earth Dragon Loyalty"
+	"Stone Gnoll Princess's Shadow"
+	"Pathfinder Crimson Barrow"
+	"Vain Gravedigger Dakins"
+	"Sky Wizard Beehive"
 }

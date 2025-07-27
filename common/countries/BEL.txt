@@ -23,8 +23,53 @@ leader_names = {
 	"Henry Prowd"
 	"Alan Brudenell"
 	"Eustace Spebynton"
+	"Godric Tyndall"
+	"Gerard Mohring"
+	"Golde Balam"
+	"Clementia Hindriks"
+	"Nicholas Salford"
+	"Ad Maydestone"
+	"Simon de Luque"
+	"Sijbrand Godfrey"
+	"Ambrose Slyfield"
+	"Elise Wanschers"
 }
-monarch_names = { 
+monarch_names = {
+	"Albert" = +1
+	"Seman" = +1
+	"Nigel" = +1
+	"Ailwin" = +1
+	"Swain" = +1
+	"Anthony" = +1
+	"Arne" = +1
+	"Alan" = +1
+	"Gilbert" = +1
+	"Magnus" = +1
+	"Joyce" = -1
+	"Godusa" = -1
+	"Ingaret" = -1
+	"Amalasuntha" = -1
+	"Dineke" = -1
+	"Joy" = -1
+	"Isolde" = -1
+	"Estrid" = -1
+	"Gudeliva" = -1
+	"Magdalene" = -1
 }
-ship_names = { 
+ship_names = {
+	"Hearthless Flight Courtesan's Sprite"
+	"Runemarked Sorrow Song of Cedar Mere"
+	"Slayer's Terror Falling Star"
+	"Steadfast Six of the Sky"
+	"Lalmourn Wish of Carlusk"
+	"Horror Wish Nymphen"
+	"Wind Seeker Pool Pilgrim"
+	"Sundew Grim Breaker"
+	"Windsunder Moon Thornborough"
+	"Darvin's Cry Great Expense"
+	"West Son Side Quest"
+	"Osprey's Pride Runemarked Sorrow"
+	"Oathbound Drift Windsong"
+	"Great Expense Abingdon"
+	"Oathwither Song Melody"
 }

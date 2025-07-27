@@ -23,8 +23,53 @@ leader_names = {
 	"Semer Windham"
 	"Sampson Jay"
 	"Lennert Peereboom"
+	"Josef Smalbroek"
+	"Simon Smalbroek"
+	"Grace Tolasson"
+	"Sarah Bardolf"
+	"Janneke Strunk"
+	"Asketel Kats"
+	"Alex Banis"
+	"Grace de Gadea"
+	"Bilimer Teeselink"
+	"Thomas Weizenbaum"
 }
-monarch_names = { 
+monarch_names = {
+	"Lefwin" = +1
+	"Joseph" = +1
+	"Gilbert" = +1
+	"Andrew" = +1
+	"Youri" = +1
+	"Thorismud" = +1
+	"Wulfgeat" = +1
+	"Stephen" = +1
+	"Samuel" = +1
+	"Hermen" = +1
+	"Godusa" = -1
+	"Marit" = -1
+	"Enota" = -1
+	"Mathilda" = -1
+	"Idonea" = -1
+	"Helen" = -1
+	"Amalfriede" = -1
+	"Hild" = -1
+	"Sigrid" = -1
+	"Ulfheid" = -1
 }
-ship_names = { 
+ship_names = {
+	"Beggar of Beastsshield Whisper"
+	"Windsong The Silent Fjell"
+	"Jasper Silverfang Gale"
+	"Gordia's Light Pillager"
+	"Shadow-Girded Lash Crimson Singer"
+	"Fell Wight Compass"
+	"Fell Wight Sunless Mare"
+	"Shatterhelm Shriek Clove Tree"
+	"Jasper Barrowbound Flame"
+	"Fell Wight Whisper's Hope"
+	"Barrowbound Flame Jasper"
+	"Snowblind Wake Serpent"
+	"Anne Hallowed Gale"
+	"Burning Fjord Jasper"
+	"Crimson Singer The Gilded Fen"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Hygbald of Jorvick"
 	"Sander Klijn"
 	"Basten Flederis"
+	"Ruby Loveney"
+	"Henk Stinky"
+	"Iemke Herleston"
+	"Muriel Hadresham"
+	"Catalina Schildknecht"
+	"Tatiana Biorsson"
+	"Lyting Marten"
+	"Isabelle Sigvatdottir"
+	"Kathrin Gellner"
+	"Ontanon Vos"
 }
-monarch_names = { 
+monarch_names = {
+	"Laurens-Jan" = +1
+	"Falco" = +1
+	"Roger" = +1
+	"Wulsi" = +1
+	"Cyrila" = +1
+	"Hjarrandi" = +1
+	"Gudmund" = +1
+	"Ricimer" = +1
+	"Guy" = +1
+	"Bruni" = +1
+	"Iva" = -1
+	"Julian" = -1
+	"Mathilde" = -1
+	"Helen" = -1
+	"Aldis" = -1
+	"Bridget" = -1
+	"Osk" = -1
+	"Eve" = -1
+	"Oda" = -1
+	"Acelina" = -1
 }
-ship_names = { 
+ship_names = {
+	"Dimsey's Light Void Servant of Hadiya's Spire"
+	"Waking Dream Wolf-Touched Mist"
+	"Cabin Fever Spirit"
+	"Oathwither Song Sundered Moon"
+	"Waking Dream Mason's Folly"
+	"Surprise Triad of the Waves"
+	"Broken Sigil Outlander"
+	"Wind Song Wyrm-Wind Seeker"
+	"Seeker Bold Venture"
+	"Soldier of Fiendshelm Ironhowl Maiden"
+	"Swanless Wake Seeker"
+	"Thornborough The Last Meadfire"
+	"Hearthless Flight Eight of the Waves"
+	"Ruby Ranger Setter"
+	"Snowblind Wake Serpent"
 }

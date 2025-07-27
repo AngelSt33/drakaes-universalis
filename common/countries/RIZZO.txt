@@ -23,8 +23,53 @@ leader_names = {
 	"Cäcilia Fischinger"
 	"Oswyn Frilleck"
 	"Rebecca Pownder"
+	"Mildred Hondshorst"
+	"Bilimer Maudit"
+	"Florentijn Leynham"
+	"Osk Vos"
+	"Tobias Herleston"
+	"Joycelin Zalland"
+	"Leofric Femer"
+	"Petra Daubernoun"
+	"Luuk Wynter"
+	"Wil Hassink"
 }
-monarch_names = { 
+monarch_names = {
+	"Julian" = +1
+	"Joscelin" = +1
+	"Godric" = +1
+	"Borstig" = +1
+	"Kadal" = +1
+	"Simon" = +1
+	"Humphrey" = +1
+	"Jacob" = +1
+	"Odo" = +1
+	"Thurston" = +1
+	"Pavia" = -1
+	"Mildred" = -1
+	"Sarra" = -1
+	"Veerle" = -1
+	"Susanna" = -1
+	"Albreda" = -1
+	"Protasia" = -1
+	"Avina" = -1
+	"Malasintha" = -1
+	"Wilamin" = -1
 }
-ship_names = { 
+ship_names = {
+	"Broken Sigil Son of Colfoundry"
+	"Keen of Torcradle Raglan"
+	"Snarling Zephyr of Blackbrook Silver Arrow"
+	"Mason's Folly Fluke"
+	"Six of the Sky Hallowed Gale"
+	"Sorcerer's Nymph Nevermore"
+	"Discreet Secret Pale Hammer"
+	"Obsidian Nymph Black Swan"
+	"Great Expense Spirit"
+	"Great Expense Quicksilver"
+	"Frostbitten Rook Loyalty"
+	"Pillager Silverfang Gale"
+	"Broken Sigil Pillager"
+	"God of the Ocean Wind Seeker"
+	"Mistress of the Waves Arunta"
 }

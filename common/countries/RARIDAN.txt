@@ -23,8 +23,53 @@ leader_names = {
 	"Patience Lodyngton"
 	"Elyas Byfield"
 	"Rik Oostelaar"
+	"Denis Lond"
+	"Hanno Wynston"
+	"Denis Symons"
+	"Dorothy Sehlmann"
+	"Francisco Purlles"
+	"Viktor Veer"
+	"Jamie Carter"
+	"Gilot Kalenkamp"
+	"Ealdhelm Krakouer"
+	"Mathies Wardyworth"
 }
-monarch_names = { 
+monarch_names = {
+	"Griffin" = +1
+	"Ulf" = +1
+	"Bernard" = +1
+	"Albert" = +1
+	"Tumi" = +1
+	"Falco" = +1
+	"Lefwin" = +1
+	"Lewin" = +1
+	"Adrian" = +1
+	"Ulric" = +1
+	"Teja" = -1
+	"Theda" = -1
+	"Matasuntha" = -1
+	"Iva" = -1
+	"Mildred" = -1
+	"Alwina" = -1
+	"Ingrid" = -1
+	"Veerle" = -1
+	"Thjodhild" = -1
+	"Joyce" = -1
 }
-ship_names = { 
+ship_names = {
+	"Raglan Shatterhelm Shriek"
+	"Falling Star Sunburn"
+	"Ghost Ghoul The Long Cold"
+	"The Gilded Fen Victory"
+	"Soldier of Fiendshelm Mistress of the Waves"
+	"The Gilded Fen Anne"
+	"Whisper's Hope Nymphen"
+	"Crimson Singer Wyrm-Wind Seeker"
+	"Lavendar Demon Son of Colfoundry"
+	"Burning Fjord West Son"
+	"Cruel Dagger Wave Zephyr"
+	"Swanless Wake Greedy Dragon"
+	"Twilight Reaver Spirit"
+	"Cabin Fever Outlander"
+	"Dragon's Wail Void Servant of Hadiya's Spire"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Beorhthere of Puerto"
 	"Maurits Smalbroek"
 	"Richard Gyll"
+	"Dirk-Jan Krakouer"
+	"Hubert Dietten"
+	"Jeremias Theobauld"
+	"Jurren Gustloff"
+	"Mildred Grimberg"
+	"Joseph Whowood"
+	"Catalina Luppe"
+	"Alice Heimsoth"
+	"Olvir Chauncey"
+	"Chris Weterink"
 }
-monarch_names = { 
+monarch_names = {
+	"Conan" = +1
+	"Hrapp" = +1
+	"Lambert" = +1
+	"Babai" = +1
+	"Alan" = +1
+	"Totila" = +1
+	"William" = +1
+	"Herebert" = +1
+	"Isaak" = +1
+	"Heiko" = +1
+	"Matasuntha" = -1
+	"Margaret" = -1
+	"Iva" = -1
+	"Godusa" = -1
+	"WillemijnLovechild" = -1
+	"Glismoda" = -1
+	"Gilot" = -1
+	"Bridget" = -1
+	"Bergljot" = -1
+	"Ysopa" = -1
 }
-ship_names = { 
+ship_names = {
+	"True Witch Son of Colfoundry"
+	"Sea Golem Dead God"
+	"Wyrm-Wind Seeker Greedy Dragon"
+	"Shatterhelm Shriek Valhalla"
+	"Bitterwake Cry Melody"
+	"Mad Wyvern Dedaigneuse"
+	"Blood-Grey Wave Six of the Sky"
+	"Crimson Singer Burning Inn"
+	"Earth Octopus of the West Hot Flush"
+	"Shadow-Girded Lash Wind Song"
+	"Wish of Carlusk Hunter"
+	"Wind Song Loss Spirit"
+	"Rime-Touched Valor Dimsey's Light"
+	"Reflective Spider Ghost Ghoul"
+	"Devil's Roar Kempenfelt"
 }

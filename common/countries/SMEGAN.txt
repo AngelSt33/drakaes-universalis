@@ -23,8 +23,53 @@ leader_names = {
 	"Mabel la Hale"
 	"Christopher Kinge"
 	"Ludovic Brownflet"
+	"Luisa Poll"
+	"Magnus de Vire"
+	"Vivien Koch"
+	"Gregor Greenway"
+	"Maria Bokhove"
+	"Philips Fischinger"
+	"Eystein Klugman"
+	"Jolina Rondel"
+	"Maurice Huessen"
+	"Alfred Foliot"
 }
-monarch_names = { 
+monarch_names = {
+	"Huibert" = +1
+	"Walter" = +1
+	"Antonin" = +1
+	"Bergfinn" = +1
+	"Isaac" = +1
+	"Heiko" = +1
+	"Rolf" = +1
+	"Ulfketel" = +1
+	"Vestgeir" = +1
+	"Algar" = +1
+	"Preciosa" = -1
+	"Emma" = -1
+	"Milda" = -1
+	"Iva" = -1
+	"Amice" = -1
+	"Godlefe" = -1
+	"Agnes" = -1
+	"Yvette" = -1
+	"Theda" = -1
+	"Cassandra" = -1
 }
-ship_names = { 
+ship_names = {
+	"Melody Watcher of Wickenlund"
+	"Grim Breaker Carrier"
+	"Cruel Hunter Fate"
+	"Loss Spirit Hull Camel"
+	"Sharp Swan of Torhof Storm-Bitten Grudge"
+	"Shadow-Girded Lash Ghost Ghoul"
+	"Immeral's Kiss Frostbitten Rook"
+	"Burning Fjord Watcher"
+	"Gordia's Light Black Swan"
+	"Sunburn Ortenzia"
+	"Vain Gravedigger Haunted Gambit"
+	"Great Expense Stone Gnoll"
+	"Blood-Grey Wave Ortenzia"
+	"Hot Flush Immeral's Kiss"
+	"Sundered Moon Devil's Roar"
 }

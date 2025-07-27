@@ -23,8 +23,53 @@ leader_names = {
 	"Lowie Kinnie"
 	"Silvester Cod"
 	"Sayer Symons"
+	"Ysabe Walley"
+	"Ysabe Puerto"
+	"Acelina Horton"
+	"Wulsi Jorundottir"
+	"Patrick Tolasson"
+	"Ealdhelm Tas"
+	"Tiecia Krüger"
+	"Samira Wolrond"
+	"Amalina Bewforest"
+	"Svenja Baldwin"
 }
-monarch_names = { 
+monarch_names = {
+	"Swain" = +1
+	"Constantin" = +1
+	"Eldert" = +1
+	"Benedict" = +1
+	"Theudis" = +1
+	"Geert-Jan" = +1
+	"Thorkel" = +1
+	"Griffin" = +1
+	"Abraham" = +1
+	"Isaac" = +1
+	"Alwina" = -1
+	"Saegifu" = -1
+	"Ysopa" = -1
+	"Avina" = -1
+	"Sien" = -1
+	"Amalfriede" = -1
+	"Livitha" = -1
+	"Sedehana" = -1
+	"Osk" = -1
+	"Winifred" = -1
 }
-ship_names = { 
+ship_names = {
+	"Loyalty Storm-Bitten Grudge"
+	"Pale Hammer Saltheart"
+	"Spitfire Loss Spirit"
+	"Silver Arrow Sea Golem"
+	"Crimson Barrow Loyalty"
+	"Ortenzia Ruby Falcon"
+	"The Sunken Boast Dimsey's Light"
+	"Enterprise Burning Inn"
+	"Carrier Whalebane Echo"
+	"Devil's Contract Void Servant of Hadiya's Spire"
+	"Raglan Sky Wizard"
+	"Storm-Bitten Grudge Wem"
+	"Outlander Devil's Roar"
+	"Haunted Gambit Burning Fjord"
+	"Grim Breaker Windsong"
 }

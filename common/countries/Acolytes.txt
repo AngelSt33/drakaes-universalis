@@ -23,8 +23,53 @@ leader_names = {
 	"Felicia Scarclyf"
 	"Godwin Gifford"
 	"Ludovic Cranford"
+	"Yosi Bardolf"
+	"Eustace Hulst"
+	"Alfleta Hersch"
+	"Gamel Cod"
+	"Beuca Overweg"
+	"Cwenhild Schickendantz"
+	"Joeri Wrenne"
+	"Anthony Duchateau"
+	"Pier Arentsen"
+	"Ralph Weston"
 }
-monarch_names = { 
+monarch_names = {
+	"Jasper" = +1
+	"Fulk" = +1
+	"Beinir" = +1
+	"Levi" = +1
+	"Patrick" = +1
+	"Stephen" = +1
+	"Warin" = +1
+	"Uraias" = +1
+	"Ildebad" = +1
+	"Thorismud" = +1
+	"Amice" = -1
+	"WillemijnLovechild" = -1
+	"Melle" = -1
+	"Philippa" = -1
+	"Asleif" = -1
+	"Ingaret" = -1
+	"Aldis" = -1
+	"Helewis" = -1
+	"Griselda" = -1
+	"Thjodhild" = -1
 }
-ship_names = { 
+ship_names = {
+	"Gilded Shade Melody"
+	"The Gilded Fen Son of Colfoundry"
+	"The Last Meadfire Dordrecht"
+	"Rime-Touched Valor Falling Star"
+	"Wish of Carlusk Dedaigneuse"
+	"Devil's Roar Falling Star"
+	"Abingdon Sunlesswind"
+	"The Withering Hunt Patience"
+	"Sorcerer's Nymph Falling Star"
+	"Burning Vulture Melody"
+	"Jasper Hallowed Gale"
+	"Murlusk's Thunder Watcher of Wickenlund"
+	"Windsunder Moon Hunter"
+	"The Hollow Boar Melody"
+	"Spitfire Chaoticfish"
 }

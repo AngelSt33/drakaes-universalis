@@ -23,8 +23,53 @@ leader_names = {
 	"Mathijs Westera"
 	"Ealdhelm of Nibury"
 	"Drogo Maudit"
+	"Joycelin Harwood"
+	"Protasia Schans"
+	"Joel Overbeek"
+	"Roger Chernocke"
+	"Pascoe Wolrond"
+	"Mildred Salford"
+	"Antonia Cassy"
+	"Adam Lusseveld"
+	"Attala Cooke"
+	"Muriel Weterink"
 }
-monarch_names = { 
+monarch_names = {
+	"Eustace" = +1
+	"Maik" = +1
+	"Fulke" = +1
+	"Mart-jan" = +1
+	"Thorkel" = +1
+	"Wulfgeat" = +1
+	"Randall" = +1
+	"Gunthigis" = +1
+	"Hanno" = +1
+	"Ildebad" = +1
+	"Rachel" = -1
+	"Muriel" = -1
+	"Maria" = -1
+	"Ingaret" = -1
+	"Agnes" = -1
+	"Aldreda" = -1
+	"Helen" = -1
+	"Wakerilda" = -1
+	"Jenefer" = -1
+	"Mathilda" = -1
 }
-ship_names = { 
+ship_names = {
+	"Shatterhelm Shriek Sharp Swan of Torhof"
+	"Frostbitten Rook Sharp Swan of Torhof"
+	"Abingdon The Gilded Fen"
+	"Oathwither Song Side Quest"
+	"Victory Sunburn"
+	"The Gilded Fen Watcher"
+	"Kraken Fallow Vengeance"
+	"Thorn-Gilded Curse Melody"
+	"Zhuirentel Compass"
+	"Ash-Clad Swan Escape"
+	"Gone Too Far Discreet Secret"
+	"Kilcurrig Deathwind"
+	"True Witch Dragon's Wail"
+	"Whisper Nunney Castle"
+	"Wind Seeker Gertraud's Doom"
 }

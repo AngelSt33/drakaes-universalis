@@ -23,8 +23,53 @@ leader_names = {
 	"Bartholomew Wolrond"
 	"Elgar Carter"
 	"Jodoc Castletown"
+	"Tiecia Cassy"
+	"Wil Kortman"
+	"Cecily Briggs"
+	"Attala Gellner"
+	"Riet Gudlaugdottir"
+	"Amalfrida Perryvalle"
+	"Oonagh Carter"
+	"Maria Hale"
+	"Dirk-Jan Westerlaan"
+	"Kasper Romano"
 }
-monarch_names = { 
+monarch_names = {
+	"Sisebut" = +1
+	"Tobias" = +1
+	"James" = +1
+	"Totila" = +1
+	"Hanno" = +1
+	"Bertram" = +1
+	"Fulke" = +1
+	"Michael" = +1
+	"Seman" = +1
+	"Oswyn" = +1
+	"Amalfriede" = -1
+	"Bridget" = -1
+	"Garsendis" = -1
+	"Hallgerd" = -1
+	"Mathilda" = -1
+	"Goditha" = -1
+	"Joy" = -1
+	"Protasia" = -1
+	"Elske" = -1
+	"Griselda" = -1
 }
-ship_names = { 
+ship_names = {
+	"Twice Sunk Unlikely Breaker"
+	"Wyrm-Wind Seeker Nevermore"
+	"Waking Dream Ruby Falcon"
+	"Hot Flush Hunter"
+	"Pathfinder Sunlesswind"
+	"Dordrecht The Gilded Fen"
+	"Nunney Castle Fallow Vengeance"
+	"Buccaneer Death Rattle"
+	"Wolf-Touched Mist Kilcurrig"
+	"Hunter Barrowbound Flame"
+	"Nevermore Shell Voyager"
+	"Slayer's Terror Clove Tree"
+	"West Son Devil's Roar"
+	"Barrowbound Flame Jasper"
+	"Windsong The Gilded Fen"
 }

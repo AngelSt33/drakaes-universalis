@@ -23,8 +23,53 @@ leader_names = {
 	"Randall Bouldre"
 	"Joseph Gifford"
 	"Margaret Sandes"
+	"Stephen Luchtenberg"
+	"Frithila Mohring"
+	"Hubrecht Gellner"
+	"Gregor Stangl"
+	"Saegifu Mandl"
+	"Oonagh Marsche"
+	"Protasia Town"
+	"Gerard Gorste"
+	"Cornelius Rondel"
+	"Vivien Gomersall"
 }
-monarch_names = { 
+monarch_names = {
+	"Thurston" = +1
+	"Benedict" = +1
+	"Leofing" = +1
+	"Rollo" = +1
+	"Oliver" = +1
+	"Hjarrandi" = +1
+	"Fastida" = +1
+	"Godwin" = +1
+	"Wulfgeat" = +1
+	"Levi" = +1
+	"Milda" = -1
+	"Isgerd" = -1
+	"Saeunn" = -1
+	"Asgerd" = -1
+	"Matasuntha" = -1
+	"Rachel" = -1
+	"Emma" = -1
+	"Basilia" = -1
+	"Veerle" = -1
+	"Willy" = -1
 }
-ship_names = { 
+ship_names = {
+	"Crimson Singer Compass"
+	"For Play Melody"
+	"Great Expense Serpent"
+	"Obsidian Nymph Kempenfelt"
+	"Sea Golem Courtesan's Sprite"
+	"Frostbitten Rook Blade"
+	"Serpent Fate"
+	"Sea Golem Six of the Sky"
+	"Gone Too Far Soldier of Fiendshelm"
+	"Omen Wolf-Touched Mist"
+	"Wind Seeker Devil's Contract"
+	"Ortenzia Thorn-Gilded Curse"
+	"Wolf-Touched Mist Ghost Ghoul"
+	"Wish of Carlusk Dead God"
+	"Red-Eyed Stag Dead God"
 }

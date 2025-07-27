@@ -23,8 +23,53 @@ leader_names = {
 	"Emma Hyde"
 	"Bernard Herleston"
 	"Kaatje Boes"
+	"Noud Kleiber"
+	"Gregor Bokhove"
+	"Tori Koch"
+	"Christiane Janzen"
+	"Amalasuintha Carsjes"
+	"Lorena Kastner"
+	"Sander Marten"
+	"Kasper Orgumleididottir"
+	"Sampson Lucy"
+	"Rudie Addicock"
 }
-monarch_names = { 
+monarch_names = {
+	"Bartholomew" = +1
+	"Isaak" = +1
+	"Guy" = +1
+	"Leofstan" = +1
+	"Laurenz" = +1
+	"Marmaduke" = +1
+	"Walahmar" = +1
+	"Sewel" = +1
+	"Kaetilmund" = +1
+	"Vestgeir" = +1
+	"Hild" = -1
+	"Loveday" = -1
+	"Glismoda" = -1
+	"Julian" = -1
+	"Malasintha" = -1
+	"Ormhild" = -1
+	"Amalfrida" = -1
+	"Asgerd" = -1
+	"Melle" = -1
+	"Mathilda" = -1
 }
-ship_names = { 
+ship_names = {
+	"The Gilded Fen Silver Arrow"
+	"Whiskey Chaser Stone Gnoll"
+	"Gertraud's Doom Burning Inn"
+	"Side Quest Vain Gravedigger"
+	"For Play Wellerman"
+	"Ten Sable-Touched Omen"
+	"Whisper Gertraud's Doom"
+	"Vain Gravedigger Rider's Luck"
+	"Sky Wizard Sundered Moon"
+	"Reflective Spider Nymphen"
+	"Blade Shell Voyager"
+	"Swanless Wake Serpent"
+	"Shatterhelm Shriek Nymphen"
+	"The Wolf's Regret Beggar of Beastsshield"
+	"Gordia's Light Earth Hippogriff of Maresmeet"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Sayer Symons"
 	"Semer Windham"
 	"Marlene Bernbaum"
+	"Barbara Sadler"
+	"Michaela Bain"
+	"Amalaswinth Schierholt"
+	"Michaela Daundelyon"
+	"Urian Stelzner"
+	"Gunnora Shevington"
+	"Naud Leifdottir"
+	"Conan Smalbroek"
+	"Bart Pettit"
+	"Amy Wynter"
 }
-monarch_names = { 
+monarch_names = {
+	"Lewin" = +1
+	"Stannard" = +1
+	"Babai" = +1
+	"Hermen" = +1
+	"Bruni" = +1
+	"Osbert" = +1
+	"Philip" = +1
+	"Osgood" = +1
+	"Tedric" = +1
+	"Nathaniel" = +1
+	"Regina" = -1
+	"Eulalia" = -1
+	"Asgerd" = -1
+	"Jenefer" = -1
+	"WillemijnLovechild" = -1
+	"Feenja" = -1
+	"Gilot" = -1
+	"Basilia" = -1
+	"Tiecia" = -1
+	"Aldreda" = -1
 }
-ship_names = { 
+ship_names = {
+	"Rider's Luck Silverfang Gale"
+	"Jasper Sable-Touched Omen"
+	"Dead God The Silent Fjell"
+	"Serpent Gilded Shade"
+	"Shell Voyager Ledbury"
+	"Soldier of Fiendshelm Sea Golem"
+	"Fate Jasper"
+	"Runemarked Sorrow Melody"
+	"Zhuirentel Misadventure"
+	"The Last Meadfire Lalmourn"
+	"Rider's Luck Vain Gravedigger"
+	"Serpent Obsidian Nymph"
+	"Killowen The Gilded Fen"
+	"Howling Spear Immeral's Kiss"
+	"Greedy Dragon Lavendar Demon"
 }

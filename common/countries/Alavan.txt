@@ -23,8 +23,53 @@ leader_names = {
 	"Livitha Cole"
 	"Leofric Bradshawe"
 	"Jurren Martini"
+	"Aethilheard Saravia"
+	"Drogo Hussey"
+	"Ragnhild Cobham"
+	"Gutirre Bos"
+	"Herebert Metze"
+	"Mathies Rede"
+	"Jacob Daubernoun"
+	"Harm Switte"
+	"Anthony Brownflet"
+	"Leofstan Vetter"
 }
-monarch_names = { 
+monarch_names = {
+	"Eelco" = +1
+	"Godric" = +1
+	"Elgar" = +1
+	"Sigisvult" = +1
+	"Maik" = +1
+	"John" = +1
+	"Brictric" = +1
+	"Humphrey" = +1
+	"Torkel" = +1
+	"Michael" = +1
+	"Avagisa" = -1
+	"Freygerd" = -1
+	"Sibilla" = -1
+	"Hild" = -1
+	"Anna" = -1
+	"Mathilda" = -1
+	"Megan-Laureen" = -1
+	"Cwenhild" = -1
+	"Amalfrida" = -1
+	"Enni" = -1
 }
-ship_names = { 
+ship_names = {
+	"Hunter Vain Gravedigger"
+	"Blood-Grey Wave Waking Dream"
+	"Gone Too Far Saltheart"
+	"The Hollow Boar Dubford"
+	"Whiskey Chaser Fluke"
+	"Sea Champion's Dolphin Mason's Folly"
+	"Side Quest Path Salamander of Griffinsway"
+	"Crimson Barrow Watcher"
+	"Blade Cruel Dagger"
+	"Iron Devil Ten"
+	"Rune Gull Mad Wyvern"
+	"Ghost Ghoul Wolf-Touched Mist"
+	"Stone Gnoll True Witch"
+	"Hot Flush Spirit"
+	"Crimson Barrow Pathfinder"
 }

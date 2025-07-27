@@ -23,8 +23,53 @@ leader_names = {
 	"Rayko Harig"
 	"Ludovic Cranford"
 	"Henry Prowd"
+	"Kobus Heimsoth"
+	"Guust Purlles"
+	"Luuk Hemmel"
+	"Christiane Auldyngton"
+	"Jodoc Wohler"
+	"Jurren Windham"
+	"Heiko Tolasson"
+	"Ambrose Heerius"
+	"Konstanze Hassink"
+	"Willy Auldyngton"
 }
-monarch_names = { 
+monarch_names = {
+	"Matthew" = +1
+	"Jordan" = +1
+	"Ansketil" = +1
+	"Valentine" = +1
+	"Eustace" = +1
+	"Leonard" = +1
+	"David" = +1
+	"Alfsige" = +1
+	"Wulsi" = +1
+	"Conan" = +1
+	"Catherine" = -1
+	"Theda" = -1
+	"Millicent" = -1
+	"Hild" = -1
+	"Julian" = -1
+	"Ingrid" = -1
+	"Mathilde" = -1
+	"Iva" = -1
+	"Winifred" = -1
+	"Amalfriede" = -1
 }
-ship_names = { 
+ship_names = {
+	"Sable-Touched Omen Pool Pilgrim"
+	"Slayer's Terror Beggar of Beastsshield"
+	"The Last Meadfire Wave Zephyr"
+	"Nevermore Osprey's Pride"
+	"Moon Blade The Gilded Fen"
+	"Hatherleigh Sorcerer's Nymph"
+	"Windsong Sky Wizard"
+	"Ashen Grin Gertraud's Doom"
+	"Swanless Wake Eight of the Waves"
+	"Hallowed Gale Celerity"
+	"Grim Breaker Buccaneer"
+	"Jasper Snowblind Wake"
+	"Ten Devil's Roar"
+	"Blade The Sunken Boast"
+	"Sundew Obsidian Nymph"
 }

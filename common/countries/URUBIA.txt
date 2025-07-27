@@ -23,8 +23,53 @@ leader_names = {
 	"Godric Bewley"
 	"James Wynter"
 	"Willy Bekman"
+	"Lowie Rosenthal"
+	"Janucho Symons"
+	"Iemke Geissler"
+	"Selina Sanner"
+	"Winifred Buit"
+	"Gilot Cranford"
+	"Pascoe Thoraldrdottir"
+	"Leofstan Hvitserksson"
+	"Amelie Kreutzberg"
+	"Thorstar Stahl"
 }
-monarch_names = { 
+monarch_names = {
+	"Gawain" = +1
+	"Borstig" = +1
+	"Youri" = +1
+	"Randall" = +1
+	"Falco" = +1
+	"Maximillian" = +1
+	"Jacob" = +1
+	"Mark" = +1
+	"Levi" = +1
+	"Alexander" = +1
+	"Millicent" = -1
+	"Anna" = -1
+	"Ursula" = -1
+	"Rachel" = -1
+	"Ormhild" = -1
+	"Hunila" = -1
+	"Protasia" = -1
+	"Roosje" = -1
+	"Wenthelen" = -1
+	"Amalfrida" = -1
 }
-ship_names = { 
+ship_names = {
+	"Luminous Runner Great Expense"
+	"Oathwither Song Black Swan"
+	"Spitfire Sea Golem"
+	"Soldier of Fiendshelm Hearty"
+	"Wind Seeker Side Quest"
+	"Hallowed Gale Wind Song"
+	"Ashen Grin Success"
+	"Compass Beggar of Beastsshield"
+	"Titan's Bard Patience"
+	"Snowblind Wake Lalmourn"
+	"Buccaneer True Witch"
+	"Reflective Spider Serpent"
+	"Triad of the Waves Blade"
+	"Sea Golem Immeral's Kiss"
+	"Great Expense Hull Camel"
 }

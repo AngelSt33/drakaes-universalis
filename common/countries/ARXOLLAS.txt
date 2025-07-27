@@ -23,8 +23,53 @@ leader_names = {
 	"Gamel Dygenys"
 	"Godelieve Teunissen Marsman"
 	"Luuk Vredeveld"
+	"Emma Cantilupe"
+	"Jodoc Panzinger"
+	"Oonagh Maneschijns"
+	"Rik Hillebrand"
+	"Oonagh Rede"
+	"Gaut Mohring"
+	"Serafina Shevington"
+	"Meike Byfield"
+	"Isabelle Lusseveld"
+	"Liene Staple"
 }
-monarch_names = { 
+monarch_names = {
+	"Walter" = +1
+	"Gerard" = +1
+	"Ricimer" = +1
+	"Kadal" = +1
+	"Henry" = +1
+	"Francis" = +1
+	"Torkel" = +1
+	"Silvester" = +1
+	"Bartholomew" = +1
+	"Fravitta" = +1
+	"Basilia" = -1
+	"WillemijnLovechild" = -1
+	"Theda" = -1
+	"Joyce" = -1
+	"Barbara" = -1
+	"Griselda" = -1
+	"Freygerd" = -1
+	"Ysopa" = -1
+	"Julian" = -1
+	"Catherine" = -1
 }
-ship_names = { 
+ship_names = {
+	"Aquilon Sunburn"
+	"Success True Witch"
+	"Bold Venture Earthdon's Heart"
+	"Sundered Moon Princess's Shadow"
+	"West Son Bitterwake Cry"
+	"Nevermore The Hollow Wolf"
+	"Obsidian Nymph Jasper"
+	"Snarling Zephyr of Blackbrook Blade"
+	"Burning Vulture Anne"
+	"Sundew Whisper"
+	"Blood-Grey Wave Kilcurrig"
+	"Patience Sorrow Warlock's Harpy"
+	"Cuttle Shell Voyager"
+	"Sunlesswind Killowen"
+	"Buccaneer Steadfast"
 }

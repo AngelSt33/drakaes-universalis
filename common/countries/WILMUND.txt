@@ -23,8 +23,53 @@ leader_names = {
 	"Lowie Kinnie"
 	"Guthhere the Cunt"
 	"Amice Abery"
+	"Gabriel Peucker"
+	"Youri Gunnsteindottir"
+	"Lavinia Achterveld"
+	"Reynold Ashenhurst"
+	"Bart Tas"
+	"Solomon Bekman"
+	"Magdalene Hussey"
+	"Odoin Femer"
+	"Odoin Walsch"
+	"Jacob Pijnappel"
 }
-monarch_names = { 
+monarch_names = {
+	"Herebert" = +1
+	"Avery" = +1
+	"Jukel" = +1
+	"Sewel" = +1
+	"Skorri" = +1
+	"Magnus" = +1
+	"Isaak" = +1
+	"Percival" = +1
+	"Geitirgest" = +1
+	"Gilbert" = +1
+	"Rimilde" = -1
+	"Brunihild" = -1
+	"Amalasuntha" = -1
+	"Theda" = -1
+	"Cassandra" = -1
+	"Sarah" = -1
+	"Euphemia" = -1
+	"Joyce" = -1
+	"Runa" = -1
+	"Helen" = -1
 }
-ship_names = { 
+ship_names = {
+	"Falling Star Broken Sigil"
+	"Wave Zephyr Thorn-Gilded Curse"
+	"Sunburn Abingdon"
+	"Triad of the Waves Beehive"
+	"The Withering Hunt Cruel Hunter"
+	"Snowblind Wake Wave Zephyr"
+	"Seeker The Hollow Boar"
+	"Wailing Wyrm Seeker"
+	"Eight of the Waves Fallow Vengeance"
+	"Devil's Roar Arunta"
+	"Success Barrowbound Flame"
+	"Osprey's Pride Ghost Ghoul"
+	"Osprey's Pride Devil's Contract"
+	"Osprey's Pride Windsong"
+	"The Last Meadfire Thornborough"
 }

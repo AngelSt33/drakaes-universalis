@@ -23,8 +23,53 @@ leader_names = {
 	"Bricteva Kyllyngworth"
 	"Ute Lemann"
 	"Yosi Erlbaum"
+	"Beatrice Barnes"
+	"Graviel Teeselink"
+	"Tristan Beel"
+	"Amala Lacy"
+	"Brictric Bradshawe"
+	"Carolin Bigley"
+	"Thomas Koch"
+	"Bartholomew Town"
+	"Francisco Bryan"
+	"Leonard Norden"
 }
-monarch_names = { 
+monarch_names = {
+	"Gawaine" = +1
+	"Ricimer" = +1
+	"Arthur" = +1
+	"James" = +1
+	"Uraias" = +1
+	"Stephen" = +1
+	"Nathaniel" = +1
+	"Jacob" = +1
+	"Leomer" = +1
+	"Luuk" = +1
+	"Veerle" = -1
+	"Mathilde" = -1
+	"Frances" = -1
+	"Estrid" = -1
+	"Iva" = -1
+	"Loveday" = -1
+	"Chlodoswintha" = -1
+	"Margaret" = -1
+	"Aldis" = -1
+	"Mildred" = -1
 }
-ship_names = { 
+ship_names = {
+	"Falling Star WyrmeEyed Wanderer"
+	"Kempenfelt Whisper's Hope"
+	"The Wolf's Regret West Son"
+	"Sea Golem Rune Gull"
+	"Setter Sorrow Warlock's Harpy"
+	"Bitterwake Cry Greedy Dragon"
+	"Horror Wish Eight of the Waves"
+	"Whiskey Chaser Quicksilver"
+	"Rune Gull The Silent Fjell"
+	"Earthdon's Heart Compass"
+	"Nevermore The Gilded Fen"
+	"Dimsey's Light The Hollow Wolf"
+	"West Son Runemarked Sorrow"
+	"Pool Pilgrim Obsidian Nymph"
+	"The Hollow Wolf Twice Sunk"
 }

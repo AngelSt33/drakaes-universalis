@@ -23,8 +23,53 @@ leader_names = {
 	"Mabel la Hale"
 	"Leomer Fodde"
 	"Arnold Brayles"
+	"Niko Fraunces"
+	"Christoph Argentein"
+	"Amelie Wolrond"
+	"Frithila Hogewind"
+	"Hubert Schildknecht"
+	"Amalafrida Strachleigh"
+	"Elionor Smalbroek"
+	"Elise Playters"
+	"Alan Saravia"
+	"Elmar Wrenne"
 }
-monarch_names = { 
+monarch_names = {
+	"Patrick" = +1
+	"Martin" = +1
+	"Rollo" = +1
+	"Samuel" = +1
+	"Gris" = +1
+	"Ambrose" = +1
+	"Simon" = +1
+	"Thurstan" = +1
+	"Bernard" = +1
+	"Gilbert" = +1
+	"Clementia" = -1
+	"Wenthelen" = -1
+	"Tiecia" = -1
+	"Acelina" = -1
+	"Saeunn" = -1
+	"Wilamin" = -1
+	"Euphemia" = -1
+	"Gudrun" = -1
+	"Richenda" = -1
+	"Laura" = -1
 }
-ship_names = { 
+ship_names = {
+	"Snarling Zephyr of Blackbrook Wind Song"
+	"Thorn-Gilded Curse Courtesan's Sprite"
+	"Thornborough Deathwind"
+	"Tentacle Cruel Dagger"
+	"Escape The Last Meadfire"
+	"Nevermore Sunless Mare"
+	"Cabin Fever Crimson Singer"
+	"Luminous Runner Whalebane Echo"
+	"Seeker For Play"
+	"Side Quest West Son"
+	"Shadow-Girded Lash Fluke"
+	"Omen Wailing Wyrm"
+	"Nunney Castle Whiskey Chaser"
+	"Osprey's Pride Windsong"
+	"Duskwake Drifter Hunter"
 }

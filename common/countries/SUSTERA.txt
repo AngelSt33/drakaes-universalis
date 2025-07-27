@@ -23,8 +23,53 @@ leader_names = {
 	"Kathrin Sperl"
 	"Fulke Salford"
 	"Sampson Jay"
+	"Ferrnando Bokhove"
+	"Liene Leynham"
+	"Mabel Fakereach"
+	"Carolin Hanfstaengl"
+	"Sephare Foliot"
+	"Mila Molyns"
+	"Hanno Marten"
+	"Torgard Kestenbaum"
+	"Mildred Loveney"
+	"Fanny Kleiber"
 }
-monarch_names = { 
+monarch_names = {
+	"Alexander" = +1
+	"Godwin" = +1
+	"Wulfgar" = +1
+	"Asketil" = +1
+	"Gunthigis" = +1
+	"Nigel" = +1
+	"Gris" = +1
+	"Uraias" = +1
+	"Tobias" = +1
+	"Nathaniel" = +1
+	"Protasia" = -1
+	"Clementia" = -1
+	"Teja" = -1
+	"Basilia" = -1
+	"Eulalia" = -1
+	"Winifred" = -1
+	"Garsendis" = -1
+	"Agnes" = -1
+	"Avina" = -1
+	"Sarra" = -1
 }
-ship_names = { 
+ship_names = {
+	"West Son The Withering Hunt"
+	"Cursed Raven Mason's Folly"
+	"Nunney Castle Wish of Carlusk"
+	"Ledbury Barrowbound Flame"
+	"Burning Vulture Blade"
+	"Whalebane Echo Rune Gull"
+	"Sharp Swan of Torhof Ruby Ranger"
+	"Demon Burning Fjord"
+	"Ash-Clad Swan Courtesan's Sprite"
+	"Sunless Mare Victory"
+	"Sea Golem Hull Camel"
+	"Moon Blade Reflective Spider"
+	"True Witch Melody"
+	"Hallowed Gale Eight of the Waves"
+	"Immeral's Kiss Sorcerer's Nymph"
 }

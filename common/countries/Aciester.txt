@@ -23,8 +23,53 @@ leader_names = {
 	"Richard Waldeley"
 	"Jamie Schantz"
 	"Ido Luchtenberg"
+	"Theoderid Maudit"
+	"Gaatha Sternberg"
+	"Floris Argentein"
+	"Gaiseric Heek"
+	"Ediva Lubach"
+	"Christoph Boer"
+	"Margery Scheurling"
+	"Melisanda Clopton"
+	"Thordis Purlles"
+	"Eustace Bain"
 }
-monarch_names = { 
+monarch_names = {
+	"Kadal" = +1
+	"Matteo" = +1
+	"Nathaniel" = +1
+	"Fastida" = +1
+	"Julian" = +1
+	"Sindila" = +1
+	"Alan" = +1
+	"Vivian" = +1
+	"Bergfinn" = +1
+	"Attwell" = +1
+	"Gudeliva" = -1
+	"Protasia" = -1
+	"Dorothy" = -1
+	"Sigrunn" = -1
+	"Mathilde" = -1
+	"Eulalia" = -1
+	"Godlefe" = -1
+	"Amalfrida" = -1
+	"Regina" = -1
+	"Sibilla" = -1
 }
-ship_names = { 
+ship_names = {
+	"Orca The Silent Fjell"
+	"Courtesan's Sprite Death Rattle"
+	"Windsong Windsunder Moon"
+	"Glace Bay Fate"
+	"Wish of Carlusk Misery"
+	"Snowblind Wake Jasper"
+	"Kraken Sunlesswind"
+	"Twice Sunk Path Salamander of Griffinsway"
+	"Steadfast Kraken"
+	"Ortenzia Mad Wyvern"
+	"Buccaneer Sea Golem"
+	"Buccaneer Storm-Bitten Grudge"
+	"Osprey's Pride Osprey's Pride"
+	"Void Servant of Hadiya's Spire Beggar of Beastsshield"
+	"Barrowbound Flame Zhuirentel"
 }

@@ -23,8 +23,53 @@ leader_names = {
 	"Amice Abery"
 	"Patience Beel"
 	"Jan-Willem Duivencate"
+	"Alan Kohnstamm"
+	"Paulus Klijn"
+	"Cecilia Ende"
+	"Ava Gudlaugdottir"
+	"Floris Goofy"
+	"Janet Hiddink"
+	"Ursula Wanschers"
+	"Thorstar Coulthurst"
+	"Christopher Prowd"
+	"Felicia Platz"
 }
-monarch_names = { 
+monarch_names = {
+	"Christopher" = +1
+	"Michael" = +1
+	"Sewel" = +1
+	"Stephen" = +1
+	"Sigisvult" = +1
+	"Wicing" = +1
+	"Nicolas" = +1
+	"Algar" = +1
+	"Albert" = +1
+	"Philips" = +1
+	"Hallgerd" = -1
+	"Agnes" = -1
+	"Richenda" = -1
+	"Sien" = -1
+	"Ormhild" = -1
+	"Wilamin" = -1
+	"Yvette" = -1
+	"Beatrice" = -1
+	"Mathilde" = -1
+	"Leonie" = -1
 }
-ship_names = { 
+ship_names = {
+	"Possessedfish Osprey's Pride"
+	"Triad of the Waves Fluke"
+	"Sharp Swan of Torhof Shell Voyager"
+	"Cuttle Howling Spear"
+	"The Hollow Boar Windsong"
+	"Mistress of the Waves Kraken"
+	"The Last Meadfire Sundew"
+	"Gertraud's Doom Snarling Zephyr of Blackbrook"
+	"Red-Eyed Stag Zhuirentel"
+	"The Silent Fjell Immeral's Kiss"
+	"Burning Inn Son of Colfoundry"
+	"Watcher True Witch"
+	"Greedy Dragon Cabin Fever"
+	"Outlander The Sunken Boast"
+	"Hearty Hull Camel"
 }

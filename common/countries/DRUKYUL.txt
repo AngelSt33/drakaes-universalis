@@ -23,8 +23,53 @@ leader_names = {
 	"Lennert Peereboom"
 	"Ralph Bexley"
 	"Nicholas Switte"
+	"Roger Badby"
+	"Iva Stappenbeld"
+	"Amalindis West"
+	"Arjan Leman"
+	"Bilimer Helme"
+	"Stannard Jay"
+	"Amalwara Gyll"
+	"Cwenhild Geirsteinsson"
+	"Goisvintha Castletown"
+	"Kaatje Hanfstaengl"
 }
-monarch_names = { 
+monarch_names = {
+	"Oswyn" = +1
+	"Jorn" = +1
+	"Claus" = +1
+	"Maximillian" = +1
+	"Ulric" = +1
+	"Edric" = +1
+	"Josce" = +1
+	"Aithanarid" = +1
+	"Drogo" = +1
+	"Arne" = +1
+	"Maria" = -1
+	"Gudeliva" = -1
+	"Ellen" = -1
+	"Joyce" = -1
+	"Ulfheid" = -1
+	"Protasia" = -1
+	"Asgerd" = -1
+	"Dorothy" = -1
+	"Leofe" = -1
+	"Amalasuntha" = -1
 }
-ship_names = { 
+ship_names = {
+	"Hunter Oathbound Drift"
+	"Beggar of Beastsshield Horror Wish"
+	"Escape Wind Seeker"
+	"Howling Spear Haunted Gambit"
+	"Chaoticfish Dubford"
+	"Misadventure Dordrecht"
+	"Silverfang Gale Pool Pilgrim"
+	"Sundew Unlikely Breaker"
+	"Wailing Wyrm Earthdon's Heart"
+	"Wind Song Mistress of the Waves"
+	"Mason's Folly Hatherleigh"
+	"Possessedfish Gertraud's Doom"
+	"Watcher Triad of the Waves"
+	"Great Expense Saltheart"
+	"Osprey's Pride Wellerman"
 }

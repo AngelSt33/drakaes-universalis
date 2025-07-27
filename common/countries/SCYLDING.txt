@@ -23,8 +23,53 @@ leader_names = {
 	"Sarah Molyns"
 	"Guthhere the Cunt"
 	"Harald Glover"
+	"Thomasine Asulfsson"
+	"Alfsige Barker"
+	"Samira Holthusen"
+	"Tiffany Kooiman"
+	"Meike de Mora"
+	"Amelina Strunk"
+	"Lavinia Helme"
+	"Rudie Edgcomb"
+	"Elisabeth de Vire"
+	"Tristan Robertson"
 }
-monarch_names = { 
+monarch_names = {
+	"Humphrey" = +1
+	"Isaac" = +1
+	"Torkel" = +1
+	"Oswyn" = +1
+	"Conan" = +1
+	"Gawaine" = +1
+	"Thori" = +1
+	"Machiel" = +1
+	"Vestgeir" = +1
+	"Leon" = +1
+	"Susanna" = -1
+	"Agnes" = -1
+	"WillemijnLovechild" = -1
+	"Megan-Laureen" = -1
+	"Avagisa" = -1
+	"Sarah" = -1
+	"Enota" = -1
+	"Idonea" = -1
+	"Veerle" = -1
+	"Mabel" = -1
 }
-ship_names = { 
+ship_names = {
+	"Gertraud's Doom Burning Inn"
+	"Hallowed Gale Windsong"
+	"Ironhowl Maiden Serpent"
+	"Gordia's Light Wave Zephyr"
+	"Kraken Deathwind"
+	"Sundered Moon Hot Flush"
+	"Compass Dragon's Wail"
+	"Nunney Castle Fate"
+	"Hunter The Shivering Hoard"
+	"Burning Fjord Fell Wight"
+	"The Sunken Boast Loyalty"
+	"Soldier of Fiendshelm Reflective Spider"
+	"Six of the Sky Bold Venture"
+	"Iron Devil Cuttle"
+	"Snowblind Wake Ledbury"
 }

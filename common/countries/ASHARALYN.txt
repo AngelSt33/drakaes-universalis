@@ -23,8 +23,53 @@ leader_names = {
 	"Carolin Stier"
 	"Joseph Gifford"
 	"David Rientjes"
+	"Melisanda Damsell"
+	"Maurice Long"
+	"Avina Cod"
+	"Jodoc Ehrenberg"
+	"Golde Wyddowsoun"
+	"Karin Fraunces"
+	"Svea Stahl"
+	"Mabel Romano"
+	"Thalia Molyns"
+	"Valdamerca Reimink"
 }
-monarch_names = { 
+monarch_names = {
+	"Adrian" = +1
+	"Til" = +1
+	"Hrapp" = +1
+	"Gilbert" = +1
+	"Silvester" = +1
+	"Vivian" = +1
+	"Valentine" = +1
+	"Gudmund" = +1
+	"Tobias" = +1
+	"Roger" = +1
+	"Sarra" = -1
+	"Veerle" = -1
+	"Freygerd" = -1
+	"Oda" = -1
+	"Isgerd" = -1
+	"Griselda" = -1
+	"Joyce" = -1
+	"Agnes" = -1
+	"Albreda" = -1
+	"Werthiva" = -1
 }
-ship_names = { 
+ship_names = {
+	"Wem Frostbitten Rook"
+	"Sunburn Serpent"
+	"Iron Dragon's Doom Osprey's Pride"
+	"Fate Gull's Shadow"
+	"Broken Sigil Kilcurrig"
+	"Patience The Long Cold"
+	"Seeker Chained Tempest"
+	"Slayer's Terror Spitfire"
+	"Haunted Gambit Snowblind Wake"
+	"Possessedfish Patience"
+	"Mad Wyvern Sundered Moon"
+	"Duskwake Drifter Serpent"
+	"Misadventure Side Quest"
+	"Path Salamander of Griffinsway Hull Camel"
+	"Mad Wyvern Quicksilver"
 }

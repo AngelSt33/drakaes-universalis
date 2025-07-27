@@ -23,8 +23,53 @@ leader_names = {
 	"Svenja Platz"
 	"Brictric Byngham"
 	"Meike Schickendantz"
+	"Mechiel Schans"
+	"Anthony Bownell"
+	"Rhima Arentsen"
+	"Jan-Pieter Jay"
+	"Helmina Luchtenberg"
+	"Sayer Schachtschneider"
+	"Tristan Boekholt"
+	"John Herz"
+	"Youri Hopton"
+	"Ludovic Sperl"
 }
-monarch_names = { 
+monarch_names = {
+	"Abraham" = +1
+	"Rollo" = +1
+	"Patrick" = +1
+	"Geitirgest" = +1
+	"Gudmund" = +1
+	"Osgood" = +1
+	"Alan" = +1
+	"Beinir" = +1
+	"Beucad" = +1
+	"Nicolas" = +1
+	"Glismoda" = -1
+	"Pavia" = -1
+	"Sigrunn" = -1
+	"Enota" = -1
+	"Amalasuntha" = -1
+	"Wakerilda" = -1
+	"Leofe" = -1
+	"Tiecia" = -1
+	"Saeunn" = -1
+	"Amalfriede" = -1
 }
-ship_names = { 
+ship_names = {
+	"Void Servant of Hadiya's Spire Loyalty"
+	"Reflective Spider Osprey's Pride"
+	"Whisper's Hope Silver Arrow"
+	"Broken Sigil Windsong"
+	"Silverfang Gale Kraken"
+	"Shatterhelm Shriek Hatherleigh"
+	"Frostbitten Rook Escape"
+	"Sunburn Stone Gnoll"
+	"Snowblind Wake Orca"
+	"Wind Seeker Glace Bay"
+	"Wolf-Touched Mist Nymphen"
+	"Kempenfelt Bitterwake Cry"
+	"Oathwither Song Bird of Cousin's Eye"
+	"Fluke Crimson Barrow"
+	"Blood-Grey Wave Success"
 }

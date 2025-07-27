@@ -23,8 +23,53 @@ leader_names = {
 	"Nicolas Flower"
 	"Arjen Wanschers"
 	"Gabriel Leman"
+	"Wil Geirsteinsson"
+	"Janneke Norel"
+	"Marion Kaplan"
+	"Narin Rijnders"
+	"Alviva Fendler"
+	"Mabel Dygenys"
+	"Sarah Strunk"
+	"Mila Ingolfdottir"
+	"Patrick Boer"
+	"Tiffany Hache"
 }
-monarch_names = { 
+monarch_names = {
+	"Arne" = +1
+	"Edward" = +1
+	"Bartjan" = +1
+	"Ulf" = +1
+	"Gris" = +1
+	"Nicolas" = +1
+	"Oliver" = +1
+	"Bertram" = +1
+	"Luuk" = +1
+	"Nicholas" = +1
+	"Emilia" = -1
+	"Freygerd" = -1
+	"Richenda" = -1
+	"Susanna" = -1
+	"Alwina" = -1
+	"Leofe" = -1
+	"Idonea" = -1
+	"Rosamund" = -1
+	"Sarah" = -1
+	"Magdalene" = -1
 }
-ship_names = { 
+ship_names = {
+	"Soldier of Fiendshelm Death Rattle"
+	"Windsunder Moon Pool Pilgrim"
+	"Fate Fell Wight"
+	"Moon Blade Chaoticfish"
+	"Bold Venture Aquilon"
+	"Earth Dragon Killowen"
+	"Hearty Serpent"
+	"Gordia's Light Quicksilver"
+	"Pool Pilgrim Slayer's Terror"
+	"Beggar of Beastsshield Hearty"
+	"Void Servant of Hadiya's Spire Spirit"
+	"Fell Wight Princess's Shadow"
+	"Lavendar Demon Omen"
+	"Wellerman Slayer's Terror"
+	"Reflective Spider Bird of Cousin's Eye"
 }
